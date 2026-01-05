@@ -1,0 +1,29 @@
+version: '3'
+
+vars:
+  ROOT: "{{.TASKFILE_DIR}}"
+  PROG: "{{regexReplaceAll \".*[^a-zA-Z0-9_-]\" .TASKFILE_DIR \"\"}}"
+  
+
+tasks:
+  default:
+    cmds:
+    - task: install
+
+  about:
+    cmds:
+    - echo {{.ROOT}}
+    - echo {{.PROG}}
+    - echo {{.CLI_ARGS}}
+
+
+
+  create:
+    - cp '{{.LES}}' '{{.ROOT}}'
+
+  install:
+    dir: '{{.ROOT}}'
+    cmds:
+    - git add --all
+    - git commit -m {{.CLI_ARGS}}
+    - git push -u origin main
