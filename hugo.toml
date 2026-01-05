@@ -1,0 +1,9 @@
+baseURL = 'https://rphilips.github.com/okra/'
+languageCode = 'en-us'
+title = 'OKRA site'
+
+theme = 'diary'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
