@@ -27,3 +27,13 @@ tasks:
     - git add --all
     - git commit -m {{.CLI_ARGS}}
     - git push -u origin main
+
+  new:
+    dir: '{{.ROOT}}'
+    cmds:
+    - hugo new {{.CLI_ARGS}}
+   
+  server:
+    dir: '{{.ROOT}}'
+    cmds:
+    - hugo server --buildDrafts --disableFastRender
