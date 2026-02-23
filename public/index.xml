@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>nl</language>
     <copyright>OKRA Eke</copyright>
-    <lastBuildDate>Sat, 21 Feb 2026 18:46:50 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 10:41:05 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/okra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Het zit hem in de details!</title>
+      <link>http://localhost:1313/okra/puzzles/p1000/</link>
+      <pubDate>Mon, 23 Feb 2026 10:41:05 +0100</pubDate>
+      <guid>http://localhost:1313/okra/puzzles/p1000/</guid>
+      <description>&lt;p&gt;Winst of verlies zit hem vaak in de details.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/puzzles/p1000/p1000.png&#34; alt=&#34;Wit speelt en … wint!&#34;&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/TCC8uzoQ1bQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;Je kan de video ook bekijken op &lt;a href=&#34;https://www.dropbox.com/scl/fi/cg0rl1zs017a4i729kzf6/White-Is-Winning.mp4?rlkey=76ubfpy14h99eev8ufqrr7qs1&amp;amp;st=biiwefo1&amp;amp;dl=0&#34;&gt;dropbox&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Judit Polgar</title>
       <link>http://localhost:1313/okra/articles/polgar/</link>
