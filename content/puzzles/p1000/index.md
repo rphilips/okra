@@ -5,8 +5,10 @@ title = 'Het zit hem in de details!'
 
 Winst of verlies zit hem vaak in de details.
 
+Wit speelt en ... wint!
 
-![Wit speelt en ... wint!](p1000.png)
+
+![](p1000.png)
 
 {{< youtube TCC8uzoQ1bQ >}}
 
