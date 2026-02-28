@@ -4,7 +4,7 @@ title = 'Betreft …'
 featured_image = '/images/brouwerij.jpg'
 +++
 
-Deze pagina's tonen de werking van de schakers van OKRA Eke.
+Deze pagina's tonen de werking van de schakers van OKRA-Eke.
 
 We komen om de 2 weken samen, op maandag 14.00 u., in de Brouwerij, Stationsstraat 3B, 9810 Nazareth - De Pinte (Eke, tegenover de kerk).
 
@@ -17,7 +17,7 @@ De twee uur dat we daar samen zijn, delen we in in drie onderwerpen:
 - tenslotte brengen we het geleerde in de praktijk: we spelen matchen.
 
 
-De activiteit is gratis voor OKRA leden. We vragen wel 1,5 EUR per sessie: hiermee betalen we de huur van de zaal en we krijgen er een consummatie voor terug!
+De activiteit is gratis voor OKRA-Eke leden. We vragen wel 1,5 EUR per sessie: hiermee betalen we de huur van de zaal en we krijgen er een consummatie voor terug!
 
 
 

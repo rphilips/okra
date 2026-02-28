@@ -5,6 +5,6 @@ title = 'Schaken bij OKRA Eke'
 featured_image = '/images/start.png'
 +++
 
-Welkom op de schaak site van OKRA Eke!
+Welkom op de schaak site van OKRA-Eke!
 
 
