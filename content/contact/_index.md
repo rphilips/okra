@@ -7,6 +7,6 @@ featured_image = '/images/contact.png'
 Wil je meer te weten komen over het schaken bij  Eke, neem dan contact op met onze voorzitter:
 
 Willy Rogge  
-willy.rogge@skynet.be  
+okraeke@gmail.com
 
 
