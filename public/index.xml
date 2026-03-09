@@ -1,20 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Schaken bij OKRA Eke on Start</title>
+    <title>Schaken bij OKRA-Eke on Start</title>
     <link>http://localhost:1313/okra/</link>
-    <description>Recent content in Schaken bij OKRA Eke on Start</description>
+    <description>Recent content in Schaken bij OKRA-Eke on Start</description>
     <generator>Hugo</generator>
     <language>nl</language>
-    <copyright>OKRA Eke</copyright>
-    <lastBuildDate>Thu, 26 Feb 2026 16:54:10 +0100</lastBuildDate>
+    <copyright>OKRA-Eke</copyright>
+    <lastBuildDate>Mon, 09 Mar 2026 10:19:18 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/okra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schaken op 03/09/2026</title>
+      <link>http://localhost:1313/okra/sessions/2026-03-09/</link>
+      <pubDate>Mon, 09 Mar 2026 10:19:18 +0100</pubDate>
+      <guid>http://localhost:1313/okra/sessions/2026-03-09/</guid>
+      <description>&lt;p&gt;Vandaag:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prague International Chess Festival 2026&lt;/li&gt;&#xA;&lt;li&gt;Puzzel&lt;/li&gt;&#xA;&lt;li&gt;Italiaanse partij door Gioachino Greco&lt;/li&gt;&#xA;&lt;li&gt;Vrij schaken&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Greco</title>
+      <link>http://localhost:1313/okra/games/greco/</link>
+      <pubDate>Mon, 09 Mar 2026 10:09:51 +0100</pubDate>
+      <guid>http://localhost:1313/okra/games/greco/</guid>
+      <description>&lt;p&gt;Het begin van deze partij hebben we allemaal al op het bord gehad.&lt;/p&gt;&#xA;&lt;p&gt;De Wit-speler is Gioachino Greco en de partij werd 400 jaar geleden gespeeld!&lt;/p&gt;&#xA;&lt;p&gt;Je kan meer over Greco lezen op &lt;a href=&#34;https://en.wikipedia.org/wiki/Gioachino_Greco&#34;&gt;dropbox&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/E1LdzEo-jB0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;Je kan de video ook bekijken op &lt;a href=&#34;https://www.dropbox.com/scl/fi/3xgeabg0jh6me4uuvp4hm/It-Took-Him-Only-20-Moves-to-Create-the-GREATEST-Checkmate-Ever.mp4?rlkey=e74mihetmqd1f4ef9egkwar22&amp;amp;st=tgbk5hqr&amp;amp;dl=0&#34;&gt;dropbox&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prague International Chess Festival 2026</title>
+      <link>http://localhost:1313/okra/articles/prague2026/</link>
+      <pubDate>Mon, 09 Mar 2026 09:57:53 +0100</pubDate>
+      <guid>http://localhost:1313/okra/articles/prague2026/</guid>
+      <description>&lt;p&gt;Het &lt;em&gt;Prague International Chess Festival&lt;/em&gt; is een absoluut top-tornooi. Het vindt ieder jaar plaats.&lt;/p&gt;&#xA;&lt;p&gt;Dit jaar (2026) was de bezetting wel heel sterk met o.a. deelname van de wereldkampioen Gukesh.&lt;/p&gt;&#xA;&lt;p&gt;Praag:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/prague2026/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Deelnemers:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/prague2026/2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Winnaar:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/prague2026/3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Resultaten:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/prague2026/4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ketting</title>
+      <link>http://localhost:1313/okra/puzzles/chain/</link>
+      <pubDate>Mon, 09 Mar 2026 09:32:45 +0100</pubDate>
+      <guid>http://localhost:1313/okra/puzzles/chain/</guid>
+      <description>&lt;p&gt;Moeilijke puzzels oplossen gaat - zoals steeds - via een plan.&lt;/p&gt;&#xA;&lt;p&gt;Deze puzzel is complex.&lt;/p&gt;&#xA;&lt;p&gt;Wit speelt en wint.&lt;/p&gt;&#xA;&lt;p&gt;Oplossing:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;identificeer de diverse problemen die Wit moet overwinnen&lt;/li&gt;&#xA;&lt;li&gt;zoek een oplossing voor die problemen&lt;/li&gt;&#xA;&lt;li&gt;breng de verschillende oplossingen samen&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/puzzles/chain/chain.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/XoqC3hL8cXU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;Je kan de video ook bekijken op &lt;a href=&#34;https://www.dropbox.com/scl/fi/vt9lpv2yesjaz0e2ahkgd/A-Viewer-Sent-Me-an-Insane-Position.mp4?rlkey=lqlhvesq3sdu0iyvhwsx602a4&amp;amp;st=0g2ksz17&amp;amp;dl=0&#34;&gt;dropbox&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Raymond Smullyan puzzel</title>
       <link>http://localhost:1313/okra/puzzles/smullyan/</link>
       <pubDate>Thu, 26 Feb 2026 16:54:10 +0100</pubDate>
       <guid>http://localhost:1313/okra/puzzles/smullyan/</guid>
-      <description>&lt;p&gt;Raymond Merrill Smullyan (Mei 25, 1919 – Februari 6, 2017) was an Amerikaans wiskundige en filosoof die verscheidene boeken over schaken heeft geschreven.&#xA;Meer informatie kan je lezen op &lt;a href=&#34;https://en.wikipedia.org/wiki/Raymond_Smullyan&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Zijn puzzels waren gericht op alternatief denken.&lt;/p&gt;&#xA;&lt;p&gt;Een voorbeeld:&lt;/p&gt;&#xA;&lt;p&gt;Waar staat de witte koning?&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/puzzles/smullyan/smullyan.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Raymond Merrill Smullyan (Mei 25, 1919 – Februari 6, 2017) was an Amerikaans wiskundige en filosoof die verscheidene boeken over schaken heeft geschreven.&#xA;Meer informatie kan je lezen op &lt;a href=&#34;https://en.wikipedia.org/wiki/Raymond_Smullyan&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Zijn puzzels waren gericht op alternatief denken.&lt;/p&gt;&#xA;&lt;p&gt;Een bekende puzzel van hem is de &lt;em&gt;ontbrekende koning&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Waar staat de witte koning?&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/puzzles/smullyan/smullyan.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Je kan dit ook in verhaalvorm bekijken op &lt;a href=&#34;https://www.dropbox.com/scl/fi/22px1rql2mq6q388k56d4/smullyan.pdf?rlkey=co6sm99gb6i5nzoyq2bx8pzoz&amp;amp;st=bhbxf4a4&amp;amp;dl=0&#34;&gt;dropbox&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Het zit hem in de details!</title>

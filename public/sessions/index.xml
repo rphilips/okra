@@ -6,8 +6,15 @@
     <description>Recent content in Sessies on Start</description>
     <generator>Hugo</generator>
     <language>nl</language>
-    <copyright>OKRA Eke</copyright>
-    <lastBuildDate></lastBuildDate>
+    <copyright>OKRA-Eke</copyright>
+    <lastBuildDate>Mon, 09 Mar 2026 10:19:18 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/okra/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schaken op 03/09/2026</title>
+      <link>http://localhost:1313/okra/sessions/2026-03-09/</link>
+      <pubDate>Mon, 09 Mar 2026 10:19:18 +0100</pubDate>
+      <guid>http://localhost:1313/okra/sessions/2026-03-09/</guid>
+      <description>&lt;p&gt;Vandaag:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prague International Chess Festival 2026&lt;/li&gt;&#xA;&lt;li&gt;Puzzel&lt;/li&gt;&#xA;&lt;li&gt;Italiaanse partij door Gioachino Greco&lt;/li&gt;&#xA;&lt;li&gt;Vrij schaken&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
