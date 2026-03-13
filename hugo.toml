@@ -22,6 +22,8 @@ weight = 1
 contentDir = "content"
 # languageDirection = 'rtl' for Right-To-Left languages
 
+[markup.goldmark.renderer]
+unsafe = true
 
 [sitemap]
 changefreq = "weekly"
