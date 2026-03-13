@@ -19,9 +19,9 @@ Je kan meer over Greco lezen op [dropbox](https://en.wikipedia.org/wiki/Gioachin
 Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/3xgeabg0jh6me4uuvp4hm/It-Took-Him-Only-20-Moves-to-Create-the-GREATEST-Checkmate-Ever.mp4?rlkey=e74mihetmqd1f4ef9egkwar22&st=tgbk5hqr&dl=0)
 
 
-Je kan de partij ook naspelen:
+Je kan de partij hier naspelen:
 
-<div id="board" ></div>
+<div id="board" >&#160;</div>
 
 <script>
 config = {
