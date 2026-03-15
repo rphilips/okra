@@ -15,6 +15,9 @@ Paginate = 6                  # this is set low for demonstrating with dummy con
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[security]
+  enableInlineShortcodes = true
+
 [languages]
 [languages.nl]
 title = "Start"

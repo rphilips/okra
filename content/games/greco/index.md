@@ -21,7 +21,7 @@ Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/3xgeabg
 
 Je kan de partij hier naspelen:
 
-<div id="board" >&#160;</div>
+<div id="board">&#160;</div>
 
 <script>
 config = {
