@@ -23,6 +23,12 @@ Je kan de partij hier naspelen:
 
 <div id="board">&#160;</div>
 
+<script src="/js/pgnviewer.js"></script>
+<script src="https://rphilips.github.io/okra/js/pgnviewer.js"></script>
+<style>
+san   {color: black;}
+</style>
+
 <script>
 config = {
 pgn: `[Event "Miscellaneous Game"]
