@@ -2,6 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/okra/articles/bridge/</loc>
+    <lastmod>2026-03-19T14:32:26+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/games/navara/</loc>
+    <lastmod>2026-03-18T10:21:29+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/articles/candidates/</loc>
+    <lastmod>2026-03-18T09:50:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/articles/oppositie/</loc>
+    <lastmod>2026-03-16T16:34:18+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/articles/pawnbasic/</loc>
+    <lastmod>2026-03-16T16:15:13+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/okra/sessions/2026-03-09/</loc>
     <lastmod>2026-03-09T10:19:18+01:00</lastmod>
     <changefreq>weekly</changefreq>
