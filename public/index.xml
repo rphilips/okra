@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>nl</language>
     <copyright>OKRA-Eke</copyright>
-    <lastBuildDate>Thu, 19 Mar 2026 14:32:26 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 15:21:16 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/okra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leonard Barden</title>
+      <link>http://localhost:1313/okra/articles/barden/</link>
+      <pubDate>Thu, 19 Mar 2026 15:21:16 +0100</pubDate>
+      <guid>http://localhost:1313/okra/articles/barden/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Leonard_Barden&#34;&gt;Leonard Barden&lt;/a&gt; is een legendarische journalist: reeds 70 jaar verzorgt hij een schaakrubriek in de &lt;em&gt;Evening Standard&lt;/em&gt; en de &lt;em&gt;Guardian&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;De 96-jarige schaker miste NOOIT een aflevering en is nu nog steeds actief bij de Guardian.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/barden/4047.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Brug tussen mensen</title>
       <link>http://localhost:1313/okra/articles/bridge/</link>
