@@ -1,6 +1,6 @@
 +++
 date = '2026-03-16T16:15:13+01:00'
-title = 'Basis pionnen eindspelen'
+title = 'Basis pionneneindspelen'
 +++
 
 Pionnen zijn belangrijk in nagenoeg elk eindspel.

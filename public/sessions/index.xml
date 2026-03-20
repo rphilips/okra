@@ -7,14 +7,21 @@
     <generator>Hugo</generator>
     <language>nl</language>
     <copyright>OKRA-Eke</copyright>
-    <lastBuildDate>Mon, 09 Mar 2026 10:19:18 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 17:03:20 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/okra/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schaken op 23/03/2026</title>
+      <link>http://localhost:1313/okra/sessions/2026-03-23/</link>
+      <pubDate>Thu, 19 Mar 2026 17:03:20 +0100</pubDate>
+      <guid>http://localhost:1313/okra/sessions/2026-03-23/</guid>
+      <description>&lt;p&gt;Vandaag:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/candidates/&#34;&gt;Kandidaten tornooi 2026&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/kasparovprison/&#34;&gt;Kasparov in de gevangenis&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/oppositie/&#34;&gt;Oppositie van de koningen&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/pawnbasic/&#34;&gt;Basis pionneneindspelen&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Vrij schaken&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Schaken op 03/09/2026</title>
       <link>http://localhost:1313/okra/sessions/2026-03-09/</link>
       <pubDate>Mon, 09 Mar 2026 10:19:18 +0100</pubDate>
       <guid>http://localhost:1313/okra/sessions/2026-03-09/</guid>
-      <description>&lt;p&gt;Vandaag:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prague International Chess Festival 2026&lt;/li&gt;&#xA;&lt;li&gt;Puzzel&lt;/li&gt;&#xA;&lt;li&gt;Italiaanse partij door Gioachino Greco&lt;/li&gt;&#xA;&lt;li&gt;Vrij schaken&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;Vandaag:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/prague2026/&#34;&gt;Prague International Chess Festival 2026&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/puzzles/chain/&#34;&gt;Puzzel&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/games/greco/&#34;&gt;Italiaanse partij door Gioachino Greco&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Vrij schaken&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

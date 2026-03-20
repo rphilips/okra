@@ -19,5 +19,5 @@ Deze afbeelding uit 1283(!) toont een match tussen een blanke priester uit Sevil
 
  Deze afbeelding toont schaken als een brug tussen oud en jong. Het is een foto genomen door een toerist op reis doorheen Turkije.
 
-  ![](5000.jpg)
+ ![](5000.jpg)
 

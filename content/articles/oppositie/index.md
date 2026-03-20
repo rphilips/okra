@@ -1,6 +1,6 @@
 +++
 date = '2026-03-16T16:34:18+01:00'
-title = 'Oppositie'
+title = 'Oppositie van de koningen'
 +++
 
 'Oppositie' is een belangrijk begrip in het spelen van een schaakeindspel.

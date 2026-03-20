@@ -5,7 +5,7 @@ title = 'Schaken op 03/09/2026'
 
 Vandaag:
 
-- Prague International Chess Festival 2026
-- Puzzel
-- Italiaanse partij door Gioachino Greco
+- [Prague International Chess Festival 2026]({{< relref "/articles/prague2026" >}})
+- [Puzzel]({{< relref "/puzzles/chain" >}})
+- [Italiaanse partij door Gioachino Greco]({{< relref "/games/greco" >}})
 - Vrij schaken

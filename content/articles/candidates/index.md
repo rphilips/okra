@@ -1,6 +1,6 @@
 +++
 date = '2026-03-18T09:50:00+01:00'
-title = 'Kandidaten tornooi'
+title = 'Kandidaten tornooi 2026'
 +++
 
 Elke 2 jaar start een nieuwe cyclus voor het werelkampioenschap.
