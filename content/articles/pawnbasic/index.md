@@ -29,7 +29,7 @@ Let op: het betekent steeds dat de koning voor zijn pion moet geraken.
 ## Sleutelvelden bij een randpion
 
 Indien de witte koning g7 of g8 kan bereiken wint hij.
-Daarom moet Zwart zich haasten naar c7 of c8.
+Daarom moet Zwart zich haasten naar f7 of f8.
 
 ![](rand.png)
 
