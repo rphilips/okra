@@ -1,6 +1,6 @@
 +++
 date = '2026-03-24T16:14:58+01:00'
-title = 'Beste combinaties van Micahel Tal'
+title = 'Beste combinaties van Michael Tal'
 +++
 
 
