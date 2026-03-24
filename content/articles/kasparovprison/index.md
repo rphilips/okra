@@ -4,7 +4,7 @@ draft = false
 title = 'Kasparov in de gevangenis'
 +++
 
-[Garri Kasparov](https://nl.wikipedia.org/wiki/Garri_Kasparov), de legendarische wereldkampioen schake, is een verwoed tegenstander van Putin. Hij schreef verschillende boeken ondermeer het welhaast profetische "Winter is Coming"
+[Garri Kasparov](https://nl.wikipedia.org/wiki/Garri_Kasparov), de legendarische wereldkampioen schaken, is een verwoed tegenstander van Putin. Hij schreef verschillende boeken ondermeer het welhaast profetische "Winter is Coming"
 
  ![](wic.jpg)
 
