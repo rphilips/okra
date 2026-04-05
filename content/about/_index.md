@@ -2,6 +2,7 @@
 date = '2026-02-10T15:50:30+01:00'
 title = 'Betreft …'
 featured_image = '/images/brouwerij.jpg'
+weight = 10000
 +++
 
 Deze pagina's tonen de werking van de schakers van OKRA-Eke.

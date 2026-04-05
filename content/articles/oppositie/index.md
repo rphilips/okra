@@ -13,12 +13,12 @@ Koningen staan nooit naast elkaar. Ze kunnen wel in *oppositie* gaan staan.
 
 De koning die de oppositie inneemt, neemt belangrijk terrein af van zijn tegenstander.
 
-![](oppositie1.jpg)
+![](ae57199f.svg)
 
 
 Er bestaan ook andere - minder belangrijke - vormen van oppositie zoals de verre oppositie
 
-![](oppositie2.jpg)
+![](13ce109c.svg)
 
 
 Oefening: Wit speelt en neemt de oppositie.

@@ -6,6 +6,8 @@ title = 'Puzzel met 4 torens'
 
 Wit speelt en wint!
 
+![](board.png)
+
 
 {{< youtube 8vjAduplBYQ >}}
 
