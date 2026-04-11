@@ -10,6 +10,10 @@ weight = 1
 <h2>April 2026</h2>
 
 <!--
+.link articles/1dimchess/index.md/
+-->
+[Schaken in 1-dimensie]({{< relref "/articles/1dimchess/index.md">}}) <span style='font-size: smaller;'>(artikel)</span>
+<!--
 .link puzzles/queenvsqueen/index.md/
 -->
 [Winnen van  uit een onmogelijke positie]({{< relref "/puzzles/queenvsqueen/index.md">}}) <span style='font-size: smaller;'>(puzzle)</span>
