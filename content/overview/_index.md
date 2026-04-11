@@ -10,6 +10,10 @@ weight = 1
 <h2>April 2026</h2>
 
 <!--
+.link puzzles/queenvsqueen/index.md/
+-->
+[Winnen van  uit een onmogelijke positie]({{< relref "/puzzles/queenvsqueen/index.md">}}) <span style='font-size: smaller;'>(puzzle)</span>
+<!--
 .link puzzles/pion3/index.md/
 -->
 [Basis pion eindspel 3]({{< relref "/puzzles/pion3/index.md">}}) <span style='font-size: smaller;'>(puzzle)</span>
