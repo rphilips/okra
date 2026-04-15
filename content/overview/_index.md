@@ -10,6 +10,14 @@ weight = 1
 <h2>April 2026</h2>
 
 <!--
+.link puzzles/pion5/index.md/
+-->
+[Basis pion eindspel 5]({{< relref "/puzzles/pion5/index.md">}}) <span style='font-size: smaller;'>(puzzle)</span>
+<!--
+.link puzzles/pion4/index.md/
+-->
+[Basis pion eindspel 4]({{< relref "/puzzles/pion4/index.md">}}) <span style='font-size: smaller;'>(puzzle)</span>
+<!--
 .link articles/1dimchess/index.md/
 -->
 [Schaken in 1-dimensie]({{< relref "/articles/1dimchess/index.md">}}) <span style='font-size: smaller;'>(artikel)</span>
