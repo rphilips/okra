@@ -10,6 +10,18 @@ weight = 1
 <h2>April 2026</h2>
 
 <!--
+.link articles/patstudie/index.md/
+-->
+[Pat: het ultieme redmiddel]({{< relref "/articles/patstudie/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/patstudie/index.md");'>(artikel)</span>
+<!--
+.link articles/chesshistory/index.md/
+-->
+[Waarom men na 1500 jaar nog steeds schaakt]({{< relref "/articles/chesshistory/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/chesshistory/index.md");'>(artikel)</span>
+<!--
+.link articles/enpassant/index.md/
+-->
+[Enpassant]({{< relref "/articles/enpassant/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/enpassant/index.md");'>(artikel)</span>
+<!--
 .link sessions/2026-04-20/index.md/
 -->
 [Schaken op 20-04-2026]({{< relref "/sessions/2026-04-20/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-04-20/index.md");'>(sessie)</span>

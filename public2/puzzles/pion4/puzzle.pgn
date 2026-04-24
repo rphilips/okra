@@ -1,0 +1,11 @@
+[Event ""]
+[Site ""]
+[Date ""]
+[Round ""]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "8/8/8/8/6p1/5k2/7K/8 b - - 0 1"]
+[SetUp "1"]
+
+1...Kf2 2.Kh1 Kg3 3.Kg1 Kh3 4.Kh1 g3 5.Kg1 g2 6.Kf2 Kh2 *
