@@ -3,7 +3,19 @@ date = '2026-04-24T16:19:53+02:00'
 title = 'Pat: het ultieme redmiddel'
 +++
 
-![](46e5315b.svg)
+
+
+<!--
+.diagram black:Ke8; white:e7,Ke6
+-->
+<div style='cursor:pointer' onclick='navigator.clipboard.writeText("4k3/4P3/4K3/8/8/8/8/8 b - - 0 1"); return false'>
+
+![](ddf5cdcc.svg)
+
+</div>
+
+
+
 
 
 Een speler staat *pat* indien:
@@ -21,9 +33,6 @@ Schaken is een spel met vreemde regels maar het zijn precies deze die de partij 
 
 De volgende stelling maakt dit duidelijk:
 
-<!--
-.diagram puzzle.pgn
--->
 ![](da0cd102.svg)
 
 In deze stelling weet Wit (aan zet) toch te ontsnappen aan het dreigend mat!
@@ -33,7 +42,10 @@ Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/rmyvzi4
 
 Of speel hier na:
 
-<div id="board">&#160;</div>
+<!--
+.puzzle puzzle.pgn
+-->
+<p>(Je kan de partij <a href="puzzle.pgn">hier</a> downloaden in PGN formaat)</p><div id="board">&#160;</div>
 
 <script src="/js/pgnviewer.js"></script>
 <script src="https://rphilips.github.io/okra/js/pgnviewer.js"></script>
@@ -59,3 +71,4 @@ pgn: `[Event "?"]
 	
 var board = PGNV.pgnPuzzle('board', config);
 </script>
+
