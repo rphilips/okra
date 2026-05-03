@@ -37,6 +37,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/okra/articles/chesscomopen2026/</loc>
+    <lastmod>2026-05-02T18:07:18+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/okra/puzzles/pion1/</loc>
     <lastmod>2026-04-09T15:36:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -186,6 +191,26 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/okra/articles/pionpion1/</loc>
+    <lastmod>2026-05-02T18:34:31+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/articles/pionpion2/</loc>
+    <lastmod>2026-05-02T18:40:16+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/articles/pionpion3/</loc>
+    <lastmod>2026-05-02T18:48:33+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/articles/pionpionoef/</loc>
+    <lastmod>2026-05-03T11:33:58+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/okra/articles/prague2026/</loc>
     <lastmod>2026-03-09T09:57:53+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -213,6 +238,11 @@
   </url><url>
     <loc>http://localhost:1313/okra/sessions/2026-03-09/</loc>
     <lastmod>2026-03-09T10:19:18+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/sessions/2026-05-04/</loc>
+    <lastmod>2026-05-03T11:37:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

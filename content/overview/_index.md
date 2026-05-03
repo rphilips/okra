@@ -7,6 +7,34 @@ weight = 1
 
 
 
+<h2>Mei 2026</h2>
+
+<!--
+.link sessions/2026-05-04/index.md/
+-->
+[Schaken op 04-05-2026]({{< relref "/sessions/2026-05-04/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-05-04/index.md");'>(sessie)</span>
+<!--
+.link articles/pionpionoef/index.md/
+-->
+[Pionnen op dezelfde lijn: oefening]({{< relref "/articles/pionpionoef/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/pionpionoef/index.md");'>(artikel)</span>
+<!--
+.link articles/pionpion3/index.md/
+-->
+[Pionnen op dezelfde lijn 2]({{< relref "/articles/pionpion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/pionpion3/index.md");'>(artikel)</span>
+<!--
+.link articles/pionpion2/index.md/
+-->
+[Pionnen op dezelfde lijn 1]({{< relref "/articles/pionpion2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/pionpion2/index.md");'>(artikel)</span>
+<!--
+.link articles/pionpion1/index.md/
+-->
+[Pion tegen pion: de dansende koningen]({{< relref "/articles/pionpion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/pionpion1/index.md");'>(artikel)</span>
+<!--
+.link articles/chesscomopen2026/index.md/
+-->
+[2026 Chess.com Open]({{< relref "/articles/chesscomopen2026/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/chesscomopen2026/index.md");'>(artikel)</span>
+
+
 <h2>April 2026</h2>
 
 <!--

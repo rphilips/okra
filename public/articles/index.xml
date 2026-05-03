@@ -9,6 +9,13 @@
     <copyright>OKRA-Eke</copyright>
     <atom:link href="http://localhost:1313/okra/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026 Chess.com Open</title>
+      <link>http://localhost:1313/okra/articles/chesscomopen2026/</link>
+      <pubDate>Sat, 02 May 2026 18:07:18 +0200</pubDate>
+      <guid>http://localhost:1313/okra/articles/chesscomopen2026/</guid>
+      <description>&lt;!--&#xA;.image image.png&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/chesscomopen2026/image.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Onmiddellijk na het Kandidatentornooi werd er al een nieuw tornooi gespeeld: &lt;a href=&#34;https://www.chess.com/events/2026-chesscom-open-playoffs&#34;&gt;2026 Chess.com Open&lt;/a&gt; Dit tornooi werd georganiseerd door &lt;a href=&#34;chess.com&#34;&gt;chess.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Hetzelfde prijzenfonds alleen &amp;hellip; slechts voor een kleine week werk. Het werd gewonnen door Magnus Carlsen! Hij won in de finale van Duda.&lt;/p&gt;&#xA;&lt;p&gt;Ook Sindarov speelde mee deze maar werd heel snel uitgeschakeld.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Basis pionneneindspelen</title>
       <link>http://localhost:1313/okra/articles/pawnbasic/</link>
       <pubDate>Mon, 16 Mar 2026 16:15:13 +0100</pubDate>
@@ -126,6 +133,34 @@
       <pubDate>Fri, 24 Apr 2026 16:19:53 +0200</pubDate>
       <guid>http://localhost:1313/okra/articles/patstudie/</guid>
       <description>&lt;!--&#xA;.diagram black:Ke8; white:e7,Ke6&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;4k3/4P3/4K3/8/8/8/8/8 b - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/patstudie/ddf5cdcc.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Een speler staat &lt;em&gt;pat&lt;/em&gt; indien:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;hij aan zet is&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;niet&lt;/em&gt; schaak staat&lt;/li&gt;&#xA;&lt;li&gt;geen enkel stuk &lt;em&gt;reglementair&lt;/em&gt; kan verzetten!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Vele schakers denken dat dit toch wel erg zeldzaam is.&lt;/p&gt;&#xA;&lt;p&gt;Misschien is dit wel zo, maar toch kan streven naar pat het laatste redmiddel zijn.&lt;/p&gt;&#xA;&lt;p&gt;Schaken is een spel met vreemde regels maar het zijn precies deze die de partij extra kruiden.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pion tegen pion: de dansende koningen</title>
+      <link>http://localhost:1313/okra/articles/pionpion1/</link>
+      <pubDate>Sat, 02 May 2026 18:34:31 +0200</pubDate>
+      <guid>http://localhost:1313/okra/articles/pionpion1/</guid>
+      <description>&lt;!--&#xA;.diagram game.pgn&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;8/8/8/4p1K1/2k1P3/8/8/8 w - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/pionpion1/f0b13ca6.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Dit is een veel voorkomende positie en &amp;hellip; wees voorzichtig: elke misstap is fataal.&lt;/p&gt;&#xA;&lt;p&gt;Als Wit - aan zet - goed speelt, dan wint hij de partij!&lt;/p&gt;&#xA;&lt;p&gt;(Je kan de partij &lt;a href=&#34;game.pgn&#34;&gt;hier&lt;/a&gt; downloaden in PGN formaat)&lt;/p&gt;&lt;div id=&#34;board&#34;&gt;&amp;#160;&lt;/div&gt;&#xA;&lt;script src=&#34;http://localhost:1313/okra/js/pgnviewer.js&#34;&gt;&lt;/script&gt;&#xA;&lt;script src=&#34;https://rphilips.github.io/okra/js/pgnviewer.js&#34;&gt;&lt;/script&gt;&#xA;&lt;style&gt;&#xA;san   {color: black;}&#xA;&lt;/style&gt;&#xA;&lt;script&gt;&#xA;config = {&#xA;pgn: `[Event &#34;?&#34;]&#xA;[Site &#34;?&#34;]&#xA;[Date &#34;????.??.??&#34;]&#xA;[Round &#34;?&#34;]&#xA;[White &#34;?&#34;]&#xA;[Black &#34;?&#34;]&#xA;[Result &#34;*&#34;]&#xA;[SetUp &#34;1&#34;]&#xA;[FEN &#34;8/8/8/4p1K1/2k1P3/8/8/8 w - - 0 1&#34;]&#xA;[Link &#34;https://www.chess.com/analysis/game/pgn/4xahi2yUkN/analysis&#34;]&#xA;&#xA;1. Kf6 $1 Kd4 2. Kf5 $1 Kc5 3. Kxe5 Kc6 4. Kf6 *`, position: &#39;start&#39;, showCoords: true, orientation: &#39;white&#39;, theme: &#39;blue&#39;, pieceStyle: &#39;wikipedia&#39;, figurine: &#39;merida&#39;, locale: &#39;en&#39;, timerTime: &#39;&#39;, layout: &#39;top&#39;, showFen: false, coordsInner: false, manyGames: false, coordsFactor: &#39;1.0&#39;, coordsFontSize: &#39;&#39;, colorMarker: &#39;&#39;, startPlay: &#39;&#39;, hideMovesBefore: true, notation: &#39;long&#39;, notationLayout: &#39;list&#39;, resizable: true, headers: false,};&#xA;&#x9;&#xA;var board = PGNV.pgnPuzzle(&#39;board&#39;, config);&#xA;&lt;/script&gt;</description>
+    </item>
+    <item>
+      <title>Pionnen op dezelfde lijn 1</title>
+      <link>http://localhost:1313/okra/articles/pionpion2/</link>
+      <pubDate>Sat, 02 May 2026 18:40:16 +0200</pubDate>
+      <guid>http://localhost:1313/okra/articles/pionpion2/</guid>
+      <description>&lt;!--&#xA;.diagram white:Kd4,f5; black: Kd7,f6; mark:c6,d6,e6&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;8/3k4/5p2/5P2/3K4/8/8/8 w - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/pionpion2/210eed7c.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Wit kan de zwarte pion veroveren indien hij 1 van de 3 (aan beide zijden) aanliggende velden kan betreden.&lt;/p&gt;&#xA;&lt;p&gt;Is hij aan zet, dan neemt hij de oppositie en wint hij!&lt;/p&gt;&#xA;&lt;p&gt;Is Zwart aan zet dan neemt deze de oppositie en is de partij remise.&lt;/p&gt;&#xA;&lt;!--&#xA;.puzzle game.pgn&#xA;--&gt;&#xA;&lt;p&gt;(Je kan de partij &lt;a href=&#34;game.pgn&#34;&gt;hier&lt;/a&gt; downloaden in PGN formaat)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pionnen op dezelfde lijn 2</title>
+      <link>http://localhost:1313/okra/articles/pionpion3/</link>
+      <pubDate>Sat, 02 May 2026 18:48:33 +0200</pubDate>
+      <guid>http://localhost:1313/okra/articles/pionpion3/</guid>
+      <description>&lt;!--&#xA;.diagram game.pgn&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;8/8/3k4/5p2/5P2/4K3/8/8 w - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/pionpion3/1f57da11.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Deze stelling lijkt heel erg op de stelling die we hebben gezien in &lt;a href=&#34;http://localhost:1313/okra/articles/pionpion2/&#34;&gt;&amp;lsquo;Pionnen op dezelfde lijn 1&amp;rsquo;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Het resultaat is echter steeds remise: Wit - aan zet - kan weliswaar de pion winnen maar dit is onvoldoende om te winnen: Zwart verhindert immers dat Wit de sleutelvelden bereikt.&lt;/p&gt;&#xA;&lt;!--&#xA;.puzzle game.pgn&#xA;--&gt;&#xA;&lt;p&gt;(Je kan de partij &lt;a href=&#34;game.pgn&#34;&gt;hier&lt;/a&gt; downloaden in PGN formaat)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pionnen op dezelfde lijn: oefening</title>
+      <link>http://localhost:1313/okra/articles/pionpionoef/</link>
+      <pubDate>Sun, 03 May 2026 11:33:58 +0200</pubDate>
+      <guid>http://localhost:1313/okra/articles/pionpionoef/</guid>
+      <description>&lt;!--&#xA;.diagram game.pgn&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;k7/8/6p1/6P1/8/K7/8/8 w - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/pionpionoef/ffa024cd.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Dit is een mooie oefening: Wit mag doen wat hij wil, Zwart kan steeds verhinderen dat hij wint.&lt;/p&gt;&#xA;&lt;!--&#xA;.puzzle game.pgn&#xA;--&gt;&#xA;&lt;p&gt;(Je kan de partij &lt;a href=&#34;game.pgn&#34;&gt;hier&lt;/a&gt; downloaden in PGN formaat)&lt;/p&gt;&lt;div id=&#34;board&#34;&gt;&amp;#160;&lt;/div&gt;&#xA;&lt;script src=&#34;http://localhost:1313/okra/js/pgnviewer.js&#34;&gt;&lt;/script&gt;&#xA;&lt;script src=&#34;https://rphilips.github.io/okra/js/pgnviewer.js&#34;&gt;&lt;/script&gt;&#xA;&lt;style&gt;&#xA;san   {color: black;}&#xA;&lt;/style&gt;&#xA;&lt;script&gt;&#xA;config = {&#xA;pgn: `[Event &#34;?&#34;]&#xA;[Site &#34;?&#34;]&#xA;[Date &#34;????.??.??&#34;]&#xA;[Round &#34;?&#34;]&#xA;[White &#34;?&#34;]&#xA;[Black &#34;?&#34;]&#xA;[Result &#34;*&#34;]&#xA;[SetUp &#34;1&#34;]&#xA;[FEN &#34;k7/8/6p1/6P1/8/K7/8/8 w - - 0 1&#34;]&#xA;[Link &#34;https://www.chess.com/analysis/game/pgn/zEqyEDVVQ/analysis&#34;]&#xA;&#xA;1. Ka4 Kb8 $1 2. Kb4 Kc8 $1 3. Kc4 Kd8 $1 4. Kd4 Ke8 $1 5. Ke4 Kd8 $1 6. Kd4 Ke8 $1 7. Kc5&#xA;Ke7 $1 8. Kd5 Kd7 $1 9. Ke5 Ke7 $1 *`, position: &#39;start&#39;, showCoords: true, orientation: &#39;white&#39;, theme: &#39;blue&#39;, pieceStyle: &#39;wikipedia&#39;, figurine: &#39;merida&#39;, locale: &#39;en&#39;, timerTime: &#39;&#39;, layout: &#39;top&#39;, showFen: false, coordsInner: false, manyGames: false, coordsFactor: &#39;1.0&#39;, coordsFontSize: &#39;&#39;, colorMarker: &#39;&#39;, startPlay: &#39;&#39;, hideMovesBefore: true, notation: &#39;long&#39;, notationLayout: &#39;list&#39;, resizable: true, headers: false,};&#xA;&#x9;&#xA;var board = PGNV.pgnPuzzle(&#39;board&#39;, config);&#xA;&lt;/script&gt;</description>
     </item>
     <item>
       <title>Prague International Chess Festival 2026</title>
