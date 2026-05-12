@@ -10,6 +10,10 @@ weight = 1
 <h2>Mei 2026</h2>
 
 <!--
+.link puzzles/whitewins/index.md/
+-->
+[De witte loper haalt het van de zwarte toren]({{< relref "/puzzles/whitewins/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/whitewins/index.md");'>(puzzle)</span>
+<!--
 .link sessions/2026-05-04/index.md/
 -->
 [Schaken op 04-05-2026]({{< relref "/sessions/2026-05-04/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-05-04/index.md");'>(sessie)</span>

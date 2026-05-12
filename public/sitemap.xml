@@ -101,6 +101,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/okra/puzzles/whitewins/</loc>
+    <lastmod>2026-05-12T18:59:22+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/okra/puzzles/retilike/</loc>
     <lastmod>2026-04-02T18:33:54+02:00</lastmod>
     <changefreq>weekly</changefreq>
