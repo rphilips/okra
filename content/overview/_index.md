@@ -10,6 +10,10 @@ weight = 1
 <h2>Mei 2026</h2>
 
 <!--
+.link puzzles/testendgame/index.md/
+-->
+[Test je kennis van het pionneneindspel]({{< relref "/puzzles/testendgame/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/testendgame/index.md");'>(puzzle)</span>
+<!--
 .link articles/wmeiden/index.md/
 -->
 [Clubspeler tegen beginnend schaker]({{< relref "/articles/wmeiden/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/wmeiden/index.md");'>(artikel)</span>
