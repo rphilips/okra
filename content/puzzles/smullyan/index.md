@@ -4,13 +4,21 @@ title = 'Raymond Smullyan puzzel'
 +++
 
 Raymond Merrill Smullyan (Mei 25, 1919 – Februari 6, 2017) was an Amerikaans wiskundige en filosoof die verscheidene boeken over schaken heeft geschreven.
+
 Meer informatie kan je lezen op [Wikipedia](https://en.wikipedia.org/wiki/Raymond_Smullyan).
 
 Zijn puzzels waren gericht op alternatief denken.
 
 Een bekende puzzel van hem is de *ontbrekende koning*
 
-Waar staat de witte koning?
+Bij een schaakpartij viel de witte koning van het bord en de spelers wisten niet meer waar deze precies op het bord stond.
+
+... en dit is de puzzel: je moet uitvinden waar de witte koning staat.
+
+... en nee, je moet niet vragen wie aan zet is of dergelijke vragen meer.
+
+
+
 
 
 ![](smullyan.png)

@@ -1,6 +1,6 @@
 +++
 date = '2026-03-09T10:19:18+01:00'
-title = 'Schaken op 03/09/2026'
+title = 'Schaken op 09-03-2026'
 +++
 
 Vandaag:

@@ -10,6 +10,26 @@ weight = 1
 <h2>Mei 2026</h2>
 
 <!--
+.link articles/carlsengood1/index.md/
+-->
+[Waarom speelt Carlsen zo sterk? (deel 1)]({{< relref "/articles/carlsengood1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood1/index.md");'>(artikel)</span>
+<!--
+.link articles/carlsengood2/index.md/
+-->
+[Waarom speelt Carlsen zo sterk? (deel 2)]({{< relref "/articles/carlsengood2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood2/index.md");'>(artikel)</span>
+<!--
+.link games/einsteinoppenheimer/index.md/
+-->
+[Einstein versus Oppenheimer (1933)]({{< relref "/games/einsteinoppenheimer/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/einsteinoppenheimer/index.md");'>(partij)</span>
+<!--
+.link articles/sigeman2026/index.md/
+-->
+[TePe Sigeman chess tournament]({{< relref "/articles/sigeman2026/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/sigeman2026/index.md");'>(artikel)</span>
+<!--
+.link sessions/2026-05-18/index.md/
+-->
+[Schaken op 18-05-2026]({{< relref "/sessions/2026-05-18/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-05-18/index.md");'>(sessie)</span>
+<!--
 .link puzzles/testendgame/index.md/
 -->
 [Test je kennis van het pionneneindspel]({{< relref "/puzzles/testendgame/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/testendgame/index.md");'>(puzzle)</span>
@@ -116,7 +136,7 @@ weight = 1
 <!--
 .link sessions/2026-04-06/index.md/
 -->
-[Schaken op 06/04/2026]({{< relref "/sessions/2026-04-06/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-04-06/index.md");'>(sessie)</span>
+[Schaken op 06-04-2026]({{< relref "/sessions/2026-04-06/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-04-06/index.md");'>(sessie)</span>
 <!--
 .link articles/oebekistan/index.md/
 -->
@@ -156,7 +176,7 @@ weight = 1
 <!--
 .link sessions/2026-03-23/index.md/
 -->
-[Schaken op 23/03/2026]({{< relref "/sessions/2026-03-23/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-03-23/index.md");'>(sessie)</span>
+[Schaken op 23-03-2026]({{< relref "/sessions/2026-03-23/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-03-23/index.md");'>(sessie)</span>
 <!--
 .link articles/barden/index.md/
 -->
@@ -184,7 +204,7 @@ weight = 1
 <!--
 .link sessions/2026-03-09/index.md/
 -->
-[Schaken op 03/09/2026]({{< relref "/sessions/2026-03-09/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-03-09/index.md");'>(sessie)</span>
+[Schaken op 09-03-2026]({{< relref "/sessions/2026-03-09/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-03-09/index.md");'>(sessie)</span>
 <!--
 .link games/greco/index.md/
 -->
