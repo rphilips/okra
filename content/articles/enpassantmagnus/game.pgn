@@ -1,0 +1,13 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6kr/5pb1/1pB1p1pp/4P3/5n1P/r1p2N2/P4PP1/2KR3R w - - 0 1"]
+[Link "https://www.chess.com/analysis/game/pgn/asyo4MPe6/analysis"]
+
+1. Rd8+ Kh7 $4 2. Ng5+ $3 hxg5 3. hxg5+ Nh5 4. Rxh5+ $3 gxh5 5. Be4+ $1 f5 6. exf6# $1
+1-0

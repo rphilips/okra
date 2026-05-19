@@ -10,6 +10,22 @@ weight = 1
 <h2>Mei 2026</h2>
 
 <!--
+.link articles/younglove/index.md/
+-->
+[Young love]({{< relref "/articles/younglove/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/younglove/index.md");'>(artikel)</span>
+<!--
+.link articles/enpassantmagnus/index.md/
+-->
+[En passant en Magnus Carlsen]({{< relref "/articles/enpassantmagnus/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/enpassantmagnus/index.md");'>(artikel)</span>
+<!--
+.link articles/underpromotion/index.md/
+-->
+[Underpromotion]({{< relref "/articles/underpromotion/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/underpromotion/index.md");'>(artikel)</span>
+<!--
+.link articles/capriolen/index.md/
+-->
+[Richard's Capriolen]({{< relref "/articles/capriolen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/capriolen/index.md");'>(artikel)</span>
+<!--
 .link articles/carlsengood1/index.md/
 -->
 [Waarom speelt Carlsen zo sterk? (deel 1)]({{< relref "/articles/carlsengood1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood1/index.md");'>(artikel)</span>
