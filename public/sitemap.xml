@@ -196,6 +196,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/okra/games/group10/</loc>
+    <lastmod>2026-05-19T11:51:16+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/okra/articles/oppositie/</loc>
     <lastmod>2026-03-16T16:34:18+01:00</lastmod>
     <changefreq>weekly</changefreq>
