@@ -12,10 +12,22 @@ Nu denk ik daar anders over: het zijn verfraaiingen die - passend geëtaleerd - 
 
 Laat ik even een en ander illustreren.
 
-<!--
-- .link articles/patstudie/index.md
--->
 - [Pat: het ultieme redmiddel]({{< relref "/articles/patstudie/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/patstudie/index.md");'>(artikel)</span>
+
+<!--
+- .link articles/underpromotion/index.md
+-->
+- [Underpromotion]({{< relref "/articles/underpromotion/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/underpromotion/index.md");'>(artikel)</span>
+
+<!--
+- .link articles/enpassantmagnus/index.md
+-->
+- [En passant en Magnus Carlsen]({{< relref "/articles/enpassantmagnus/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/enpassantmagnus/index.md");'>(artikel)</span>
+
+<!--
+- .link articles/triangulatie/index.md
+-->
+- [Triangulatie]({{< relref "/articles/triangulatie/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/triangulatie/index.md");'>(artikel)</span>
 
 
 

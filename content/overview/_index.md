@@ -10,6 +10,14 @@ weight = 1
 <h2>Mei 2026</h2>
 
 <!--
+.link articles/timman/index.md/
+-->
+[Jan Timman]({{< relref "/articles/timman/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/timman/index.md");'>(artikel)</span>
+<!--
+.link articles/triangulatie/index.md/
+-->
+[Triangulatie]({{< relref "/articles/triangulatie/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/triangulatie/index.md");'>(artikel)</span>
+<!--
 .link games/group10/index.md/
 -->
 [OKra Eke tegen een sterke tegenstander]({{< relref "/games/group10/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/group10/index.md");'>(partij)</span>
@@ -97,10 +105,6 @@ weight = 1
 .link articles/chesshistory/index.md/
 -->
 [Waarom men na 1500 jaar nog steeds schaakt]({{< relref "/articles/chesshistory/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/chesshistory/index.md");'>(artikel)</span>
-<!--
-.link articles/enpassant/index.md/
--->
-[Enpassant]({{< relref "/articles/enpassant/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/enpassant/index.md");'>(artikel)</span>
 <!--
 .link sessions/2026-04-20/index.md/
 -->

@@ -1,0 +1,12 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7B/8/8/4K3/6p1/7N/5PpP/4k3 w - - 0 1"]
+[Link "https://www.chess.com/analysis/game/pgn/4iBphQRWVt/analysis"]
+
+1. Ng1 $1 Kxf2 2. Nh3+ $1 Kf1 3. Kf4 $3 g1=Q 4. Nxg1 $1 Kg2 5. Kxg4 Kxh2 6. Ne2 *
