@@ -1,6 +1,6 @@
 +++
 date = '2026-05-19T11:51:16+02:00'
-title = 'OKra Eke tegen een sterke tegenstander'
+title = 'OKRA Eke tegen een sterke tegenstander'
 +++
 
 <!--

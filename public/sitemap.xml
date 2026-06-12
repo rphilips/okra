@@ -101,6 +101,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/okra/articles/friedliver/</loc>
+    <lastmod>2026-06-12T06:46:02+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/okra/puzzles/amazing/</loc>
     <lastmod>2026-04-09T13:40:52+02:00</lastmod>
     <changefreq>weekly</changefreq>

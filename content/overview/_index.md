@@ -7,6 +7,14 @@ weight = 1
 
 
 
+<h2>Juni 2026</h2>
+
+<!--
+.link articles/friedliver/index.md/
+-->
+[De fried liver attack en schaakmat door rokade]({{< relref "/articles/friedliver/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/friedliver/index.md");'>(artikel)</span>
+
+
 <h2>Mei 2026</h2>
 
 <!--
@@ -20,7 +28,7 @@ weight = 1
 <!--
 .link games/group10/index.md/
 -->
-[OKra Eke tegen een sterke tegenstander]({{< relref "/games/group10/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/group10/index.md");'>(partij)</span>
+[OKRA Eke tegen een sterke tegenstander]({{< relref "/games/group10/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/group10/index.md");'>(partij)</span>
 <!--
 .link articles/younglove/index.md/
 -->
