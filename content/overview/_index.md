@@ -68,7 +68,7 @@ weight = 1
 <!--
 .link puzzles/testendgame/index.md/
 -->
-[Test je kennis van het pionneneindspel]({{< relref "/puzzles/testendgame/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/testendgame/index.md");'>(puzzle)</span>
+[Test je kennis van het pionneneindspel]({{< relref "/puzzles/testendgame/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/testendgame/index.md");'>(puzzel)</span>
 <!--
 .link articles/wmeiden/index.md/
 -->
@@ -76,7 +76,7 @@ weight = 1
 <!--
 .link puzzles/whitewins/index.md/
 -->
-[De witte loper haalt het van de zwarte toren]({{< relref "/puzzles/whitewins/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/whitewins/index.md");'>(puzzle)</span>
+[De witte loper haalt het van de zwarte toren]({{< relref "/puzzles/whitewins/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/whitewins/index.md");'>(puzzel)</span>
 <!--
 .link sessions/2026-05-04/index.md/
 -->
@@ -128,11 +128,11 @@ weight = 1
 <!--
 .link puzzles/pion5/index.md/
 -->
-[Basis pion eindspel 5]({{< relref "/puzzles/pion5/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion5/index.md");'>(puzzle)</span>
+[Basis pion eindspel 5]({{< relref "/puzzles/pion5/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion5/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/pion4/index.md/
 -->
-[Basis pion eindspel 4]({{< relref "/puzzles/pion4/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion4/index.md");'>(puzzle)</span>
+[Basis pion eindspel 4]({{< relref "/puzzles/pion4/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion4/index.md");'>(puzzel)</span>
 <!--
 .link articles/1dimchess/index.md/
 -->
@@ -140,19 +140,19 @@ weight = 1
 <!--
 .link puzzles/queenvsqueen/index.md/
 -->
-[Winnen van  uit een onmogelijke positie]({{< relref "/puzzles/queenvsqueen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/queenvsqueen/index.md");'>(puzzle)</span>
+[Winnen van  uit een onmogelijke positie]({{< relref "/puzzles/queenvsqueen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/queenvsqueen/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/pion3/index.md/
 -->
-[Basis pion eindspel 3]({{< relref "/puzzles/pion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion3/index.md");'>(puzzle)</span>
+[Basis pion eindspel 3]({{< relref "/puzzles/pion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion3/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/pion2/index.md/
 -->
-[Basis pion eindspel 2]({{< relref "/puzzles/pion2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion2/index.md");'>(puzzle)</span>
+[Basis pion eindspel 2]({{< relref "/puzzles/pion2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion2/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/pion1/index.md/
 -->
-[Basis pion eindspel 1]({{< relref "/puzzles/pion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzle)</span>
+[Basis pion eindspel 1]({{< relref "/puzzles/pion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzel)</span>
 <!--
 .link articles/secretsofpawn/index.md/
 -->
@@ -160,7 +160,7 @@ weight = 1
 <!--
 .link puzzles/amazing/index.md/
 -->
-[De puzzel waarvoor het woordje "amazing" is uitgevonden]({{< relref "/puzzles/amazing/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/amazing/index.md");'>(puzzle)</span>
+[De puzzel waarvoor het woordje "amazing" is uitgevonden]({{< relref "/puzzles/amazing/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/amazing/index.md");'>(puzzel)</span>
 <!--
 .link articles/grenke/index.md/
 -->
@@ -180,7 +180,7 @@ weight = 1
 <!--
 .link puzzles/retilike/index.md/
 -->
-[Een puzzel die doet denken aan Reti]({{< relref "/puzzles/retilike/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/retilike/index.md");'>(puzzle)</span>
+[Een puzzel die doet denken aan Reti]({{< relref "/puzzles/retilike/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/retilike/index.md");'>(puzzel)</span>
 <!--
 .link games/2026r10/index.md/
 -->
@@ -192,7 +192,7 @@ weight = 1
 <!--
 .link puzzles/4rooks/index.md/
 -->
-[Puzzel met 4 torens]({{< relref "/puzzles/4rooks/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/4rooks/index.md");'>(puzzle)</span>
+[Puzzel met 4 torens]({{< relref "/puzzles/4rooks/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/4rooks/index.md");'>(puzzel)</span>
 <!--
 .link articles/words/index.md/
 -->
@@ -248,7 +248,7 @@ weight = 1
 <!--
 .link puzzles/chain/index.md/
 -->
-[Ketting]({{< relref "/puzzles/chain/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/chain/index.md");'>(puzzle)</span>
+[Ketting]({{< relref "/puzzles/chain/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/chain/index.md");'>(puzzel)</span>
 
 
 <h2>Februari 2026</h2>
@@ -256,11 +256,11 @@ weight = 1
 <!--
 .link puzzles/smullyan/index.md/
 -->
-[Raymond Smullyan puzzel]({{< relref "/puzzles/smullyan/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/smullyan/index.md");'>(puzzle)</span>
+[Raymond Smullyan puzzel]({{< relref "/puzzles/smullyan/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/smullyan/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/p1000/index.md/
 -->
-[Het zit hem in de details!]({{< relref "/puzzles/p1000/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/p1000/index.md");'>(puzzle)</span>
+[Het zit hem in de details!]({{< relref "/puzzles/p1000/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/p1000/index.md");'>(puzzel)</span>
 <!--
 .link articles/polgar/index.md/
 -->
