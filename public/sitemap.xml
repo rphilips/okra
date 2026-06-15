@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/okra/overview/_index-xps17s-conflicted-copy-2026-06-14/</loc>
+    <lastmod>2026-04-08T17:16:33+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/okra/overview/</loc>
     <lastmod>2026-04-08T17:16:33+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -146,6 +151,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/okra/articles/chessclassicromania/</loc>
+    <lastmod>2026-06-14T15:23:16+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/okra/games/greco/</loc>
     <lastmod>2026-03-09T10:09:51+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -256,13 +266,18 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/okra/articles/capriolen/</loc>
+    <loc>http://localhost:1313/okra/sessions/capriolen/</loc>
     <lastmod>2026-05-18T11:16:22+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/okra/</loc>
     <lastmod>2026-02-21T15:52:45+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/articles/ziek/</loc>
+    <lastmod>2026-06-14T15:55:07+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -283,6 +298,11 @@
   </url><url>
     <loc>http://localhost:1313/okra/sessions/2026-03-09/</loc>
     <lastmod>2026-03-09T10:19:18+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/sessions/2026-06-15/</loc>
+    <lastmod>2026-06-14T16:17:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

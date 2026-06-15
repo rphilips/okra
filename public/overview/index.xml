@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Overzicht on Start</title>
-    <link>http://localhost:1313/okra/overview/</link>
-    <description>Recent content in Overzicht on Start</description>
-    <generator>Hugo</generator>
-    <language>nl</language>
-    <copyright>OKRA-Eke</copyright>
-    <atom:link href="http://localhost:1313/okra/overview/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+	<channel>
+		<title>Overzicht on Start</title>
+		<link>http://localhost:1313/okra/overview/</link>
+		<description>Recent content in Overzicht on Start</description>
+		<generator>Hugo</generator>
+		<language>nl</language>
+		
+		
+		
+			<copyright>OKRA-Eke</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/okra/overview/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Overzicht</title>
+				<link>http://localhost:1313/okra/overview/_index-xps17s-conflicted-copy-2026-06-14/</link>
+				<pubDate>Wed, 08 Apr 2026 17:16:33 +0100</pubDate>
+				<guid>http://localhost:1313/okra/overview/_index-xps17s-conflicted-copy-2026-06-14/</guid>
+				<description>&lt;h2&gt;Juni 2026&lt;/h2&gt;&#xA;&lt;!--&#xA;.link sessions/2026-06-15/index.md/&#xA;--&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/okra/sessions/2026-06-15/&#34;&gt;Schaken op 15-06-2026&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;sessions/2026-06-15/index.md&#34;);&#39;&gt;(sessie)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.link articles/ziek/index.md/&#xA;--&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/ziek/&#34;&gt;Schaken en ziek zijn&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/ziek/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.link articles/chessclassicromania/index.md/&#xA;--&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/chessclassicromania/&#34;&gt;Grand Chess Tour: Super Chess Classic Romania 2026&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/chessclassicromania/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.link articles/friedliver/index.md/&#xA;--&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/friedliver/&#34;&gt;De fried liver attack en schaakmat door rokade&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/friedliver/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;h2&gt;Mei 2026&lt;/h2&gt;&#xA;&lt;!--&#xA;.link articles/timman/index.md/&#xA;--&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/timman/&#34;&gt;Jan Timman&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/timman/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.link articles/triangulatie/index.md/&#xA;--&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/triangulatie/&#34;&gt;Triangulatie&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/triangulatie/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.link games/group10/index.md/&#xA;--&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/okra/games/group10/&#34;&gt;OKRA Eke tegen een sterke tegenstander&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;games/group10/index.md&#34;);&#39;&gt;(partij)&lt;/span&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
