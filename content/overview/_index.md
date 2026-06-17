@@ -10,6 +10,10 @@ weight = 1
 <h2>Juni 2026</h2>
 
 <!--
+.link articles/billionaire/index.md/
+-->
+[De billionaire en de schaker]({{< relref "/articles/billionaire/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/billionaire/index.md");'>(artikel)</span>
+<!--
 .link sessions/2026-06-15/index.md/
 -->
 [Schaken op 15-06-2026]({{< relref "/sessions/2026-06-15/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-06-15/index.md");'>(sessie)</span>
