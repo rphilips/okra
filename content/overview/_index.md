@@ -10,6 +10,18 @@ weight = 1
 <h2>Juni 2026</h2>
 
 <!--
+.link sessions/2026-06-29/index.md/
+-->
+[Schaken op 29-06-2026]({{< relref "/sessions/2026-06-29/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-06-29/index.md");'>(sessie)</span>
+<!--
+.link articles/intheopen/index.md/
+-->
+[Bibisarov en Sindarov]({{< relref "/articles/intheopen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/intheopen/index.md");'>(artikel)</span>
+<!--
+.link puzzles/beautiful/index.md/
+-->
+[Prachtige eindspel]({{< relref "/puzzles/beautiful/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/beautiful/index.md");'>(puzzel)</span>
+<!--
 .link articles/billionaire/index.md/
 -->
 [De billionaire en de schaker]({{< relref "/articles/billionaire/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/billionaire/index.md");'>(artikel)</span>

@@ -82,6 +82,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/okra/articles/intheopen/</loc>
+    <lastmod>2026-06-27T10:49:50+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/okra/articles/brain/</loc>
     <lastmod>2026-02-21T17:26:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -256,6 +261,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/okra/puzzles/beautiful/</loc>
+    <lastmod>2026-06-27T10:43:14+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/okra/articles/prague2026/</loc>
     <lastmod>2026-03-09T09:57:53+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -323,6 +333,11 @@
   </url><url>
     <loc>http://localhost:1313/okra/sessions/2026-03-23/</loc>
     <lastmod>2026-03-19T17:03:20+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/sessions/2026-06-29/</loc>
+    <lastmod>2026-06-27T11:12:41+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

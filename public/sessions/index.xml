@@ -69,5 +69,12 @@
 				<guid>http://localhost:1313/okra/sessions/2026-03-23/</guid>
 				<description>&lt;p&gt;Vandaag:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/candidates/&#34;&gt;Kandidaten tornooi 2026&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/kasparovprison/&#34;&gt;Kasparov in de gevangenis&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/oppositie/&#34;&gt;Oppositie van de koningen&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/pawnbasic/&#34;&gt;Basis pionneneindspelen&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Vrij schaken&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
+			<item>
+				<title>Schaken op 29-06-2026</title>
+				<link>http://localhost:1313/okra/sessions/2026-06-29/</link>
+				<pubDate>Sat, 27 Jun 2026 11:12:41 +0200</pubDate>
+				<guid>http://localhost:1313/okra/sessions/2026-06-29/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;.link articles/billionaire/index.md&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;.link articles/intheopen/index.md&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;.articles/triangulatie/index.md&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vrij schaken&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
 	</channel>
 </rss>
