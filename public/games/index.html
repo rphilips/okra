@@ -7,7 +7,7 @@
     <title>Partijen | Start</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="De laatste hobby die je ooit nodig hebt …">
-    <meta name="generator" content="Hugo 0.163.3">
+    <meta name="generator" content="Hugo 0.164.0">
     
     
     
@@ -289,35 +289,22 @@ var board = PGNV.pgnView('board', config);
 <!--
 .game game.pgn
 -->
+<style>
+    body {
+         background: var(--demo-bg, #161512);
+      --board-color: #d1bc01;
+      margin: 0;
+    }
+</style>
+<link href="/okra/js/lichess/pgn/lichess-pgn-viewer.css" type="text/css" rel="stylesheet" />
 <div id="board">&#160;</div>
-<script src="/js/pgnviewer.js"></script>
-<script src="https://rphilips.github.io/okra/js/pgnviewer.js"></script>
+<script type="module">
+    import { ViewPGN } from "/okra/js/lichess/pgn/one.js";
+    ViewPGN("game.pgn", "board");
+</script>
 <style>
 san   {color: black;}
 </style>
-<script>
-config = {
-pgn: `[Event "Princeton USA"]
-[Site "Princeton USA"]
-[Date "1933.??.??"]
-[Round "?"]
-[White "Albert Einstein"]
-[Black "Robert Oppenheimer"]
-[Result "1-0"]
-[EventDate "1933.??.??"]
-[ECO "C70"]
-[WhiteElo "?"]
-[BlackElo "?"]
-[PlyCount "47"]
-[Link "https://www.chess.com/blog/ThummimS/albert-einstein-vs-j-robert-oppenheimer"]
-
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. O-O Nxe4 7. Re1 d5 8. a4
-b4 9. d3 Nc5 10. Nxe5 Ne7 11. Qf3 f6 12. Qh5+ g6 13. Nxg6 hxg6 14. Qxh8 Nxb3 15.
-cxb3 Qd6 16. Bh6 Kd7 17. Bxf8 Bb7 18. Qg7 Re8 19. Nd2 c5 20. Rad1 a5 21. Nc4
-dxc4 22. dxc4 Qxd1 23. Rxd1+ Kc8 24. Bxe7 1-0`, position: 'start', showCoords: true, orientation: 'white', theme: 'blue', pieceStyle: 'wikipedia', figurine: 'merida', locale: 'en', timerTime: '', layout: 'top', showFen: false, coordsInner: false, manyGames: false, coordsFactor: '1.0', coordsFontSize: '', colorMarker: '', startPlay: '', hideMovesBefore: true, notation: 'long', notationLayout: 'list', resizable: true, headers: false,};
-
-var board = PGNV.pgnView('board', config);
-</script>
     </div>
     <a href="/okra/games/einsteinoppenheimer/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
   </div>

@@ -74,7 +74,7 @@
 				<link>http://localhost:1313/okra/sessions/2026-06-29/</link>
 				<pubDate>Sat, 27 Jun 2026 11:12:41 +0200</pubDate>
 				<guid>http://localhost:1313/okra/sessions/2026-06-29/</guid>
-				<description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;.link articles/billionaire/index.md&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;.link articles/intheopen/index.md&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;.articles/triangulatie/index.md&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vrij schaken&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+				<description>&lt;!--&#xA;- .link articles/billionaire/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/billionaire/&#34;&gt;De billionaire en de schaker&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/billionaire/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link articles/intheopen/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/intheopen/&#34;&gt;Bibisarov en Sindarov&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/intheopen/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;.articles/triangulatie/index.md&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vrij schaken&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
 </rss>
