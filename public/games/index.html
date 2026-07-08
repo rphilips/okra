@@ -270,41 +270,31 @@ var board = PGNV.pgnView('board', config);
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-.image einsteinoppenheimer.jpg
--->
-<p><img src="/okra/games/einsteinoppenheimer/einsteinoppenheimer.jpg" alt=""></p>
+      <p><img src="/okra/games/einsteinoppenheimer/einsteinoppenheimer.jpg" alt=""></p>
 <p>Met <a href="https://nl.wikipedia.org/wiki/Albert_Einstein">Einstein</a> en <a href="https://nl.wikipedia.org/wiki/Robert_Oppenheimer">Oppenheimer</a> namen 2 groten uit de wereld van de natuurkunde het tegen elkaar op!</p>
-<!--
-.tube https://www.youtube.com/watch?v=XatlMI8XBFE
--->
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<p><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/XatlMI8XBFE?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
 		</div>
 
-<!--
-.dropbox https://www.dropbox.com/scl/fi/un2yf7h5o2yp252x83zco/Einstein_DESTROYED_Oppenheimer_in_17_Moves.mp4?rlkey=btczuetu5hsrvkf4wt0r2aiyq&st=t60qyu9t&dl=0
--->
-<p>Je kan de video ook bekijken op <a href="https://www.dropbox.com/scl/fi/un2yf7h5o2yp252x83zco/Einstein_DESTROYED_Oppenheimer_in_17_Moves.mp4?rlkey=btczuetu5hsrvkf4wt0r2aiyq&amp;st=t60qyu9t&amp;dl=0">dropbox</a></p>
+Je kan de video ook bekijken op <a href="https://www.dropbox.com/scl/fi/un2yf7h5o2yp252x83zco/Einstein_DESTROYED_Oppenheimer_in_17_Moves.mp4?rlkey=btczuetu5hsrvkf4wt0r2aiyq&amp;st=t60qyu9t&amp;dl=0">dropbox</a></p>
 <!--
 .game game.pgn
 -->
+<!-- Game begin -->
+<link href="/okra/js/lichess/pgn/lichess-pgn-viewer.css" type="text/css" rel="stylesheet" />
 <style>
     body {
          background: var(--demo-bg, #161512);
-      --board-color: #d1bc01;
+      --board-color: #f1e14e;
       margin: 0;
     }
 </style>
-<link href="/okra/js/lichess/pgn/lichess-pgn-viewer.css" type="text/css" rel="stylesheet" />
-<div id="board">&#160;</div>
+<div id="game">&#160;</div>
 <script type="module">
     import { ViewPGN } from "/okra/js/lichess/pgn/one.js";
-    ViewPGN("game.pgn", "board");
+    ViewPGN("game.pgn", "game");
 </script>
-<style>
-san   {color: black;}
-</style>
+<!-- Game end -->
     </div>
     <a href="/okra/games/einsteinoppenheimer/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
   </div>

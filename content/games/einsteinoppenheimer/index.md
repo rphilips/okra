@@ -3,51 +3,43 @@ date = '2026-05-17T14:05:06+02:00'
 title = 'Einstein versus Oppenheimer (1933)'
 +++
 
-<!--
-.image einsteinoppenheimer.jpg
--->
 ![](einsteinoppenheimer.jpg)
 
 Met [Einstein](https://nl.wikipedia.org/wiki/Albert_Einstein) en [Oppenheimer](https://nl.wikipedia.org/wiki/Robert_Oppenheimer) namen 2 groten uit de wereld van de natuurkunde het tegen elkaar op!
 
 
 
-<!--
-.tube https://www.youtube.com/watch?v=XatlMI8XBFE
--->
 {{< youtube XatlMI8XBFE >}}
-<!--
-.dropbox https://www.dropbox.com/scl/fi/un2yf7h5o2yp252x83zco/Einstein_DESTROYED_Oppenheimer_in_17_Moves.mp4?rlkey=btczuetu5hsrvkf4wt0r2aiyq&st=t60qyu9t&dl=0
--->
 Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/un2yf7h5o2yp252x83zco/Einstein_DESTROYED_Oppenheimer_in_17_Moves.mp4?rlkey=btczuetu5hsrvkf4wt0r2aiyq&st=t60qyu9t&dl=0)
+
+
+
 <!--
 .game game.pgn
 -->
+
+<!-- Game begin -->
+<link href="/okra/js/lichess/pgn/lichess-pgn-viewer.css" type="text/css" rel="stylesheet" />
 <style>
     body {
          background: var(--demo-bg, #161512);
-      --board-color: #d1bc01;
+      --board-color: #f1e14e;
       margin: 0;
     }
 </style>
-
-
-<link href="/okra/js/lichess/pgn/lichess-pgn-viewer.css" type="text/css" rel="stylesheet" />
-
-
-
-
-<div id="board">&#160;</div>
-
+<div id="game">&#160;</div>
 <script type="module">
     import { ViewPGN } from "/okra/js/lichess/pgn/one.js";
-    ViewPGN("game.pgn", "board");
+    ViewPGN("game.pgn", "game");
 </script>
+<!-- Game end -->
 
 
-<style>
-san   {color: black;}
-</style>
+
+
+
+
+
 
 
 
