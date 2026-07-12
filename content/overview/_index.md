@@ -7,6 +7,18 @@ weight = 1
 
 
 
+<h2>Juli 2026</h2>
+
+<!--
+.link articles/tragischengroots/index.md/
+-->
+[Tal: tragisch en groots]({{< relref "/articles/tragischengroots/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/tragischengroots/index.md");'>(artikel)</span>
+<!--
+.link sessions/2026-07-13/index.md/
+-->
+[Schaken op 13-07-2026]({{< relref "/sessions/2026-07-13/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-07-13/index.md");'>(sessie)</span>
+
+
 <h2>Juni 2026</h2>
 
 <!--

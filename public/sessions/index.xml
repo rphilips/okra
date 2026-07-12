@@ -42,6 +42,13 @@
 				<description>&lt;p&gt;Vandaag:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/prague2026/&#34;&gt;Prague International Chess Festival 2026&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/puzzles/chain/&#34;&gt;Puzzel&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/games/greco/&#34;&gt;Italiaanse partij door Gioachino Greco&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Vrij schaken&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
+				<title>Schaken op 13-07-2026</title>
+				<link>http://localhost:1313/okra/sessions/2026-07-13/</link>
+				<pubDate>Sun, 12 Jul 2026 14:18:56 +0200</pubDate>
+				<guid>http://localhost:1313/okra/sessions/2026-07-13/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Onze website&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link articles/intheopen/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/intheopen/&#34;&gt;Bibisarov en Sindarov&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/intheopen/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link articles/tragischengroots/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/tragischengroots/&#34;&gt;Tal: tragisch en groots&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/tragischengroots/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;li&gt;Een 15&amp;rsquo;+10&amp;rsquo;&amp;rsquo; partij op chess.com&lt;/li&gt;&#xA;&lt;li&gt;Vrij schaken&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
 				<title>Schaken op 15-06-2026</title>
 				<link>http://localhost:1313/okra/sessions/2026-06-15/</link>
 				<pubDate>Sun, 14 Jun 2026 16:17:12 +0200</pubDate>
