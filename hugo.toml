@@ -1,5 +1,5 @@
 baseURL = 'https://rphilips.github.io/okra'
-languageCode = 'nl'
+
 title = "Schaken bij OKRA-Eke"
 theme = 'ananke'
 copyright = 'OKRA-Eke'

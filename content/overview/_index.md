@@ -1,5 +1,5 @@
 +++
-date = '2026-04-08T17:16:33+01:00'
+date = '2026-08-07T16:14:27+02:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 1
@@ -7,8 +7,36 @@ weight = 1
 
 
 
+<h2>Augustus 2026</h2>
+
+<!--
+.link articles/worldchamps/index.md/
+-->
+[De wereldkampioenen tot augustus 2026]({{< relref "/articles/worldchamps/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/worldchamps/index.md");'>(artikel)</span>
+<!--
+.link puzzles/rvq2/index.md/
+-->
+[Torens versus Dame studies (2)]({{< relref "/puzzles/rvq2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq2/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/rvq1/index.md/
+-->
+[Torens versus Dame studies]({{< relref "/puzzles/rvq1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq1/index.md");'>(puzzel)</span>
+
+
 <h2>Juli 2026</h2>
 
+<!--
+.link games/marshallcapablanca/index.md/
+-->
+[Marshall Attack]({{< relref "/games/marshallcapablanca/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/marshallcapablanca/index.md");'>(partij)</span>
+<!--
+.link puzzles/Sivanandan/index.md/
+-->
+[Bodhana Sivanandan]({{< relref "/puzzles/Sivanandan/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/Sivanandan/index.md");'>(puzzel)</span>
+<!--
+.link articles/polgar2/index.md/
+-->
+[Polgar for president]({{< relref "/articles/polgar2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/polgar2/index.md");'>(artikel)</span>
 <!--
 .link articles/tragischengroots/index.md/
 -->
@@ -209,6 +237,10 @@ weight = 1
 .link sessions/2026-04-06/index.md/
 -->
 [Schaken op 06-04-2026]({{< relref "/sessions/2026-04-06/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-04-06/index.md");'>(sessie)</span>
+<!--
+.link articles/kuleuven/index.md/
+-->
+[KU Leuven-studie toont hoe expertise het brein hertekent]({{< relref "/articles/kuleuven/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/kuleuven/index.md");'>(artikel)</span>
 <!--
 .link articles/oebekistan/index.md/
 -->

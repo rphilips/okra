@@ -1,0 +1,39 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1918.10.23"]
+[Round "1"]
+[White "Jose Raul Capablanca"]
+[Black "Frank James Marshall"]
+[Result "1-0"]
+[EventDate "1918.10.23"]
+[ECO "C89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+[Link "https://www.chess.com/blog/kahns/a-century-of-chess-new-york-1918"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 {In a somewhat mysterious game against Walter Frere, likely
+played in 1917, Marshall played 9...e4.} 10. Nxe5 {\"I decided that I was in
+honor bound, so to speak, to take the pawn and accept the challenge, as my
+knowledge and judgment told me that my position should then be defensible,\"
+Capablanca wrote.} 10... Nxe5 11. Rxe5 Nf6 {Later, of course, 11...c6 would
+become the more common move.} 12. Re1 Bd6 13. h3 Ng4 {This line hasn't been
+repeated much since this game. The point is that if 14.hxg4 Qh4 15.g3 Bxg3
+16.fxg3 Qxg3+ 17.Kf1 Bxg4 wins, although a wild-and-crazy line has been deeply
+analyzed involving 15.Qf3 Qh2+ 16.Kf1 Bxg4 17.Qxg4 Qh1+ 18.Ke2 Rae8+ when the
+startling 19.Be6 $3 actually wins for white.} 14. Qf3 Qh4 15. d4 {15.Re8 leads to
+nothing after 15...Bb7} 15... Nxf2 {The critical moment of the game. Black
+retains pressure with 15...h5.} 16. Re2 {Likely, what Marshall had in mind was
+16.Qxf2 when 16...Bg3 $4 loses to 17.Qxf7+ $1 but first 16...Bh2+ $1 17.Kf1 Bg3 would
+allow black to retake with check after 18.Qxf7+} 16... Bg4 {After white's simple
+reply, the knight is trapped, so Marshall keeps sacrificing.} 17. hxg4 Bh2+ 18.
+Kf1 Bg3 {Every move here is complicated. Black could play 18...Nh1 $5 but after
+19.Re3 Ng3+ 20.Ke1 white is ok.} 19. Rxf2 Qh1+ 20. Ke2 Bxf2 21. Bd2 Bh4 22. Qh3
+Rae8+ 23. Kd3 {Capablanca is staying amazingly composed through a long,
+difficult defense.} 23... Qf1+ 24. Kc2 Bf2 25. Qf3 Qg1 26. Bd5 c5 27. dxc5 Bxc5
+28. b4 Bd6 29. a4 a5 30. axb5 axb4 31. Ra6 {Finally, on move 31, white develops
+his queenside.} 31... bxc3 32. Nxc3 Bb4 33. b6 Bxc3 34. Bxc3 h6 35. b7 Re3 36.
+Bxf7+ {Capablanca prevails but the win is far from pretty or smooth. It's fairly
+clear, even from this game, that white's laggard queenside development gives
+black plenty of compensation for the pawn.} 1-0

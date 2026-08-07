@@ -1,14 +1,10 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/okra/overview/_index-xps17s-conflicted-copy-2026-06-14/</loc>
-    <lastmod>2026-04-08T17:16:33+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/okra/overview/</loc>
-    <lastmod>2026-04-08T17:16:33+01:00</lastmod>
+    <lastmod>2026-08-07T16:11:49+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -87,6 +83,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/okra/puzzles/sivanandan/</loc>
+    <lastmod>2026-07-29T18:49:01+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/okra/articles/brain/</loc>
     <lastmod>2026-02-21T17:26:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -123,6 +124,11 @@
   </url><url>
     <loc>http://localhost:1313/okra/puzzles/amazing/</loc>
     <lastmod>2026-04-09T13:40:52+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/articles/worldchamps/</loc>
+    <lastmod>2026-08-07T15:58:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -206,6 +212,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/okra/articles/kuleuven/</loc>
+    <lastmod>2026-04-05T12:55:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/okra/articles/barden/</loc>
     <lastmod>2026-03-19T15:21:16+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -213,6 +224,11 @@
   </url><url>
     <loc>http://localhost:1313/okra/articles/words/</loc>
     <lastmod>2026-03-26T12:33:52+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/games/marshallcapablanca/</loc>
+    <lastmod>2026-07-29T22:30:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -258,6 +274,11 @@
   </url><url>
     <loc>http://localhost:1313/okra/articles/pionpionoef/</loc>
     <lastmod>2026-05-03T11:33:58+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/articles/polgar2/</loc>
+    <lastmod>2026-07-20T19:04:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -367,6 +388,16 @@
   </url><url>
     <loc>http://localhost:1313/okra/puzzles/testendgame/</loc>
     <lastmod>2026-05-13T13:19:01+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/puzzles/rvq1/</loc>
+    <lastmod>2026-08-03T18:10:36+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/puzzles/rvq2/</loc>
+    <lastmod>2026-08-03T18:10:36+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
