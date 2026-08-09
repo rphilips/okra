@@ -1,5 +1,5 @@
 +++
-date = '2026-08-07T16:14:27+02:00'
+date = '2026-08-09T13:28:42+02:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 1
@@ -10,6 +10,10 @@ weight = 1
 <h2>Augustus 2026</h2>
 
 <!--
+.link sessions/2026-08-10/index.md/
+-->
+[Schaken op 10-08-2026]({{< relref "/sessions/2026-08-10/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-08-10/index.md");'>(sessie)</span>
+<!--
 .link articles/worldchamps/index.md/
 -->
 [De wereldkampioenen tot augustus 2026]({{< relref "/articles/worldchamps/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/worldchamps/index.md");'>(artikel)</span>
@@ -18,9 +22,13 @@ weight = 1
 -->
 [Torens versus Dame studies (2)]({{< relref "/puzzles/rvq2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq2/index.md");'>(puzzel)</span>
 <!--
+.link puzzles/rvq3/index.md/
+-->
+[Torens versus Dame studies (3)]({{< relref "/puzzles/rvq3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq3/index.md");'>(puzzel)</span>
+<!--
 .link puzzles/rvq1/index.md/
 -->
-[Torens versus Dame studies]({{< relref "/puzzles/rvq1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq1/index.md");'>(puzzel)</span>
+[Torens versus Dame studies (1)]({{< relref "/puzzles/rvq1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq1/index.md");'>(puzzel)</span>
 
 
 <h2>Juli 2026</h2>

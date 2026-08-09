@@ -1,6 +1,6 @@
 +++
 date = '2026-08-03T18:10:36+02:00'
-title = 'Torens versus Dame studies'
+title = 'Torens versus Dame studies (1)'
 +++
 
 Ach, virtuele vakantie in de Loire streek...
