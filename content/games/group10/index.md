@@ -3,14 +3,17 @@ date = '2026-05-19T11:51:16+02:00'
 title = 'OKRA Eke tegen een sterke tegenstander'
 +++
 
+
 <!--
 .diagram 8/8/4k3/4Pp1p/p1p2PpP/P1Pp2P1/3K4/8 w - - 10 49
 -->
 <div style='cursor:pointer' onclick='navigator.clipboard.writeText("8/8/4k3/4Pp1p/p1p2PpP/P1Pp2P1/3K4/8 w - - 10 49"); return false'>
 
-![](9ea3552e.svg)
+![](8x8x4k3x4Pp1pxp1p2PpPxP1Pp2P1x3K4x8zwzuzuz10z49.svg)
 
 </div>
+
+
 
 De eindstelling is een mooi voorbeeld van de kracht van het vierkant: Wit kan het vierkant van pion d3 niet verlaten en Zwart is gebonden aan pion e5.
 
@@ -20,58 +23,25 @@ Dit is echt een moeilijke opdracht: er is weinig tijd om te discussieren.
 
 De partij werd een eervolle remise.
 
+
 <!--
 .game game.pgn
 -->
-<div id="board">&#160;</div>
 
-<script src="/js/pgnviewer.js"></script>
-<script src="https://rphilips.github.io/okra/js/pgnviewer.js"></script>
+<!-- Game begin -->
+<link href="/okra/js/lichess/pgn/lichess-pgn-viewer.css" type="text/css" rel="stylesheet" />
 <style>
-san   {color: black;}
+    body {
+         background: var(--demo-bg, #161512);
+      --board-color: #f1e14e;
+      margin: 0;
+    }
 </style>
-
-<script>
-config = {
-pgn: `[Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2026.05.18"]
-[Round "-"]
-[White "rphilips"]
-[Black "aim-vk5"]
-[Result "1/2-1/2"]
-[CurrentPosition "8/8/4k3/4Pp1p/p1p2PpP/P1Pp2P1/3K4/8 w - - 10 49"]
-[Timezone "UTC"]
-[ECO "A00"]
-[ECOUrl "https://www.chess.com/openings/Van-Geet-Opening-1...Nc6-2.d4-d5"]
-[UTCDate "2026.05.18"]
-[UTCTime "12:44:08"]
-[WhiteElo "2300"]
-[BlackElo "2279"]
-[TimeControl "900+10"]
-[Termination "Game drawn by repetition"]
-[StartTime "12:44:08"]
-[EndDate "2026.05.18"]
-[EndTime "13:28:08"]
-[Link "https://www.chess.com/analysis/game/live/168880791726/analysis?move=95"]
-[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/2854279.227ace4a.50x50o.cc78272baa06.jpg"]
-[WhiteCountry "5"]
-[WhiteTitle ""]
-[BlackUrl "https://images.chesscomfiles.com/uploads/v1/user/540402183.f22fb480.50x50o.9d9de339093d.jpg"]
-[BlackCountry "69"]
-[BlackTitle ""]
-
-1. d4 d5 2. Nc3 Nc6 3. Bf4 a6 4. Nf3 Bg4 5. e3 e6 6. Be2 Bd6 7. Bg3 f5 8. Ne5
-Bxe2 9. Nxc6 Bxd1 10. Nxd8 Rxd8 11. Rxd1 g5 12. Be5 Bxe5 $1 13. dxe5 Ne7 14. h4 g4
-15. f4 h5 $6 16. a4 c5 17. Ra1 $6 b6 $6 18. Ke2 d4 19. Nd1 $2 Nd5 $9 20. g3 Nb4 $6 21.
-c3 $1 Nc2 22. Rc1 $6 d3+ $1 23. Kd2 c4 24. Nf2 $2 Ke7 $9 25. e4 $9 b5 $1 26. exf5 exf5 27.
-Nd1 bxa4 28. Ne3 $2 Nxe3 29. Kxe3 Rb8 30. Rh2 Rb3 $2 31. Ra1 $1 a3 32. Rxa3 Rxa3 33.
-bxa3 Rd8 34. Rd2 Ke6 35. Rb2 Kd5 36. Rb4 a5 37. Rb5+ Kc6 38. Rb1 $2 Rd7 $9 39. Kd2
-Rb7 40. Rxb7 Kxb7 41. Ke3 Kc6 42. Kd2 Kd5 43. Kd1 a4 44. Kd2 Ke6 45. Ke3 Ke7 46.
-Kd2 Ke6 47. Ke3 Kd7 48. Kd2 Ke6 1/2-1/2`, position: 'start', showCoords: true, orientation: 'white', theme: 'blue', pieceStyle: 'wikipedia', figurine: 'merida', locale: 'en', timerTime: '', layout: 'top', showFen: false, coordsInner: false, manyGames: false, coordsFactor: '1.0', coordsFontSize: '', colorMarker: '', startPlay: '', hideMovesBefore: true, notation: 'long', notationLayout: 'list', resizable: true, headers: false,};
-
-var board = PGNV.pgnView('board', config);
+<div id="game">&#160;</div>
+<script type="module">
+    import { ViewPGN } from "/okra/js/lichess/pgn/one.js";
+    ViewPGN("game.pgn", "game");
 </script>
-
+<!-- Game end -->
 
 
