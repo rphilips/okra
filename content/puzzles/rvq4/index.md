@@ -13,7 +13,7 @@ Het Château de Chambord is het grootste kasteel van de Loirevallei. Voor velen 
 
 Dergelijk kasteel verdient een buitengewone puzzel.
 
-De kern van de puzzel zijn de pat-dreigingen die de dame partije kan opzetten.
+De kern van de puzzel zijn de pat-dreigingen die de dame partij kan opzetten.
 
 
 
