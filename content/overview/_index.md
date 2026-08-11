@@ -1,5 +1,5 @@
 +++
-date = '2026-08-09T18:52:14+02:00'
+date = '2026-08-11T17:35:05+02:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 1
@@ -9,6 +9,14 @@ weight = 1
 
 <h2>Augustus 2026</h2>
 
+<!--
+.link puzzles/rvq5/index.md/
+-->
+[Torens versus Dame studies (5)]({{< relref "/puzzles/rvq5/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq5/index.md");'>(puzzel)</span>
+<!--
+.link games/tworooksacrifice/index.md/
+-->
+[Laten we twee torens offeren ...]({{< relref "/games/tworooksacrifice/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/tworooksacrifice/index.md");'>(partij)</span>
 <!--
 .link puzzles/rvq4/index.md/
 -->
