@@ -1,5 +1,5 @@
 +++
-date = '2026-08-13T10:53:14+02:00'
+date = '2026-08-14T18:43:29+02:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 1
@@ -9,6 +9,18 @@ weight = 1
 
 <h2>Augustus 2026</h2>
 
+<!--
+.link articles/arrogant/index.md/
+-->
+[Is Carlsen arrogant ?]({{< relref "/articles/arrogant/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/arrogant/index.md");'>(artikel)</span>
+<!--
+.link articles/liedetector/index.md/
+-->
+[Magnus en Hikaru aan de leugendetector]({{< relref "/articles/liedetector/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/liedetector/index.md");'>(artikel)</span>
+<!--
+.link articles/marriage/index.md/
+-->
+[Was jij uitgenodigd op het huwelijk van Magnus?]({{< relref "/articles/marriage/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/marriage/index.md");'>(artikel)</span>
 <!--
 .link games/vete/index.md/
 -->
@@ -42,13 +54,13 @@ weight = 1
 -->
 [De wereldkampioenen tot augustus 2026]({{< relref "/articles/worldchamps/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/worldchamps/index.md");'>(artikel)</span>
 <!--
-.link puzzles/rvq2/index.md/
--->
-[Torens versus Dame studies (2)]({{< relref "/puzzles/rvq2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq2/index.md");'>(puzzel)</span>
-<!--
 .link puzzles/rvq1/index.md/
 -->
 [Torens versus Dame studies (1)]({{< relref "/puzzles/rvq1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq1/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/rvq2/index.md/
+-->
+[Torens versus Dame studies (2)]({{< relref "/puzzles/rvq2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq2/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/rvq3/index.md/
 -->

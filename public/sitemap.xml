@@ -4,7 +4,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/okra/overview/</loc>
-    <lastmod>2026-08-13T10:53:14+02:00</lastmod>
+    <lastmod>2026-08-14T18:43:29+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -187,6 +187,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/okra/articles/arrogant/</loc>
+    <lastmod>2026-08-14T18:39:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/okra/articles/timman/</loc>
     <lastmod>2026-05-19T17:23:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -229,6 +234,11 @@
   </url><url>
     <loc>http://localhost:1313/okra/articles/words/</loc>
     <lastmod>2026-03-26T12:33:52+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/articles/liedetector/</loc>
+    <lastmod>2026-08-14T17:44:39+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -463,6 +473,11 @@
   </url><url>
     <loc>http://localhost:1313/okra/articles/carlsengood2/</loc>
     <lastmod>2026-05-17T14:24:49+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/articles/marriage/</loc>
+    <lastmod>2026-08-14T17:41:57+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
