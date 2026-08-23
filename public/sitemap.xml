@@ -4,7 +4,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/okra/overview/</loc>
-    <lastmod>2026-08-14T18:43:29+02:00</lastmod>
+    <lastmod>2026-08-23T15:40:23+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -119,6 +119,11 @@
   </url><url>
     <loc>http://localhost:1313/okra/articles/friedliver/</loc>
     <lastmod>2026-06-12T06:46:02+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/games/game6/</loc>
+    <lastmod>2026-08-23T15:09:29+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -384,6 +389,11 @@
   </url><url>
     <loc>http://localhost:1313/okra/sessions/2026-03-23/</loc>
     <lastmod>2026-03-19T17:03:20+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/sessions/2026-08-24/</loc>
+    <lastmod>2026-08-23T15:01:19+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
