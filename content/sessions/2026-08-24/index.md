@@ -15,4 +15,8 @@ title = 'Schaken op 24-08-2026'
 - .link games/game6/index.md
 -->
 - [De legendarische zesde partij (1)]({{< relref "/games/game6/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/game6/index.md");'>(partij)</span>
+<!--
+- .link puzzles/kasparyan/index.md
+-->
+- [Genrikh Kasparyan]({{< relref "/puzzles/kasparyan/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/kasparyan/index.md");'>(puzzel)</span>
 - Vrij schaken
