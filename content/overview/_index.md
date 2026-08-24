@@ -1,5 +1,5 @@
 +++
-date = '2026-08-23T16:48:16+02:00'
+date = '2026-08-24T19:14:20+02:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 1
@@ -9,6 +9,10 @@ weight = 1
 
 <h2>Augustus 2026</h2>
 
+<!--
+.link articles/7sins/index.md/
+-->
+[De 7 doodzonden van het schaken]({{< relref "/articles/7sins/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/7sins/index.md");'>(artikel)</span>
 <!--
 .link puzzles/kasparyan/index.md/
 -->

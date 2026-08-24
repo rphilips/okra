@@ -1,0 +1,12 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/1p2qppp/p1pnbn2/3p4/BP1P4/P3BQ2/2P1NPPP/3R1RK1 w - - 0 1"]
+[Link "https://www.chess.com/analysis/game/pgn/21rdMZiY8v/analysis"]
+
+1. Qg3 $2 h6 $6 2. Bxh6 $4 Nf5 $1 *
