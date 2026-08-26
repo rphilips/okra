@@ -1,5 +1,5 @@
 +++
-date = '2026-08-24T19:14:20+02:00'
+date = '2026-08-26T15:02:38+02:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 1
@@ -9,6 +9,10 @@ weight = 1
 
 <h2>Augustus 2026</h2>
 
+<!--
+.link articles/karpovoncarlsen/index.md/
+-->
+[Karpov en de jonge Magnus]({{< relref "/articles/karpovoncarlsen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/karpovoncarlsen/index.md");'>(artikel)</span>
 <!--
 .link articles/7sins/index.md/
 -->
