@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="nl">
-  <head><script src="/okra/livereload.js?mindelay=10&amp;v=2&amp;port=41563&amp;path=okra/livereload" data-no-instant defer></script>
+  <head><script src="/okra/livereload.js?mindelay=10&amp;v=2&amp;port=35965&amp;path=okra/livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
@@ -15,14 +15,78 @@
     
     
 
+    <link rel="stylesheet" href="/okra/ananke/css/main.css">
+    <script>
+  (function () {
+    "use strict";
+
     
-<link rel="stylesheet" href="/okra/ananke/css/main.min.css" >
-
-
-
-
     
+    function revealButtons() {
+      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].hidden = false;
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", revealButtons);
+    } else {
+      revealButtons();
+    }
 
+    function flash(button) {
+      var label = button.querySelector(".code-copy-label");
+      var previous = label ? label.textContent : null;
+      button.classList.add("is-copied");
+      if (label) label.textContent = "Copied";
+      window.setTimeout(function () {
+        button.classList.remove("is-copied");
+        if (label && previous !== null) label.textContent = previous;
+      }, 2000);
+    }
+
+    function legacyCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    function copyFrom(button) {
+      var container = button.closest(".code-block");
+      if (!container) return;
+      var pre = container.querySelector("pre");
+      if (!pre) return;
+      var source = pre.querySelector("code") || pre;
+      var text = source.innerText;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () { flash(button); },
+          function () { if (legacyCopy(text)) flash(button); }
+        );
+      } else if (legacyCopy(text)) {
+        flash(button);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      var button = event.target.closest(".code-copy");
+      if (button) copyFrom(button);
+    });
+  })();
+</script>
 
     
       
@@ -39,12 +103,12 @@
     
 
     
-      <link rel="canonical" href="http://localhost:41563/okra/sessions/">
+      <link rel="canonical" href="http://localhost:35965/okra/sessions/">
     
 
     
     
-    <meta property="og:url" content="http://localhost:41563/okra/sessions/">
+    <meta property="og:url" content="http://localhost:35965/okra/sessions/">
 	<meta property="og:site_name" content="Start">
 	<meta property="og:title" content="Sessies">
 	<meta property="og:description" content="De laatste hobby die je ooit nodig hebt …">
@@ -59,14 +123,13 @@
 	<meta name="twitter:title" content="Sessies">
 	<meta name="twitter:description" content="De laatste hobby die je ooit nodig hebt …">
 
-	<link rel="alternate" type="application/rss+xml" href="http://localhost:41563/okra/sessions/index.xml" title="Start" />
-
+	
   </head><body class="ma0 avenir bg-near-white development is-section is-section">
-    
 
   
   
-  <header class="cover bg-top" style="background-image: url('http://localhost:41563/okra/images/sessions.jpg');">
+  
+  <header class="cover bg-top" style="background-image: url('http://localhost:35965/okra/images/sessions.jpg');">
     
     <div class="bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
@@ -141,440 +204,21 @@
     </div>
   </header>
 
-
-    <main class="pb7" role="main">
-      
+<main class="pb7" role="main">
+  
+  
 
   <article class="pa3 pa4-ns nested-copy-line-height">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links mid-gray">
-      
-    </section>
-    <aside class="flex-ns mt5 flex-wrap justify-around">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links mid-gray"></section>
+    <section class="flex-ns mt5 flex-wrap justify-around">
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Sessies</span>
     
-      <div class="f6">
-        augustus 23, 2026
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="/okra/sessions/2026-08-24/" class="link black dim">
-        Schaken op 24-08-2026
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-- .link articles/marriage/index.md
--->
-<ul>
-<li><a href="/okra/articles/marriage/">Was jij uitgenodigd op het huwelijk van Magnus?</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/marriage/index.md");'>(artikel)</span></li>
-</ul>
-<!--
-- .link articles/liedetector/index.md
--->
-<ul>
-<li><a href="/okra/articles/liedetector/">Magnus en Hikaru aan de leugendetector</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/liedetector/index.md");'>(artikel)</span></li>
-</ul>
-<!--
-- .link games/game6/index.md
--->
-<ul>
-<li><a href="/okra/games/game6/">De legendarische zesde partij (1)</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/game6/index.md");'>(partij)</span></li>
-</ul>
-<!--
-- .link puzzles/kasparyan/index.md
--->
-<ul>
-<li><a href="/okra/puzzles/kasparyan/">Genrikh Kasparyan</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/kasparyan/index.md");'>(puzzel)</span></li>
-<li>Vrij schaken</li>
-</ul>
-    </div>
-  <a href="/okra/sessions/2026-08-24/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        augustus 9, 2026
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="/okra/sessions/2026-08-10/" class="link black dim">
-        Schaken op 10-08-2026
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-- .link articles/worldchamps
--->
-<ul>
-<li><a href="/okra/articles/worldchamps/">De wereldkampioenen tot augustus 2026</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/worldchamps");'>(artikel)</span></li>
-</ul>
-<!--
-- .link puzzles/rvq2
--->
-<ul>
-<li><a href="/okra/puzzles/rvq2/">Torens versus Dame studies (2)</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq2");'>(puzzel)</span></li>
-</ul>
-<!--
-- .link puzzles/rvq3
--->
-<ul>
-<li><a href="/okra/puzzles/rvq3/">Torens versus Dame studies (3)</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq3");'>(puzzel)</span></li>
-</ul>
-<!--
-- .link games/marshallcapablanca/index.md
--->
-<ul>
-<li><a href="/okra/games/marshallcapablanca/">Marshall Attack</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/marshallcapablanca/index.md");'>(partij)</span></li>
-<li>Vrij schaken</li>
-</ul>
-    </div>
-  <a href="/okra/sessions/2026-08-10/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        juli 12, 2026
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="/okra/sessions/2026-07-13/" class="link black dim">
-        Schaken op 13-07-2026
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <ul>
-<li>Onze website</li>
-</ul>
-<!--
-- .link articles/intheopen/index.md
--->
-<ul>
-<li><a href="/okra/articles/intheopen/">Bibisarov en Sindarov</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/intheopen/index.md");'>(artikel)</span></li>
-</ul>
-<!--
-- .link articles/tragischengroots/index.md
--->
-<ul>
-<li><a href="/okra/articles/tragischengroots/">Tal: tragisch en groots</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/tragischengroots/index.md");'>(artikel)</span></li>
-<li>Een 15&rsquo;+10&rsquo;&rsquo; partij op chess.com</li>
-<li>Vrij schaken</li>
-</ul>
-    </div>
-  <a href="/okra/sessions/2026-07-13/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        juni 27, 2026
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="/okra/sessions/2026-06-29/" class="link black dim">
-        Schaken op 29-06-2026
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-- .link articles/billionaire/index.md
--->
-<ul>
-<li><a href="/okra/articles/billionaire/">De billionaire en de schaker</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/billionaire/index.md");'>(artikel)</span></li>
-</ul>
-<!--
-- .link articles/intheopen/index.md
--->
-<ul>
-<li><a href="/okra/articles/intheopen/">Bibisarov en Sindarov</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/intheopen/index.md");'>(artikel)</span></li>
-</ul>
-<!--
-- .link articles/triangulatie/index.md
--->
-<ul>
-<li>
-<p><a href="/okra/articles/triangulatie/">Triangulatie</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/triangulatie/index.md");'>(artikel)</span></p>
-</li>
-<li>
-<p>Vrij schaken</p>
-</li>
-</ul>
-    </div>
-  <a href="/okra/sessions/2026-06-29/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        juni 14, 2026
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="/okra/sessions/2026-06-15/" class="link black dim">
-        Schaken op 15-06-2026
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-- .link articles/chessclassicromania/index.md
--->
-<ul>
-<li><a href="/okra/articles/chessclassicromania/">Grand Chess Tour: Super Chess Classic Romania 2026</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/chessclassicromania/index.md");'>(artikel)</span></li>
-</ul>
-<!--
-- .link sessions/capriolen/index.md
--->
-<ul>
-<li><a href="/okra/sessions/capriolen/">Richard&rsquo;s Capriolen</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/capriolen/index.md");'>(sessie)</span></li>
-<li>Vrij schaken</li>
-</ul>
-    </div>
-  <a href="/okra/sessions/2026-06-15/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        mei 18, 2026
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="/okra/sessions/capriolen/" class="link black dim">
-        Richard&#39;s Capriolen
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>Wij, clubschakers, weten dat het schaakspel tal van vreemde huisgenoten telt: promotie, pat, triangulatie, en passant, zugzwang.</p>
-<p>Jarenlang dacht ik dat deze concepten afbreuk deden aan het schaakspel: het waren mijns inziens overtollige opsmuk.</p>
-<p>Nu denk ik daar anders over: het zijn verfraaiingen die - passend geëtaleerd - voor vermaak kunnen zorgen.</p>
-<p>Laat ik even een en ander illustreren.</p>
-<!--
-- .link articles/friedliver/index.md
--->
-<ul>
-<li>
-<p><a href="/okra/articles/friedliver/">De fried liver attack en schaakmat door rokade</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/friedliver/index.md");'>(artikel)</span></p>
-    </div>
-  <a href="/okra/sessions/capriolen/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        mei 17, 2026
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="/okra/sessions/2026-05-18/" class="link black dim">
-        Schaken op 18-05-2026
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <ul>
-<li><a href="/okra/articles/sigeman2026/">TePe Sigeman chess tournament</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/sigeman2026/index.md");'>(artikel)</span></li>
-<li><a href="/okra/games/einsteinoppenheimer/">Einstein versus Oppenheimer (1933)</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/einsteinoppenheimer/index.md");'>(partij)</span></li>
-</ul>
-<!--
-- .link articles/carlsengood1/index.md
--->
-<ul>
-<li><a href="/okra/articles/carlsengood1/">Waarom speelt Carlsen zo sterk? (deel 1)</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood1/index.md");'>(artikel)</span></li>
-</ul>
-<!--
-- .link articles/carlsengood2/index.md
--->
-<ul>
-<li><a href="/okra/articles/carlsengood2/">Waarom speelt Carlsen zo sterk? (deel 2)</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood2/index.md");'>(artikel)</span></li>
-<li><a href="/okra/articles/wmeiden/">Clubspeler tegen beginnend schaker</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/wmeiden/index.md");'>(artikel)</span></li>
-<li>In groep schaken</li>
-<li>Vrij schaken</li>
-</ul>
-    </div>
-  <a href="/okra/sessions/2026-05-18/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        mei 3, 2026
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="/okra/sessions/2026-05-04/" class="link black dim">
-        Schaken op 04-05-2026
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-- .link articles/chesscomopen2026
--->
-<ul>
-<li><a href="/okra/articles/chesscomopen2026/">2026 Chess.com Open</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/chesscomopen2026");'>(artikel)</span></li>
-</ul>
-<!--
-- .link articles/pionpion1
--->
-<ul>
-<li><a href="/okra/articles/pionpion1/">Pion tegen pion: de dansende koningen</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/pionpion1");'>(artikel)</span></li>
-</ul>
-<!--
-- .link articles/pionpion2
--->
-<ul>
-<li><a href="/okra/articles/pionpion2/">Pionnen op dezelfde lijn 1</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/pionpion2");'>(artikel)</span></li>
-</ul>
-<!--
-- .link articles/pionpion3
--->
-<ul>
-<li><a href="/okra/articles/pionpion3/">Pionnen op dezelfde lijn 2</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/pionpion3");'>(artikel)</span></li>
-</ul>
-<!--
-- .link articles/pionpionoef
--->
-<ul>
-<li><a href="/okra/articles/pionpionoef/">Pionnen op dezelfde lijn: oefening</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/pionpionoef");'>(artikel)</span></li>
-<li>Vrij schaken</li>
-</ul>
-    </div>
-  <a href="/okra/sessions/2026-05-04/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        april 18, 2026
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="/okra/sessions/2026-04-20/" class="link black dim">
-        Schaken op 20-04-2026
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-- .link articles/kanman2026/index.md
--->
-<ul>
-<li><a href="/okra/articles/kanman2026/">Fide candidates 2026: Open</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/kanman2026/index.md");'>(artikel)</span></li>
-</ul>
-<!--
-- .link articles/kanwoman2026/index.md
--->
-<ul>
-<li><a href="/okra/articles/kanwoman2026/">Fide candidates 2026: Woman</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/kanwoman2026/index.md");'>(artikel)</span></li>
-</ul>
-<!--
-- .link articles/1dimchess/index.md
--->
-<ul>
-<li><a href="/okra/articles/1dimchess/">Schaken in 1-dimensie</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/1dimchess/index.md");'>(artikel)</span></li>
-</ul>
-<!--
-- .link puzzles/pion1/index.md
--->
-<ul>
-<li><a href="/okra/puzzles/pion1/">Basis pion eindspel 1</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzle)</span></li>
-</ul>
-<!--
-- .link puzzles/pion2/index.md
--->
-<ul>
-<li><a href="/okra/puzzles/pion2/">Basis pion eindspel 2</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion2/index.md");'>(puzzle)</span></li>
-</ul>
-<!--
-- .link puzzles/pion3/index.md
--->
-<ul>
-<li><a href="/okra/puzzles/pion3/">Basis pion eindspel 3</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion3/index.md");'>(puzzle)</span></li>
-</ul>
-<!--
-- .link puzzles/pion4/index.md
--->
-<ul>
-<li><a href="/okra/puzzles/pion4/">Basis pion eindspel 4</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion4/index.md");'>(puzzle)</span></li>
-</ul>
-<!--
-- .link puzzles/pion5/index.md
--->
-<ul>
-<li>
-<p><a href="/okra/puzzles/pion5/">Basis pion eindspel 5</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion5/index.md");'>(puzzle)</span></p>
-    </div>
-  <a href="/okra/sessions/2026-04-20/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        april 5, 2026
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="/okra/sessions/2026-04-06/" class="link black dim">
-        Schaken op 06-04-2026
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <ul>
-<li>
-<p><a href="/okra/articles/kan26week1/">Fide kandidaten tornooi: week 1</a></p>
-</li>
-<li>
-<p><a href="/okra/articles/oebekistan/">Oebekistan</a></p>
-</li>
-<li>
-<p><a href="/okra/games/2026r10/">Partij uit IC 2026</a></p>
-</li>
-<li>
-<p><a href="/okra/articles/pawnbasic/">Basis pionneneindspelen</a></p>
-</li>
-<li>
-<p>Vrij schaken</p>
-</li>
-</ul>
-    </div>
-  <a href="/okra/sessions/2026-04-06/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        maart 19, 2026
-      </div>
+      <time class="f6 db" datetime="2026-03-19T17:03:20+01:00">maart 19, 2026</time>
     
     <h1 class="f3 near-black">
       <a href="/okra/sessions/2026-03-23/" class="link black dim">
@@ -591,17 +235,19 @@
 <li>Vrij schaken</li>
 </ul>
     </div>
-  <a href="/okra/sessions/2026-03-23/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+    <a href="/okra/sessions/2026-03-23/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
   </div>
+</div>
 
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Sessies</span>
     
-      <div class="f6">
-        maart 9, 2026
-      </div>
+      <time class="f6 db" datetime="2026-03-09T10:19:18+01:00">maart 9, 2026</time>
     
     <h1 class="f3 near-black">
       <a href="/okra/sessions/2026-03-09/" class="link black dim">
@@ -617,13 +263,13 @@
 <li>Vrij schaken</li>
 </ul>
     </div>
-  <a href="/okra/sessions/2026-03-09/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+    <a href="/okra/sessions/2026-03-09/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
   </div>
+</div>
 
         </div>
       
-    </aside>
-    
+    </section>
     
 		<ul class="pagination pagination-default">
 			<li class="page-item">
@@ -644,20 +290,45 @@
 			<li class="page-item disabled">
 				<a aria-disabled="true" aria-label="Last" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&raquo;&raquo;</span></a>
 			</li>
-		</ul>
-  </article>
-
-    </main>
-    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+		</ul></article>
+</main><footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:41563/okra/" >
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:35965/okra/" >
     &copy;  OKRA-Eke 2026 
   </a>
     <div><div class="ananke-socials"></div>
 </div>
   </div>
 </footer>
-
-
-  </body>
+</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

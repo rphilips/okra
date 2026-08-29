@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="nl">
-  <head><script src="/okra/livereload.js?mindelay=10&amp;v=2&amp;port=41563&amp;path=okra/livereload" data-no-instant defer></script>
+  <head><script src="/okra/livereload.js?mindelay=10&amp;v=2&amp;port=35965&amp;path=okra/livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
@@ -15,14 +15,78 @@
     
     
 
+    <link rel="stylesheet" href="/okra/ananke/css/main.css">
+    <script>
+  (function () {
+    "use strict";
+
     
-<link rel="stylesheet" href="/okra/ananke/css/main.min.css" >
-
-
-
-
     
+    function revealButtons() {
+      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].hidden = false;
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", revealButtons);
+    } else {
+      revealButtons();
+    }
 
+    function flash(button) {
+      var label = button.querySelector(".code-copy-label");
+      var previous = label ? label.textContent : null;
+      button.classList.add("is-copied");
+      if (label) label.textContent = "Copied";
+      window.setTimeout(function () {
+        button.classList.remove("is-copied");
+        if (label && previous !== null) label.textContent = previous;
+      }, 2000);
+    }
+
+    function legacyCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    function copyFrom(button) {
+      var container = button.closest(".code-block");
+      if (!container) return;
+      var pre = container.querySelector("pre");
+      if (!pre) return;
+      var source = pre.querySelector("code") || pre;
+      var text = source.innerText;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () { flash(button); },
+          function () { if (legacyCopy(text)) flash(button); }
+        );
+      } else if (legacyCopy(text)) {
+        flash(button);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      var button = event.target.closest(".code-copy");
+      if (button) copyFrom(button);
+    });
+  })();
+</script>
 
     
       
@@ -39,12 +103,12 @@
     
 
     
-      <link rel="canonical" href="http://localhost:41563/okra/sessions/">
+      <link rel="canonical" href="http://localhost:35965/okra/sessions/">
     
 
     
     
-    <meta property="og:url" content="http://localhost:41563/okra/sessions/">
+    <meta property="og:url" content="http://localhost:35965/okra/sessions/">
 	<meta property="og:site_name" content="Start">
 	<meta property="og:title" content="Sessies">
 	<meta property="og:description" content="De laatste hobby die je ooit nodig hebt …">
@@ -59,14 +123,13 @@
 	<meta name="twitter:title" content="Sessies">
 	<meta name="twitter:description" content="De laatste hobby die je ooit nodig hebt …">
 
-	<link rel="alternate" type="application/rss+xml" href="http://localhost:41563/okra/sessions/index.xml" title="Start" />
-
+	
   </head><body class="ma0 avenir bg-near-white development is-section is-section">
-    
 
   
   
-  <header class="cover bg-top" style="background-image: url('http://localhost:41563/okra/images/sessions.jpg');">
+  
+  <header class="cover bg-top" style="background-image: url('http://localhost:35965/okra/images/sessions.jpg');">
     
     <div class="bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
@@ -141,22 +204,21 @@
     </div>
   </header>
 
-
-    <main class="pb7" role="main">
-      
+<main class="pb7" role="main">
+  
+  
 
   <article class="pa3 pa4-ns nested-copy-line-height">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links mid-gray">
-      
-    </section>
-    <aside class="flex-ns mt5 flex-wrap justify-around">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links mid-gray"></section>
+    <section class="flex-ns mt5 flex-wrap justify-around">
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Sessies</span>
     
-      <div class="f6">
-        augustus 23, 2026
-      </div>
+      <time class="f6 db" datetime="2026-08-23T15:01:19+02:00">augustus 23, 2026</time>
     
     <h1 class="f3 near-black">
       <a href="/okra/sessions/2026-08-24/" class="link black dim">
@@ -190,17 +252,19 @@
 <li>Vrij schaken</li>
 </ul>
     </div>
-  <a href="/okra/sessions/2026-08-24/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+    <a href="/okra/sessions/2026-08-24/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
   </div>
+</div>
 
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Sessies</span>
     
-      <div class="f6">
-        augustus 9, 2026
-      </div>
+      <time class="f6 db" datetime="2026-08-09T13:07:02+02:00">augustus 9, 2026</time>
     
     <h1 class="f3 near-black">
       <a href="/okra/sessions/2026-08-10/" class="link black dim">
@@ -234,17 +298,19 @@
 <li>Vrij schaken</li>
 </ul>
     </div>
-  <a href="/okra/sessions/2026-08-10/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+    <a href="/okra/sessions/2026-08-10/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
   </div>
+</div>
 
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Sessies</span>
     
-      <div class="f6">
-        juli 12, 2026
-      </div>
+      <time class="f6 db" datetime="2026-07-12T14:18:56+02:00">juli 12, 2026</time>
     
     <h1 class="f3 near-black">
       <a href="/okra/sessions/2026-07-13/" class="link black dim">
@@ -270,17 +336,19 @@
 <li>Vrij schaken</li>
 </ul>
     </div>
-  <a href="/okra/sessions/2026-07-13/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+    <a href="/okra/sessions/2026-07-13/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
   </div>
+</div>
 
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Sessies</span>
     
-      <div class="f6">
-        juni 27, 2026
-      </div>
+      <time class="f6 db" datetime="2026-06-27T11:12:41+02:00">juni 27, 2026</time>
     
     <h1 class="f3 near-black">
       <a href="/okra/sessions/2026-06-29/" class="link black dim">
@@ -312,17 +380,19 @@
 </li>
 </ul>
     </div>
-  <a href="/okra/sessions/2026-06-29/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+    <a href="/okra/sessions/2026-06-29/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
   </div>
+</div>
 
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Sessies</span>
     
-      <div class="f6">
-        juni 14, 2026
-      </div>
+      <time class="f6 db" datetime="2026-06-14T16:17:12+02:00">juni 14, 2026</time>
     
     <h1 class="f3 near-black">
       <a href="/okra/sessions/2026-06-15/" class="link black dim">
@@ -344,17 +414,19 @@
 <li>Vrij schaken</li>
 </ul>
     </div>
-  <a href="/okra/sessions/2026-06-15/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+    <a href="/okra/sessions/2026-06-15/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
   </div>
+</div>
 
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Sessies</span>
     
-      <div class="f6">
-        mei 18, 2026
-      </div>
+      <time class="f6 db" datetime="2026-05-18T11:16:22+02:00">mei 18, 2026</time>
     
     <h1 class="f3 near-black">
       <a href="/okra/sessions/capriolen/" class="link black dim">
@@ -373,17 +445,19 @@
 <li>
 <p><a href="/okra/articles/friedliver/">De fried liver attack en schaakmat door rokade</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/friedliver/index.md");'>(artikel)</span></p>
     </div>
-  <a href="/okra/sessions/capriolen/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+    <a href="/okra/sessions/capriolen/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
   </div>
+</div>
 
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Sessies</span>
     
-      <div class="f6">
-        mei 17, 2026
-      </div>
+      <time class="f6 db" datetime="2026-05-17T13:44:02+02:00">mei 17, 2026</time>
     
     <h1 class="f3 near-black">
       <a href="/okra/sessions/2026-05-18/" class="link black dim">
@@ -411,17 +485,19 @@
 <li>Vrij schaken</li>
 </ul>
     </div>
-  <a href="/okra/sessions/2026-05-18/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+    <a href="/okra/sessions/2026-05-18/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
   </div>
+</div>
 
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Sessies</span>
     
-      <div class="f6">
-        mei 3, 2026
-      </div>
+      <time class="f6 db" datetime="2026-05-03T11:37:45+02:00">mei 3, 2026</time>
     
     <h1 class="f3 near-black">
       <a href="/okra/sessions/2026-05-04/" class="link black dim">
@@ -461,17 +537,19 @@
 <li>Vrij schaken</li>
 </ul>
     </div>
-  <a href="/okra/sessions/2026-05-04/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+    <a href="/okra/sessions/2026-05-04/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
   </div>
+</div>
 
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Sessies</span>
     
-      <div class="f6">
-        april 18, 2026
-      </div>
+      <time class="f6 db" datetime="2026-04-18T16:27:55+02:00">april 18, 2026</time>
     
     <h1 class="f3 near-black">
       <a href="/okra/sessions/2026-04-20/" class="link black dim">
@@ -528,17 +606,19 @@
 <li>
 <p><a href="/okra/puzzles/pion5/">Basis pion eindspel 5</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion5/index.md");'>(puzzle)</span></p>
     </div>
-  <a href="/okra/sessions/2026-04-20/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+    <a href="/okra/sessions/2026-04-20/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
   </div>
+</div>
 
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Sessies</span>
     
-      <div class="f6">
-        april 5, 2026
-      </div>
+      <time class="f6 db" datetime="2026-04-05T14:39:19+02:00">april 5, 2026</time>
     
     <h1 class="f3 near-black">
       <a href="/okra/sessions/2026-04-06/" class="link black dim">
@@ -564,66 +644,13 @@
 </li>
 </ul>
     </div>
-  <a href="/okra/sessions/2026-04-06/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+    <a href="/okra/sessions/2026-04-06/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
   </div>
+</div>
 
         </div>
       
-        <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        maart 19, 2026
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="/okra/sessions/2026-03-23/" class="link black dim">
-        Schaken op 23-03-2026
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>Vandaag:</p>
-<ul>
-<li><a href="/okra/articles/candidates/">Kandidaten tornooi 2026</a></li>
-<li><a href="/okra/articles/kasparovprison/">Kasparov in de gevangenis</a></li>
-<li><a href="/okra/articles/oppositie/">Oppositie van de koningen</a></li>
-<li><a href="/okra/articles/pawnbasic/">Basis pionneneindspelen</a></li>
-<li>Vrij schaken</li>
-</ul>
-    </div>
-  <a href="/okra/sessions/2026-03-23/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        maart 9, 2026
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="/okra/sessions/2026-03-09/" class="link black dim">
-        Schaken op 09-03-2026
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>Vandaag:</p>
-<ul>
-<li><a href="/okra/articles/prague2026/">Prague International Chess Festival 2026</a></li>
-<li><a href="/okra/puzzles/chain/">Puzzel</a></li>
-<li><a href="/okra/games/greco/">Italiaanse partij door Gioachino Greco</a></li>
-<li>Vrij schaken</li>
-</ul>
-    </div>
-  <a href="/okra/sessions/2026-03-09/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-
-        </div>
-      
-    </aside>
-    
+    </section>
     
 		<ul class="pagination pagination-default">
 			<li class="page-item disabled">
@@ -644,20 +671,45 @@
 			<li class="page-item">
 				<a href="/okra/sessions/page/2/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
 			</li>
-		</ul>
-  </article>
-
-    </main>
-    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+		</ul></article>
+</main><footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:41563/okra/" >
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:35965/okra/" >
     &copy;  OKRA-Eke 2026 
   </a>
     <div><div class="ananke-socials"></div>
 </div>
   </div>
 </footer>
-
-
-  </body>
+</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

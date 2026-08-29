@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="nl">
-  <head><script src="/okra/livereload.js?mindelay=10&amp;v=2&amp;port=41563&amp;path=okra/livereload" data-no-instant defer></script>
+  <head><script src="/okra/livereload.js?mindelay=10&amp;v=2&amp;port=35965&amp;path=okra/livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
@@ -15,14 +15,78 @@
     
     
 
+    <link rel="stylesheet" href="/okra/ananke/css/main.css">
+    <script>
+  (function () {
+    "use strict";
+
     
-<link rel="stylesheet" href="/okra/ananke/css/main.min.css" >
-
-
-
-
     
+    function revealButtons() {
+      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].hidden = false;
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", revealButtons);
+    } else {
+      revealButtons();
+    }
 
+    function flash(button) {
+      var label = button.querySelector(".code-copy-label");
+      var previous = label ? label.textContent : null;
+      button.classList.add("is-copied");
+      if (label) label.textContent = "Copied";
+      window.setTimeout(function () {
+        button.classList.remove("is-copied");
+        if (label && previous !== null) label.textContent = previous;
+      }, 2000);
+    }
+
+    function legacyCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    function copyFrom(button) {
+      var container = button.closest(".code-block");
+      if (!container) return;
+      var pre = container.querySelector("pre");
+      if (!pre) return;
+      var source = pre.querySelector("code") || pre;
+      var text = source.innerText;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () { flash(button); },
+          function () { if (legacyCopy(text)) flash(button); }
+        );
+      } else if (legacyCopy(text)) {
+        flash(button);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      var button = event.target.closest(".code-copy");
+      if (button) copyFrom(button);
+    });
+  })();
+</script>
 
     
       
@@ -39,12 +103,12 @@
     
 
     
-      <link rel="canonical" href="http://localhost:41563/okra/games/">
+      <link rel="canonical" href="http://localhost:35965/okra/games/">
     
 
     
     
-    <meta property="og:url" content="http://localhost:41563/okra/games/">
+    <meta property="og:url" content="http://localhost:35965/okra/games/">
 	<meta property="og:site_name" content="Start">
 	<meta property="og:title" content="Partijen">
 	<meta property="og:description" content="De laatste hobby die je ooit nodig hebt …">
@@ -59,14 +123,13 @@
 	<meta name="twitter:title" content="Partijen">
 	<meta name="twitter:description" content="De laatste hobby die je ooit nodig hebt …">
 
-	<link rel="alternate" type="application/rss+xml" href="http://localhost:41563/okra/games/index.xml" title="Start" />
-
+	
   </head><body class="ma0 avenir bg-near-white development is-section is-section">
-    
 
   
   
-  <header class="cover bg-top" style="background-image: url('http://localhost:41563/okra/images/games.jpg');">
+  
+  <header class="cover bg-top" style="background-image: url('http://localhost:35965/okra/images/games.jpg');">
     
     <div class="bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
@@ -141,18 +204,22 @@
     </div>
   </header>
 
+<main class="pb7" role="main">
+  
+  
 
-    <main class="pb7" role="main">
-      
   <article class="pa3 pa4-ns nested-copy-line-height">
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links mid-gray"></section>
     <section class="flex-ns mt5 flex-wrap justify-around">
-
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Partijen</span>
+    
+      <time class="f6 db" datetime="2026-08-23T15:09:29+02:00">augustus 23, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/games/game6/" class="link black dim">
         De legendarische zesde partij (1)
@@ -178,9 +245,13 @@ The sixth game, described by GM Bobby Fischer as his best game in the match, was
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Partijen</span>
+    
+      <time class="f6 db" datetime="2026-08-13T10:35:31+02:00">augustus 13, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/games/vete/" class="link black dim">
         Niet de beste vrienden
@@ -207,9 +278,13 @@ The sixth game, described by GM Bobby Fischer as his best game in the match, was
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Partijen</span>
+    
+      <time class="f6 db" datetime="2026-08-11T16:49:59+02:00">augustus 11, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/games/tworooksacrifice/" class="link black dim">
         Laten we twee torens offeren ...
@@ -243,9 +318,13 @@ The sixth game, described by GM Bobby Fischer as his best game in the match, was
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Partijen</span>
+    
+      <time class="f6 db" datetime="2026-07-29T22:30:44+02:00">juli 29, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/games/marshallcapablanca/" class="link black dim">
         Marshall Attack
@@ -271,9 +350,13 @@ Hij was een wonderkind. Reeds in 1909 versloeg hij de Amerikaan Frank Marshall i
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Partijen</span>
+    
+      <time class="f6 db" datetime="2026-05-19T11:51:16+02:00">mei 19, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/games/group10/" class="link black dim">
         OKRA Eke tegen een sterke tegenstander
@@ -297,9 +380,13 @@ Hij was een wonderkind. Reeds in 1909 versloeg hij de Amerikaan Frank Marshall i
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Partijen</span>
+    
+      <time class="f6 db" datetime="2026-05-17T14:05:06+02:00">mei 17, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/games/einsteinoppenheimer/" class="link black dim">
         Einstein versus Oppenheimer (1933)
@@ -345,9 +432,13 @@ Hij was een wonderkind. Reeds in 1909 versloeg hij de Amerikaan Frank Marshall i
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Partijen</span>
+    
+      <time class="f6 db" datetime="2026-04-02T17:04:50+02:00">april 2, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/games/2026r10/" class="link black dim">
         Partij uit IC 2026
@@ -386,9 +477,13 @@ Hij was een wonderkind. Reeds in 1909 versloeg hij de Amerikaan Frank Marshall i
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Partijen</span>
+    
+      <time class="f6 db" datetime="2026-03-18T10:21:29+01:00">maart 18, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/games/navara/" class="link black dim">
         David Navara - Nodirbek Yakubboev (Praag, 2026)
@@ -430,9 +525,13 @@ Hij was een wonderkind. Reeds in 1909 versloeg hij de Amerikaan Frank Marshall i
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Partijen</span>
+    
+      <time class="f6 db" datetime="2026-03-09T10:09:51+01:00">maart 9, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/games/greco/" class="link black dim">
         Greco
@@ -477,18 +576,44 @@ Hij was een wonderkind. Reeds in 1909 versloeg hij de Amerikaan Frank Marshall i
       
     </section>
     </article>
-
-    </main>
-    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+</main><footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:41563/okra/" >
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:35965/okra/" >
     &copy;  OKRA-Eke 2026 
   </a>
     <div><div class="ananke-socials"></div>
 </div>
   </div>
 </footer>
-
-
-  </body>
+</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

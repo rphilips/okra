@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="nl">
-  <head><script src="/okra/livereload.js?mindelay=10&amp;v=2&amp;port=41563&amp;path=okra/livereload" data-no-instant defer></script>
+  <head><script src="/okra/livereload.js?mindelay=10&amp;v=2&amp;port=35965&amp;path=okra/livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
@@ -15,14 +15,78 @@
     
     
 
+    <link rel="stylesheet" href="/okra/ananke/css/main.css">
+    <script>
+  (function () {
+    "use strict";
+
     
-<link rel="stylesheet" href="/okra/ananke/css/main.min.css" >
-
-
-
-
     
+    function revealButtons() {
+      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].hidden = false;
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", revealButtons);
+    } else {
+      revealButtons();
+    }
 
+    function flash(button) {
+      var label = button.querySelector(".code-copy-label");
+      var previous = label ? label.textContent : null;
+      button.classList.add("is-copied");
+      if (label) label.textContent = "Copied";
+      window.setTimeout(function () {
+        button.classList.remove("is-copied");
+        if (label && previous !== null) label.textContent = previous;
+      }, 2000);
+    }
+
+    function legacyCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    function copyFrom(button) {
+      var container = button.closest(".code-block");
+      if (!container) return;
+      var pre = container.querySelector("pre");
+      if (!pre) return;
+      var source = pre.querySelector("code") || pre;
+      var text = source.innerText;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () { flash(button); },
+          function () { if (legacyCopy(text)) flash(button); }
+        );
+      } else if (legacyCopy(text)) {
+        flash(button);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      var button = event.target.closest(".code-copy");
+      if (button) copyFrom(button);
+    });
+  })();
+</script>
 
     
       
@@ -39,12 +103,12 @@
     
 
     
-      <link rel="canonical" href="http://localhost:41563/okra/puzzles/">
+      <link rel="canonical" href="http://localhost:35965/okra/puzzles/">
     
 
     
     
-    <meta property="og:url" content="http://localhost:41563/okra/puzzles/">
+    <meta property="og:url" content="http://localhost:35965/okra/puzzles/">
 	<meta property="og:site_name" content="Start">
 	<meta property="og:title" content="Puzzels">
 	<meta property="og:description" content="De laatste hobby die je ooit nodig hebt …">
@@ -59,14 +123,13 @@
 	<meta name="twitter:title" content="Puzzels">
 	<meta name="twitter:description" content="De laatste hobby die je ooit nodig hebt …">
 
-	<link rel="alternate" type="application/rss+xml" href="http://localhost:41563/okra/puzzles/index.xml" title="Start" />
-
+	
   </head><body class="ma0 avenir bg-near-white development is-section is-section">
-    
 
   
   
-  <header class="cover bg-top" style="background-image: url('http://localhost:41563/okra/images/puzzles.jpg');">
+  
+  <header class="cover bg-top" style="background-image: url('http://localhost:35965/okra/images/puzzles.jpg');">
     
     <div class="bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
@@ -141,322 +204,22 @@
     </div>
   </header>
 
+<main class="pb7" role="main">
+  
+  
 
-    <main class="pb7" role="main">
-      
   <article class="pa3 pa4-ns nested-copy-line-height">
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links mid-gray"></section>
     <section class="flex-ns mt5 flex-wrap justify-around">
-
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/kasparyan/" class="link black dim">
-        Genrikh Kasparyan
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>Uit <a href="https://en.wikipedia.org/wiki/Genrikh_Kasparyan">Wikipedia</a>:</p>
-<i>
-"""
-Genrikh Kasparyan (Surname also spelled Kasparian) (27 February 1910 – 27 December 1995) was an Armenian chess player. He is considered to have been one of the greatest composers of chess endgame studies.
-"""
-</i>
-<!--
-.diagram puzzle.pgn
--->
-<div style='cursor:pointer' onclick='navigator.clipboard.writeText("2B3K1/8/3N1p1p/6pk/5P1P/6P1/7r/5r2 w - - 0 1"); return false'>
-<p><img src="/okra/puzzles/kasparyan/2B3K1x8x3N1p1px6pkx5P1Px6P1x7rx5r2zwzuzuz0z1.svg" alt=""></p>
-</div>
-<!--
-.yt 2dkesRnWS58
--->
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/2dkesRnWS58?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-		</div>
-
-<p>Je kan de video ook bekijken op <a href="https://www.dropbox.com/scl/fi/bug26u43dw8im6poo8ef2/This_is_Brilliant_Genrikh_Kasparyan_chess_endgam.mp4?rlkey=h0af94fndcdac9h5357wme43q&amp;dl=0">dropbox</a></p>
-    </div>
-    <a href="/okra/puzzles/kasparyan/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/rqv7/" class="link black dim">
-        Torens versus Dame studies (7)
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-.image castle.jpg
--->
-<p><img src="/okra/puzzles/rqv7/castle.jpg" alt=""></p>
-<p><a href="https://www.reisroutes.be/blog/loirevallei/mooiste-kastelen-loire/">Château d&rsquo;Ussé</a></p>
-<p>Château d&rsquo;Ussé</p>
-<p>Het kasteel van Ussé staat in de regio bekend als het kasteel van Doornroosje. Charles Perrault had bij het schrijven van zijn sprookje namelijk dit kasteel in gedachten. Neem zeker een kijkje in de kerkers van het kasteel waar verschillende scènes uit het sprookje van Doornroosje nagespeeld worden.</p>
-<p>Een puzzel met doornen:</p>
-<!--
-.diagram puzzle.pgn
--->
-<div style='cursor:pointer' onclick='navigator.clipboard.writeText("4q1k1/8/5K2/8/8/8/5R2/R7 w - - 0 1"); return false'>
-<p><img src="/okra/puzzles/rqv7/4q1k1x8x5K2x8x8x8x5R2xR7zwzuzuz0z1.svg" alt=""></p>
-    </div>
-    <a href="/okra/puzzles/rqv7/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/rvq6/" class="link black dim">
-        Torens versus Dame studies (6)
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-.image castle.jpg
--->
-<p><img src="/okra/puzzles/rvq6/castle.jpg" alt=""></p>
-<p><a href="https://www.reisroutes.be/blog/loirevallei/mooiste-kastelen-loire/">Château Chaumont-Sur-Loire</a></p>
-<p>Tussen Amboise en Blois staat het kasteel Chaumont-Sur-Loire, een kasteel gebouwd om het dorpje Blois te beschermen tegen aanvallen van de graven van Anjou. Het kasteel zelf is erg indrukwekkend van buitenaf. Het zijn voornamelijk de tuinen die het kasteel een bezoekje waard maken. Bovendien wordt elk jaar van april tot november het Internationaal Tuinenfestival in de kasteeltuinen georganiseerd. Er staan dan overal prachtige bloemen en er worden kunstzinnige landschapscreaties tentoongesteld.</p>
-    </div>
-    <a href="/okra/puzzles/rvq6/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/rvq5/" class="link black dim">
-        Torens versus Dame studies (5)
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-.image castle.jpg
--->
-<p><img src="/okra/puzzles/rvq5/castle.jpg" alt=""></p>
-<p><a href="https://www.reisroutes.be/blog/loirevallei/mooiste-kastelen-loire/">Château de Villandry</a></p>
-<p>Een plek vol geschiedenis</p>
-<p>Het oorspronkelijke fort van Villandry werd al in de veertiende eeuw gebouwd door koning Filip II tegen de flank van een heuvel. Een lokale nobelman kocht het gebouw in de zestiende eeuw en liet een nog groter fort en een slotgracht aanleggen. Tijdens de Franse Revolutie werd het kasteel door de staat overgenomen en even later schonk keizer Napoleon het kasteel aan zijn broer Jérôme Bonaparte.</p>
-    </div>
-    <a href="/okra/puzzles/rvq5/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/rvq4/" class="link black dim">
-        Torens versus Dame studies (4)
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-.image castle.jpg
--->
-<p><img src="/okra/puzzles/rvq4/castle.jpg" alt=""></p>
-<p><a href="https://www.reisroutes.be/blog/loirevallei/mooiste-kastelen-loire/">Château de Chambord</a> - de parel van de Loirevallei
-Het Château de Chambord is het grootste kasteel van de Loirevallei. Voor velen is dit hét mooiste kasteel van de Loirevallei. Het is dan ook niet gek dat het Château de Chambord het meest bezochte kasteel in de regio is. Het kasteel werd door koning Frans I in de zestiende eeuw als jachtslot gebouwd. Daardoor werd ook het bos rondom het kasteel beschermd. Vandaag is het park rond het kasteel zelfs het grootste afgesloten bosgebied in Europa, het gebied is even groot als Parijs.</p>
-    </div>
-    <a href="/okra/puzzles/rvq4/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/rvq3/" class="link black dim">
-        Torens versus Dame studies (3)
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-.image castle.jpg
--->
-<p><img src="/okra/puzzles/rvq3/castle.jpg" alt=""></p>
-<p>Het kasteel van Chenonceau zou je kunnen omschrijven als een ode aan de macht en kracht van de vrouwen.</p>
-<p><a href="https://www.france.fr/nl/artikel/kasteel-van-chenonceau-0/">Het is een prachtig, luchtig kasteel</a>.</p>
-<p>Het waren vrouwen die achtereenvolgens het kasteel van Chenonceau betrokken. Na Diane de Poitiers kwamen haar schoondochter Louise van Lotharingen, de bedroefde weduwe van Hendrik III, gevolgd door Gabrielle d&rsquo;Estrées, de lievelinge van Hendrik IV in het kasteel van Chenonceau wonen. Mevrouw Dupin, die onderdak gaf aan de jonge Jean-Jacques Rousseau en mevrouw Pelouze, die het kasteel van Chenonceau een eeuw geleden opmerkelijk renoveerde, namen ook hun intrek in het kasteel van Chenonceau. Al deze dames kun je ontmoeten in het wassenbeeldenmuseum van het kasteel van Chenonceau.</p>
-    </div>
-    <a href="/okra/puzzles/rvq3/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/rvq2/" class="link black dim">
-        Torens versus Dame studies (2)
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-.image castle.jpg
--->
-<p><img src="/okra/puzzles/rvq2/castle.jpg" alt=""></p>
-<p>Manoir du Clos Lucé is de laatste verblijfplaats van Leonardo da Vinci.</p>
-<p>Hij liet er drie meesterwerken achter:</p>
-<ul>
-<li>De Mona Lisa</li>
-<li>Sint-Anna-in-drieën</li>
-<li>Johannes de Doper</li>
-</ul>
-<p>Tegenwoordig is het een museum over het leven, werk en voorbeelden van uitvindingen van Leonardo da Vinci.</p>
-<!--
-.diagram file:puzzle.pgn
--->
-<div style='cursor:pointer' onclick='navigator.clipboard.writeText("5R1R/8/2k5/q7/2K5/8/8/8 w - - 0 1"); return false'>
-<p><img src="/okra/puzzles/rvq2/5R1Rx8x2k5xq7x2K5x8x8x8zwzuzuz0z1.svg" alt=""></p>
-</div>
-<p>Toon hoe Wit wint!</p>
-<!--
-.yt https://www.youtube.com/watch?v=Btlc9Fdd2N4&list=PLlN1WdzKJmlLS17Yu35d7HPJqvpL9VKwM
--->
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Btlc9Fdd2N4?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-		</div>
-
-<p>Je kan de video ook bekijken op <a href="https://www.dropbox.com/scl/fi/fb65zbf58pgol11gqglkm/Could_Two_Rooks_Beat_a_Queen_Chess_Puzzle_Btlc9F.mp4?rlkey=yyu6lwkp8dvoabl769krfjqrp&amp;dl=0">dropbox</a></p>
-    </div>
-    <a href="/okra/puzzles/rvq2/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/rvq1/" class="link black dim">
-        Torens versus Dame studies (1)
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>Ach, virtuele vakantie in de Loire streek&hellip;</p>
-<p>Dromen van kastelen en de koninginnen in de torens van die kastelen.</p>
-<p>Elke dag dat ik er ben, wil ik een kasteel tonen, samen met een eindspelstudie waarbij torens en koninginnen strijden.</p>
-<p>Château de Montpoupon: mijn favouriet kasteel!</p>
-<!--
-.image castle.jpg
--->
-<p><img src="/okra/puzzles/rvq1/castle.jpg" alt=""></p>
-<!--
-.diagram puzzle.pgn
--->
-<div style='cursor:pointer' onclick='navigator.clipboard.writeText("5q1k/1RR5/8/8/8/8/4K3/8 w - - 0 1"); return false'>
-<p><img src="/okra/puzzles/rvq1/5q1kx1RR5x8x8x8x8x4K3x8zwzuzuz0z1.svg" alt=""></p>
-</div>
-<p>Toon hoe Wit toch weet te winnen!</p>
-<!--
-.yt https://www.youtube.com/watch?v=kzfj2mEcJCY
--->
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/kzfj2mEcJCY?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-		</div>
-
-<p>Je kan de video ook bekijken op <a href="https://www.dropbox.com/scl/fi/3waejm3bcgn399vj161px/How_Do_You_Win_With_Two_Rooks_kzfj2mEcJCY.mp4?rlkey=q0nykt2sqzlkugt6bki6sscpf&amp;dl=0">dropbox</a></p>
-    </div>
-    <a href="/okra/puzzles/rvq1/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/sivanandan/" class="link black dim">
-        Bodhana Sivanandan
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-In .link articles/polgar/index.md
--->
-<p>In <a href="/okra/articles/polgar/">Judit Polgar</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/polgar/index.md");'>(artikel)</span>
-maakten we kennis met Judit Polgar</p>
-<p>Judit was jarenlang de jongste schaakster die ooit een grootmeester met meer dan 2600 ELO versloeg.</p>
-<p>Dit record werd nu afgneomen door het Engels schoolmeisje Bodhana Silvanadan: zij won van de Franse kampioen Maurizzi (2628 ELO).</p>
-<p>Uit de Guardian:
-<em>&ldquo;&ldquo;&ldquo;England’s 11-year-old talent Bodhana Sivanandan scored her best individual result last Saturday, when the Harrow schoolgirl defeated France’s 2628-rated grandmaster Marc’Andria Maurizzi, 19, in the opening round of the Dole Trophy in Aix-en-Provence. Maurizzi was world under-20 junior champion in 2023 and is the current French champion.&rdquo;&rdquo;&rdquo;</em></p>
-    </div>
-    <a href="/okra/puzzles/sivanandan/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/beautiful/" class="link black dim">
-        Prachtige eindspel
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>Als we een pion promoveren nemen we automatisch een koningin: het sterkste stuk op het bord staat garant voor de winst.</p>
-<p>Toch zagen we in
-<a href="/okra/articles/underpromotion/">Underpromotion</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/underpromotion/index.md");'>(artikel)</span>
-tot drie maal toe, dat wit alleen wint door te promoveren tot een ander stuk.</p>
-<!--
-.diagram puzzle.pgn
--->
-<div style='cursor:pointer' onclick='navigator.clipboard.writeText("7K/P1p1p1p1/2P1P1Pk/6pP/3p2P1/1P6/3P4/8 w - - 0 1"); return false'>
-<p><img src="/okra/puzzles/beautiful/a3b2e83f.svg" alt=""></p>
-</div>
-<p>Deze schaakpuzzel gaat over hetzelfde thema!</p>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/irbZZcWty-M?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-		</div>
-
-<p>Je kan de video ook bekijken op <a href="https://www.youtube.com/watch?v=irbZZcWty-M">dropbox</a></p>
-    </div>
-    <a href="/okra/puzzles/beautiful/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
+    
+      <time class="f6 db" datetime="2026-05-13T13:19:01+02:00">mei 13, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/puzzles/testendgame/" class="link black dim">
         Test je kennis van het pionneneindspel
@@ -495,9 +258,13 @@ tot drie maal toe, dat wit alleen wint door te promoveren tot een ander stuk.</p
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Puzzels</span>
+    
+      <time class="f6 db" datetime="2026-05-12T18:59:22+02:00">mei 12, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/puzzles/whitewins/" class="link black dim">
         De witte loper haalt het van de zwarte toren
@@ -536,9 +303,13 @@ tot drie maal toe, dat wit alleen wint door te promoveren tot een ander stuk.</p
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Puzzels</span>
+    
+      <time class="f6 db" datetime="2026-04-15T11:11:29+02:00">april 15, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/puzzles/pion5/" class="link black dim">
         Basis pion eindspel 5
@@ -584,9 +355,13 @@ var board = PGNV.pgnPuzzle('board', config);
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Puzzels</span>
+    
+      <time class="f6 db" datetime="2026-04-15T10:32:14+02:00">april 15, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/puzzles/pion4/" class="link black dim">
         Basis pion eindspel 4
@@ -632,9 +407,13 @@ var board = PGNV.pgnPuzzle('board', config);
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Puzzels</span>
+    
+      <time class="f6 db" datetime="2026-04-11T13:45:30+02:00">april 11, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/puzzles/queenvsqueen/" class="link black dim">
         Winnen van  uit een onmogelijke positie
@@ -690,105 +469,13 @@ var board = PGNV.pgnPuzzle('board', config);
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/pion3/" class="link black dim">
-        Basis pion eindspel 3
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-.diagram puzzle.pgn
--->
-<p><img src="/okra/puzzles/pion3/da0cd102.svg" alt=""></p>
-<p>Wit speelt en houdt remise!</p>
-<!--
-.puzzle puzzle.pgn
--->
-<div id="board">&#160;</div>
-<script src="/js/pgnviewer.js"></script>
-<script src="https://rphilips.github.io/okra/js/pgnviewer.js"></script>
-<style>
-san   {color: black;}
-</style>
-<script>
-config = {
-pgn: `[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "?"]
-[Black "?"]
-[Result "*"]
-[SetUp "1"]
-[FEN "4k3/4p3/8/8/8/8/8/4K3 w - - 0 1"]
-[Link "https://www.chess.com/analysis/game/pgn/5h4vSeJSy4/analysis"]
-
-1. Ke2 Kd7 2. Kd3 Ke6 3. Ke4 $1 *`, position: 'start', showCoords: true, orientation: 'white', theme: 'blue', pieceStyle: 'wikipedia', figurine: 'merida', locale: 'en', timerTime: '', layout: 'top', showFen: false, coordsInner: false, manyGames: false, coordsFactor: '1.0', coordsFontSize: '', colorMarker: '', startPlay: '', hideMovesBefore: true, notation: 'long', notationLayout: 'list', resizable: true, headers: false,};
-	
-var board = PGNV.pgnPuzzle('board', config);
-</script>
-    </div>
-    <a href="/okra/puzzles/pion3/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/pion2/" class="link black dim">
-        Basis pion eindspel 2
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <!--
-.diagram puzzle.pgn
--->
-<p><img src="/okra/puzzles/pion2/da0cd102.svg" alt=""></p>
-<p>Zwart speelt en houdt remise!</p>
-<!--
-.puzzle puzzle.pgn
--->
-<div id="board">&#160;</div>
-<script src="/js/pgnviewer.js"></script>
-<script src="https://rphilips.github.io/okra/js/pgnviewer.js"></script>
-<style>
-san   {color: black;}
-</style>
-<script>
-config = {
-pgn: `[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "?"]
-[Black "?"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/2k5/1p6/5K2/7P/8/8/8 b - - 0 1"]
-[Link "https://www.chess.com/analysis/game/pgn/4PkeitpvYn/analysis"]
-
-1... Kd7 2. Kg6 b5 3. h5 b4 $1 4. h6 b3 5. h7 b2 $1 6. h8=Q b1=Q+ $1 *`, position: 'start', showCoords: true, orientation: 'white', theme: 'blue', pieceStyle: 'wikipedia', figurine: 'merida', locale: 'en', timerTime: '', layout: 'top', showFen: false, coordsInner: false, manyGames: false, coordsFactor: '1.0', coordsFontSize: '', colorMarker: '', startPlay: '', hideMovesBefore: true, notation: 'long', notationLayout: 'list', resizable: true, headers: false,};
-	
-var board = PGNV.pgnPuzzle('board', config);
-</script>
-    </div>
-    <a href="/okra/puzzles/pion2/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
+    
+      <time class="f6 db" datetime="2026-04-09T15:36:46+02:00">april 9, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/puzzles/pion1/" class="link black dim">
         Basis pion eindspel 1
@@ -834,9 +521,117 @@ var board = PGNV.pgnPuzzle('board', config);
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Puzzels</span>
+    
+      <time class="f6 db" datetime="2026-04-09T15:36:46+02:00">april 9, 2026</time>
+    
+    <h1 class="f3 near-black">
+      <a href="/okra/puzzles/pion2/" class="link black dim">
+        Basis pion eindspel 2
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <!--
+.diagram puzzle.pgn
+-->
+<p><img src="/okra/puzzles/pion2/da0cd102.svg" alt=""></p>
+<p>Zwart speelt en houdt remise!</p>
+<!--
+.puzzle puzzle.pgn
+-->
+<div id="board">&#160;</div>
+<script src="/js/pgnviewer.js"></script>
+<script src="https://rphilips.github.io/okra/js/pgnviewer.js"></script>
+<style>
+san   {color: black;}
+</style>
+<script>
+config = {
+pgn: `[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2k5/1p6/5K2/7P/8/8/8 b - - 0 1"]
+[Link "https://www.chess.com/analysis/game/pgn/4PkeitpvYn/analysis"]
+
+1... Kd7 2. Kg6 b5 3. h5 b4 $1 4. h6 b3 5. h7 b2 $1 6. h8=Q b1=Q+ $1 *`, position: 'start', showCoords: true, orientation: 'white', theme: 'blue', pieceStyle: 'wikipedia', figurine: 'merida', locale: 'en', timerTime: '', layout: 'top', showFen: false, coordsInner: false, manyGames: false, coordsFactor: '1.0', coordsFontSize: '', colorMarker: '', startPlay: '', hideMovesBefore: true, notation: 'long', notationLayout: 'list', resizable: true, headers: false,};
+	
+var board = PGNV.pgnPuzzle('board', config);
+</script>
+    </div>
+    <a href="/okra/puzzles/pion2/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Puzzels</span>
+    
+      <time class="f6 db" datetime="2026-04-09T15:36:46+02:00">april 9, 2026</time>
+    
+    <h1 class="f3 near-black">
+      <a href="/okra/puzzles/pion3/" class="link black dim">
+        Basis pion eindspel 3
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <!--
+.diagram puzzle.pgn
+-->
+<p><img src="/okra/puzzles/pion3/da0cd102.svg" alt=""></p>
+<p>Wit speelt en houdt remise!</p>
+<!--
+.puzzle puzzle.pgn
+-->
+<div id="board">&#160;</div>
+<script src="/js/pgnviewer.js"></script>
+<script src="https://rphilips.github.io/okra/js/pgnviewer.js"></script>
+<style>
+san   {color: black;}
+</style>
+<script>
+config = {
+pgn: `[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/4p3/8/8/8/8/8/4K3 w - - 0 1"]
+[Link "https://www.chess.com/analysis/game/pgn/5h4vSeJSy4/analysis"]
+
+1. Ke2 Kd7 2. Kd3 Ke6 3. Ke4 $1 *`, position: 'start', showCoords: true, orientation: 'white', theme: 'blue', pieceStyle: 'wikipedia', figurine: 'merida', locale: 'en', timerTime: '', layout: 'top', showFen: false, coordsInner: false, manyGames: false, coordsFactor: '1.0', coordsFontSize: '', colorMarker: '', startPlay: '', hideMovesBefore: true, notation: 'long', notationLayout: 'list', resizable: true, headers: false,};
+	
+var board = PGNV.pgnPuzzle('board', config);
+</script>
+    </div>
+    <a href="/okra/puzzles/pion3/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Puzzels</span>
+    
+      <time class="f6 db" datetime="2026-04-09T13:40:52+02:00">april 9, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/puzzles/amazing/" class="link black dim">
         De puzzel waarvoor het woordje &#34;amazing&#34; is uitgevonden&#34;
@@ -893,9 +688,13 @@ var board = PGNV.pgnPuzzle('board', config);
         </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Puzzels</span>
+    
+      <time class="f6 db" datetime="2026-04-02T18:33:54+02:00">april 2, 2026</time>
+    
     <h1 class="f3 near-black">
       <a href="/okra/puzzles/retilike/" class="link black dim">
         Een puzzel die doet denken aan Reti
@@ -941,148 +740,6 @@ var board = PGNV.pgnPuzzle('board', config);
 
         </div>
       
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/4rooks/" class="link black dim">
-        Puzzel met 4 torens
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>Wit speelt en wint!</p>
-<p><img src="/okra/puzzles/4rooks/board.png" alt=""></p>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/8vjAduplBYQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-		</div>
-
-<p>Je kan de video ook bekijken op <a href="https://www.dropbox.com/scl/fi/gqlgcw4qxc3oszrwc5t5a/It-Looks-Equal-But-It-s-Not.mp4?rlkey=tufforyovmg4vcju0ad6hkra1&amp;st=726q6qe4&amp;dl=0">dropbox</a></p>
-<div id="board">&#160;</div>
-<script src="/js/pgnviewer.js"></script>
-<script src="https://rphilips.github.io/okra/js/pgnviewer.js"></script>
-<style>
-san   {color: black;}
-</style>
-<script>
-config = {
-pgn: `[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "?"]
-[Black "?"]
-[Result "*"]
-[SetUp "1"]
-[FEN "3rr2k/3R4/7K/8/8/8/8/4R3 w - - 0 1"]
-[Link "https://www.chess.com/practice/custom"]
-
-1. Ree7 *`, position: 'start', showCoords: true, orientation: 'white', theme: 'blue', pieceStyle: 'wikipedia', figurine: 'merida', locale: 'en', timerTime: '', layout: 'top', showFen: false, coordsInner: false, manyGames: false, coordsFactor: '1.0', coordsFontSize: '', colorMarker: '', startPlay: '', hideMovesBefore: true, notation: 'long', notationLayout: 'list', resizable: true, headers: false,};
-	
-var board = PGNV.pgnPuzzle('board', config);
-</script>
-    </div>
-    <a href="/okra/puzzles/4rooks/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/chain/" class="link black dim">
-        Ketting
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>Moeilijke puzzels oplossen gaat - zoals steeds - via een plan.</p>
-<p>Deze puzzel is complex.</p>
-<p>Wit speelt en wint.</p>
-<p>Oplossing:</p>
-<ul>
-<li>identificeer de diverse problemen die Wit moet overwinnen</li>
-<li>zoek een oplossing voor die problemen</li>
-<li>breng de verschillende oplossingen samen</li>
-</ul>
-<p><img src="/okra/puzzles/chain/chain.png" alt=""></p>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/XoqC3hL8cXU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-		</div>
-
-<p>Je kan de video ook bekijken op <a href="https://www.dropbox.com/scl/fi/vt9lpv2yesjaz0e2ahkgd/A-Viewer-Sent-Me-an-Insane-Position.mp4?rlkey=lqlhvesq3sdu0iyvhwsx602a4&amp;st=0g2ksz17&amp;dl=0">dropbox</a></p>
-    </div>
-    <a href="/okra/puzzles/chain/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/smullyan/" class="link black dim">
-        Raymond Smullyan puzzel
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>Raymond Merrill Smullyan (Mei 25, 1919 – Februari 6, 2017) was an Amerikaans wiskundige en filosoof die verscheidene boeken over schaken heeft geschreven.</p>
-<p>Meer informatie kan je lezen op <a href="https://en.wikipedia.org/wiki/Raymond_Smullyan">Wikipedia</a>.</p>
-<p>Zijn puzzels waren gericht op alternatief denken.</p>
-<p>Een bekende puzzel van hem is de <em>ontbrekende koning</em></p>
-<p>Bij een schaakpartij viel de witte koning van het bord en de spelers wisten niet meer waar deze precies op het bord stond.</p>
-<p>&hellip; en dit is de puzzel: je moet uitvinden waar de witte koning staat.</p>
-    </div>
-    <a href="/okra/puzzles/smullyan/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Puzzels</span>
-    <h1 class="f3 near-black">
-      <a href="/okra/puzzles/p1000/" class="link black dim">
-        Het zit hem in de details!
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>Winst of verlies zit hem vaak in de details.</p>
-<p>Wit speelt en &hellip; wint!</p>
-<p><img src="/okra/puzzles/p1000/p1000.png" alt=""></p>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/TCC8uzoQ1bQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-		</div>
-
-<p>Je kan de video ook bekijken op <a href="https://www.dropbox.com/scl/fi/cg0rl1zs017a4i729kzf6/White-Is-Winning.mp4?rlkey=76ubfpy14h99eev8ufqrr7qs1&amp;st=biiwefo1&amp;dl=0">dropbox</a></p>
-<p>Of bekijk hier:</p>
-<div id="board">&#160;</div>
-<script src="/js/pgnviewer.js"></script>
-<script src="https://rphilips.github.io/okra/js/pgnviewer.js"></script>
-<style>
-san   {color: black;}
-</style>
-<script>
-config = {
-pgn:`{Hint: Blokkeer de toegang van de zwarte toren tot de 8e rij.} 
-1. Bh7`, 
-position: '8/3P2k1/8/3K4/8/3B3r/8/8 w - - 0 1', showCoords: true, orientation: 'white', theme: 'blue', pieceStyle: 'wikipedia', figurine: 'merida', locale: 'en', timerTime: '', layout: 'top', showFen: false, coordsInner: false, manyGames: false, coordsFactor: '1.0', coordsFontSize: '', colorMarker: '', startPlay: '',  notation: 'long', notationLayout: 'list', resizable: true, headers: false, };
-
-var board = PGNV.pgnPuzzle('board', config);
-</script>
-    </div>
-    <a href="/okra/puzzles/p1000/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
-  </div>
-</div>
-
-        </div>
-      
     </section>
     
 		<ul class="pagination pagination-default">
@@ -1108,18 +765,44 @@ var board = PGNV.pgnPuzzle('board', config);
 				<a href="/okra/puzzles/page/3/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
 			</li>
 		</ul></article>
-
-    </main>
-    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+</main><footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:41563/okra/" >
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:35965/okra/" >
     &copy;  OKRA-Eke 2026 
   </a>
     <div><div class="ananke-socials"></div>
 </div>
   </div>
 </footer>
-
-
-  </body>
+</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

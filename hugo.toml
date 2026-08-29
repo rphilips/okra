@@ -11,7 +11,7 @@ resourceDir = "../resources"
 
 
 SectionPagesMenu = "main"
-mainSections = ['sessions', 'articles', 'games', 'puzzles']
+mainSections = ['sessions', 'articles', 'games', 'puzzles', 'about', 'contact']
 Paginate = 20                  # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true

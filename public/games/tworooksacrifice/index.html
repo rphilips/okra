@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="nl">
-  <head><script src="/okra/livereload.js?mindelay=10&amp;v=2&amp;port=41563&amp;path=okra/livereload" data-no-instant defer></script>
+  <head><script src="/okra/livereload.js?mindelay=10&amp;v=2&amp;port=35965&amp;path=okra/livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
@@ -27,14 +27,78 @@ Je kan de video ook bekijken op dropbox">
     
     
 
+    <link rel="stylesheet" href="/okra/ananke/css/main.css">
+    <script>
+  (function () {
+    "use strict";
+
     
-<link rel="stylesheet" href="/okra/ananke/css/main.min.css" >
-
-
-
-
     
+    function revealButtons() {
+      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].hidden = false;
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", revealButtons);
+    } else {
+      revealButtons();
+    }
 
+    function flash(button) {
+      var label = button.querySelector(".code-copy-label");
+      var previous = label ? label.textContent : null;
+      button.classList.add("is-copied");
+      if (label) label.textContent = "Copied";
+      window.setTimeout(function () {
+        button.classList.remove("is-copied");
+        if (label && previous !== null) label.textContent = previous;
+      }, 2000);
+    }
+
+    function legacyCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    function copyFrom(button) {
+      var container = button.closest(".code-block");
+      if (!container) return;
+      var pre = container.querySelector("pre");
+      if (!pre) return;
+      var source = pre.querySelector("code") || pre;
+      var text = source.innerText;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () { flash(button); },
+          function () { if (legacyCopy(text)) flash(button); }
+        );
+      } else if (legacyCopy(text)) {
+        flash(button);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      var button = event.target.closest(".code-copy");
+      if (button) copyFrom(button);
+    });
+  })();
+</script>
 
     
       
@@ -46,12 +110,12 @@ Je kan de video ook bekijken op dropbox">
     
 
     
-      <link rel="canonical" href="http://localhost:41563/okra/games/tworooksacrifice/">
+      <link rel="canonical" href="http://localhost:35965/okra/games/tworooksacrifice/">
     
 
     
     
-    <meta property="og:url" content="http://localhost:41563/okra/games/tworooksacrifice/">
+    <meta property="og:url" content="http://localhost:35965/okra/games/tworooksacrifice/">
 	<meta property="og:site_name" content="Start">
 	<meta property="og:title" content="Laten we twee torens offeren ...">
 	<meta property="og:description" content="Korte partijen zijn zeldzaam. Zeker tussen 2 topgrootmeesters.
@@ -81,9 +145,9 @@ Je kan de video ook bekijken op dropbox">
 
 	
   </head><body class="ma0 avenir bg-near-white development is-page is-page page-tworooksacrifice">
-    
    
   
+
 
   <header>
     <div class="bg-black">
@@ -154,17 +218,13 @@ Je kan de video ook bekijken op dropbox">
   </header>
 
 
-
-    <main class="pb7" role="main">
-      
+<main class="pb7" role="main">
   
 
   <article class="page-tworooksacrifice flex-l mw7 center ph3 flex-wrap justify-between">
-    <header class="mt4 w-100">
-      <aside class="instapaper_ignoref b helvetica tracked ttu">
-          
-        Partijen
-      </aside><div id="sharing" class="mt3 ananke-socials"></div>
+    <header class="mt4 w-100"><aside class="instapaper_ignoref b helvetica tracked ttu">
+    <a class="link dim" href="http://localhost:35965/okra/games/">Partijen</a>
+  </aside><div id="sharing" class="mt3 ananke-socials"></div>
 <h1 class="f1 athelas mt3 mb1">Laten we twee torens offeren ...</h1>
       
       
@@ -214,22 +274,50 @@ Je kan de video ook bekijken op dropbox">
 <!-- Game end -->
 <ul class="pa0">
   
+</ul><ul class="pa0">
+  
 </ul>
 
       
     </div></article>
-
-    </main>
-    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+</main><footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:41563/okra/" >
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:35965/okra/" >
     &copy;  OKRA-Eke 2026 
   </a>
     <div><div class="ananke-socials"></div>
 </div>
   </div>
 </footer>
-
-
-  </body>
+</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
