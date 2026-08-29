@@ -1,7 +1,10 @@
 +++
-date = '2026-08-23T15:09:29+02:00'
-title = 'De legendarische zesde partij (1)'
+date = 2026-08-23T15:09:29+02:00
+title = "De legendarische zesde partij (1)"
+weight = 9223372036645125638
 +++
+
+
 <!--
 .image sf.jpg
 -->

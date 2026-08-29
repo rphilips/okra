@@ -1,7 +1,10 @@
 +++
-date = '2026-05-17T13:45:10+02:00'
-title = 'TePe Sigeman chess tournament'
+date = 2026-05-17T13:45:10+02:00
+title = "TePe Sigeman chess tournament"
+weight = 9223372036653597897
 +++
+
+
 
 <!--
 .image sigeman.png
@@ -22,4 +25,3 @@ Het resultaat:
 .image result.png
 -->
 ![](result.png)
-

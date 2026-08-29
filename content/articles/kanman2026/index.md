@@ -1,7 +1,10 @@
 +++
-date = '2026-04-16T14:20:23+02:00'
-title = 'Fide candidates 2026: Open'
+date = 2026-04-16T14:20:23+02:00
+title = "Fide candidates 2026: Open"
+weight = 9223372036656274184
 +++
+
+
 
 
 ![](sindarov.png)
@@ -25,4 +28,3 @@ In het volgend filmpje zien we hoe de jongeman gefeliciteerd wordt door de presi
 
 {{< youtube K7LxWYWJxKw >}}
 Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/3t8yl73l68sb9dzpy6hr8/Javokhir-Sindarov-speaks-with-the-President-of-Uzbekistan-after-Winning-Candidates.mp4?rlkey=wdecv7w5txvzqucdepkn9gdbf&dl=0)
-

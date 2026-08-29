@@ -1,7 +1,10 @@
 +++
-date = '2026-04-09T14:06:26+02:00'
-title = 'Secrets of pawn endings'
+date = 2026-04-09T14:06:26+02:00
+title = "Secrets of pawn endings"
+weight = 9223372036656879821
 +++
+
+
 
 Een boek dat ik elke schaker kan aanraden is *Secrets of pawn endings/Karsten Müller*
 
@@ -14,4 +17,3 @@ Behalve boekmaterialen heeft hij voor Chessbase ook een CD-ROM collectie uitgege
 .image secret.jpg
 -->
 ![](secret.jpg)
-

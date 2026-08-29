@@ -1,7 +1,10 @@
 +++
-date = '2026-07-29T22:30:44+02:00'
-title = 'Marshall Attack'
+date = 2026-07-29T22:30:44+02:00
+title = "Marshall Attack"
+weight = 9223372036647259163
 +++
+
+
 
 <!--
 .image fm.jpg
@@ -28,7 +31,7 @@ In 1909 speelde hij simultaan tegen 720 schakers. Hij won 686 partijen (95%), hi
 -->
 {{< youtube v7hc715hvVg >}}
 
-Je kan de video ook bekijken op [dropbox](https://www.youtube.com/watch?v=v7hc715hvVg)
+Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/jizaqzobkgz1rufakjc6q/Marshall_Saved_his_Famous_Weapon_for_8_Years_Bef.mp4?rlkey=w17lnxvrr8yerqtrb1rggf5mn&dl=0)
 <!--
 .game game.pgn
 -->

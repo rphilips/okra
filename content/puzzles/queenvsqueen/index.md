@@ -1,7 +1,10 @@
 +++
-date = '2026-04-11T13:45:30+02:00'
-title = 'Winnen van  uit een onmogelijke positie'
+date = 2026-04-11T13:45:30+02:00
+title = "Winnen van  uit een onmogelijke positie"
+weight = 9223372036656708277
 +++
+
+
 
 <!--
 .diagram puzzle.pgn

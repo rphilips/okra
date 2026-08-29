@@ -1,7 +1,10 @@
 +++
-date = '2026-04-15T10:32:14+02:00'
-title = 'Basis pion eindspel 4'
+date = 2026-04-15T10:32:14+02:00
+title = "Basis pion eindspel 4"
+weight = 9223372036656374273
 +++
+
+
 
 <!--
 .diagram puzzle.pgn

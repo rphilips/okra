@@ -1,7 +1,10 @@
 +++
-date = '2026-03-09T09:57:53+01:00'
-title = 'Prague International Chess Festival 2026'
+date = 2026-03-09T09:57:53+01:00
+title = "Prague International Chess Festival 2026"
+weight = 9223372036659569534
 +++
+
+
 
 Het *Prague International Chess Festival* is een absoluut top-tornooi. Het vindt ieder jaar plaats.
 

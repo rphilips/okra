@@ -1,7 +1,10 @@
 +++
-date = '2026-08-09T18:14:16+02:00'
-title = 'Torens versus Dame studies (4)'
+date = 2026-08-09T18:14:16+02:00
+title = "Torens versus Dame studies (4)"
+weight = 9223372036646324151
 +++
+
+
 
 <!--
 .image castle.jpg

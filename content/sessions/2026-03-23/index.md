@@ -1,8 +1,9 @@
 +++
-date = '2026-03-19T17:03:20+01:00'
-draft = false
-title = 'Schaken op 23-03-2026'
+date = 2026-03-19T17:03:20+01:00
+title = "Schaken op 23-03-2026"
+weight = 9223372036658680007
 +++
+
 
 Vandaag:
 

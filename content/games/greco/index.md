@@ -1,7 +1,10 @@
 +++
-date = '2026-03-09T10:09:51+01:00'
-title = 'Greco'
+date = 2026-03-09T10:09:51+01:00
+title = "Greco"
+weight = 9223372036659568816
 +++
+
+
 
 Het begin van deze partij hebben we allemaal al op het bord gehad.
 
@@ -37,5 +40,4 @@ Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/kleo34w
     ViewPGN("game.pgn", "game");
 </script>
 <!-- Game end -->
-
 

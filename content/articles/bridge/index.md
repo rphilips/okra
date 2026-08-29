@@ -1,7 +1,10 @@
 +++
-date = '2026-03-19T14:32:26+01:00'
-title = 'Brug tussen mensen'
+date = 2026-03-19T14:32:26+01:00
+title = "Brug tussen mensen"
+weight = 9223372036658689061
 +++
+
+
 
 Eén van de fijnste elementen van schaken is dat het spel een brug legt tussen mensen. 
 Ongeacht hoe je tegenstander er uit ziet, waar hij woont, hoe hij door het leven gaat, eens je aan het schaakbord zit
@@ -20,4 +23,3 @@ Deze afbeelding uit 1283(!) toont een match tussen een blanke priester uit Sevil
  Deze afbeelding toont schaken als een brug tussen oud en jong. Het is een foto genomen door een toerist op reis doorheen Turkije.
 
  ![](5000.jpg)
-

@@ -1,7 +1,10 @@
 +++
-date = '2026-04-09T15:36:46+02:00'
-title = 'Basis pion eindspel 1'
+date = 2026-04-09T15:36:46+02:00
+title = "Basis pion eindspel 1"
+weight = 9223372036656874401
 +++
+
+
 
 <!--
 .diagram puzzle.pgn
@@ -39,4 +42,3 @@ pgn: `[Event "?"]
 	
 var board = PGNV.pgnPuzzle('board', config);
 </script>
-

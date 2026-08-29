@@ -1,7 +1,10 @@
 +++
-date = '2026-05-19T11:51:16+02:00'
-title = 'OKRA Eke tegen een sterke tegenstander'
+date = 2026-05-19T11:51:16+02:00
+title = "OKRA Eke tegen een sterke tegenstander"
+weight = 9223372036653431931
 +++
+
+
 
 
 <!--
@@ -43,5 +46,4 @@ De partij werd een eervolle remise.
     ViewPGN("game.pgn", "game");
 </script>
 <!-- Game end -->
-
 

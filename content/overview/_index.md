@@ -1,8 +1,8 @@
 +++
-date = '2026-08-26T15:02:38+02:00'
+date = '2026-08-29T15:06:37+02:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
-weight = 1
+weight = 10
 +++
 
 
@@ -178,13 +178,13 @@ weight = 1
 -->
 [Richard's Capriolen]({{< relref "/sessions/capriolen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/capriolen/index.md");'>(sessie)</span>
 <!--
-.link articles/carlsengood1/index.md/
--->
-[Waarom speelt Carlsen zo sterk? (deel 1)]({{< relref "/articles/carlsengood1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood1/index.md");'>(artikel)</span>
-<!--
 .link articles/carlsengood2/index.md/
 -->
 [Waarom speelt Carlsen zo sterk? (deel 2)]({{< relref "/articles/carlsengood2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood2/index.md");'>(artikel)</span>
+<!--
+.link articles/carlsengood1/index.md/
+-->
+[Waarom speelt Carlsen zo sterk? (deel 1)]({{< relref "/articles/carlsengood1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood1/index.md");'>(artikel)</span>
 <!--
 .link games/einsteinoppenheimer/index.md/
 -->
@@ -274,13 +274,13 @@ weight = 1
 -->
 [Winnen van  uit een onmogelijke positie]({{< relref "/puzzles/queenvsqueen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/queenvsqueen/index.md");'>(puzzel)</span>
 <!--
-.link puzzles/pion3/index.md/
--->
-[Basis pion eindspel 3]({{< relref "/puzzles/pion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion3/index.md");'>(puzzel)</span>
-<!--
 .link puzzles/pion2/index.md/
 -->
 [Basis pion eindspel 2]({{< relref "/puzzles/pion2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion2/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/pion3/index.md/
+-->
+[Basis pion eindspel 3]({{< relref "/puzzles/pion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion3/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/pion1/index.md/
 -->
@@ -292,7 +292,7 @@ weight = 1
 <!--
 .link puzzles/amazing/index.md/
 -->
-[De puzzel waarvoor het woordje "amazing" is uitgevonden]({{< relref "/puzzles/amazing/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/amazing/index.md");'>(puzzel)</span>
+[De puzzel waarvoor het woordje "amazing" is uitgevonden"]({{< relref "/puzzles/amazing/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/amazing/index.md");'>(puzzel)</span>
 <!--
 .link articles/grenke/index.md/
 -->
@@ -302,13 +302,13 @@ weight = 1
 -->
 [Schaken op 06-04-2026]({{< relref "/sessions/2026-04-06/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-04-06/index.md");'>(sessie)</span>
 <!--
-.link articles/kuleuven/index.md/
--->
-[KU Leuven-studie toont hoe expertise het brein hertekent]({{< relref "/articles/kuleuven/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/kuleuven/index.md");'>(artikel)</span>
-<!--
 .link articles/oebekistan/index.md/
 -->
 [Oezbekistan]({{< relref "/articles/oebekistan/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/oebekistan/index.md");'>(artikel)</span>
+<!--
+.link articles/kuleuven/index.md/
+-->
+[KU Leuven-studie toont hoe expertise het brein hertekent]({{< relref "/articles/kuleuven/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/kuleuven/index.md");'>(artikel)</span>
 <!--
 .link articles/kan26week1/index.md/
 -->

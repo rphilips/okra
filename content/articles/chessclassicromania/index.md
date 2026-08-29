@@ -1,7 +1,10 @@
 +++
-date = '2026-06-14T15:23:16+02:00'
-title = 'Grand Chess Tour: Super Chess Classic Romania 2026'
+date = 2026-06-14T15:23:16+02:00
+title = "Grand Chess Tour: Super Chess Classic Romania 2026"
+weight = 9223372036651172811
 +++
+
+
 
 ![](phprcms484tadfa81SLZYG.png)
 
@@ -24,6 +27,3 @@ Er zijn 2 gerelateerde artikelen:
 - .link articles/ziek/index.md
 -->
 - [Schaken en ziek zijn]({{< relref "/articles/ziek/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/ziek/index.md");'>(artikel)</span>
-
-
-

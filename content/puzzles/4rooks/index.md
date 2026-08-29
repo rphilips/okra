@@ -1,8 +1,10 @@
 +++
-date = '2026-03-26T13:25:21+01:00'
-draft = false
-title = 'Puzzel met 4 torens'
+date = 2026-03-26T13:25:21+01:00
+title = "Puzzel met 4 torens"
+weight = 9223372036658088286
 +++
+
+
 
 Wit speelt en wint!
 
@@ -39,5 +41,3 @@ pgn: `[Event "?"]
 	
 var board = PGNV.pgnPuzzle('board', config);
 </script>
-
-

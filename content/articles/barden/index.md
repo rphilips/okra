@@ -1,7 +1,10 @@
 +++
-date = '2026-03-19T15:21:16+01:00'
-title = 'Leonard Barden'
+date = 2026-03-19T15:21:16+01:00
+title = "Leonard Barden"
+weight = 9223372036658686131
 +++
+
+
 
 
 [Leonard Barden](https://en.wikipedia.org/wiki/Leonard_Barden) is een legendarische journalist: reeds 70 jaar verzorgt hij een schaakrubriek in de *Evening Standard* en de *Guardian*

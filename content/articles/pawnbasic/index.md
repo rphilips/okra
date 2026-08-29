@@ -1,7 +1,10 @@
 +++
-date = '2026-03-16T16:15:13+01:00'
-title = 'Basis pionneneindspelen'
+date = 2026-03-16T16:15:13+01:00
+title = "Basis pionneneindspelen"
+weight = 9223372036658942094
 +++
+
+
 
 Pionnen zijn belangrijk in nagenoeg elk eindspel.
 Een voorsprong van 1 pion is dikwijls al genoeg om de partij te winnen.
@@ -54,11 +57,3 @@ In de volgende stelling is de partij gewonnen voor Wit indien hij aan zet is, zo
 De volgende stelling is de belangrijkste om te onthouden: Wit wint altijd
 
 ![](basic.png)
-
-
-
-
-
-
-
-

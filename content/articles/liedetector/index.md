@@ -1,7 +1,10 @@
 +++
-date = '2026-08-14T17:44:39+02:00'
-title = 'Magnus en Hikaru aan de leugendetector'
+date = 2026-08-14T17:44:39+02:00
+title = "Magnus en Hikaru aan de leugendetector"
+weight = 9223372036645893928
 +++
+
+
 
 <!--
 .image image.jpg

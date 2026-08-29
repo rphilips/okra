@@ -1,8 +1,9 @@
 +++
-date = '2026-05-18T11:16:22+02:00'
+date = 2026-05-18T11:16:22+02:00
 title = "Richard's Capriolen"
-featured_image = "bomans.jpg"
+weight = 9223372036653520425
 +++
+
 
 Wij, clubschakers, weten dat het schaakspel tal van vreemde huisgenoten telt: promotie, pat, triangulatie, en passant, zugzwang.
 
@@ -24,6 +25,3 @@ Laat ik even een en ander illustreren.
 - [En passant en Magnus Carlsen]({{< relref "/articles/enpassantmagnus/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/enpassantmagnus/index.md");'>(artikel)</span>
 
 - [Triangulatie]({{< relref "/articles/triangulatie/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/triangulatie/index.md");'>(artikel)</span>
-
-
-

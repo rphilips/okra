@@ -1,7 +1,10 @@
 +++
-date = '2026-05-17T14:05:06+02:00'
-title = 'Einstein versus Oppenheimer (1933)'
+date = 2026-05-17T14:05:06+02:00
+title = "Einstein versus Oppenheimer (1933)"
+weight = 9223372036653596701
 +++
+
+
 
 <!--
 .image einsteinoppenheimer.jpg
@@ -39,13 +42,4 @@ Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/swfbk0k
     ViewPGN("game.pgn", "game");
 </script>
 <!-- Game end -->
-
-
-
-
-
-
-
-
-
 

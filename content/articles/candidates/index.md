@@ -1,7 +1,10 @@
 +++
-date = '2026-03-18T09:50:00+01:00'
-title = 'Kandidaten tornooi 2026'
+date = 2026-03-18T09:50:00+01:00
+title = "Kandidaten tornooi 2026"
+weight = 9223372036658792407
 +++
+
+
 
 Elke 2 jaar start een nieuwe cyclus voor het werelkampioenschap.
 Het kandidaten tornooi 2026 gaat uitmaken wie het opneemt tegen huidig wereldkampioen Gukesh.
@@ -42,6 +45,3 @@ Er zijn 8 kandidaten (in volgorde van ELO)
 - Andrey Esipenko (FIDE, 2698)
 
   ![](8.jpg)
-
-
-

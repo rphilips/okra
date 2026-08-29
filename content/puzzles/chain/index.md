@@ -1,7 +1,10 @@
 +++
-date = '2026-03-09T09:32:45+01:00'
-title = 'Ketting'
+date = 2026-03-09T09:32:45+01:00
+title = "Ketting"
+weight = 9223372036659571042
 +++
+
+
 
 Moeilijke puzzels oplossen gaat - zoals steeds - via een plan.
 

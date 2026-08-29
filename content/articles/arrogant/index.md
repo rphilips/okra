@@ -1,7 +1,10 @@
 +++
-date = '2026-08-14T18:39:04+02:00'
-title = 'Is Carlsen arrogant ?'
+date = 2026-08-14T18:39:04+02:00
+title = "Is Carlsen arrogant ?"
+weight = 9223372036645890663
 +++
+
+
 
 <!--
 .image arrogant.jpg

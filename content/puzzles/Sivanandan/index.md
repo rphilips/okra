@@ -1,7 +1,10 @@
 +++
-date = '2026-07-29T18:49:01+02:00'
-title = 'Bodhana Sivanandan'
+date = 2026-07-29T18:49:01+02:00
+title = "Bodhana Sivanandan"
+weight = 9223372036647272466
 +++
+
+
 
 <!--
 In .link articles/polgar/index.md

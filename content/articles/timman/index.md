@@ -1,7 +1,10 @@
 +++
-date = '2026-05-19T17:23:17+02:00'
-title = 'Jan Timman'
+date = 2026-05-19T17:23:17+02:00
+title = "Jan Timman"
+weight = 9223372036653412010
 +++
+
+
 
 <!--
 .image timman.jpg
@@ -71,4 +74,3 @@ pgn: `[Event "?"]
 
 var board = PGNV.pgnView('board', config);
 </script>
-

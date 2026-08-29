@@ -1,7 +1,10 @@
 +++
-date = '2026-08-13T10:35:31+02:00'
-title = 'Niet de beste vrienden'
+date = 2026-08-13T10:35:31+02:00
+title = "Niet de beste vrienden"
+weight = 9223372036646006076
 +++
+
+
 
 Hans Niemann
 <!--
@@ -51,6 +54,4 @@ Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/qdztyrf
     ViewPGN("game.pgn", "game");
 </script>
 <!-- Game end -->
-
-
 

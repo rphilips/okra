@@ -1,7 +1,9 @@
 +++
-date = '2026-08-09T13:07:02+02:00'
-title = 'Schaken op 10-08-2026'
+date = 2026-08-09T13:07:02+02:00
+title = "Schaken op 10-08-2026"
+weight = 9223372036646342585
 +++
+
 
 <!--
 - .link articles/worldchamps

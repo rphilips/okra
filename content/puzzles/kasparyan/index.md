@@ -1,7 +1,10 @@
 +++
-date = '2026-08-23T16:33:03+02:00'
-title = 'Genrikh Kasparyan'
+date = 2026-08-23T16:33:03+02:00
+title = "Genrikh Kasparyan"
+weight = 9223372036645120624
 +++
+
+
 
 Uit [Wikipedia](https://en.wikipedia.org/wiki/Genrikh_Kasparyan):
 

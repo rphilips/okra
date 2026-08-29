@@ -1,7 +1,10 @@
 +++
-date = '2026-03-18T10:21:29+01:00'
-title = 'David Navara - Nodirbek Yakubboev (Praag, 2026)'
+date = 2026-03-18T10:21:29+01:00
+title = "David Navara - Nodirbek Yakubboev (Praag, 2026)"
+weight = 9223372036658790518
 +++
+
+
 
 
 De meest spectaculaire partij van Praag, 2026 was zonder enige twijfel het treffen tussen David Navara en Nodirbek Yakubboev.
@@ -33,6 +36,4 @@ Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/kprq7nl
     ViewPGN("game.pgn", "game");
 </script>
 <!-- Game end -->
-
-
 

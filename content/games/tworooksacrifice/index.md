@@ -1,7 +1,10 @@
 +++
-date = '2026-08-11T16:49:59+02:00'
-title = 'Laten we twee torens offeren ...'
+date = 2026-08-11T16:49:59+02:00
+title = "Laten we twee torens offeren ..."
+weight = 9223372036646156408
 +++
+
+
 
 Korte partijen zijn zeldzaam. Zeker tussen 2 topgrootmeesters.
 

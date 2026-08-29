@@ -1,7 +1,10 @@
 +++
-date = '2026-02-26T16:54:10+01:00'
-title = 'Raymond Smullyan puzzel'
+date = 2026-02-26T16:54:10+01:00
+title = "Raymond Smullyan puzzel"
+weight = 9223372036660494957
 +++
+
+
 
 Raymond Merrill Smullyan (Mei 25, 1919 – Februari 6, 2017) was an Amerikaans wiskundige en filosoof die verscheidene boeken over schaken heeft geschreven.
 
@@ -25,4 +28,3 @@ Bij een schaakpartij viel de witte koning van het bord en de spelers wisten niet
 
 
 Je kan dit ook in verhaalvorm bekijken op [dropbox](https://www.dropbox.com/scl/fi/22px1rql2mq6q388k56d4/smullyan.pdf?rlkey=co6sm99gb6i5nzoyq2bx8pzoz&st=bhbxf4a4&dl=0)
-

@@ -1,7 +1,10 @@
 +++
-date = '2026-08-14T17:41:57+02:00'
-title = 'Was jij uitgenodigd op het huwelijk van Magnus?'
+date = 2026-08-14T17:41:57+02:00
+title = "Was jij uitgenodigd op het huwelijk van Magnus?"
+weight = 9223372036645894090
 +++
+
+
 
 <!--
 .image image.jpg

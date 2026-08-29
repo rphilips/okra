@@ -1,7 +1,10 @@
 +++
-date = '2026-08-11T17:20:50+02:00'
-title = 'Torens versus Dame studies (6)'
+date = 2026-08-11T17:20:50+02:00
+title = "Torens versus Dame studies (6)"
+weight = 9223372036646154557
 +++
+
+
 
 <!--
 .image castle.jpg
@@ -69,4 +72,3 @@ pgn: `[Event "?"]
 	
 var board = PGNV.pgnPuzzle('board', config);
 </script>
-

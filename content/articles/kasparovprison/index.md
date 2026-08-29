@@ -1,8 +1,10 @@
 +++
-date = '2026-03-20T15:36:37+01:00'
-draft = false
-title = 'Kasparov in de gevangenis'
+date = 2026-03-20T15:36:37+01:00
+title = "Kasparov in de gevangenis"
+weight = 9223372036658598810
 +++
+
+
 
 [Garri Kasparov](https://nl.wikipedia.org/wiki/Garri_Kasparov), de legendarische wereldkampioen schaken, is een verwoed tegenstander van Putin. Hij schreef verschillende boeken ondermeer het welhaast profetische "Winter is Coming"
 

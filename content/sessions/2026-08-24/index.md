@@ -1,7 +1,9 @@
 +++
-date = '2026-08-23T15:01:19+02:00'
-title = 'Schaken op 24-08-2026'
+date = 2026-08-23T15:01:19+02:00
+title = "Schaken op 24-08-2026"
+weight = 9223372036645126128
 +++
+
 
 <!--
 - .link articles/marriage/index.md

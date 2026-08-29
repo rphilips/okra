@@ -1,7 +1,10 @@
 +++
-date = '2026-05-02T18:48:33+02:00'
-title = 'Pionnen op dezelfde lijn 2'
+date = 2026-05-02T18:48:33+02:00
+title = "Pionnen op dezelfde lijn 2"
+weight = 9223372036654875694
 +++
+
+
 <!--
 .diagram game.pgn
 -->
@@ -44,6 +47,3 @@ pgn: `[Event "?"]
 	
 var board = PGNV.pgnPuzzle('board', config);
 </script>
-
-
-

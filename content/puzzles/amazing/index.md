@@ -1,7 +1,10 @@
 +++
-date = '2026-04-09T13:40:52+02:00'
-title = 'De puzzel waarvoor het woordje "amazing" is uitgevonden"'
+date = 2026-04-09T13:40:52+02:00
+title = "De puzzel waarvoor het woordje \"amazing\" is uitgevonden\""
+weight = 9223372036656881355
 +++
+
+
 
 <!--
 .diagram game.pgn
@@ -51,4 +54,3 @@ pgn: `[Event ""]
 	
 var board = PGNV.pgnPuzzle('board', config);
 </script>
-

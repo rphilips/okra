@@ -1,7 +1,10 @@
 +++
-date = '2026-08-24T18:59:16+02:00'
-title = 'De 7 doodzonden van het schaken'
+date = 2026-08-24T18:59:16+02:00
+title = "De 7 doodzonden van het schaken"
+weight = 9223372036645025451
 +++
+
+
 
 <!--
 .image sin.jpg

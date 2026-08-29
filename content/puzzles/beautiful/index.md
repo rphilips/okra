@@ -1,7 +1,10 @@
 +++
-date = '2026-06-27T10:43:14+02:00'
-title = 'Prachtige eindspel'
+date = 2026-06-27T10:43:14+02:00
+title = "Prachtige eindspel"
+weight = 9223372036650066413
 +++
+
+
 
 Als we een pion promoveren nemen we automatisch een koningin: het sterkste stuk op het bord staat garant voor de winst.
 

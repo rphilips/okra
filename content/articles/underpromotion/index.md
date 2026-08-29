@@ -1,7 +1,10 @@
 +++
-date = '2026-05-18T12:14:00+02:00'
-title = 'Underpromotion'
+date = 2026-05-18T12:14:00+02:00
+title = "Underpromotion"
+weight = 9223372036653516967
 +++
+
+
 
 In praktisch alle gevallen promoveert een pion die de achtste rij bereikt tot koningin.
 
@@ -54,6 +57,3 @@ pgn: `[Event "?"]
 
 var board = PGNV.pgnView('board', config);
 </script>
-
-
-

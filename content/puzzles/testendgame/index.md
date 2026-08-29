@@ -1,7 +1,10 @@
 +++
-date = '2026-05-13T13:19:01+02:00'
-title = 'Test je kennis van het pionneneindspel'
+date = 2026-05-13T13:19:01+02:00
+title = "Test je kennis van het pionneneindspel"
+weight = 9223372036653945066
 +++
+
+
 
 <!--
 .diagram puzzle.pgn

@@ -1,7 +1,10 @@
 +++
-date = '2026-04-11T14:15:26+02:00'
-title = 'Schaken in 1-dimensie'
+date = 2026-04-11T14:15:26+02:00
+title = "Schaken in 1-dimensie"
+weight = 9223372036656706481
 +++
+
+
 
 <!--
 .image download.png
@@ -13,6 +16,3 @@ title = 'Schaken in 1-dimensie'
 Hij had een legendarische rubriek in *Scientific America* en daar introduceerde hij het 1-dimensionele schaak.
 
 Je kan de - eenvoudige regels - vinden op deze [site](https://rowan441.github.io/1dchess/chess.html) en je kan daar zelfs spelen tegen een AI.
-
-
-

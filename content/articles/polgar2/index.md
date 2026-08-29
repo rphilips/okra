@@ -1,7 +1,10 @@
 +++
-date = '2026-07-20T19:04:47+02:00'
-title = 'Polgar for president'
+date = 2026-07-20T19:04:47+02:00
+title = "Polgar for president"
+weight = 9223372036648049120
 +++
+
+
 
 <!--
 .image polgar.jpg

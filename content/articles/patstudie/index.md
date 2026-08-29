@@ -1,7 +1,10 @@
 +++
-date = '2026-04-24T16:19:53+02:00'
-title = 'Pat: het ultieme redmiddel'
+date = 2026-04-24T16:19:53+02:00
+title = "Pat: het ultieme redmiddel"
+weight = 9223372036655575814
 +++
+
+
 
 
 
@@ -71,4 +74,3 @@ pgn: `[Event "?"]
 	
 var board = PGNV.pgnPuzzle('board', config);
 </script>
-

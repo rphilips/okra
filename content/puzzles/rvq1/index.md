@@ -1,7 +1,10 @@
 +++
-date = '2026-08-03T18:10:36+02:00'
-title = 'Torens versus Dame studies (1)'
+date = 2026-08-03T18:10:36+02:00
+title = "Torens versus Dame studies (1)"
+weight = 9223372036646842771
 +++
+
+
 
 Ach, virtuele vakantie in de Loire streek...
 

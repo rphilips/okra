@@ -1,7 +1,10 @@
 +++
-date = '2026-06-14T15:55:07+02:00'
-title = 'Schaken en ziek zijn'
+date = 2026-06-14T15:55:07+02:00
+title = "Schaken en ziek zijn"
+weight = 9223372036651170900
 +++
+
+
 
 <!--
 .image 2008652.80cef3bb.668x375o.56278bad24a4.png
@@ -28,5 +31,3 @@ Toen Mikhail Tal ziek werd, was Fischer de enige speler die hem in het ziekenhui
 .image fischer.jpg
 -->
 ![](fischer.jpg)
-
-

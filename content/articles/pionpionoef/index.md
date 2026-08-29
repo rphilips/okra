@@ -1,7 +1,10 @@
 +++
-date = '2026-05-03T11:33:58+02:00'
-title = 'Pionnen op dezelfde lijn: oefening'
+date = 2026-05-03T11:33:58+02:00
+title = "Pionnen op dezelfde lijn: oefening"
+weight = 9223372036654815369
 +++
+
+
 
 <!--
 .diagram game.pgn
@@ -43,5 +46,3 @@ Ke7 $1 8. Kd5 Kd7 $1 9. Ke5 Ke7 $1 *`, position: 'start', showCoords: true, orie
 	
 var board = PGNV.pgnPuzzle('board', config);
 </script>
-
-

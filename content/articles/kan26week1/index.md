@@ -1,8 +1,10 @@
 +++
-date = '2026-04-05T12:47:26+02:00'
-draft = false
-title = 'Fide kandidaten tornooi: week 1'
+date = 2026-04-05T12:47:26+02:00
+title = "Fide kandidaten tornooi: week 1"
+weight = 9223372036657230161
 +++
+
+
 
 
 ![](sindarov.jpg)
@@ -13,6 +15,3 @@ De eerste week van het kandidaten tornooi mag gerust de *week van Sindarov* word
 
 
 In de eerste week van het kandidatentornooi 2026 won Sindarov van zowel Nakamura, Pragnanandhaa, Caruana, Wei als Esipenko. Enkel Giri en Blaubaum konden remise afdwingen.
-
-
-

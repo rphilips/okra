@@ -1,8 +1,10 @@
 +++
-date = '2026-04-02T17:04:50+02:00'
-draft = false
-title = 'Partij uit IC 2026'
+date = 2026-04-02T17:04:50+02:00
+title = "Partij uit IC 2026"
+weight = 9223372036657473917
 +++
+
+
 
 <!--
 .diagram game.pgn
@@ -33,5 +35,4 @@ title = 'Partij uit IC 2026'
     ViewPGN("game.pgn", "game");
 </script>
 <!-- Game end -->
-
 

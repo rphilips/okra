@@ -1,8 +1,10 @@
 +++
-date = '2026-02-21T18:46:50+01:00'
-title = 'Judit Polgar'
-featured_image = '/images/polgar.jpg'
+date = 2026-02-21T18:46:50+01:00
+title = "Judit Polgar"
+weight = 9223372036660920197
 +++
+
+
 
 Judit Polgár (Boedapest, 23 juli 1976) is een Hongaars schaakster. Zij is veruit de sterkste vrouwelijke schaker ooit, en de enige vrouw die ooit in de top 10 van de FIDE-rating-lijst heeft gestaan.
 

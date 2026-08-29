@@ -1,7 +1,10 @@
 +++
-date = '2026-03-16T16:34:18+01:00'
-title = 'Oppositie van de koningen'
+date = 2026-03-16T16:34:18+01:00
+title = "Oppositie van de koningen"
+weight = 9223372036658940949
 +++
+
+
 
 'Oppositie' is een belangrijk begrip in het spelen van een schaakeindspel.
 

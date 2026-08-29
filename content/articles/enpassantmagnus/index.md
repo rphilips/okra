@@ -1,7 +1,10 @@
 +++
-date = '2026-05-18T12:44:13+02:00'
-title = 'En passant en Magnus Carlsen'
+date = 2026-05-18T12:44:13+02:00
+title = "En passant en Magnus Carlsen"
+weight = 9223372036653515154
 +++
+
+
 
 En passant is zo een schaakregel die niet zo goed wordt begrepen door beginnende schakers.
 
@@ -68,4 +71,3 @@ pgn: `[Event "?"]
 
 var board = PGNV.pgnView('board', config);
 </script>
-

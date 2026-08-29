@@ -1,7 +1,10 @@
 +++
-date = '2026-04-24T16:01:44+02:00'
-title = 'Waarom men na 1500 jaar nog steeds schaakt'
+date = 2026-04-24T16:01:44+02:00
+title = "Waarom men na 1500 jaar nog steeds schaakt"
+weight = 9223372036655576903
 +++
+
+
 
 Schaken is een oud spel. Het heeft - na 1500 jaar nog niets van zijn aantrekkingskracht verloren.
 

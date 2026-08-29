@@ -1,7 +1,9 @@
 +++
-date = '2026-07-12T14:18:56+02:00'
-title = 'Schaken op 13-07-2026'
+date = 2026-07-12T14:18:56+02:00
+title = "Schaken op 13-07-2026"
+weight = 9223372036648757471
 +++
+
 
 - Onze website
 <!--

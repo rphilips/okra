@@ -1,7 +1,10 @@
 +++
-date = '2026-05-19T15:01:21+02:00'
-title = 'Triangulatie'
+date = 2026-05-19T15:01:21+02:00
+title = "Triangulatie"
+weight = 9223372036653420526
 +++
+
+
 
 In
 
@@ -52,5 +55,4 @@ Je kan de video bekijken op [dropbox](https://www.dropbox.com/scl/fi/4qj3b0k078m
     ViewPGN("game.pgn", "game");
 </script>
 <!-- Game end -->
-
 

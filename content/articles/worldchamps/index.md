@@ -1,7 +1,10 @@
 +++
-date = '2026-08-07T15:58:35+02:00'
-title = 'De wereldkampioenen tot augustus 2026'
+date = 2026-08-07T15:58:35+02:00
+title = "De wereldkampioenen tot augustus 2026"
+weight = 9223372036646505092
 +++
+
+
 
 <!--
 .image held.jpg

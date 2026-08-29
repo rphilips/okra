@@ -1,8 +1,10 @@
 +++
-date = '2026-04-05T12:55:04+02:00'
-draft = false
-title = 'Oezbekistan'
+date = 2026-04-05T12:55:04+02:00
+title = "Oezbekistan"
+weight = 9223372036657229703
 +++
+
+
 
 
 ![](oesbekistan.jpg)
@@ -25,5 +27,4 @@ Itchan Kala, de historische centra van Buchara en van Sachrisabz en Samarkand be
 
 De 44e Schaakolympiade (ook bekend als de Indiase Schaakolympiade), georganiseerd door de Fédération Internationale des Échecs (FIDE), werd gehouden in Chennai, de hoofdstad van Tamil Nadu, India, van 28 juli tot 10 augustus 2022. De Olympiade bestond uit een open toernooi (open voor alle spelers; van de 937 deelnemende spelers waren er 13 vrouw) en een vrouwentoernooi, plus diverse neven-evenementen ter promotie van het schaken.
 
-Oezbekistan won het open toernooi, dit was hun eerste medaille op het open toernooi in een Schaakolympiade. 
-
+Oezbekistan won het open toernooi, dit was hun eerste medaille op het open toernooi in een Schaakolympiade.

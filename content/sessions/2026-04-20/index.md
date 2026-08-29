@@ -1,7 +1,9 @@
 +++
-date = '2026-04-18T16:27:55+02:00'
-title = 'Schaken op 20-04-2026'
+date = 2026-04-18T16:27:55+02:00
+title = "Schaken op 20-04-2026"
+weight = 9223372036656093732
 +++
+
 
 <!--
 - .link articles/kanman2026/index.md
@@ -37,5 +39,3 @@ title = 'Schaken op 20-04-2026'
 - [Basis pion eindspel 5]({{< relref "/puzzles/pion5/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion5/index.md");'>(puzzle)</span>
 
 - Vrij schaken
-
-

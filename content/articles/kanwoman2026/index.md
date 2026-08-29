@@ -1,7 +1,10 @@
 +++
-date = '2026-04-16T14:49:48+02:00'
-title = 'Fide candidates 2026: Woman'
+date = 2026-04-16T14:49:48+02:00
+title = "Fide candidates 2026: Woman"
+weight = 9223372036656272419
 +++
+
+
 
 <!--
 .image vaishali.png
@@ -101,4 +104,3 @@ pgn: `[Event "FIDE Candidates Tournament 2026"]
 
 var board = PGNV.pgnView('board', config);
 </script>
-

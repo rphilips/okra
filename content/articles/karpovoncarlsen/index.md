@@ -1,7 +1,10 @@
 +++
-date = '2026-08-26T14:48:20+02:00'
-title = 'Karpov en de jonge Magnus'
+date = 2026-08-26T14:48:20+02:00
+title = "Karpov en de jonge Magnus"
+weight = 9223372036644867707
 +++
+
+
 
 <!--
 .image karpov.jpg

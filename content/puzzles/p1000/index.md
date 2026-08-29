@@ -1,7 +1,10 @@
 +++
-date = '2026-02-23T10:41:05+01:00'
-title = 'Het zit hem in de details!'
+date = 2026-02-23T10:41:05+01:00
+title = "Het zit hem in de details!"
+weight = 9223372036660776542
 +++
+
+
 
 Winst of verlies zit hem vaak in de details.
 
@@ -32,5 +35,3 @@ position: '8/3P2k1/8/3K4/8/3B3r/8/8 w - - 0 1', showCoords: true, orientation: '
 
 var board = PGNV.pgnPuzzle('board', config);
 </script>
-
-

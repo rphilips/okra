@@ -1,7 +1,10 @@
 +++
-date = '2026-07-12T16:10:46+02:00'
-title = 'Tal: tragisch en groots'
+date = 2026-07-12T16:10:46+02:00
+title = "Tal: tragisch en groots"
+weight = 9223372036648750761
 +++
+
+
 
 <!--
 .image tal.jpg
@@ -45,7 +48,3 @@ Vanzelfsprekend hoort hier ook een partij bij:
     ViewPGN("game.pgn", "game");
 </script>
 <!-- Game end -->
-
-
-
-

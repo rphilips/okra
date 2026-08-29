@@ -1,8 +1,10 @@
 +++
-date = '2026-04-02T18:33:54+02:00'
-draft = false
-title = 'Een puzzel die doet denken aan Reti'
+date = 2026-04-02T18:33:54+02:00
+title = "Een puzzel die doet denken aan Reti"
+weight = 9223372036657468573
 +++
+
+
 
 In deze puzzel is Wit aan zet.
 

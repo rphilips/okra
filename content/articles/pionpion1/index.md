@@ -1,7 +1,10 @@
 +++
-date = '2026-05-02T18:34:31+02:00'
-title = 'Pion tegen pion: de dansende koningen'
+date = 2026-05-02T18:34:31+02:00
+title = "Pion tegen pion: de dansende koningen"
+weight = 9223372036654876536
 +++
+
+
 
 <!--
 .diagram game.pgn
@@ -41,4 +44,3 @@ pgn: `[Event "?"]
 	
 var board = PGNV.pgnPuzzle('board', config);
 </script>
-

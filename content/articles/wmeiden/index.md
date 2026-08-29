@@ -1,7 +1,10 @@
 +++
-date = '2026-05-13T10:47:54+02:00'
-title = 'Clubspeler tegen beginnend schaker'
+date = 2026-05-13T10:47:54+02:00
+title = "Clubspeler tegen beginnend schaker"
+weight = 9223372036653954133
 +++
+
+
 
 ![](image.jpg)
 

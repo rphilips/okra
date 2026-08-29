@@ -1,7 +1,10 @@
 +++
-date = '2026-06-12T06:46:02+02:00'
-title = 'De fried liver attack en schaakmat door rokade'
+date = 2026-06-12T06:46:02+02:00
+title = "De fried liver attack en schaakmat door rokade"
+weight = 9223372036651376645
 +++
+
+
 
 <!--
 .diagram r1bqkb1r/ppp2Npp/2n5/3np3/2B5/8/PPPP1PPP/RNBQK2R w KQkq - 0 1
@@ -89,4 +92,3 @@ move $1} 1-0`, position: 'start', showCoords: true, orientation: 'white', theme:
 
 var board = PGNV.pgnView('board', config);
 </script>
-
