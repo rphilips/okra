@@ -12,9 +12,16 @@
 			<copyright>OKRA-Eke</copyright>
 		
 		
-			<lastBuildDate>Sun, 23 Aug 2026 16:33:03 +0200</lastBuildDate>
+			<lastBuildDate>Sun, 30 Aug 2026 18:56:37 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/puzzles/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Sam Loyd (2)</title>
+				<link>http://localhost:1313/okra/puzzles/samloyd2/</link>
+				<pubDate>Sun, 30 Aug 2026 18:56:37 +0200</pubDate>
+				<guid>http://localhost:1313/okra/puzzles/samloyd2/</guid>
+				<description>&lt;p&gt;De puzzels van Sam Loyd zijn net altijd wat anders: deze puzzel toont een eigenaardig geometrisch patroon.&lt;/p&gt;&#xA;&lt;!--&#xA;.diagram puzzle.pgn&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;8/8/K1p1p1p1/P1p1P1p1/P1p1k1p1/P1B1P1p1/P1R1P1N1/8 w - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/puzzles/samloyd2/8x8xK1p1p1p1xP1p1P1p1xP1p1k1p1xP1B1P1p1xP1R1P1N1x8zwzuzuz0z1.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;!--&#xA;.yt igR5xUpJ1A4&#xA;--&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/igR5xUpJ1A4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;&#x9;&#x9;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Je kan de video ook bekijken op &lt;a href=&#34;https://www.dropbox.com/scl/fi/wyi6x2ifs5g1h0l4yupb9/A_Crazy_Chess_Puzzle_With_Pieces_Lined_Up_On_Par.mp4?rlkey=8nwnjjlri1tinwji320qyoeqk&amp;amp;dl=0&#34;&gt;dropbox&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.puzzle puzzle.pgn&#xA;--&gt;&#xA;&lt;p&gt;(Je kan de partij &lt;a href=&#34;puzzle.pgn&#34;&gt;hier&lt;/a&gt; downloaden in PGN formaat)&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Genrikh Kasparyan</title>
 				<link>http://localhost:1313/okra/puzzles/kasparyan/</link>
