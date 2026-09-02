@@ -12,9 +12,16 @@
 			<copyright>OKRA-Eke</copyright>
 		
 		
-			<lastBuildDate>Sun, 30 Aug 2026 18:56:37 +0200</lastBuildDate>
+			<lastBuildDate>Wed, 02 Sep 2026 11:02:14 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Titled Tuesday: Simon Williams vs GothamChess</title>
+				<link>http://localhost:1313/okra/games/titledtuesday/</link>
+				<pubDate>Wed, 02 Sep 2026 11:02:14 +0200</pubDate>
+				<guid>http://localhost:1313/okra/games/titledtuesday/</guid>
+				<description>&lt;p&gt;Een duel tussen twee bekende Internet streamers.&lt;/p&gt;&#xA;&lt;!--&#xA;.image sw.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/games/titledtuesday/sw.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nl.wikipedia.org/wiki/Simon_Williams&#34;&gt;Simon Williams&lt;/a&gt; is mijn absoluut favoriete chess-streamer: zijn kleurrijke verschijning aangevuld met zijn bizarre openingskeuze zorgen steeds voor spektakel.&#xA;Vergis u niet: hij is wel degelijk een zeer sterke schaker.&lt;/p&gt;&#xA;&lt;!--&#xA;.image gc.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/games/titledtuesday/gc.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nl.wikipedia.org/wiki/Levy_Rozman&#34;&gt;Levy Rozman&lt;/a&gt;, beter gekend als Gotham Chess, is een Internationaal meester en misschien wel de best verdienende schaker ooit: met meer dan 7 miljoen abonnees op zijn YouTube kanaal zit hij gebeiteld!&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Sam Loyd (2)</title>
 				<link>http://localhost:1313/okra/puzzles/samloyd2/</link>
