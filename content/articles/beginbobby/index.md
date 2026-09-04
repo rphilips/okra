@@ -25,6 +25,8 @@ Ook de partij van eeuw wordt getoond!
 
 </div>
 
+(Partij geannoteerd door chess.com)
+
 <!--
 .game game.pgn
 -->
