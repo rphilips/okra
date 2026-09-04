@@ -16,7 +16,7 @@ weight = 9223372036644510508
 -->
 ![](slide.jpg)
 
-Hij is vooral bekend van zijn [4 x 4 puzzel schuif puzzel](https://en.wikipedia.org/wiki/Sliding_puzzle). Volledig verkeerd natuurlijk: hij heeft deze puzzel simpelweg 'geleend' van Noyes Chapman in 1880. Toch bracht hij een nuance aan de puzzel: hij wisselde  ed '15' en de '16' en loofde een beloning van 1000 dollar uit aan diegene die de puzzel kon oplossen!
+Hij is vooral bekend van zijn [4 x 4 puzzel schuif puzzel](https://en.wikipedia.org/wiki/Sliding_puzzle). Volledig verkeerd natuurlijk: hij heeft deze puzzel simpelweg 'geleend' van Noyes Chapman in 1880. Toch bracht hij een nuance aan de puzzel: hij wisselde  de '14' en de '15' en loofde een beloning van 1000 dollar uit aan diegene die de puzzel kon oplossen!
 
 Zijn schaakcomposities zijn anders dan anders en ze zullen er zeker een paar van tonen.
 

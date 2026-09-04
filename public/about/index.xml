@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Betreft … on Start</title>
-		<link>https://rphilips.github.io/okra/about/</link>
+		<link>http://localhost:1313/okra/about/</link>
 		<description>Recent content in Betreft … on Start</description>
 		<generator>Hugo</generator>
 		<language>nl</language>
@@ -14,6 +14,6 @@
 		
 			<lastBuildDate></lastBuildDate>
 		
-			<atom:link href="https://rphilips.github.io/okra/about/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/okra/about/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

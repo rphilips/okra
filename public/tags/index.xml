@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Start</title>
-		<link>https://rphilips.github.io/okra/tags/</link>
+		<link>http://localhost:1313/okra/tags/</link>
 		<description>Recent content in Tags on Start</description>
 		<generator>Hugo</generator>
 		<language>nl</language>
@@ -12,6 +12,6 @@
 			<copyright>OKRA-Eke</copyright>
 		
 		
-			<atom:link href="https://rphilips.github.io/okra/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/okra/tags/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
