@@ -14,8 +14,8 @@ De oorsprong is te vinden in het India van de 6e eeuw en kreeg zijn definitieve 
 
 De 2 partijen - steeds Wit en Zwart genaamd - staan lijnrecht over elkaar. Er is geen verborgen informatie. Niets wordt aan het toeval overgelaten.
 
-In de twee legers bevindt zich precies 1 koning. Het leger dat er in slaagt deze koning te veroveren - zonder dat deze weerwerk kan bieden - wint het pleit.
-Het doet er niet toe hoeveel strijders een leger verliest of wint: enkel de eigen koning en de vijandelijke koning zijn belangrijk.
+In elk der twee legers bevindt zich precies 1 koning. Het leger dat er in slaagt deze koning te veroveren - zonder dat deze weerwerk kan bieden - wint het pleit.
+Het doet er niet toe hoeveel strijders een leger verliest of wint: enkel de eigen koning en de vijandelijke koning zijn bepalend.
 
 Het spel heeft 1 van 3 mogelijke resultaten:
 
