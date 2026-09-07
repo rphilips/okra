@@ -12,9 +12,23 @@
 			<copyright>OKRA-Eke</copyright>
 		
 		
-			<lastBuildDate>Fri, 04 Sep 2026 17:07:35 +0200</lastBuildDate>
+			<lastBuildDate>Mon, 07 Sep 2026 17:04:30 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/articles/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>articles/schaakbeelden</title>
+				<link>http://localhost:1313/okra/articles/schaakbeelden/</link>
+				<pubDate>Mon, 07 Sep 2026 17:04:30 +0200</pubDate>
+				<guid>http://localhost:1313/okra/articles/schaakbeelden/</guid>
+				<description>&lt;p&gt;Iets dat lang bestaat maakt geschiedenis.&lt;/p&gt;&#xA;&lt;p&gt;Er bestaan dus ook heel wat oud film- en foto materiaal over schaken.&lt;/p&gt;&#xA;&lt;!--&#xA;.yt bxSxYXjkrj8&#xA;--&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/bxSxYXjkrj8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;&#x9;&#x9;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Je kan de video ook bekijken op &lt;a href=&#34;https://www.dropbox.com/scl/fi/1eubihgzgf8d4t8uoq0sh/Rarest_Photos_in_Chess_History_bxSxYXjkrj8.mp4?rlkey=yq646nmr8t6wqj2scm7brnjhx&amp;amp;dl=0&#34;&gt;dropbox&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>7 verschillende beelden van Magnus</title>
+				<link>http://localhost:1313/okra/articles/magnus7/</link>
+				<pubDate>Mon, 07 Sep 2026 16:54:18 +0200</pubDate>
+				<guid>http://localhost:1313/okra/articles/magnus7/</guid>
+				<description>&lt;p&gt;Je wordt niet zomaar wereldkampioen schaken. Je moet echt wel &lt;em&gt;speciaal&lt;/em&gt; zijn om meer dan 15 jaar de hoogst geklasseerde schaker te zijn.&lt;/p&gt;&#xA;&lt;p&gt;Op 7 september 2026 zijn er 15 schakers die ooit meer dan 2800 ELO behaalden:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Magnus Carlsen (Norway) – Peak: 2882 (Highest in history)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Garry Kasparov (Russia) – Peak: 2851 (First to ever cross 2800 in 1990)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Fabiano Caruana (United States) – Peak: 2844&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Levon Aronian (United States) – Peak: 2830&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>De beginjaren van Bobby Fischer</title>
 				<link>http://localhost:1313/okra/articles/beginbobby/</link>

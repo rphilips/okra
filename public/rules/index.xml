@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Regels on Start</title>
+		<link>http://localhost:1313/okra/rules/</link>
+		<description>Recent content in Regels on Start</description>
+		<generator>Hugo</generator>
+		<language>nl</language>
+		
+		
+		
+			<copyright>OKRA-Eke</copyright>
+		
+		
+			<lastBuildDate>Mon, 07 Sep 2026 17:09:42 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/okra/rules/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Het doel van een partij schaak</title>
+				<link>http://localhost:1313/okra/rules/doel/</link>
+				<pubDate>Mon, 07 Sep 2026 17:09:42 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/doel/</guid>
+				<description>&lt;!--&#xA;.image azincourt.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/doel/azincourt.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Schaken is een oorlogsspel.&lt;/p&gt;&#xA;&lt;p&gt;De oorsprong is te vinden in het India van de 6e eeuw en kreeg zijn definitieve vorm in West-Europa in de 19e eeuw.&lt;/p&gt;&#xA;&lt;p&gt;De 2 partijen - steeds Wit en Zwart genaamd - staan lijnrecht over elkaar. Er is geen verborgen informatie. Niets wordt aan het toeval overgelaten.&lt;/p&gt;&#xA;&lt;p&gt;In de twee legers bevindt zich precies 1 koning. Het leger dat er in slaagt deze koning te veroveren - zonder dat deze weerwerk kan bieden - wint het pleit.&#xA;Het doet er niet toe hoeveel strijders een leger verliest of wint: enkel de eigen koning en de vijandelijke koning zijn belangrijk.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>FIDE</title>
+				<link>http://localhost:1313/okra/rules/fide/</link>
+				<pubDate>Sun, 06 Sep 2026 16:52:49 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/fide/</guid>
+				<description>&lt;!--&#xA;.image fide.svg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/fide/fide.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nl.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_Internationale_des_%C3%89checs&#34;&gt;Fédération Internationale des Échecs (FIDE)&lt;/a&gt; is het overkoepelende orgaan van de nationale schaakbonden. De federatie werd opgericht in Parijs in 1924 en zetelt in het Zwitserse Lausanne.&lt;/p&gt;&#xA;&lt;p&gt;Anno 2023 waren er 201 nationale schaakbonden bij FIDE aangesloten, waaronder de Koninklijke Belgische Schaakbond (KBSB).&lt;/p&gt;&#xA;&lt;p&gt;Het vaststellen van de spelregels van het schaken is vanzelfsprekend een belangrijke taak van de FIDE.&lt;/p&gt;&#xA;&lt;p&gt;Schaken bestaat al heel lang en soms wijzigen de spelregels. De essentie ligt al een paar honderd jaar vast maar toch zijn er geregeld elementen die veranderen. Bijvoorbeeld: bij de aanvang van een partij moeten de spelers respect betuigen aan hun tegenstander.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

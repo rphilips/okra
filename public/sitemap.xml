@@ -4,7 +4,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/okra/overview/</loc>
-    <lastmod>2026-09-04T17:15:45+02:00</lastmod>
+    <lastmod>2026-09-07T17:22:05+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -28,6 +28,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/okra/rules/</loc>
+    <lastmod>2026-02-21T17:16:33+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/okra/about/</loc>
     <lastmod>2026-02-10T15:50:30+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -35,6 +40,26 @@
   </url><url>
     <loc>http://localhost:1313/okra/contact/</loc>
     <lastmod>2026-02-21T16:32:03+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/rules/doel/</loc>
+    <lastmod>2026-09-07T17:09:42+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/articles/schaakbeelden/</loc>
+    <lastmod>2026-09-07T17:04:30+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/articles/magnus7/</loc>
+    <lastmod>2026-09-07T16:54:18+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/rules/fide/</loc>
+    <lastmod>2026-09-06T16:52:49+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
