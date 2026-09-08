@@ -12,15 +12,22 @@
 			<copyright>OKRA-Eke</copyright>
 		
 		
-			<lastBuildDate>Mon, 07 Sep 2026 17:09:42 +0200</lastBuildDate>
+			<lastBuildDate>Tue, 08 Sep 2026 09:51:48 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/rules/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Schaakbord</title>
+				<link>http://localhost:1313/okra/rules/bord/</link>
+				<pubDate>Tue, 08 Sep 2026 09:51:48 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/bord/</guid>
+				<description>&lt;p&gt;Het &lt;a href=&#34;https://en.wikipedia.org/wiki/Chessboard&#34;&gt;schaakbord&lt;/a&gt; is het terrein waar de schaakpartij wordt beslecht.&lt;/p&gt;&#xA;&lt;p&gt;Schaakborden worden gemaakt in heel diverse materialen en komen in alle prijsklassen.&lt;/p&gt;&#xA;&lt;p&gt;Het is belangrijk om zich te realiseren dat FIDE een aantal regels heeft opgesteld waaraan een schaakbord moet voldoen.&lt;/p&gt;&#xA;&lt;p&gt;Een bord dat in officiële partijen wordt gebruikt moet &lt;em&gt;velden&lt;/em&gt; hebben van 50 mm tot 60 mm (1.97 to 2.36 inches), waarbij 55 mm als &amp;lsquo;ideaal&amp;rsquo; wordt gezien.&lt;/p&gt;&#xA;&lt;p&gt;Essentieel komen schaakborden in twee varianten: deze met coördinaten en deze zonder coördinaten. Ikzelf vind borden zonder coördinaten gewoon mooier, beginnende schakers vinden borden met coördinaten gemakkelijker.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Het doel van een partij schaak</title>
 				<link>http://localhost:1313/okra/rules/doel/</link>
 				<pubDate>Mon, 07 Sep 2026 17:09:42 +0200</pubDate>
 				<guid>http://localhost:1313/okra/rules/doel/</guid>
-				<description>&lt;!--&#xA;.image azincourt.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/doel/azincourt.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Schaken is een oorlogsspel.&lt;/p&gt;&#xA;&lt;p&gt;De oorsprong is te vinden in het India van de 6e eeuw en kreeg zijn definitieve vorm in West-Europa in de 19e eeuw.&lt;/p&gt;&#xA;&lt;p&gt;De 2 partijen - steeds Wit en Zwart genaamd - staan lijnrecht over elkaar. Er is geen verborgen informatie. Niets wordt aan het toeval overgelaten.&lt;/p&gt;&#xA;&lt;p&gt;In de twee legers bevindt zich precies 1 koning. Het leger dat er in slaagt deze koning te veroveren - zonder dat deze weerwerk kan bieden - wint het pleit.&#xA;Het doet er niet toe hoeveel strijders een leger verliest of wint: enkel de eigen koning en de vijandelijke koning zijn belangrijk.&lt;/p&gt;</description>
+				<description>&lt;!--&#xA;.image azincourt.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/doel/azincourt.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Schaken is een oorlogsspel.&lt;/p&gt;&#xA;&lt;p&gt;De oorsprong is te vinden in het India van de 6e eeuw en kreeg zijn definitieve vorm in West-Europa in de 19e eeuw.&lt;/p&gt;&#xA;&lt;p&gt;De 2 partijen - steeds Wit en Zwart genaamd - staan lijnrecht over elkaar. Er is geen verborgen informatie. Niets wordt aan het toeval overgelaten.&lt;/p&gt;&#xA;&lt;p&gt;In elk der twee legers bevindt zich precies 1 koning. Het leger dat er in slaagt deze koning te veroveren - zonder dat deze weerwerk kan bieden - wint het pleit.&#xA;Het doet er niet toe hoeveel strijders een leger verliest of wint: enkel de eigen koning en de vijandelijke koning zijn bepalend.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>FIDE</title>
