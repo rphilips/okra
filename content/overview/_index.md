@@ -1,5 +1,5 @@
 +++
-date = '2026-09-08T11:17:01+02:00'
+date = '2026-09-08T18:22:01+02:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 10
@@ -9,6 +9,10 @@ weight = 10
 
 <h2>September 2026</h2>
 
+<!--
+.link rules/pieces/index.md
+-->
+[Stukken en pionnen]({{< relref "/rules/pieces/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/pieces/index.md");'>(reglement)</span>
 <!--
 .link rules/bord/index.md
 -->
@@ -94,13 +98,13 @@ weight = 10
 -->
 [Niet de beste vrienden]({{< relref "/games/vete/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/vete/index.md");'>(partij)</span>
 <!--
-.link puzzles/rvq6/index.md
--->
-[Torens versus Dame studies (6)]({{< relref "/puzzles/rvq6/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq6/index.md");'>(puzzel)</span>
-<!--
 .link puzzles/rqv7/index.md
 -->
 [Torens versus Dame studies (7)]({{< relref "/puzzles/rqv7/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rqv7/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/rvq6/index.md
+-->
+[Torens versus Dame studies (6)]({{< relref "/puzzles/rvq6/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq6/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/rvq5/index.md
 -->
@@ -322,17 +326,17 @@ weight = 10
 -->
 [Winnen van  uit een onmogelijke positie]({{< relref "/puzzles/queenvsqueen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/queenvsqueen/index.md");'>(puzzel)</span>
 <!--
-.link puzzles/pion3/index.md
+.link puzzles/pion1/index.md
 -->
-[Basis pion eindspel 3]({{< relref "/puzzles/pion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion3/index.md");'>(puzzel)</span>
+[Basis pion eindspel 1]({{< relref "/puzzles/pion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/pion2/index.md
 -->
 [Basis pion eindspel 2]({{< relref "/puzzles/pion2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion2/index.md");'>(puzzel)</span>
 <!--
-.link puzzles/pion1/index.md
+.link puzzles/pion3/index.md
 -->
-[Basis pion eindspel 1]({{< relref "/puzzles/pion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzel)</span>
+[Basis pion eindspel 3]({{< relref "/puzzles/pion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion3/index.md");'>(puzzel)</span>
 <!--
 .link articles/secretsofpawn/index.md
 -->

@@ -12,9 +12,16 @@
 			<copyright>OKRA-Eke</copyright>
 		
 		
-			<lastBuildDate>Tue, 08 Sep 2026 09:51:48 +0200</lastBuildDate>
+			<lastBuildDate>Tue, 08 Sep 2026 17:52:14 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/rules/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Stukken en pionnen</title>
+				<link>http://localhost:1313/okra/rules/pieces/</link>
+				<pubDate>Tue, 08 Sep 2026 17:52:14 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/pieces/</guid>
+				<description>&lt;!--&#xA;.image pieces.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/pieces/pieces.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;De &lt;a href=&#34;https://en.wikipedia.org/wiki/Chess_piece&#34;&gt;schaakstukken&lt;/a&gt; zijn de soldaten op het slachtveld.&lt;/p&gt;&#xA;&lt;p&gt;Beide legers hebben dezelfde stukken: een koning, een koningin, 2 lopers, 2 paarden, 2 torens.&lt;/p&gt;&#xA;&lt;p&gt;Ze hebben beiden ook 8 pionnen.&lt;/p&gt;&#xA;&lt;p&gt;De FIDE schrijft de vorm en de afmetingen van de pionnen en stukken voor. Ook de afmetingen tegenover het schaakbord liggen vast.&lt;/p&gt;&#xA;&lt;p&gt;De koning is het grootste stuk en de voet van dit stuk moet tussen de 39,6mm en de 45,1mm liggen als de maat van de velden 55mm is!&#xA;Zijn hoogte bedraagt 9,5cm.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Schaakbord</title>
 				<link>http://localhost:1313/okra/rules/bord/</link>
