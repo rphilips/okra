@@ -12,15 +12,29 @@
 			<copyright>OKRA-Eke</copyright>
 		
 		
-			<lastBuildDate>Tue, 08 Sep 2026 17:52:14 +0200</lastBuildDate>
+			<lastBuildDate>Wed, 09 Sep 2026 16:10:46 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/rules/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>De koning</title>
+				<link>http://localhost:1313/okra/rules/king/</link>
+				<pubDate>Wed, 09 Sep 2026 16:10:46 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/king/</guid>
+				<description>&lt;!--&#xA;.diagram fen:8/3q4/3kR3/8/5K2/8/8/8 b - - 0 1; redarrow:d6c6,d6c5,d6c7,d6e7,d6e6,d6d5; bluearrow:f4f5,f4g5,f4g4,f4g3,f4f3,f4e3,f4e4&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;8/3q4/3kR3/8/5K2/8/8/8 b - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/king/8x3q4x3kR3x8x5K2x8x8x8zbzuzuz0z1ard6c5010000ard6c6010000ard6c7010000ard6d5010000ard6e6010000ard6e7010000arf4e3000001arf4e4000001arf4f3000001arf4f5000001arf4g3000001arf4g4000001arf4g5000001.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;De koning kan naar de naburige velden gaan tenzij:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;er staat daar een stuk van eigen kleur&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;hij staat daar schaak. In het bijzonder: hij komt naast de vijandelijke koning te staan&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Een koning kan dus naar maximaal 8 velden gaan.&lt;/p&gt;&#xA;&lt;p&gt;Met coördinaten:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;de witte koning op f4 kan naar e3, e4, f5, g5, g4, g3 en f3&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Stukken en pionnen</title>
 				<link>http://localhost:1313/okra/rules/pieces/</link>
 				<pubDate>Tue, 08 Sep 2026 17:52:14 +0200</pubDate>
 				<guid>http://localhost:1313/okra/rules/pieces/</guid>
 				<description>&lt;!--&#xA;.image pieces.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/pieces/pieces.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;De &lt;a href=&#34;https://en.wikipedia.org/wiki/Chess_piece&#34;&gt;schaakstukken&lt;/a&gt; zijn de soldaten op het slachtveld.&lt;/p&gt;&#xA;&lt;p&gt;Beide legers hebben dezelfde stukken: een koning, een koningin, 2 lopers, 2 paarden, 2 torens.&lt;/p&gt;&#xA;&lt;p&gt;Ze hebben beiden ook 8 pionnen.&lt;/p&gt;&#xA;&lt;p&gt;De FIDE schrijft de vorm en de afmetingen van de pionnen en stukken voor. Ook de afmetingen tegenover het schaakbord liggen vast.&lt;/p&gt;&#xA;&lt;p&gt;De koning is het grootste stuk en de voet van dit stuk moet tussen de 39,6mm en de 45,1mm liggen als de maat van de velden 55mm is!&#xA;Zijn hoogte bedraagt 9,5cm.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Een zet bij het schaken</title>
+				<link>http://localhost:1313/okra/rules/move/</link>
+				<pubDate>Tue, 08 Sep 2026 17:48:09 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/move/</guid>
+				<description>&lt;!--&#xA;.image image.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/move/image.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;We leerden reeds dat Wit en Zwart om beurt spelen. Dat &amp;lsquo;spelen&amp;rsquo; betekent een zet uitvoeren.&lt;/p&gt;&#xA;&lt;p&gt;Daartoe heeft elke speler - althans bij aanvang - 8 stukken en 8 pionnen.&lt;/p&gt;&#xA;&lt;p&gt;Elk van deze - stukken en pionnen - hebben nauwkeurig voorgeschreven regels wat het betekent &amp;rsquo;een zet uitvoeren&amp;rsquo;.&lt;/p&gt;&#xA;&lt;p&gt;Toch zijn er ook heel wat elementen gemeenschappelijk:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;het spelen van een zet begint steeds met het vastnemen en bewegen van een stuk van de eigen kleur&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Schaakbord</title>

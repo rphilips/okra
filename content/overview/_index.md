@@ -1,5 +1,5 @@
 +++
-date = '2026-09-08T18:22:01+02:00'
+date = '2026-09-09T16:45:33+02:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 10
@@ -10,9 +10,17 @@ weight = 10
 <h2>September 2026</h2>
 
 <!--
+.link rules/king/index.md
+-->
+[De koning]({{< relref "/rules/king/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/king/index.md");'>(reglement)</span>
+<!--
 .link rules/pieces/index.md
 -->
 [Stukken en pionnen]({{< relref "/rules/pieces/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/pieces/index.md");'>(reglement)</span>
+<!--
+.link rules/move/index.md
+-->
+[Een zet bij het schaken]({{< relref "/rules/move/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/move/index.md");'>(reglement)</span>
 <!--
 .link rules/bord/index.md
 -->
@@ -98,13 +106,13 @@ weight = 10
 -->
 [Niet de beste vrienden]({{< relref "/games/vete/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/vete/index.md");'>(partij)</span>
 <!--
-.link puzzles/rqv7/index.md
--->
-[Torens versus Dame studies (7)]({{< relref "/puzzles/rqv7/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rqv7/index.md");'>(puzzel)</span>
-<!--
 .link puzzles/rvq6/index.md
 -->
 [Torens versus Dame studies (6)]({{< relref "/puzzles/rvq6/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq6/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/rqv7/index.md
+-->
+[Torens versus Dame studies (7)]({{< relref "/puzzles/rqv7/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rqv7/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/rvq5/index.md
 -->
@@ -130,13 +138,13 @@ weight = 10
 -->
 [Torens versus Dame studies (1)]({{< relref "/puzzles/rvq1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq1/index.md");'>(puzzel)</span>
 <!--
-.link puzzles/rvq3/index.md
--->
-[Torens versus Dame studies (3)]({{< relref "/puzzles/rvq3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq3/index.md");'>(puzzel)</span>
-<!--
 .link puzzles/rvq2/index.md
 -->
 [Torens versus Dame studies (2)]({{< relref "/puzzles/rvq2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq2/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/rvq3/index.md
+-->
+[Torens versus Dame studies (3)]({{< relref "/puzzles/rvq3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq3/index.md");'>(puzzel)</span>
 
 
 <h2>Juli 2026</h2>

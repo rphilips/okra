@@ -4,7 +4,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/okra/overview/</loc>
-    <lastmod>2026-09-08T18:22:01+02:00</lastmod>
+    <lastmod>2026-09-09T16:45:33+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -43,8 +43,18 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/okra/rules/king/</loc>
+    <lastmod>2026-09-09T16:10:46+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/okra/rules/pieces/</loc>
     <lastmod>2026-09-08T17:52:14+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/rules/move/</loc>
+    <lastmod>2026-09-08T17:48:09+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
