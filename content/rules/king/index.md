@@ -5,16 +5,27 @@ weight = 9223372036643653161
 +++
 
 <!--
+.image wking.jpg
+-->
+![](wking.jpg)
+
+<!--
+.image bking.jpg
+-->
+![](bking.jpg)
+
+
+<!--
 .diagram fen:8/3q4/3kR3/8/5K2/8/8/8 b - - 0 1; redarrow:d6c6,d6c5,d6c7,d6e7,d6e6,d6d5; bluearrow:f4f5,f4g5,f4g4,f4g3,f4f3,f4e3,f4e4
 -->
 <div style='cursor:pointer' onclick='navigator.clipboard.writeText("8/3q4/3kR3/8/5K2/8/8/8 b - - 0 1"); return false'>
 
-![](8x3q4x3kR3x8x5K2x8x8x8zbzuzuz0z1ard6c5010000ard6c6010000ard6c7010000ard6d5010000ard6e6010000ard6e7010000arf4e3000001arf4e4000001arf4f3000001arf4f5000001arf4g3000001arf4g4000001arf4g5000001.svg)
+![](a2d73217ce0daf1954e36368c43243f6.svg)
 
 </div>
 
 
-De koning kan naar de naburige velden gaan tenzij:
+De [koning](https://nl.wikipedia.org/wiki/Koning_(schaken)) kan naar de naburige velden gaan tenzij:
 
 - er staat daar een stuk van eigen kleur
 
