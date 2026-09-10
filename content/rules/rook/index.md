@@ -23,7 +23,8 @@ weight = 9223372036643569852
 
 </div>
 
-De [torens](https://nl.wikipedia.org/wiki/Toren_(schaken)) zijn als tanks: ze bewegen horizontaal en vertikaal. Ze missen de mogelijkheid van de kongin om ook diagonaal te gaan.
+De [torens](https://nl.wikipedia.org/wiki/Toren_(schaken)) zijn als tanks: ze bewegen horizontaal en vertikaal. Ze missen de mogelijkheid van de koningin om ook diagonaal te gaan.
 
 
+Met coördinaten: de toren op c2 kan naar a2, b2, d2, e2, f2, c1, c3, c4, c5
 
