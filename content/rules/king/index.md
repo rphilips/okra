@@ -41,4 +41,8 @@ Met coördinaten:
 - de zwarte koning kan naar c7, e7, e6, d5, c5 en c6
 
 
+<!--
+De koning heeft nog een speciale beweging: .link rules/rokade
+-->
+De koning heeft nog een speciale beweging: [De rokade]({{< relref "/rules/rokade/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/rokade");'>(reglement)</span>
 
