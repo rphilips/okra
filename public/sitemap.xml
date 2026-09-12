@@ -4,7 +4,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/okra/overview/</loc>
-    <lastmod>2026-09-11T19:34:26+02:00</lastmod>
+    <lastmod>2026-09-12T18:40:04+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -40,6 +40,36 @@
   </url><url>
     <loc>http://localhost:1313/okra/contact/</loc>
     <lastmod>2026-02-21T16:32:03+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/rules/remise/</loc>
+    <lastmod>2026-09-12T18:17:52+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/rules/fiftymoves/</loc>
+    <lastmod>2026-09-12T18:13:33+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/rules/threefold/</loc>
+    <lastmod>2026-09-12T18:08:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/rules/pat/</loc>
+    <lastmod>2026-09-11T20:52:28+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/rules/time/</loc>
+    <lastmod>2026-09-11T20:40:36+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/rules/win/</loc>
+    <lastmod>2026-09-11T19:44:21+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

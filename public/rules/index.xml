@@ -12,9 +12,51 @@
 			<copyright>OKRA-Eke</copyright>
 		
 		
-			<lastBuildDate>Fri, 11 Sep 2026 19:24:25 +0200</lastBuildDate>
+			<lastBuildDate>Sat, 12 Sep 2026 18:17:52 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/rules/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Gelijk spel</title>
+				<link>http://localhost:1313/okra/rules/remise/</link>
+				<pubDate>Sat, 12 Sep 2026 18:17:52 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/remise/</guid>
+				<description>&lt;!--&#xA;.image draw.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/remise/draw.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wanneer eindigt een schaakpartij in gelijk spel?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nl.wikipedia.org/wiki/Remise_%28bordspel%29&#34;&gt;Gelijk spel&lt;/a&gt; - of: remise - betekent dat er geen winnaar is.&lt;/p&gt;&#xA;&lt;p&gt;In schaken zijn er verschillende situaties waarbij de partij remise is:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;er is geen mat materiaal meer: het is mathematisch onmogelijk om schaakmat te geven&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;de spelers komen remise overeen&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;de scheidsrechter beslist dat de partij remise is&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- het is pat: .link rules/pat&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;het is pat: &lt;a href=&#34;http://localhost:1313/okra/rules/pat/&#34;&gt;Pat !?&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;rules/pat&#34;);&#39;&gt;(reglement)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- een speler eist remise op, op basis van de 3-zetten regel: .link rules/threefold&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;een speler eist remise op, op basis van de 3-zetten regel: &lt;a href=&#34;http://localhost:1313/okra/rules/threefold/&#34;&gt;Driemaal dezelfde stelling&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;rules/threefold&#34;);&#39;&gt;(reglement)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- de 5-zetten regel gaat in werking: .link rules/threefold&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;de 5-zetten regel gaat in werking: &lt;a href=&#34;http://localhost:1313/okra/rules/threefold/&#34;&gt;Driemaal dezelfde stelling&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;rules/threefold&#34;);&#39;&gt;(reglement)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- een speler eist de remise op, op basis van de 50-zetten regel: .link rules/fiftymoves&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;een speler eist de remise op, op basis van de 50-zetten regel: &lt;a href=&#34;http://localhost:1313/okra/rules/fiftymoves/&#34;&gt;Vijftigzettenregel&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;rules/fiftymoves&#34;);&#39;&gt;(reglement)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Vijftigzettenregel</title>
+				<link>http://localhost:1313/okra/rules/fiftymoves/</link>
+				<pubDate>Sat, 12 Sep 2026 18:13:33 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/fiftymoves/</guid>
+				<description>&lt;!--&#xA;.image 50.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/fiftymoves/50.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;De &lt;a href=&#34;https://nl.wikipedia.org/wiki/Vijftigzettenregel&#34;&gt;vijftigzettenregel&lt;/a&gt; is een spelregel in het schaakspel, waardoor een partij in remise kan eindigen. Wanneer er door beide spelers vijftig zetten zijn gespeeld zonder dat een pion is verzet of een stuk is geslagen kan een speler remise opeisen. De speler die dit doet moet de eis onderbouwen met een volledig ingevuld notatieformulier.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Driemaal dezelfde stelling</title>
+				<link>http://localhost:1313/okra/rules/threefold/</link>
+				<pubDate>Sat, 12 Sep 2026 18:08:00 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/threefold/</guid>
+				<description>&lt;!--&#xA;.image draw.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/threefold/draw.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nl.wikipedia.org/wiki/Driemaal_dezelfde_stelling&#34;&gt;Driemaal dezelfde stelling&lt;/a&gt; met dezelfde speler aan zet is het onderwerp van een spelregel in het schaakspel waardoor de partij in remise kan eindigen.&lt;/p&gt;&#xA;&lt;p&gt;De spelregel luidt formeel:&lt;/p&gt;&#xA;&lt;p&gt;De partij is remise, als een aan zet zijnde speler terecht claimt dat dezelfde stelling voor minstens de derde keer (niet noodzakelijkerwijs door opeenvolgende herhaling van zetten):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;tot stand gaat komen, als hij eerst zijn zet, die niet gewijzigd mag worden, op zijn notatieformulier noteert en de arbiter zijn voornemen meedeelt om deze zet spelen,&lt;/li&gt;&#xA;&lt;li&gt;of zojuist tot stand is gekomen, en de speler die remise claimt aan zet is.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Wordt er doorgespeeld, dan is de partij sinds een regelwijziging in 2014 automatisch remise als dezelfde stelling zich voor de vijfde maal voordoet.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Pat !?</title>
+				<link>http://localhost:1313/okra/rules/pat/</link>
+				<pubDate>Fri, 11 Sep 2026 20:52:28 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/pat/</guid>
+				<description>&lt;!--&#xA;.image pat.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/pat/pat.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Een &lt;a href=&#34;https://nl.wikipedia.org/wiki/Patstelling&#34;&gt;patstelling&lt;/a&gt; of kortweg pat is een situatie in het schaakspel, waarin de speler die aan zet is geen reglementaire zet kan doen en niet schaak staat. De partij eindigt bij een patstelling in remise.&lt;/p&gt;&#xA;&lt;p&gt;Voor de speler die sterk staat, is remise onvoordelig; hij wil daarom pat voorkomen. Als de tegenstander vrijwel geen materiaal meer heeft, maar nog niet opgeeft, moet de potentiële winnaar behoedzaam spelen en opletten dat hij geen pat veroorzaakt. Voor de speler die zwak staat, is remise voordelig.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Schaakklokken en tijd</title>
+				<link>http://localhost:1313/okra/rules/time/</link>
+				<pubDate>Fri, 11 Sep 2026 20:40:36 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/time/</guid>
+				<description>&lt;!--&#xA;.image trouble.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/time/trouble.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.image atime.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/time/atime.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.image dtime.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/time/dtime.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Er werd heel lang met analoge &lt;a href=&#34;https://nl.wikipedia.org/wiki/Wedstrijdklok&#34;&gt;schaakklokken&lt;/a&gt; gespeeld. Deze zijn nu grotendeels vervangen door digitale klokken.&lt;/p&gt;&#xA;&lt;p&gt;Niet alleen zijn deze nauwkeuriger, beter bestand tegen het geweld van de schakers maar er zijn ook mogelijkheden tot het automatisch bijgeven van extra tijd.&lt;/p&gt;&#xA;&lt;p&gt;Tijd is heel erg belangrijk in het moderne schaak: de spelers moeten hun zetten doseren zodanig dat deze kunnen worden uitgevoerd binnen de hen toegemeten tijd.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Hoe win je een schaakpartij ?</title>
+				<link>http://localhost:1313/okra/rules/win/</link>
+				<pubDate>Fri, 11 Sep 2026 19:44:21 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/win/</guid>
+				<description>&lt;!--&#xA;.image image.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/win/image.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Een schaakpartij wordt essentieel gewonnen door de vijandelijke koning te veroveren.&#xA;De koning staat dan &lt;strong&gt;schaakmat&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Echter &amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Het veroveren van de koning betekent het volgende:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;de koning staat schaak (hij is aangevallen)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;de aanvaller kan zelf niet worden geslagen&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;er kan geen stuk worden geplaatst tussen de aanvaller en de koning&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;de koning kan niet meer vluchten.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In de volgende stellingen staat Zwart schaakmat!&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>En passant slaan</title>
 				<link>http://localhost:1313/okra/rules/enpassant/</link>
