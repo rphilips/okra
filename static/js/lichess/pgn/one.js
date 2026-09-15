@@ -21,6 +21,11 @@ export async function ViewPGN(url, id) {
 
   LichessPgnViewer(document.getElementById(id), {
     pgn: await fetchPGN(url),
+    theme: {
+        board: 'brown',       // Sets the board squares to brown/tan
+        pieces: 'cburnett',   // Sets the standard Lichess piece set
+        variant: 'standard'
+      },
     menu: {
       getPgn: {
         enabled: true, // enable the "Get PGN" menu entry

@@ -46,7 +46,7 @@ Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/wvwx3fg
 <style>
     body {
          background: var(--demo-bg, #161512);
-      --board-color: #f1e14e;
+      --board-color: white;
       margin: 0;
     }
 </style>

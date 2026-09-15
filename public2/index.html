@@ -1,0 +1,1141 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head><script src="/okra/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=okra/livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Schaken bij OKRA-Eke | Start</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="De laatste hobby die je ooit nodig hebt …">
+    <meta name="generator" content="Hugo 0.162.1">
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    
+
+    <link rel="stylesheet" href="/okra/ananke/css/main.css">
+    <script>
+  (function () {
+    "use strict";
+
+    
+    
+    function revealButtons() {
+      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].hidden = false;
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", revealButtons);
+    } else {
+      revealButtons();
+    }
+
+    function flash(button) {
+      var label = button.querySelector(".code-copy-label");
+      var previous = label ? label.textContent : null;
+      button.classList.add("is-copied");
+      if (label) label.textContent = "Copied";
+      window.setTimeout(function () {
+        button.classList.remove("is-copied");
+        if (label && previous !== null) label.textContent = previous;
+      }, 2000);
+    }
+
+    function legacyCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    function copyFrom(button) {
+      var container = button.closest(".code-block");
+      if (!container) return;
+      var pre = container.querySelector("pre");
+      if (!pre) return;
+      var source = pre.querySelector("code") || pre;
+      var text = source.innerText;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () { flash(button); },
+          function () { if (legacyCopy(text)) flash(button); }
+        );
+      } else if (legacyCopy(text)) {
+        flash(button);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      var button = event.target.closest(".code-copy");
+      if (button) copyFrom(button);
+    });
+  })();
+</script>
+
+    
+      
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+
+
+    
+
+    
+    
+      <link href="/okra/index.xml" rel="alternate" type="application/rss+xml" title="Start" />
+      <link href="/okra/index.xml" rel="feed" type="application/rss+xml" title="Start" />
+      
+    
+
+    
+      <link rel="canonical" href="http://localhost:1313/okra/">
+    
+
+    
+    
+    <meta property="og:url" content="http://localhost:1313/okra/">
+	<meta property="og:site_name" content="Start">
+	<meta property="og:title" content="Schaken bij OKRA-Eke">
+	<meta property="og:description" content="De laatste hobby die je ooit nodig hebt …">
+	<meta property="og:locale" content="nl">
+	<meta property="og:type" content="website">
+
+	<meta itemprop="name" content="Schaken bij OKRA-Eke">
+	<meta itemprop="description" content="De laatste hobby die je ooit nodig hebt …">
+	<meta itemprop="datePublished" content="2026-02-21T15:52:45+01:00">
+	<meta itemprop="dateModified" content="2026-02-21T15:52:45+01:00">
+	<meta itemprop="wordCount" content="6">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="Schaken bij OKRA-Eke">
+	<meta name="twitter:description" content="De laatste hobby die je ooit nodig hebt …">
+
+	
+  </head><body class="ma0 avenir bg-near-white development is-home">
+
+  
+  
+  
+  <header class="cover bg-top" style="background-image: url('http://localhost:1313/okra/images/start.png');">
+    
+    <div class="bg-black-60">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l center items-center justify-between">
+    <a href="/okra/" class="f3 fw2 hover-white white-90 dib no-underline">
+      
+        Start
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/overview/" title="Overzicht pagina">
+              Overzicht
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/sessions/" title="Sessies pagina">
+              Sessies
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/articles/" title="Artikelen pagina">
+              Artikelen
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/games/" title="Partijen pagina">
+              Partijen
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/puzzles/" title="Puzzels pagina">
+              Puzzels
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/rules/" title="Regels pagina">
+              Regels
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/about/" title="Betreft … pagina">
+              Betreft …
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/contact/" title="Contact pagina">
+              Contact
+            </a>
+          </li>
+          
+        </ul>
+      
+      <div class="ananke-socials"></div>
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+          Schaken bij OKRA-Eke
+        </h1>
+        
+          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
+            De laatste hobby die je ooit nodig hebt …
+          </h2>
+        
+      </div>
+    </div>
+  </header>
+
+<main class="pb7" role="main"><article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links mid-gray">
+    <p>Welkom op de schaaksite van OKRA-Eke!</p>
+
+  </article>
+
+  
+  
+  
+  
+  
+
+  
+    <div class="pa3 pa4-ns w-100 w-70-ns center">
+      
+
+      <section class="w-100 mw8">
+        
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-12T18:17:52+02:00">september 12, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/remise/" class="color-inherit dim link">
+            Gelijk spel
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image draw.jpg
+-->
+<p><img src="/okra/rules/remise/draw.jpg" alt=""></p>
+<p><strong>Wanneer eindigt een schaakpartij in gelijk spel?</strong></p>
+<p><a href="https://nl.wikipedia.org/wiki/Remise_%28bordspel%29">Gelijk spel</a> - of: remise - betekent dat er geen winnaar is.</p>
+<p>In schaken zijn er verschillende situaties waarbij de partij remise is:</p>
+<ul>
+<li>
+<p>er is geen mat materiaal meer: het is mathematisch onmogelijk om schaakmat te geven</p>
+</li>
+<li>
+<p>de spelers komen remise overeen</p>
+</li>
+<li>
+<p>de scheidsrechter beslist dat de partij remise is</p>
+</li>
+</ul>
+<!--
+- het is pat: .link rules/pat
+-->
+<ul>
+<li>het is pat: <a href="/okra/rules/pat/">Pat !?</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/pat");'>(reglement)</span></li>
+</ul>
+<!--
+- een speler eist remise op, op basis van de 3-zetten regel: .link rules/threefold
+-->
+<ul>
+<li>een speler eist remise op, op basis van de 3-zetten regel: <a href="/okra/rules/threefold/">Driemaal dezelfde stelling</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/threefold");'>(reglement)</span></li>
+</ul>
+<!--
+- de 5-zetten regel gaat in werking: .link rules/threefold
+-->
+<ul>
+<li>de 5-zetten regel gaat in werking: <a href="/okra/rules/threefold/">Driemaal dezelfde stelling</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/threefold");'>(reglement)</span></li>
+</ul>
+<!--
+- een speler eist de remise op, op basis van de 50-zetten regel: .link rules/fiftymoves
+-->
+<ul>
+<li>een speler eist de remise op, op basis van de 50-zetten regel: <a href="/okra/rules/fiftymoves/">Vijftigzettenregel</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/fiftymoves");'>(reglement)</span></li>
+</ul>
+        </div>
+        <a href="/okra/rules/remise/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-12T18:13:33+02:00">september 12, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/fiftymoves/" class="color-inherit dim link">
+            Vijftigzettenregel
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image 50.jpg
+-->
+<p><img src="/okra/rules/fiftymoves/50.jpg" alt=""></p>
+<p>De <a href="https://nl.wikipedia.org/wiki/Vijftigzettenregel">vijftigzettenregel</a> is een spelregel in het schaakspel, waardoor een partij in remise kan eindigen. Wanneer er door beide spelers vijftig zetten zijn gespeeld zonder dat een pion is verzet of een stuk is geslagen kan een speler remise opeisen. De speler die dit doet moet de eis onderbouwen met een volledig ingevuld notatieformulier.</p>
+        </div>
+        <a href="/okra/rules/fiftymoves/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-12T18:08:00+02:00">september 12, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/threefold/" class="color-inherit dim link">
+            Driemaal dezelfde stelling
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image draw.jpg
+-->
+<p><img src="/okra/rules/threefold/draw.jpg" alt=""></p>
+<p><a href="https://nl.wikipedia.org/wiki/Driemaal_dezelfde_stelling">Driemaal dezelfde stelling</a> met dezelfde speler aan zet is het onderwerp van een spelregel in het schaakspel waardoor de partij in remise kan eindigen.</p>
+<p>De spelregel luidt formeel:</p>
+<p>De partij is remise, als een aan zet zijnde speler terecht claimt dat dezelfde stelling voor minstens de derde keer (niet noodzakelijkerwijs door opeenvolgende herhaling van zetten):</p>
+<ul>
+<li>tot stand gaat komen, als hij eerst zijn zet, die niet gewijzigd mag worden, op zijn notatieformulier noteert en de arbiter zijn voornemen meedeelt om deze zet spelen,</li>
+<li>of zojuist tot stand is gekomen, en de speler die remise claimt aan zet is.</li>
+</ul>
+<p>Wordt er doorgespeeld, dan is de partij sinds een regelwijziging in 2014 automatisch remise als dezelfde stelling zich voor de vijfde maal voordoet.</p>
+        </div>
+        <a href="/okra/rules/threefold/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-11T20:52:28+02:00">september 11, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/pat/" class="color-inherit dim link">
+            Pat !?
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image pat.jpg
+-->
+<p><img src="/okra/rules/pat/pat.jpg" alt=""></p>
+<p>Een <a href="https://nl.wikipedia.org/wiki/Patstelling">patstelling</a> of kortweg pat is een situatie in het schaakspel, waarin de speler die aan zet is geen reglementaire zet kan doen en niet schaak staat. De partij eindigt bij een patstelling in remise.</p>
+<p>Voor de speler die sterk staat, is remise onvoordelig; hij wil daarom pat voorkomen. Als de tegenstander vrijwel geen materiaal meer heeft, maar nog niet opgeeft, moet de potentiële winnaar behoedzaam spelen en opletten dat hij geen pat veroorzaakt. Voor de speler die zwak staat, is remise voordelig.</p>
+        </div>
+        <a href="/okra/rules/pat/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-11T20:40:36+02:00">september 11, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/time/" class="color-inherit dim link">
+            Schaakklokken en tijd
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image trouble.jpg
+-->
+<p><img src="/okra/rules/time/trouble.jpg" alt=""></p>
+<!--
+.image atime.jpg
+-->
+<p><img src="/okra/rules/time/atime.jpg" alt=""></p>
+<!--
+.image dtime.jpg
+-->
+<p><img src="/okra/rules/time/dtime.jpg" alt=""></p>
+<p>Er werd heel lang met analoge <a href="https://nl.wikipedia.org/wiki/Wedstrijdklok">schaakklokken</a> gespeeld. Deze zijn nu grotendeels vervangen door digitale klokken.</p>
+<p>Niet alleen zijn deze nauwkeuriger, beter bestand tegen het geweld van de schakers maar er zijn ook mogelijkheden tot het automatisch bijgeven van extra tijd.</p>
+<p>Tijd is heel erg belangrijk in het moderne schaak: de spelers moeten hun zetten doseren zodanig dat deze kunnen worden uitgevoerd binnen de hen toegemeten tijd.</p>
+        </div>
+        <a href="/okra/rules/time/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-11T19:44:21+02:00">september 11, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/win/" class="color-inherit dim link">
+            Hoe win je een schaakpartij ?
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image image.jpg
+-->
+<p><img src="/okra/rules/win/image.jpg" alt=""></p>
+<p>Een schaakpartij wordt essentieel gewonnen door de vijandelijke koning te veroveren.
+De koning staat dan <strong>schaakmat</strong></p>
+<p>Echter &hellip;</p>
+<p>Het veroveren van de koning betekent het volgende:</p>
+<ul>
+<li>
+<p>de koning staat schaak (hij is aangevallen)</p>
+</li>
+<li>
+<p>de aanvaller kan zelf niet worden geslagen</p>
+</li>
+<li>
+<p>er kan geen stuk worden geplaatst tussen de aanvaller en de koning</p>
+</li>
+<li>
+<p>de koning kan niet meer vluchten.</p>
+</li>
+</ul>
+<p>In de volgende stellingen staat Zwart schaakmat!</p>
+        </div>
+        <a href="/okra/rules/win/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-11T19:24:25+02:00">september 11, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/enpassant/" class="color-inherit dim link">
+            En passant slaan
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image image.jpg
+-->
+<p><img src="/okra/rules/enpassant/image.jpg" alt=""></p>
+<p>In deze stelling is Wit aan zet en er is nog niets aan de hand.</p>
+<!--
+.diagram fen:4k3/8/8/8/1p6/8/P7/4K3 w - - 0 1
+-->
+<div style='cursor:pointer' onclick='navigator.clipboard.writeText("4k3/8/8/8/1p6/8/P7/4K3 w - - 0 1"); return false'>
+<p><img src="/okra/rules/enpassant/53ef71a66f95d1471eb0bda856457109.svg" alt=""></p>
+</div>
+<p>Wit speelt zijn a-pion 2 zetten vooruit en passeert dus de zwarte pion!</p>
+<!--
+.diagram fen:4k3/8/8/8/Pp6/8/8/4K3 w - - 0 1; redarrow:a2a4
+-->
+<div style='cursor:pointer' onclick='navigator.clipboard.writeText("4k3/8/8/8/Pp6/8/8/4K3 w - - 0 1"); return false'>
+<p><img src="/okra/rules/enpassant/6351b113b16d1203316cb40469ca3cf8.svg" alt=""></p>
+</div>
+<p>Zwart vindt dit onrechtvaardig en volgende de <em>en passant regel</em> mag hij doen alsof de pion naar a3 (in plaats naar a4) is gegaan. Hij kan dus de pion slaan.
+Hij moet dit wel ogenblikkelijk doen!</p>
+        </div>
+        <a href="/okra/rules/enpassant/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-11T19:00:13+02:00">september 11, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/promotion/" class="color-inherit dim link">
+            De promotie
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image promotion.png
+-->
+<p><img src="/okra/rules/promotion/promotion.png" alt=""></p>
+<p><a href="https://nl.wikipedia.org/wiki/Promotie_%28schaken%29">Promotie</a> is ongelofelijk! Een pion die er in slaagt op de laatste (eerste) rij te komen, wordt <strong>meteen</strong> een ander stuk en dit kan een koningin, een toren, een loper of een paard zijn.</p>
+<p>Er zijn een aantal aandachtspunten:</p>
+<ul>
+<li>de pion promoveert steeds tot een stuk van dezelfde kleur</li>
+<li>de pion promoveert <strong>nooit</strong> tot een koning</li>
+<li>na promotie kunnen er gerust meerdere stukken van dezelfde kleur bestaan: zoals meerdere koninginnen, of drie lopers</li>
+</ul>
+<p>In de volgende partij zien we niet minder dan 5 koninginnen op het bord: de grote (en latere wereldkampioen) Aljechin aan het werk!</p>
+        </div>
+        <a href="/okra/rules/promotion/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-11T18:43:34+02:00">september 11, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/pawn/" class="color-inherit dim link">
+            De pion
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image wpawn.jpg
+-->
+<p><img src="/okra/rules/pawn/wpawn.jpg" alt=""></p>
+<!--
+.image bpawn.jpg
+-->
+<p><img src="/okra/rules/pawn/bpawn.jpg" alt=""></p>
+<!--
+.diagram fen:4k3/8/8/1P1bnr2/4P3/8/5P2/4K3 w - - 0 1; redarrow:b5b6,f2f3,f2f4; bluearrow:e4d5,e4f5
+-->
+<div style='cursor:pointer' onclick='navigator.clipboard.writeText("4k3/8/8/1P1bnr2/4P3/8/5P2/4K3 w - - 0 1"); return false'>
+<p><img src="/okra/rules/pawn/425ee194a34c9eaae5ed567669b3fdde.svg" alt=""></p>
+</div>
+<p>De <a href="https://nl.wikipedia.org/wiki/Pion_%28schaken%29">pion</a> is zeker het meest merkwaardige stuk op een schaakbord.</p>
+<p>Het is het zwakste stuk maar er zijn er wel veel van: bij aanvang heeft elke speler er 8.</p>
+<p>In tegenstelling tot de andere stukken kan de pion enkel vooruit gaan (voor wit: als een pion beweegt, komt hij steeds tercht op een hogere rij; voor zwart: pionnen bewegen steeds naar een lagere rij)</p>
+        </div>
+        <a href="/okra/rules/pawn/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-11T18:34:36+02:00">september 11, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/knight/" class="color-inherit dim link">
+            Het paard
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image wknight.jpg
+-->
+<p><img src="/okra/rules/knight/wknight.jpg" alt=""></p>
+<!--
+.image bknight.jpg
+-->
+<p><img src="/okra/rules/knight/bknight.jpg" alt=""></p>
+<p>Het paard beweegt altijd ofwel één veld horizontaal en vervolgens twee velden verticaal, ofwel één veld verticaal en vervolgens twee velden horizontaal. Een andere manier om dit te formuleren is dat het beginveld en het eindveld een L-vorm hebben. Of: een paard mag worden verplaatst naar een van de dichtstbijzijnde velden die niet op dezelfde lijn, rij of diagonaal liggen als waarop het staat. Hierdoor gaat een paard bij iedere zet van een zwart naar een wit veld of omgekeerd.</p>
+        </div>
+        <a href="/okra/rules/knight/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-11T18:06:46+02:00">september 11, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/rokade/" class="color-inherit dim link">
+            De rokade
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <p>Voor de korte rokade:</p>
+<!--
+.diagram fen:4k2r/8/8/8/8/8/8/4K3 b - - 0 1; redarrow:e8g8;bluearrow:h8f8
+-->
+<div style='cursor:pointer' onclick='navigator.clipboard.writeText("4k2r/8/8/8/8/8/8/4K3 b - - 0 1"); return false'>
+<p><img src="/okra/rules/rokade/ee6d3fabd84d26ddf0af3953a74105e7.svg" alt=""></p>
+</div>
+<p>Na de korte rokade:</p>
+<!--
+.diagram fen:5rk1/8/8/8/8/8/8/4K3 w - - 0 1
+-->
+<div style='cursor:pointer' onclick='navigator.clipboard.writeText("5rk1/8/8/8/8/8/8/4K3 w - - 0 1"); return false'>
+<p><img src="/okra/rules/rokade/74cb01197745f1a8651ea43c01d0d9c6.svg" alt=""></p>
+</div>
+<p>Voor de lange rokade:</p>
+<!--
+.diagram fen:4k3/8/8/8/8/8/8/R3K3 w - - 0 1; redarrow:e1c1;bluearrow:a1d1
+-->
+<div style='cursor:pointer' onclick='navigator.clipboard.writeText("4k3/8/8/8/8/8/8/R3K3 w - - 0 1"); return false'>
+<p><img src="/okra/rules/rokade/85b2fc7965cdaf8e5d3f717084e8ce1a.svg" alt=""></p>
+</div>
+<p>Na de lange rokade:</p>
+<!--
+.diagram fen:4k3/8/8/8/8/8/8/2KR4 b - - 0 1
+-->
+<div style='cursor:pointer' onclick='navigator.clipboard.writeText("4k3/8/8/8/8/8/8/2KR4 b - - 0 1"); return false'>
+<p><img src="/okra/rules/rokade/3eabf1f0dd96e68f08d2972cf86bb42e.svg" alt=""></p>
+        </div>
+        <a href="/okra/rules/rokade/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-11T12:01:34+02:00">september 11, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/bishop/" class="color-inherit dim link">
+            De loper
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image wbishop.jpg
+-->
+<p><img src="/okra/rules/bishop/wbishop.jpg" alt=""></p>
+<!--
+.image bbishop.jpg
+-->
+<p><img src="/okra/rules/bishop/bbishop.jpg" alt=""></p>
+<!--
+.diagram fen:8/2k5/7R/8/5b2/8/6K1/8 w - - 0 1; arrowred:f4e5,f4d6,f4g5,f4g3,f4h2,f4e3,f4d2,f4c1,f4h6
+-->
+<div style='cursor:pointer' onclick='navigator.clipboard.writeText("8/2k5/7R/8/5b2/8/6K1/8 w - - 0 1"); return false'>
+<p><img src="/okra/rules/bishop/1365d72cfbbe59c4707cba48588bef4d.svg" alt=""></p>
+</div>
+<p>De <a href="https://nl.wikipedia.org/wiki/Loper_%28schaken%29">loper</a> (de nar, bisschop) werkt langs de diagonalen. Dit betekent nog dat de loper steeds op zijn kleur blijft. Elke speler heeft dus een &lsquo;witte&rsquo; loper en een &lsquo;zwarte&rsquo; loper.</p>
+<p>Lopers zijn zwakker dan de torens maar het loperpaar kan heel sterk zijn.</p>
+        </div>
+        <a href="/okra/rules/bishop/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-10T15:19:15+02:00">september 10, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/rook/" class="color-inherit dim link">
+            De toren
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image wrook.jpg
+-->
+<p><img src="/okra/rules/rook/wrook.jpg" alt=""></p>
+<!--
+.image brook.jpg
+-->
+<p><img src="/okra/rules/rook/brook.jpg" alt=""></p>
+<!--
+.diagram fen:8/8/2K5/8/8/8/2R2q2/6k1 w - - 0 1; redarrow: c2a2,c2b2,c2d2,c2e2,c2f2,c2c1,c2c3,c2c4,c2c5
+-->
+<div style='cursor:pointer' onclick='navigator.clipboard.writeText("8/8/2K5/8/8/8/2R2q2/6k1 w - - 0 1"); return false'>
+<p><img src="/okra/rules/rook/c28bfeccf124d59adc340565e7c44539.svg" alt=""></p>
+</div>
+<p>De <a href="https://nl.wikipedia.org/wiki/Toren_%28schaken%29">torens</a> zijn als tanks: ze bewegen horizontaal en vertikaal. Ze missen de mogelijkheid van de koningin om ook diagonaal te gaan.</p>
+<p>Met coördinaten: de toren op c2 kan naar a2, b2, d2, e2, f2, c1, c3, c4, c5</p>
+<!--
+De toren heeft - samen met de koning - nog een speciale beweging: .link rules/rokade
+-->
+<p>De toren heeft - samen met de koning - nog een speciale beweging: <a href="/okra/rules/rokade/">De rokade</a> <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/rokade");'>(reglement)</span></p>
+        </div>
+        <a href="/okra/rules/rook/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-10T14:34:00+02:00">september 10, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/queen/" class="color-inherit dim link">
+            De koningin
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image wqueen.jpg
+-->
+<p><img src="/okra/rules/queen/wqueen.jpg" alt=""></p>
+<!--
+.image bqueen.jpg
+-->
+<p><img src="/okra/rules/queen/bqueen.jpg" alt=""></p>
+<!--
+.diagram fen:8/5k2/8/3q4/8/8/8/6K1 w - - 0 1; redarrow:d5d1,d5d2,d5d3,d5d4,d5a2,d5b3,d5c4,d5c5,d5b5,d5a5,d5c6,d5b7,d5a8,d5d6,d5d7,d5d8,d5e6,d5e5,d5f5,d5g5,d5h5,d5e4,d5f3,d5g2,d5h1
+-->
+<div style='cursor:pointer' onclick='navigator.clipboard.writeText("8/5k2/8/3q4/8/8/8/6K1 w - - 0 1"); return false'>
+<p><img src="/okra/rules/queen/00436b7330b7705c7ebc09754a1afefe.svg" alt=""></p>
+</div>
+<p>De <a href="https://nl.wikipedia.org/wiki/Dame_%28schaken%29">koningin</a> is het sterkste stuk op het bord: net zoals de koning, kan ze in alle richtingen. Ze wordt enkel gestopt door de rand van het bord of een bezet veld. Wordt het veld bezet door de vijand, dan kan ze deze steeds slaan (=veroveren).</p>
+        </div>
+        <a href="/okra/rules/queen/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-09T16:10:46+02:00">september 9, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/king/" class="color-inherit dim link">
+            De koning
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image wking.jpg
+-->
+<p><img src="/okra/rules/king/wking.jpg" alt=""></p>
+<!--
+.image bking.jpg
+-->
+<p><img src="/okra/rules/king/bking.jpg" alt=""></p>
+<!--
+.diagram fen:8/3q4/3kR3/8/5K2/8/8/8 b - - 0 1; redarrow:d6c6,d6c5,d6c7,d6e7,d6e6,d6d5; bluearrow:f4f5,f4g5,f4g4,f4g3,f4f3,f4e3,f4e4
+-->
+<div style='cursor:pointer' onclick='navigator.clipboard.writeText("8/3q4/3kR3/8/5K2/8/8/8 b - - 0 1"); return false'>
+<p><img src="/okra/rules/king/a2d73217ce0daf1954e36368c43243f6.svg" alt=""></p>
+</div>
+<p>De <a href="https://nl.wikipedia.org/wiki/Koning_%28schaken%29">koning</a> kan naar de naburige velden gaan tenzij:</p>
+<ul>
+<li>
+<p>er staat daar een stuk van eigen kleur</p>
+</li>
+<li>
+<p>hij staat daar schaak. In het bijzonder: hij komt naast de vijandelijke koning te staan</p>
+</li>
+</ul>
+<p>Een koning kan dus naar maximaal 8 velden gaan.</p>
+<p>Met coördinaten:</p>
+        </div>
+        <a href="/okra/rules/king/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-08T17:52:14+02:00">september 8, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/pieces/" class="color-inherit dim link">
+            Stukken en pionnen
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image pieces.jpg
+-->
+<p><img src="/okra/rules/pieces/pieces.jpg" alt=""></p>
+<p>De <a href="https://en.wikipedia.org/wiki/Chess_piece">schaakstukken</a> zijn de soldaten op het slachtveld.</p>
+<p>Beide legers hebben dezelfde stukken: een koning, een koningin, 2 lopers, 2 paarden, 2 torens.</p>
+<p>Ze hebben beiden ook 8 pionnen.</p>
+<p>De FIDE schrijft de vorm en de afmetingen van de pionnen en stukken voor. Ook de afmetingen tegenover het schaakbord liggen vast.</p>
+<p>De koning is het grootste stuk en de voet van dit stuk moet tussen de 39,6mm en de 45,1mm liggen als de maat van de velden 55mm is!
+Zijn hoogte bedraagt 9,5cm.</p>
+        </div>
+        <a href="/okra/rules/pieces/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-08T17:48:09+02:00">september 8, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/move/" class="color-inherit dim link">
+            Een zet bij het schaken
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image image.jpg
+-->
+<p><img src="/okra/rules/move/image.jpg" alt=""></p>
+<p>We leerden reeds dat Wit en Zwart om beurt spelen. Dat &lsquo;spelen&rsquo; betekent een zet uitvoeren.</p>
+<p>Daartoe heeft elke speler - althans bij aanvang - 8 stukken en 8 pionnen.</p>
+<p>Elk van deze - stukken en pionnen - hebben nauwkeurig voorgeschreven regels wat het betekent &rsquo;een zet uitvoeren&rsquo;.</p>
+<p>Toch zijn er ook heel wat elementen gemeenschappelijk:</p>
+<ul>
+<li>
+<p>het spelen van een zet begint steeds met het vastnemen en bewegen van een stuk van de eigen kleur</p>
+        </div>
+        <a href="/okra/rules/move/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-08T09:51:48+02:00">september 8, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/bord/" class="color-inherit dim link">
+            Schaakbord
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <p>Het <a href="https://en.wikipedia.org/wiki/Chessboard">schaakbord</a> is het terrein waar de schaakpartij wordt beslecht.</p>
+<p>Schaakborden worden gemaakt in heel diverse materialen en komen in alle prijsklassen.</p>
+<p>Het is belangrijk om zich te realiseren dat FIDE een aantal regels heeft opgesteld waaraan een schaakbord moet voldoen.</p>
+<p>Een bord dat in officiële partijen wordt gebruikt moet <em>velden</em> hebben van 50 mm tot 60 mm (1.97 to 2.36 inches), waarbij 55 mm als &lsquo;ideaal&rsquo; wordt gezien.</p>
+<p>Essentieel komen schaakborden in twee varianten: deze met coördinaten en deze zonder coördinaten. Ikzelf vind borden zonder coördinaten gewoon mooier, beginnende schakers vinden borden met coördinaten gemakkelijker.</p>
+        </div>
+        <a href="/okra/rules/bord/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-07T17:09:42+02:00">september 7, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/rules/doel/" class="color-inherit dim link">
+            Het doel van een partij schaak
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <!--
+.image azincourt.jpg
+-->
+<p><img src="/okra/rules/doel/azincourt.jpg" alt=""></p>
+<p>Schaken is een oorlogsspel.</p>
+<p>De oorsprong is te vinden in het India van de 6e eeuw en kreeg zijn definitieve vorm in West-Europa in de 19e eeuw.</p>
+<p>De 2 partijen - steeds Wit en Zwart genaamd - staan lijnrecht over elkaar. Er is geen verborgen informatie. Niets wordt aan het toeval overgelaten.</p>
+<p>In elk der twee legers bevindt zich precies 1 koning. Het leger dat er in slaagt deze koning te veroveren - zonder dat deze weerwerk kan bieden - wint het pleit.
+Het doet er niet toe hoeveel strijders een leger verliest of wint: enkel de eigen koning en de vijandelijke koning zijn bepalend.</p>
+        </div>
+        <a href="/okra/rules/doel/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        
+          <time class="f6 db" datetime="2026-09-07T17:04:30+02:00">september 7, 2026</time>
+        
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/okra/articles/schaakbeelden/" class="color-inherit dim link">
+            articles/schaakbeelden
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <p>Iets dat lang bestaat maakt geschiedenis.</p>
+<p>Er bestaan dus ook heel wat oud film- en foto materiaal over schaken.</p>
+<!--
+.yt bxSxYXjkrj8
+-->
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/bxSxYXjkrj8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
+
+<p>Je kan de video ook bekijken op <a href="https://www.dropbox.com/scl/fi/1eubihgzgf8d4t8uoq0sh/Rarest_Photos_in_Chess_History_bxSxYXjkrj8.mp4?rlkey=yq646nmr8t6wqj2scm7brnjhx&amp;dl=0">dropbox</a></p>
+        </div>
+        <a href="/okra/articles/schaakbeelden/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+      </section>
+
+      
+        <section class="w-100">
+          <h1 class="f3">Meer</h1>
+          
+          
+            <h2 class="f5 fw4 mb4 dib mr3">
+              <a href="/okra/articles/magnus7/" class="link black dim">
+                7 verschillende beelden van Magnus
+              </a>
+            </h2>
+          
+            <h2 class="f5 fw4 mb4 dib mr3">
+              <a href="/okra/rules/fide/" class="link black dim">
+                FIDE
+              </a>
+            </h2>
+          
+            <h2 class="f5 fw4 mb4 dib mr3">
+              <a href="/okra/articles/beginbobby/" class="link black dim">
+                De beginjaren van Bobby Fischer
+              </a>
+            </h2>
+          
+            <h2 class="f5 fw4 mb4 dib mr3">
+              <a href="/okra/games/titledtuesday/" class="link black dim">
+                Titled Tuesday: Simon Williams vs GothamChess
+              </a>
+            </h2>
+          
+        </section>
+      
+
+    </div>
+  
+</main><footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:1313/okra/" >
+    &copy;  OKRA-Eke 2026 
+  </a>
+    <div><div class="ananke-socials"></div>
+</div>
+  </div>
+</footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

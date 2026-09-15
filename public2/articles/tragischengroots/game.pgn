@@ -1,0 +1,61 @@
+[Event "Kharkov"]
+[Site "Kharkov"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Isaak Birbrager"]
+[Black "Mikhail Tal"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "A70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+[Link "https://www.chess.com/blog/SamCopeland/mikhail-tals-most-spectacular-queen-sacrifice-birbrager-vs-tal-1953"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bd3
+O-O 9. O-O (9. h3 $1 {This is widely regarded as an excellent setup for White now,
+and ...} 9... b5 $1 {...is highly theoretical.}) 9... Na6 $6 {..Bg4 should be
+played to prevent the Nd2 $1 maneuver. In general, Black is happy to exchange the
+light-square bisohp for the knight, gaining dark-square influence in the
+center.} (9... Bg4 $1 $12) 10. Nd2 Nb4 {The knight LOOKS good here, but it does
+nothing.} 11. Be2 (11. Bb1 $1 $16 {This would have contained the knight more
+effectively and kept an eye on possible kingside actions.}) 11... Re8 12. a3 Na6
+13. Re1 Nc7 14. Qc2 Rb8 15. a4 b6 16. Nb5 $2 {This maneuver makes no sense to me.
+What is it's purpose $2 The tempos spent and the exchange of the knight on c7 only
+aids Tal.} 16... a6 17. Nxc7 (17. Na7 {This is preferred by Tal, but it's an odd
+preference as after the line he gives, Black is better than in the game.} 17...
+Bb7 18. Nc6 Bxc6 19. dxc6 d5 $1 $17) 17... Qxc7 18. Ra2 Qe7 19. f3 $2 {This proves to
+be a massive error. The move accomplishes nothing and blocks the bishop on e3.
+Tal responds powerfully.} (19. b3 {placing the bishop on b2 gives White a
+reasonable position.} 19... Nxe4 20. Bd3 f5 21. Nxe4 fxe4 22. Rxe4 Qf7 23. Rxe8+
+Qxe8 $15) 19... Nh5 $1 {When your opponent makes a move, ask yourself what they've
+left undefended, and try to exploit that.} 20. Nf1 f5 $1 21. Bd3 f4 $1 {The plan of
+...Be5, and ...g5-g4 with a mating attack is deadly.} 22. g4 $1 {Birbrager tries
+to reverse the course of the game, but Tal responds aggressively and well. A
+lesser player might have lost the advantage by exchanging or retreating the
+knight here.} 22... Bd4+ 23. Kh1 (23. Kg2 $2 Qh4 24. Re2 Bxg4 $1 25. fxg4 Qxg4+ 26.
+Kh1 Qg1#) 23... Qh4 24. Re2 Qh3 $2 {This ends up being magnificent, but ...Bxg4 $1
+was objectively stronger.} (24... Bxg4 $1 25. fxg4 f3 26. gxh5 fxe2 27. Qxe2 c4 $1
+{Maybe Tal missed this $2 It's my best rationale for why he didn't play this way.}
+28. Bb1 Rf8 $19) 25. Rg2 Qxf3 26. Nd2 (26. gxh5 Rxe4 $1 $19 {is a beautiful and
+punishing blow.}) 26... Qe3 27. Nf1 Qf3 28. Nd2 {draw $2} 28... Bxg4 $3 {No draw $1
+Tal chooses to sacrifice his queen instead $1 This is a perfect example of a
+\"Tal\" sacrifice; there is not a clear idea to regain the material, but Tal's
+pieces are alive and crackling with energy while White's pieces struggle to find
+meaning in the position. Objectively, MAYBE White can defend, but there's no
+clear refutation, and White collapses almost immediately.} 29. Nxf3 Bxf3 30. h4
+{This move gives the king room to run and is aimed to respond to the very
+dangerous threat of ...Re5 $1, ...Ng3+ $1, and ...Rh5# However, ...Re5 hasn't been
+played yet. Maybe the tempo could have been better used $2} (30. Be2 $2 Rxe4 $1 $19)
+(30. h3 $6 Rxe4 31. Bxe4 Ng3+ 32. Kh2 Nf1+ 33. Kh1 Ng3+ $12 {is a funny draw. Tal
+might not take it though.}) (30. b3 {I like this move, improving mobility on the
+second rank, and considering Bb2.} 30... Re5 31. h4 $13) (30. Qd2 $5 {This intends
+Be2 which may resolve some of the pressure.} 30... Re5 31. h4 Bxe4 32. Bxe4 Rxe4
+$13 {Even Stockfish thinks Black is doing fine now.}) (30. Bd2 $5 {Tal thought this
+was White's best. To me, b3 feels like a better version of this though because
+it also improves the Ra2.}) 30... Rf8 31. Be2 $4 {White has a similar choice as
+he did on the last move, but under great pressure, he concedes a winning
+endgame, becoming the first of many victims to a famous Tal queen sacrifice.}
+31... Ng3+ 32. Kh2 Bxg2 33. Kxg2 Nxe2 34. Qxe2 f3+ {\"fork town\" - population
+Birbrager} 35. Qxf3 Rxf3 36. Kxf3 Rf8+ 37. Kg3 Be5+ 38. Kg2 Bf4 {...Rf4 (before
+or after trading on c1) wins another pawn and the game.} 0-1

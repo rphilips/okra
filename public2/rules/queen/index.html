@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head><script src="/okra/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=okra/livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>De koningin | Start</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="
+
+
+
+
+
+
+
+De koningin is het sterkste stuk op het bord: net zoals de koning, kan ze in alle richtingen. Ze wordt enkel gestopt door de rand van het bord of een bezet veld. Wordt het veld bezet door de vijand, dan kan ze deze steeds slaan (=veroveren).">
+    <meta name="generator" content="Hugo 0.162.1">
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    
+
+    <link rel="stylesheet" href="/okra/ananke/css/main.css">
+    <script>
+  (function () {
+    "use strict";
+
+    
+    
+    function revealButtons() {
+      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].hidden = false;
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", revealButtons);
+    } else {
+      revealButtons();
+    }
+
+    function flash(button) {
+      var label = button.querySelector(".code-copy-label");
+      var previous = label ? label.textContent : null;
+      button.classList.add("is-copied");
+      if (label) label.textContent = "Copied";
+      window.setTimeout(function () {
+        button.classList.remove("is-copied");
+        if (label && previous !== null) label.textContent = previous;
+      }, 2000);
+    }
+
+    function legacyCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    function copyFrom(button) {
+      var container = button.closest(".code-block");
+      if (!container) return;
+      var pre = container.querySelector("pre");
+      if (!pre) return;
+      var source = pre.querySelector("code") || pre;
+      var text = source.innerText;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () { flash(button); },
+          function () { if (legacyCopy(text)) flash(button); }
+        );
+      } else if (legacyCopy(text)) {
+        flash(button);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      var button = event.target.closest(".code-copy");
+      if (button) copyFrom(button);
+    });
+  })();
+</script>
+
+    
+      
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+
+
+    
+
+    
+
+    
+      <link rel="canonical" href="http://localhost:1313/okra/rules/queen/">
+    
+
+    
+    
+    <meta property="og:url" content="http://localhost:1313/okra/rules/queen/">
+	<meta property="og:site_name" content="Start">
+	<meta property="og:title" content="De koningin">
+	<meta property="og:description" content="De koningin is het sterkste stuk op het bord: net zoals de koning, kan ze in alle richtingen. Ze wordt enkel gestopt door de rand van het bord of een bezet veld. Wordt het veld bezet door de vijand, dan kan ze deze steeds slaan (=veroveren).">
+	<meta property="og:locale" content="nl">
+	<meta property="og:type" content="article">
+		<meta property="article:section" content="rules">
+		<meta property="article:published_time" content="2026-09-10T14:34:00+02:00">
+		<meta property="article:modified_time" content="2026-09-10T14:34:00+02:00">
+
+	<meta itemprop="name" content="De koningin">
+	<meta itemprop="description" content="De koningin is het sterkste stuk op het bord: net zoals de koning, kan ze in alle richtingen. Ze wordt enkel gestopt door de rand van het bord of een bezet veld. Wordt het veld bezet door de vijand, dan kan ze deze steeds slaan (=veroveren).">
+	<meta itemprop="datePublished" content="2026-09-10T14:34:00+02:00">
+	<meta itemprop="dateModified" content="2026-09-10T14:34:00+02:00">
+	<meta itemprop="wordCount" content="80">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="De koningin">
+	<meta name="twitter:description" content="De koningin is het sterkste stuk op het bord: net zoals de koning, kan ze in alle richtingen. Ze wordt enkel gestopt door de rand van het bord of een bezet veld. Wordt het veld bezet door de vijand, dan kan ze deze steeds slaan (=veroveren).">
+
+	
+  </head><body class="ma0 avenir bg-near-white development is-page is-page page-queen">
+   
+  
+
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l center items-center justify-between">
+    <a href="/okra/" class="f3 fw2 hover-white white-90 dib no-underline">
+      
+        Start
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/overview/" title="Overzicht pagina">
+              Overzicht
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/sessions/" title="Sessies pagina">
+              Sessies
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/articles/" title="Artikelen pagina">
+              Artikelen
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/games/" title="Partijen pagina">
+              Partijen
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/puzzles/" title="Puzzels pagina">
+              Puzzels
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/rules/" title="Regels pagina">
+              Regels
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/about/" title="Betreft … pagina">
+              Betreft …
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/contact/" title="Contact pagina">
+              Contact
+            </a>
+          </li>
+          
+        </ul>
+      
+      <div class="ananke-socials"></div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+<main class="pb7" role="main">
+  
+
+  <article class="page-queen flex-l mw7 center ph3 flex-wrap justify-between">
+    <header class="mt4 w-100"><aside class="instapaper_ignoref b helvetica tracked ttu">
+    <a class="link dim" href="http://localhost:1313/okra/rules/">Regels</a>
+  </aside><div id="sharing" class="mt3 ananke-socials"></div>
+<h1 class="f1 athelas mt3 mb1">De koningin</h1>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2026-09-10T14:34:00+02:00">september 10, 2026</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-100-l"><!--
+.image wqueen.jpg
+-->
+<p><img src="/okra/rules/queen/wqueen.jpg" alt=""></p>
+<!--
+.image bqueen.jpg
+-->
+<p><img src="/okra/rules/queen/bqueen.jpg" alt=""></p>
+<!--
+.diagram fen:8/5k2/8/3q4/8/8/8/6K1 w - - 0 1; redarrow:d5d1,d5d2,d5d3,d5d4,d5a2,d5b3,d5c4,d5c5,d5b5,d5a5,d5c6,d5b7,d5a8,d5d6,d5d7,d5d8,d5e6,d5e5,d5f5,d5g5,d5h5,d5e4,d5f3,d5g2,d5h1
+-->
+<div style='cursor:pointer' onclick='navigator.clipboard.writeText("8/5k2/8/3q4/8/8/8/6K1 w - - 0 1"); return false'>
+<p><img src="/okra/rules/queen/00436b7330b7705c7ebc09754a1afefe.svg" alt=""></p>
+</div>
+<p>De <a href="https://nl.wikipedia.org/wiki/Dame_%28schaken%29">koningin</a> is het sterkste stuk op het bord: net zoals de koning, kan ze in alle richtingen. Ze wordt enkel gestopt door de rand van het bord of een bezet veld. Wordt het veld bezet door de vijand, dan kan ze deze steeds slaan (=veroveren).</p>
+<p>Met coördinaten:</p>
+<p>de zwarte dame op d5 kan naar d1, d2, d3, d4, a2, b3, c4, c5, b5, a5, c6, b7, a8, d6, d7, d8, e6, e5, f5, g5, h5, e4, f3, g2, h1</p>
+<ul class="pa0">
+  
+</ul><ul class="pa0">
+  
+</ul>
+
+      
+    </div></article>
+</main><footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:1313/okra/" >
+    &copy;  OKRA-Eke 2026 
+  </a>
+    <div><div class="ananke-socials"></div>
+</div>
+  </div>
+</footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "q2rk3/1Q6/8/8/8/1R6/8/7K w - - 0 1"]
+[Link "https://www.chess.com/analysis/game/pgn/3xAEZjRbH8/analysis?move=14"]
+
+1. Re3+ Kf8 2. Rf3+ $1 Kg8 3. Qf7+ $1 Kh8 4. Qh5+ Kg7 5. Qg4+ Kh7 6. Qh3+ Kg6 7.
+Qg2+ Kh6 8. Rh3# 1-0

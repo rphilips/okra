@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head><script src="/okra/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=okra/livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Artikelen | Start</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="De laatste hobby die je ooit nodig hebt …">
+    <meta name="generator" content="Hugo 0.162.1">
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    
+
+    <link rel="stylesheet" href="/okra/ananke/css/main.css">
+    <script>
+  (function () {
+    "use strict";
+
+    
+    
+    function revealButtons() {
+      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].hidden = false;
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", revealButtons);
+    } else {
+      revealButtons();
+    }
+
+    function flash(button) {
+      var label = button.querySelector(".code-copy-label");
+      var previous = label ? label.textContent : null;
+      button.classList.add("is-copied");
+      if (label) label.textContent = "Copied";
+      window.setTimeout(function () {
+        button.classList.remove("is-copied");
+        if (label && previous !== null) label.textContent = previous;
+      }, 2000);
+    }
+
+    function legacyCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    function copyFrom(button) {
+      var container = button.closest(".code-block");
+      if (!container) return;
+      var pre = container.querySelector("pre");
+      if (!pre) return;
+      var source = pre.querySelector("code") || pre;
+      var text = source.innerText;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () { flash(button); },
+          function () { if (legacyCopy(text)) flash(button); }
+        );
+      } else if (legacyCopy(text)) {
+        flash(button);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      var button = event.target.closest(".code-copy");
+      if (button) copyFrom(button);
+    });
+  })();
+</script>
+
+    
+      
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+
+
+    
+
+    
+    
+      <link href="/okra/articles/index.xml" rel="alternate" type="application/rss+xml" title="Start" />
+      <link href="/okra/articles/index.xml" rel="feed" type="application/rss+xml" title="Start" />
+      
+    
+
+    
+      <link rel="canonical" href="http://localhost:1313/okra/articles/">
+    
+
+    
+    
+    <meta property="og:url" content="http://localhost:1313/okra/articles/">
+	<meta property="og:site_name" content="Start">
+	<meta property="og:title" content="Artikelen">
+	<meta property="og:description" content="De laatste hobby die je ooit nodig hebt …">
+	<meta property="og:locale" content="nl">
+	<meta property="og:type" content="website">
+
+	<meta itemprop="name" content="Artikelen">
+	<meta itemprop="description" content="De laatste hobby die je ooit nodig hebt …">
+	<meta itemprop="datePublished" content="2026-02-21T17:16:33+01:00">
+	<meta itemprop="dateModified" content="2026-02-21T17:16:33+01:00">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="Artikelen">
+	<meta name="twitter:description" content="De laatste hobby die je ooit nodig hebt …">
+
+	
+  </head><body class="ma0 avenir bg-near-white development is-section is-section">
+
+  
+  
+  
+  <header class="cover bg-top" style="background-image: url('http://localhost:1313/okra/images/articles.png');">
+    
+    <div class="bg-black-60">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l center items-center justify-between">
+    <a href="/okra/" class="f3 fw2 hover-white white-90 dib no-underline">
+      
+        Start
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/overview/" title="Overzicht pagina">
+              Overzicht
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/sessions/" title="Sessies pagina">
+              Sessies
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/articles/" title="Artikelen pagina">
+              Artikelen
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/games/" title="Partijen pagina">
+              Partijen
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/puzzles/" title="Puzzels pagina">
+              Puzzels
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/rules/" title="Regels pagina">
+              Regels
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/about/" title="Betreft … pagina">
+              Betreft …
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/okra/contact/" title="Contact pagina">
+              Contact
+            </a>
+          </li>
+          
+        </ul>
+      
+      <div class="ananke-socials"></div>
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+          Artikelen
+        </h1>
+        
+      </div>
+    </div>
+  </header>
+
+<main class="pb7" role="main">
+  
+  
+
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links mid-gray"></section>
+    <section class="flex-ns mt5 flex-wrap justify-around">
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Artikelen</span>
+    
+      <time class="f6 db" datetime="2026-09-07T17:04:30+02:00">september 7, 2026</time>
+    
+    <h1 class="f3 near-black">
+      <a href="/okra/articles/schaakbeelden/" class="link black dim">
+        articles/schaakbeelden
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <p>Iets dat lang bestaat maakt geschiedenis.</p>
+<p>Er bestaan dus ook heel wat oud film- en foto materiaal over schaken.</p>
+<!--
+.yt bxSxYXjkrj8
+-->
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/bxSxYXjkrj8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
+
+<p>Je kan de video ook bekijken op <a href="https://www.dropbox.com/scl/fi/1eubihgzgf8d4t8uoq0sh/Rarest_Photos_in_Chess_History_bxSxYXjkrj8.mp4?rlkey=yq646nmr8t6wqj2scm7brnjhx&amp;dl=0">dropbox</a></p>
+    </div>
+    <a href="/okra/articles/schaakbeelden/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Artikelen</span>
+    
+      <time class="f6 db" datetime="2026-09-07T16:54:18+02:00">september 7, 2026</time>
+    
+    <h1 class="f3 near-black">
+      <a href="/okra/articles/magnus7/" class="link black dim">
+        7 verschillende beelden van Magnus
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <p>Je wordt niet zomaar wereldkampioen schaken. Je moet echt wel <em>speciaal</em> zijn om meer dan 15 jaar de hoogst geklasseerde schaker te zijn.</p>
+<p>Op 7 september 2026 zijn er 15 schakers die ooit meer dan 2800 ELO behaalden:</p>
+<ul>
+<li>
+<p>Magnus Carlsen (Norway) – Peak: 2882 (Highest in history)</p>
+</li>
+<li>
+<p>Garry Kasparov (Russia) – Peak: 2851 (First to ever cross 2800 in 1990)</p>
+</li>
+<li>
+<p>Fabiano Caruana (United States) – Peak: 2844</p>
+</li>
+<li>
+<p>Levon Aronian (United States) – Peak: 2830</p>
+    </div>
+    <a href="/okra/articles/magnus7/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Artikelen</span>
+    
+      <time class="f6 db" datetime="2026-09-04T17:07:35+02:00">september 4, 2026</time>
+    
+    <h1 class="f3 near-black">
+      <a href="/okra/articles/beginbobby/" class="link black dim">
+        De beginjaren van Bobby Fischer
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <p>Het minste dat je van AI kan zeggen, is dat het een fantastisch educatief instrument is.</p>
+<p>Deze tekst - geproduceerd door AI op basis van bestaand film en foto materiaal - vertelt het fascinerend verhaal van de jonge Bobby Fischer</p>
+<!--
+.yt m_q4YB7xrrk
+-->
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/m_q4YB7xrrk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
+
+<p>Je kan de video ook bekijken op <a href="https://www.dropbox.com/scl/fi/969lvr9qr029uft7jo6af/The_True_Beginning_Of_Bobby_Fischer_m_q4YB7xrrk.mp4?rlkey=16mnyt4j6dzr9ugz0bp9a02cv&amp;dl=0">dropbox</a>
+Ook de partij van eeuw wordt getoond!</p>
+    </div>
+    <a href="/okra/articles/beginbobby/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Artikelen</span>
+    
+      <time class="f6 db" datetime="2026-08-30T18:01:39+02:00">augustus 30, 2026</time>
+    
+    <h1 class="f3 near-black">
+      <a href="/okra/articles/samloyd/" class="link black dim">
+        Sam Loyd (1)
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <!--
+.image image.jpg
+-->
+<p><img src="/okra/articles/samloyd/image.jpg" alt=""></p>
+<p><a href="https://en.wikipedia.org/wiki/Sam_Loyd">Samuel Loyd</a> (30 januari 1841 – 10 april 1911) was een Amerikaans schaker, eemn componist van schaakstudies, allerhande puzzels.</p>
+<!--
+.image slide.jpg
+-->
+<p><img src="/okra/articles/samloyd/slide.jpg" alt=""></p>
+<p>Hij is vooral bekend van zijn <a href="https://en.wikipedia.org/wiki/Sliding_puzzle">4 x 4 puzzel schuif puzzel</a>. Volledig verkeerd natuurlijk: hij heeft deze puzzel simpelweg &lsquo;geleend&rsquo; van Noyes Chapman in 1880. Toch bracht hij een nuance aan de puzzel: hij wisselde  de &lsquo;14&rsquo; en de &lsquo;15&rsquo; en loofde een beloning van 1000 dollar uit aan diegene die de puzzel kon oplossen!</p>
+    </div>
+    <a href="/okra/articles/samloyd/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Artikelen</span>
+    
+      <time class="f6 db" datetime="2026-08-26T14:48:20+02:00">augustus 26, 2026</time>
+    
+    <h1 class="f3 near-black">
+      <a href="/okra/articles/karpovoncarlsen/" class="link black dim">
+        Karpov en de jonge Magnus
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <!--
+.image karpov.jpg
+-->
+<p><img src="/okra/articles/karpovoncarlsen/karpov.jpg" alt=""></p>
+<p>Als we een (jonge) speler bezig zien, kunnen we verbaasd en onder de indruk zijn.</p>
+<p>Echter, iemand zoals <a href="https://nl.wikipedia.org/wiki/Anatoli_Karpov">Anatoli Karpov</a> kijkt naar totaal andere dingen.</p>
+<p>Bekijk eens het volgende filmpje.</p>
+<!--
+.yt _308KNAuFkg
+-->
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/_308KNAuFkg?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
+
+<p>Je kan de video ook bekijken op <a href="https://www.dropbox.com/scl/fi/s9aethwryeqq9vibzkkez/Karpov_beaten_by_a_13_yr_old_Magnus_Carlsen_308K.mp4?rlkey=6g3lu1e21m09hebcz6pmgah79&amp;dl=0">dropbox</a></p>
+    </div>
+    <a href="/okra/articles/karpovoncarlsen/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Artikelen</span>
+    
+      <time class="f6 db" datetime="2026-08-24T18:59:16+02:00">augustus 24, 2026</time>
+    
+    <h1 class="f3 near-black">
+      <a href="/okra/articles/7sins/" class="link black dim">
+        De 7 doodzonden van het schaken
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <!--
+.image sin.jpg
+-->
+<p><img src="/okra/articles/7sins/sin.jpg" alt=""></p>
+<p>In &ldquo;The Seven Deadly Sins&rdquo; raadt <a href="https://nl.wikipedia.org/wiki/Jonathan_Rowson">Jonathan Rowson</a> aan om tegen je stukken te praten. Misschien een advies dat wat raar overkomt maar ik moet toegeven dat het wel werkt: het verlegt je focus naar dingen die je anders niet zou beschouwen.</p>
+<p>In een vorige ontmoeting speelde ik tegen Michel. Michel speelde met wit een uiterst solide en foutloze partij en we kwamen terecht in een stelling die volgens <a href="https://nl.wikipedia.org/wiki/Stockfish">Stockfish</a> nagenoeg gelijk stond.</p>
+    </div>
+    <a href="/okra/articles/7sins/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Artikelen</span>
+    
+      <time class="f6 db" datetime="2026-08-14T18:39:04+02:00">augustus 14, 2026</time>
+    
+    <h1 class="f3 near-black">
+      <a href="/okra/articles/arrogant/" class="link black dim">
+        Is Carlsen arrogant ?
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <!--
+.image arrogant.jpg
+-->
+<p><img src="/okra/articles/arrogant/arrogant.jpg" alt=""></p>
+<!--
+.yt https://www.youtube.com/watch?v=4Phj-z8-AI4
+-->
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/4Phj-z8-AI4?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
+
+<p>Je kan de video ook bekijken op <a href="https://www.dropbox.com/scl/fi/ugkq377r94w7irgwsi878/Magnus_Carlsen_Arrives_With_Only_30_Seconds_To_P.mp4?rlkey=okrxhupe46upfuicd6qk3ac2b&amp;dl=0">dropbox</a></p>
+    </div>
+    <a href="/okra/articles/arrogant/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Artikelen</span>
+    
+      <time class="f6 db" datetime="2026-08-14T17:44:39+02:00">augustus 14, 2026</time>
+    
+    <h1 class="f3 near-black">
+      <a href="/okra/articles/liedetector/" class="link black dim">
+        Magnus en Hikaru aan de leugendetector
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <!--
+.image image.jpg
+-->
+<p><img src="/okra/articles/liedetector/image.jpg" alt=""></p>
+<!--
+.yt https://www.youtube.com/watch?v=itT_U_NIcaI
+-->
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/itT_U_NIcaI?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
+
+<p>Je kan de video ook bekijken op <a href="https://www.dropbox.com/scl/fi/lvibtn9xwjkxwjz5uhgc6/MAGNUS_v_HIKARU_Settle_in_Paris_Chess.mp4?rlkey=bhx2rlb8jg2oe1tcrzo17wqne&amp;dl=0">dropbox</a></p>
+    </div>
+    <a href="/okra/articles/liedetector/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Artikelen</span>
+    
+      <time class="f6 db" datetime="2026-08-14T17:41:57+02:00">augustus 14, 2026</time>
+    
+    <h1 class="f3 near-black">
+      <a href="/okra/articles/marriage/" class="link black dim">
+        Was jij uitgenodigd op het huwelijk van Magnus?
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <!--
+.image image.jpg
+-->
+<p><img src="/okra/articles/marriage/image.jpg" alt=""></p>
+<!--
+.yt https://www.youtube.com/shorts/vwCjTg5bTYM
+-->
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/vwCjTg5bTYM?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
+
+<p>Je kan de video ook bekijken op <a href="https://www.dropbox.com/scl/fi/5ebz50gzx3utwz0pjxdmy/Did_anyone_get_invited_to_Magnus_s_wedding_vwCjT.mp4?rlkey=yoc6bp2g5g3ffk0bm69hydz59&amp;dl=0">dropbox</a></p>
+    </div>
+    <a href="/okra/articles/marriage/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Artikelen</span>
+    
+      <time class="f6 db" datetime="2026-08-07T15:58:35+02:00">augustus 7, 2026</time>
+    
+    <h1 class="f3 near-black">
+      <a href="/okra/articles/worldchamps/" class="link black dim">
+        De wereldkampioenen tot augustus 2026
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <!--
+.image held.jpg
+-->
+<p><img src="/okra/articles/worldchamps/held.jpg" alt=""></p>
+<p>Elke sport heeft zijn helden nodig.</p>
+<p>Schakers kunnen het heel wat slechter doen dan een (gewezen) wereldkampioen te kiezen.</p>
+<p>Toch nog even er aan herinneren dat het wereldkampioenschap 2025-2026 wel al de uitdager Javokhir Sindarov kent die het gaat opnemen tegen regerend wereldkampioen Dommaraju Gukesh maar dat er nog steeds geen datum en geen plaats gekend is!</p>
+<!--
+.image gukesh.jpg
+-->
+<p><img src="/okra/articles/worldchamps/gukesh.jpg" alt=""></p>
+<!--
+.image sindarov.jpg
+-->
+<p><img src="/okra/articles/worldchamps/sindarov.jpg" alt=""></p>
+    </div>
+    <a href="/okra/articles/worldchamps/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">meer lezen</a>
+  </div>
+</div>
+
+        </div>
+      
+    </section>
+    
+		<ul class="pagination pagination-default">
+			<li class="page-item disabled">
+				<a aria-disabled="true" aria-label="First" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;&laquo;</span></a>
+			</li>
+		<li class="page-item disabled">
+			<a aria-disabled="true" aria-label="Previous" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;</span></a>
+		</li>
+			<li class="page-item active">
+				<a aria-current="page" aria-label="Page 1" class="page-link" role="button">1</a>
+			</li>
+			<li class="page-item">
+				<a href="/okra/articles/page/2/" aria-label="Page 2" class="page-link" role="button">2</a>
+			</li>
+			<li class="page-item">
+				<a href="/okra/articles/page/3/" aria-label="Page 3" class="page-link" role="button">3</a>
+			</li>
+			<li class="page-item">
+				<a href="/okra/articles/page/4/" aria-label="Page 4" class="page-link" role="button">4</a>
+			</li>
+			<li class="page-item">
+				<a href="/okra/articles/page/5/" aria-label="Page 5" class="page-link" role="button">5</a>
+			</li>
+		<li class="page-item">
+			<a href="/okra/articles/page/2/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+		</li>
+			<li class="page-item">
+				<a href="/okra/articles/page/6/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+			</li>
+		</ul></article>
+</main><footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:1313/okra/" >
+    &copy;  OKRA-Eke 2026 
+  </a>
+    <div><div class="ananke-socials"></div>
+</div>
+  </div>
+</footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

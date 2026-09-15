@@ -1,0 +1,12 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p1r1p2/p3pb1p/2n5/Pq4p1/1PN3P1/1BP2PKP/1R2Q3 w - - 0 1"]
+[Link "https://www.chess.com/analysis/game/pgn/R2oxGb6ra/analysis?move=6"]
+
+1. Nd5 $1 Qxe1 $2 2. Nxf6+ $1 Kf8 3. Nxd7+ Nxd7 4. Rxe1 *

@@ -1,0 +1,62 @@
+const defaultTranslator = (key) => defaultTranslations[key];
+export default function translate(custom) {
+    return (key, ...args) => {
+        const translated = (custom && custom(key)) || defaultTranslator(key);
+        return interpolate(translated !== null && translated !== void 0 ? translated : key, args);
+    };
+}
+const interpolate = (str, args) => {
+    let result = str;
+    args.forEach((arg, index) => {
+        result = result.replace(`%${index + 1}$s`, arg);
+        result = result.replace('%s', arg);
+    });
+    return result;
+};
+const defaultTranslations = {
+    flipTheBoard: 'Flip the board',
+    analysisBoard: 'Analysis board',
+    practiceWithComputer: 'Practice with computer',
+    getPgn: 'Get PGN',
+    download: 'Download',
+    viewOnLichess: 'View on Lichess',
+    viewOnSite: 'View on site',
+    menu: 'Menu',
+    'aria.first': 'Go to first move',
+    'aria.prev': 'Go to previous move',
+    'aria.next': 'Go to next move',
+    'aria.last': 'Go to last move',
+    'aria.gameMoves': 'Game moves',
+    'aria.gameResult': 'Game result',
+    'aria.variation': 'Variation',
+    'aria.navigationControls': 'Game navigation controls',
+    'aria.viewProfileOnLichess': "View %s's profile on Lichess",
+    'aria.chessGameBetween': 'Chess game between %1$s as white and %2$s as black. %3$s',
+    'aria.gameInProgress': 'Game in progress',
+    'aria.whiteWins': 'White wins',
+    'aria.blackWins': 'Black wins',
+    'aria.draw': 'Draw',
+    'aria.unknownPlayer': 'Unknown player',
+    'aria.rated': 'rated %s',
+    'aria.move': 'Move %1$s, %2$s, %3$s',
+    'aria.white': 'white',
+    'aria.black': 'black',
+    'aria.remaining': '%s remaining',
+    'aria.linkOpensInNewTab': '%s, link, opens in new tab',
+    'aria.accessibleChessboard': 'Accessible chessboard',
+    'aria.piece.king': 'king',
+    'aria.piece.queen': 'queen',
+    'aria.piece.rook': 'rook',
+    'aria.piece.bishop': 'bishop',
+    'aria.piece.knight': 'knight',
+    'aria.piece.pawn': 'pawn',
+    'aria.empty': 'empty',
+    'san.takes': 'takes',
+    'san.check': 'check',
+    'san.checkmate': 'checkmate',
+    'san.promotesTo': 'promotes to',
+    'san.droppedOn': 'dropped on',
+    'san.longCastling': 'long castling',
+    'san.shortCastling': 'short castling',
+};
+//# sourceMappingURL=translation.js.map

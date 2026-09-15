@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Regels on Start</title>
+		<link>http://localhost:1313/okra/rules/</link>
+		<description>Recent content in Regels on Start</description>
+		<generator>Hugo</generator>
+		<language>nl</language>
+		
+		
+		
+			<copyright>OKRA-Eke</copyright>
+		
+		
+			<lastBuildDate>Sat, 12 Sep 2026 18:17:52 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/okra/rules/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Gelijk spel</title>
+				<link>http://localhost:1313/okra/rules/remise/</link>
+				<pubDate>Sat, 12 Sep 2026 18:17:52 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/remise/</guid>
+				<description>&lt;!--&#xA;.image draw.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/remise/draw.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wanneer eindigt een schaakpartij in gelijk spel?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nl.wikipedia.org/wiki/Remise_%28bordspel%29&#34;&gt;Gelijk spel&lt;/a&gt; - of: remise - betekent dat er geen winnaar is.&lt;/p&gt;&#xA;&lt;p&gt;In schaken zijn er verschillende situaties waarbij de partij remise is:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;er is geen mat materiaal meer: het is mathematisch onmogelijk om schaakmat te geven&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;de spelers komen remise overeen&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;de scheidsrechter beslist dat de partij remise is&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- het is pat: .link rules/pat&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;het is pat: &lt;a href=&#34;http://localhost:1313/okra/rules/pat/&#34;&gt;Pat !?&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;rules/pat&#34;);&#39;&gt;(reglement)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- een speler eist remise op, op basis van de 3-zetten regel: .link rules/threefold&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;een speler eist remise op, op basis van de 3-zetten regel: &lt;a href=&#34;http://localhost:1313/okra/rules/threefold/&#34;&gt;Driemaal dezelfde stelling&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;rules/threefold&#34;);&#39;&gt;(reglement)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- de 5-zetten regel gaat in werking: .link rules/threefold&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;de 5-zetten regel gaat in werking: &lt;a href=&#34;http://localhost:1313/okra/rules/threefold/&#34;&gt;Driemaal dezelfde stelling&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;rules/threefold&#34;);&#39;&gt;(reglement)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- een speler eist de remise op, op basis van de 50-zetten regel: .link rules/fiftymoves&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;een speler eist de remise op, op basis van de 50-zetten regel: &lt;a href=&#34;http://localhost:1313/okra/rules/fiftymoves/&#34;&gt;Vijftigzettenregel&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;rules/fiftymoves&#34;);&#39;&gt;(reglement)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Vijftigzettenregel</title>
+				<link>http://localhost:1313/okra/rules/fiftymoves/</link>
+				<pubDate>Sat, 12 Sep 2026 18:13:33 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/fiftymoves/</guid>
+				<description>&lt;!--&#xA;.image 50.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/fiftymoves/50.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;De &lt;a href=&#34;https://nl.wikipedia.org/wiki/Vijftigzettenregel&#34;&gt;vijftigzettenregel&lt;/a&gt; is een spelregel in het schaakspel, waardoor een partij in remise kan eindigen. Wanneer er door beide spelers vijftig zetten zijn gespeeld zonder dat een pion is verzet of een stuk is geslagen kan een speler remise opeisen. De speler die dit doet moet de eis onderbouwen met een volledig ingevuld notatieformulier.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Driemaal dezelfde stelling</title>
+				<link>http://localhost:1313/okra/rules/threefold/</link>
+				<pubDate>Sat, 12 Sep 2026 18:08:00 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/threefold/</guid>
+				<description>&lt;!--&#xA;.image draw.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/threefold/draw.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nl.wikipedia.org/wiki/Driemaal_dezelfde_stelling&#34;&gt;Driemaal dezelfde stelling&lt;/a&gt; met dezelfde speler aan zet is het onderwerp van een spelregel in het schaakspel waardoor de partij in remise kan eindigen.&lt;/p&gt;&#xA;&lt;p&gt;De spelregel luidt formeel:&lt;/p&gt;&#xA;&lt;p&gt;De partij is remise, als een aan zet zijnde speler terecht claimt dat dezelfde stelling voor minstens de derde keer (niet noodzakelijkerwijs door opeenvolgende herhaling van zetten):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;tot stand gaat komen, als hij eerst zijn zet, die niet gewijzigd mag worden, op zijn notatieformulier noteert en de arbiter zijn voornemen meedeelt om deze zet spelen,&lt;/li&gt;&#xA;&lt;li&gt;of zojuist tot stand is gekomen, en de speler die remise claimt aan zet is.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Wordt er doorgespeeld, dan is de partij sinds een regelwijziging in 2014 automatisch remise als dezelfde stelling zich voor de vijfde maal voordoet.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Pat !?</title>
+				<link>http://localhost:1313/okra/rules/pat/</link>
+				<pubDate>Fri, 11 Sep 2026 20:52:28 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/pat/</guid>
+				<description>&lt;!--&#xA;.image pat.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/pat/pat.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Een &lt;a href=&#34;https://nl.wikipedia.org/wiki/Patstelling&#34;&gt;patstelling&lt;/a&gt; of kortweg pat is een situatie in het schaakspel, waarin de speler die aan zet is geen reglementaire zet kan doen en niet schaak staat. De partij eindigt bij een patstelling in remise.&lt;/p&gt;&#xA;&lt;p&gt;Voor de speler die sterk staat, is remise onvoordelig; hij wil daarom pat voorkomen. Als de tegenstander vrijwel geen materiaal meer heeft, maar nog niet opgeeft, moet de potentiële winnaar behoedzaam spelen en opletten dat hij geen pat veroorzaakt. Voor de speler die zwak staat, is remise voordelig.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Schaakklokken en tijd</title>
+				<link>http://localhost:1313/okra/rules/time/</link>
+				<pubDate>Fri, 11 Sep 2026 20:40:36 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/time/</guid>
+				<description>&lt;!--&#xA;.image trouble.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/time/trouble.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.image atime.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/time/atime.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.image dtime.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/time/dtime.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Er werd heel lang met analoge &lt;a href=&#34;https://nl.wikipedia.org/wiki/Wedstrijdklok&#34;&gt;schaakklokken&lt;/a&gt; gespeeld. Deze zijn nu grotendeels vervangen door digitale klokken.&lt;/p&gt;&#xA;&lt;p&gt;Niet alleen zijn deze nauwkeuriger, beter bestand tegen het geweld van de schakers maar er zijn ook mogelijkheden tot het automatisch bijgeven van extra tijd.&lt;/p&gt;&#xA;&lt;p&gt;Tijd is heel erg belangrijk in het moderne schaak: de spelers moeten hun zetten doseren zodanig dat deze kunnen worden uitgevoerd binnen de hen toegemeten tijd.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Hoe win je een schaakpartij ?</title>
+				<link>http://localhost:1313/okra/rules/win/</link>
+				<pubDate>Fri, 11 Sep 2026 19:44:21 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/win/</guid>
+				<description>&lt;!--&#xA;.image image.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/win/image.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Een schaakpartij wordt essentieel gewonnen door de vijandelijke koning te veroveren.&#xA;De koning staat dan &lt;strong&gt;schaakmat&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Echter &amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Het veroveren van de koning betekent het volgende:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;de koning staat schaak (hij is aangevallen)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;de aanvaller kan zelf niet worden geslagen&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;er kan geen stuk worden geplaatst tussen de aanvaller en de koning&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;de koning kan niet meer vluchten.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In de volgende stellingen staat Zwart schaakmat!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>En passant slaan</title>
+				<link>http://localhost:1313/okra/rules/enpassant/</link>
+				<pubDate>Fri, 11 Sep 2026 19:24:25 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/enpassant/</guid>
+				<description>&lt;!--&#xA;.image image.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/enpassant/image.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In deze stelling is Wit aan zet en er is nog niets aan de hand.&lt;/p&gt;&#xA;&lt;!--&#xA;.diagram fen:4k3/8/8/8/1p6/8/P7/4K3 w - - 0 1&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;4k3/8/8/8/1p6/8/P7/4K3 w - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/enpassant/53ef71a66f95d1471eb0bda856457109.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Wit speelt zijn a-pion 2 zetten vooruit en passeert dus de zwarte pion!&lt;/p&gt;&#xA;&lt;!--&#xA;.diagram fen:4k3/8/8/8/Pp6/8/8/4K3 w - - 0 1; redarrow:a2a4&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;4k3/8/8/8/Pp6/8/8/4K3 w - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/enpassant/6351b113b16d1203316cb40469ca3cf8.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Zwart vindt dit onrechtvaardig en volgende de &lt;em&gt;en passant regel&lt;/em&gt; mag hij doen alsof de pion naar a3 (in plaats naar a4) is gegaan. Hij kan dus de pion slaan.&#xA;Hij moet dit wel ogenblikkelijk doen!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>De promotie</title>
+				<link>http://localhost:1313/okra/rules/promotion/</link>
+				<pubDate>Fri, 11 Sep 2026 19:00:13 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/promotion/</guid>
+				<description>&lt;!--&#xA;.image promotion.png&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/promotion/promotion.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nl.wikipedia.org/wiki/Promotie_%28schaken%29&#34;&gt;Promotie&lt;/a&gt; is ongelofelijk! Een pion die er in slaagt op de laatste (eerste) rij te komen, wordt &lt;strong&gt;meteen&lt;/strong&gt; een ander stuk en dit kan een koningin, een toren, een loper of een paard zijn.&lt;/p&gt;&#xA;&lt;p&gt;Er zijn een aantal aandachtspunten:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;de pion promoveert steeds tot een stuk van dezelfde kleur&lt;/li&gt;&#xA;&lt;li&gt;de pion promoveert &lt;strong&gt;nooit&lt;/strong&gt; tot een koning&lt;/li&gt;&#xA;&lt;li&gt;na promotie kunnen er gerust meerdere stukken van dezelfde kleur bestaan: zoals meerdere koninginnen, of drie lopers&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In de volgende partij zien we niet minder dan 5 koninginnen op het bord: de grote (en latere wereldkampioen) Aljechin aan het werk!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>De pion</title>
+				<link>http://localhost:1313/okra/rules/pawn/</link>
+				<pubDate>Fri, 11 Sep 2026 18:43:34 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/pawn/</guid>
+				<description>&lt;!--&#xA;.image wpawn.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/pawn/wpawn.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.image bpawn.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/pawn/bpawn.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.diagram fen:4k3/8/8/1P1bnr2/4P3/8/5P2/4K3 w - - 0 1; redarrow:b5b6,f2f3,f2f4; bluearrow:e4d5,e4f5&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;4k3/8/8/1P1bnr2/4P3/8/5P2/4K3 w - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/pawn/425ee194a34c9eaae5ed567669b3fdde.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;De &lt;a href=&#34;https://nl.wikipedia.org/wiki/Pion_%28schaken%29&#34;&gt;pion&lt;/a&gt; is zeker het meest merkwaardige stuk op een schaakbord.&lt;/p&gt;&#xA;&lt;p&gt;Het is het zwakste stuk maar er zijn er wel veel van: bij aanvang heeft elke speler er 8.&lt;/p&gt;&#xA;&lt;p&gt;In tegenstelling tot de andere stukken kan de pion enkel vooruit gaan (voor wit: als een pion beweegt, komt hij steeds tercht op een hogere rij; voor zwart: pionnen bewegen steeds naar een lagere rij)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Het paard</title>
+				<link>http://localhost:1313/okra/rules/knight/</link>
+				<pubDate>Fri, 11 Sep 2026 18:34:36 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/knight/</guid>
+				<description>&lt;!--&#xA;.image wknight.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/knight/wknight.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.image bknight.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/knight/bknight.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Het paard beweegt altijd ofwel één veld horizontaal en vervolgens twee velden verticaal, ofwel één veld verticaal en vervolgens twee velden horizontaal. Een andere manier om dit te formuleren is dat het beginveld en het eindveld een L-vorm hebben. Of: een paard mag worden verplaatst naar een van de dichtstbijzijnde velden die niet op dezelfde lijn, rij of diagonaal liggen als waarop het staat. Hierdoor gaat een paard bij iedere zet van een zwart naar een wit veld of omgekeerd.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>De rokade</title>
+				<link>http://localhost:1313/okra/rules/rokade/</link>
+				<pubDate>Fri, 11 Sep 2026 18:06:46 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/rokade/</guid>
+				<description>&lt;p&gt;Voor de korte rokade:&lt;/p&gt;&#xA;&lt;!--&#xA;.diagram fen:4k2r/8/8/8/8/8/8/4K3 b - - 0 1; redarrow:e8g8;bluearrow:h8f8&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;4k2r/8/8/8/8/8/8/4K3 b - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/rokade/ee6d3fabd84d26ddf0af3953a74105e7.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Na de korte rokade:&lt;/p&gt;&#xA;&lt;!--&#xA;.diagram fen:5rk1/8/8/8/8/8/8/4K3 w - - 0 1&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;5rk1/8/8/8/8/8/8/4K3 w - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/rokade/74cb01197745f1a8651ea43c01d0d9c6.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Voor de lange rokade:&lt;/p&gt;&#xA;&lt;!--&#xA;.diagram fen:4k3/8/8/8/8/8/8/R3K3 w - - 0 1; redarrow:e1c1;bluearrow:a1d1&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;4k3/8/8/8/8/8/8/R3K3 w - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/rokade/85b2fc7965cdaf8e5d3f717084e8ce1a.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Na de lange rokade:&lt;/p&gt;&#xA;&lt;!--&#xA;.diagram fen:4k3/8/8/8/8/8/8/2KR4 b - - 0 1&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;4k3/8/8/8/8/8/8/2KR4 b - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/rokade/3eabf1f0dd96e68f08d2972cf86bb42e.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>De loper</title>
+				<link>http://localhost:1313/okra/rules/bishop/</link>
+				<pubDate>Fri, 11 Sep 2026 12:01:34 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/bishop/</guid>
+				<description>&lt;!--&#xA;.image wbishop.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/bishop/wbishop.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.image bbishop.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/bishop/bbishop.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.diagram fen:8/2k5/7R/8/5b2/8/6K1/8 w - - 0 1; arrowred:f4e5,f4d6,f4g5,f4g3,f4h2,f4e3,f4d2,f4c1,f4h6&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;8/2k5/7R/8/5b2/8/6K1/8 w - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/bishop/1365d72cfbbe59c4707cba48588bef4d.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;De &lt;a href=&#34;https://nl.wikipedia.org/wiki/Loper_%28schaken%29&#34;&gt;loper&lt;/a&gt; (de nar, bisschop) werkt langs de diagonalen. Dit betekent nog dat de loper steeds op zijn kleur blijft. Elke speler heeft dus een &amp;lsquo;witte&amp;rsquo; loper en een &amp;lsquo;zwarte&amp;rsquo; loper.&lt;/p&gt;&#xA;&lt;p&gt;Lopers zijn zwakker dan de torens maar het loperpaar kan heel sterk zijn.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>De toren</title>
+				<link>http://localhost:1313/okra/rules/rook/</link>
+				<pubDate>Thu, 10 Sep 2026 15:19:15 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/rook/</guid>
+				<description>&lt;!--&#xA;.image wrook.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/rook/wrook.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.image brook.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/rook/brook.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.diagram fen:8/8/2K5/8/8/8/2R2q2/6k1 w - - 0 1; redarrow: c2a2,c2b2,c2d2,c2e2,c2f2,c2c1,c2c3,c2c4,c2c5&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;8/8/2K5/8/8/8/2R2q2/6k1 w - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/rook/c28bfeccf124d59adc340565e7c44539.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;De &lt;a href=&#34;https://nl.wikipedia.org/wiki/Toren_%28schaken%29&#34;&gt;torens&lt;/a&gt; zijn als tanks: ze bewegen horizontaal en vertikaal. Ze missen de mogelijkheid van de koningin om ook diagonaal te gaan.&lt;/p&gt;&#xA;&lt;p&gt;Met coördinaten: de toren op c2 kan naar a2, b2, d2, e2, f2, c1, c3, c4, c5&lt;/p&gt;&#xA;&lt;!--&#xA;De toren heeft - samen met de koning - nog een speciale beweging: .link rules/rokade&#xA;--&gt;&#xA;&lt;p&gt;De toren heeft - samen met de koning - nog een speciale beweging: &lt;a href=&#34;http://localhost:1313/okra/rules/rokade/&#34;&gt;De rokade&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;rules/rokade&#34;);&#39;&gt;(reglement)&lt;/span&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>De koningin</title>
+				<link>http://localhost:1313/okra/rules/queen/</link>
+				<pubDate>Thu, 10 Sep 2026 14:34:00 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/queen/</guid>
+				<description>&lt;!--&#xA;.image wqueen.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/queen/wqueen.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.image bqueen.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/queen/bqueen.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.diagram fen:8/5k2/8/3q4/8/8/8/6K1 w - - 0 1; redarrow:d5d1,d5d2,d5d3,d5d4,d5a2,d5b3,d5c4,d5c5,d5b5,d5a5,d5c6,d5b7,d5a8,d5d6,d5d7,d5d8,d5e6,d5e5,d5f5,d5g5,d5h5,d5e4,d5f3,d5g2,d5h1&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;8/5k2/8/3q4/8/8/8/6K1 w - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/queen/00436b7330b7705c7ebc09754a1afefe.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;De &lt;a href=&#34;https://nl.wikipedia.org/wiki/Dame_%28schaken%29&#34;&gt;koningin&lt;/a&gt; is het sterkste stuk op het bord: net zoals de koning, kan ze in alle richtingen. Ze wordt enkel gestopt door de rand van het bord of een bezet veld. Wordt het veld bezet door de vijand, dan kan ze deze steeds slaan (=veroveren).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>De koning</title>
+				<link>http://localhost:1313/okra/rules/king/</link>
+				<pubDate>Wed, 09 Sep 2026 16:10:46 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/king/</guid>
+				<description>&lt;!--&#xA;.image wking.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/king/wking.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.image bking.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/king/bking.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.diagram fen:8/3q4/3kR3/8/5K2/8/8/8 b - - 0 1; redarrow:d6c6,d6c5,d6c7,d6e7,d6e6,d6d5; bluearrow:f4f5,f4g5,f4g4,f4g3,f4f3,f4e3,f4e4&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;8/3q4/3kR3/8/5K2/8/8/8 b - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/king/a2d73217ce0daf1954e36368c43243f6.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;De &lt;a href=&#34;https://nl.wikipedia.org/wiki/Koning_%28schaken%29&#34;&gt;koning&lt;/a&gt; kan naar de naburige velden gaan tenzij:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;er staat daar een stuk van eigen kleur&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;hij staat daar schaak. In het bijzonder: hij komt naast de vijandelijke koning te staan&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Een koning kan dus naar maximaal 8 velden gaan.&lt;/p&gt;&#xA;&lt;p&gt;Met coördinaten:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Stukken en pionnen</title>
+				<link>http://localhost:1313/okra/rules/pieces/</link>
+				<pubDate>Tue, 08 Sep 2026 17:52:14 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/pieces/</guid>
+				<description>&lt;!--&#xA;.image pieces.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/pieces/pieces.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;De &lt;a href=&#34;https://en.wikipedia.org/wiki/Chess_piece&#34;&gt;schaakstukken&lt;/a&gt; zijn de soldaten op het slachtveld.&lt;/p&gt;&#xA;&lt;p&gt;Beide legers hebben dezelfde stukken: een koning, een koningin, 2 lopers, 2 paarden, 2 torens.&lt;/p&gt;&#xA;&lt;p&gt;Ze hebben beiden ook 8 pionnen.&lt;/p&gt;&#xA;&lt;p&gt;De FIDE schrijft de vorm en de afmetingen van de pionnen en stukken voor. Ook de afmetingen tegenover het schaakbord liggen vast.&lt;/p&gt;&#xA;&lt;p&gt;De koning is het grootste stuk en de voet van dit stuk moet tussen de 39,6mm en de 45,1mm liggen als de maat van de velden 55mm is!&#xA;Zijn hoogte bedraagt 9,5cm.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Een zet bij het schaken</title>
+				<link>http://localhost:1313/okra/rules/move/</link>
+				<pubDate>Tue, 08 Sep 2026 17:48:09 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/move/</guid>
+				<description>&lt;!--&#xA;.image image.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/move/image.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;We leerden reeds dat Wit en Zwart om beurt spelen. Dat &amp;lsquo;spelen&amp;rsquo; betekent een zet uitvoeren.&lt;/p&gt;&#xA;&lt;p&gt;Daartoe heeft elke speler - althans bij aanvang - 8 stukken en 8 pionnen.&lt;/p&gt;&#xA;&lt;p&gt;Elk van deze - stukken en pionnen - hebben nauwkeurig voorgeschreven regels wat het betekent &amp;rsquo;een zet uitvoeren&amp;rsquo;.&lt;/p&gt;&#xA;&lt;p&gt;Toch zijn er ook heel wat elementen gemeenschappelijk:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;het spelen van een zet begint steeds met het vastnemen en bewegen van een stuk van de eigen kleur&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Schaakbord</title>
+				<link>http://localhost:1313/okra/rules/bord/</link>
+				<pubDate>Tue, 08 Sep 2026 09:51:48 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/bord/</guid>
+				<description>&lt;p&gt;Het &lt;a href=&#34;https://en.wikipedia.org/wiki/Chessboard&#34;&gt;schaakbord&lt;/a&gt; is het terrein waar de schaakpartij wordt beslecht.&lt;/p&gt;&#xA;&lt;p&gt;Schaakborden worden gemaakt in heel diverse materialen en komen in alle prijsklassen.&lt;/p&gt;&#xA;&lt;p&gt;Het is belangrijk om zich te realiseren dat FIDE een aantal regels heeft opgesteld waaraan een schaakbord moet voldoen.&lt;/p&gt;&#xA;&lt;p&gt;Een bord dat in officiële partijen wordt gebruikt moet &lt;em&gt;velden&lt;/em&gt; hebben van 50 mm tot 60 mm (1.97 to 2.36 inches), waarbij 55 mm als &amp;lsquo;ideaal&amp;rsquo; wordt gezien.&lt;/p&gt;&#xA;&lt;p&gt;Essentieel komen schaakborden in twee varianten: deze met coördinaten en deze zonder coördinaten. Ikzelf vind borden zonder coördinaten gewoon mooier, beginnende schakers vinden borden met coördinaten gemakkelijker.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Het doel van een partij schaak</title>
+				<link>http://localhost:1313/okra/rules/doel/</link>
+				<pubDate>Mon, 07 Sep 2026 17:09:42 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/doel/</guid>
+				<description>&lt;!--&#xA;.image azincourt.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/doel/azincourt.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Schaken is een oorlogsspel.&lt;/p&gt;&#xA;&lt;p&gt;De oorsprong is te vinden in het India van de 6e eeuw en kreeg zijn definitieve vorm in West-Europa in de 19e eeuw.&lt;/p&gt;&#xA;&lt;p&gt;De 2 partijen - steeds Wit en Zwart genaamd - staan lijnrecht over elkaar. Er is geen verborgen informatie. Niets wordt aan het toeval overgelaten.&lt;/p&gt;&#xA;&lt;p&gt;In elk der twee legers bevindt zich precies 1 koning. Het leger dat er in slaagt deze koning te veroveren - zonder dat deze weerwerk kan bieden - wint het pleit.&#xA;Het doet er niet toe hoeveel strijders een leger verliest of wint: enkel de eigen koning en de vijandelijke koning zijn bepalend.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>FIDE</title>
+				<link>http://localhost:1313/okra/rules/fide/</link>
+				<pubDate>Sun, 06 Sep 2026 16:52:49 +0200</pubDate>
+				<guid>http://localhost:1313/okra/rules/fide/</guid>
+				<description>&lt;!--&#xA;.image fide.svg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/rules/fide/fide.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nl.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_Internationale_des_%C3%89checs&#34;&gt;Fédération Internationale des Échecs (FIDE)&lt;/a&gt; is het overkoepelende orgaan van de nationale schaakbonden. De federatie werd opgericht in Parijs in 1924 en zetelt in het Zwitserse Lausanne.&lt;/p&gt;&#xA;&lt;p&gt;Anno 2023 waren er 201 nationale schaakbonden bij FIDE aangesloten, waaronder de Koninklijke Belgische Schaakbond (KBSB).&lt;/p&gt;&#xA;&lt;p&gt;Het vaststellen van de spelregels van het schaken is vanzelfsprekend een belangrijke taak van de FIDE.&lt;/p&gt;&#xA;&lt;p&gt;Schaken bestaat al heel lang en soms wijzigen de spelregels. De essentie ligt al een paar honderd jaar vast maar toch zijn er geregeld elementen die veranderen. Bijvoorbeeld: bij de aanvang van een partij moeten de spelers respect betuigen aan hun tegenstander.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
