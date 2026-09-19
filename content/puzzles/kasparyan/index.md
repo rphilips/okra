@@ -20,7 +20,7 @@ Genrikh Kasparyan (Surname also spelled Kasparian) (27 February 1910 – 27 Dece
 -->
 <div style='cursor:pointer' onclick='navigator.clipboard.writeText("2B3K1/8/3N1p1p/6pk/5P1P/6P1/7r/5r2 w - - 0 1"); return false'>
 
-![](2B3K1x8x3N1p1px6pkx5P1Px6P1x7rx5r2zwzuzuz0z1.svg)
+![](2b00967ab04d4d2b2249c1d1593536c4.svg)
 
 </div>
 

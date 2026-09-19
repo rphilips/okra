@@ -33,10 +33,10 @@ In de volgende partij zien we niet minder dan 5 koninginnen op het bord: de grot
       margin: 0;
     }
 </style>
-<div id="game">&#160;</div>
+<div id="game" data-pgn="[Event &#34;Moscow 1915&#34;]&#10;[Site &#34;?&#34;]&#10;[Date &#34;????.??.??&#34;]&#10;[Round &#34;?&#34;]&#10;[White &#34;A. Alekhine&#34;]&#10;[Black &#34;N.N.&#34;]&#10;[Result &#34;1-0&#34;]&#10;[ECO &#34;C12&#34;]&#10;[Link &#34;https://www.chess.com/article/view/five-queens&#34;]&#10;&#10;1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 {The McCutcheron counterattack, which&#10;Alekhine prefered to play as Black.} 5. e5 h6 6. exf6 {Nowadays 6. Bd2 $1 Bxc3 7.&#10;bxc3 Ne4 8. Qg4 is preferable.} 6... hxg5 7. fxg7 Rg8 8. h4 gxh4 9. Qg4 $5&#10;{Attempting to improve on the equal 9. Qh5 Qf6 10. Nf3 Nc6 $1 11. Rxh4 Qxg7 12.&#10;0-0-0 Bd7 and 13...0-0-0.} 9... Be7 10. g3 $1 c5 11. gxh4 {Beginning the legend.&#10;Gregoriev-Alekhine went 11. 0-0-0 Nc6 12. dxc5 Qa5 $1 13. Kb1 e5 $2 14. Qh5 Be6 15.&#10;Nxd5 $2 Bxd5  18. Rxd5 Nb4 $1 and Black won.} 11... cxd4 {11...Bf6 $5 was more&#10;prudent. However, Black is still ok after the text move.} 12. h5 $1 dxc3 13. h6&#10;cxb2 14. Rb1 Qa5+ 15. Ke2 Qxa2 $2 {Black could have foiled White&#39;s plans with&#10;15...Bf8 $3 For example: 16. h7 Rxg7 17. Qd4 Rxh7 18. Rxh7 Qxa2 19. Rxb2 Qa6+&#10;20.Ke1 Qa1+ 21. Ke2 Nd7 22. Nf3 b6 with three pawns for the exchange.} 16. h7&#10;Qxb1 17. hxg8=Q+ Kd7 18. Qxf7 Qxc2+ 19. Kf3 Nc6 $1 {The only way to combat the&#10;White queens. Now both bishops are protected.} 20. Qgxe6+ {20. g8=Q $1 is much&#10;simpler: 20...Ne5+ 21. Kg2 Nxf7 22. Qxf7 Kc6 23. Qe8+ Kb6 24. Qd4+.} 20... Kc7&#10;21. Qf4+ Kb6 22. Qee3+ Bc5 23. g8=Q $1 b1=Q {Not 23...Bxe3 24. Qxe3+ Kc7 25. Qg3+ $1&#10;and mates. Now look at the position: there are 5 queens on the board $1 But&#10;Alekhine now finishes Black off:} 24. Rh6 $3 {Black is now completely helpless&#10;and resigned. The best defence, 24...Bg4+ $1, loses to 25. Qgxg4 Bxe3 26. Qxe3+ $1&#10;Qc5 27. Qgf4, with a big advantage.} 1-0">&#160;</div>
 <script type="module">
     import { ViewPGN } from "/okra/js/lichess/pgn/one.js";
-    ViewPGN("a_alekhine_vs_n_n.pgn", "game");
+    ViewPGN("", "game");
 </script>
 <!-- Game end -->
 

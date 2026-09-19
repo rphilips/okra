@@ -18,14 +18,13 @@ async function fetchPGN(url) {
 
 
 export async function ViewPGN(url, id) {
-
-  LichessPgnViewer(document.getElementById(id), {
-    pgn: await fetchPGN(url),
-    theme: {
-        board: 'brown',       // Sets the board squares to brown/tan
-        pieces: 'cburnett',   // Sets the standard Lichess piece set
-        variant: 'standard'
-      },
+  let elm = document.getElementById(id);
+  let pgnv = elm.getAttribute("data-pgn");
+  if (url != "") {
+    pgnv = await fetchPGN(url);
+  };
+  LichessPgnViewer(elm, {
+    pgn: pgnv,
     menu: {
       getPgn: {
         enabled: true, // enable the "Get PGN" menu entry

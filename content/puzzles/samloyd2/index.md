@@ -12,7 +12,7 @@ De puzzels van Sam Loyd zijn net altijd wat anders: deze puzzel toont een eigena
 -->
 <div style='cursor:pointer' onclick='navigator.clipboard.writeText("8/8/K1p1p1p1/P1p1P1p1/P1p1k1p1/P1B1P1p1/P1R1P1N1/8 w - - 0 1"); return false'>
 
-![](8x8xK1p1p1p1xP1p1P1p1xP1p1k1p1xP1B1P1p1xP1R1P1N1x8zwzuzuz0z1.svg)
+![](1ceb2938d520bd6168922e69beefe1f2.svg)
 
 </div>
 

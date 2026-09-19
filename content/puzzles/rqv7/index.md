@@ -27,7 +27,7 @@ Een puzzel met doornen:
 -->
 <div style='cursor:pointer' onclick='navigator.clipboard.writeText("4q1k1/8/5K2/8/8/8/5R2/R7 w - - 0 1"); return false'>
 
-![](4q1k1x8x5K2x8x8x8x5R2xR7zwzuzuz0z1.svg)
+![](b0445188994263e4cdbe16b2bf9ea71e.svg)
 
 </div>
 

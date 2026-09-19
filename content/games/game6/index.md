@@ -52,10 +52,10 @@ Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/df5k8gk
       margin: 0;
     }
 </style>
-<div id="game">&#160;</div>
+<div id="game" data-pgn="[Event &#34;Spassky - Fischer World Championship Match&#34;]&#10;[Site &#34;Reykjavik ISL&#34;]&#10;[Date &#34;1972.07.23&#34;]&#10;[Round &#34;6&#34;]&#10;[White &#34;Robert James Fischer&#34;]&#10;[Black &#34;Boris Spassky&#34;]&#10;[Result &#34;1-0&#34;]&#10;[EventDate &#34;?&#34;]&#10;[ECO &#34;D59&#34;]&#10;[WhiteElo &#34;?&#34;]&#10;[BlackElo &#34;?&#34;]&#10;[PlyCount &#34;81&#34;]&#10;[Link &#34;https://www.chess.com/blog/ThummimS/world-chess-championship-1972-game-6&#34;]&#10;&#10;1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. cxd5&#10;Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6 12. Qa4 c5 13. Qa3 Rc8 14. Bb5 a6&#10;15. dxc5 bxc5 16. O-O Ra7 17. Be2 Nd7 18. Nd4 Qf8 19. Nxe6 fxe6 20. e4 d4 21. f4&#10;Qe7 22. e5 Rb8 23. Bc4 Kh8 24. Qh3 Nf8 25. b3 a5 26. f5 exf5 27. Rxf5 Nh7 28.&#10;Rcf1 Qd8 29. Qg3 Re7 30. h4 Rbb7 31. e6 Rbc7 32. Qe5 Qe8 33. a4 Qd8 34. R1f2 Qe8&#10;35. R2f3 Qd8 36. Bd3 Qe8 37. Qe4 Nf6 38. Rxf6 gxf6 39. Rxf6 Kg8 40. Bc4 Kh8 41.&#10;Qf4 1-0">&#160;</div>
 <script type="module">
     import { ViewPGN } from "/okra/js/lichess/pgn/one.js";
-    ViewPGN("game.pgn", "game");
+    ViewPGN("", "game");
 </script>
 <!-- Game end -->
 

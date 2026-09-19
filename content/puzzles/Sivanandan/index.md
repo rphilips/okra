@@ -29,7 +29,7 @@ Ze deed dit met een mooie combinatie na een niet-evidente blunder van Maurizzi.
 -->
 <div style='cursor:pointer' onclick='navigator.clipboard.writeText("8/8/8/8/8/8/8/8 w - - 0 1"); return false'>
 
-![](8x8x8x8x8x8x8x8zwzuzuz0z1.svg)
+![](fd054a4e68a2e33f36e0322b4be736f6.svg)
 
 </div>
 

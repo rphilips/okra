@@ -34,7 +34,7 @@ Extra vraag: waarom beginnen met de ene toren en niet met de andere ?
 -->
 <div style='cursor:pointer' onclick='navigator.clipboard.writeText("8/q7/1k6/8/8/2K1R2R/8/8 w - - 0 1"); return false'>
 
-![](8xq7x1k6x8x8x2K1R2Rx8x8zwzuzuz0z1.svg)
+![](d1064dcc2dcd24c609ab673409e33997.svg)
 
 </div>
 

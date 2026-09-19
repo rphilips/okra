@@ -26,9 +26,9 @@ Hier hoort een mooie puzzel bij!
 <!--
 .diagram file:puzzle.pgn
 -->
-<div style='cursor:pointer' onclick='navigator.clipboard.writeText("q2rk3/1Q6/8/8/8/1R6/8/7K w - - 0 1"); return false'>
+<div style='cursor:pointer' onclick='navigator.clipboard.writeText("5R1R/8/2k5/q7/2K5/8/8/8 w - - 0 1"); return false'>
 
-![](q2rk3x1Q6x8x8x8x1R6x8x7Kzwzuzuz0z1.svg)
+![](48515a6c846278693e1000cea084041b.svg)
 
 </div>
 
@@ -60,13 +60,12 @@ pgn: `[Event "?"]
 [Round "?"]
 [White "?"]
 [Black "?"]
-[Result "1-0"]
+[Result "*"]
 [SetUp "1"]
-[FEN "q2rk3/1Q6/8/8/8/1R6/8/7K w - - 0 1"]
-[Link "https://www.chess.com/analysis/game/pgn/3xAEZjRbH8/analysis?move=14"]
+[FEN "5R1R/8/2k5/q7/2K5/8/8/8 w - - 0 1"]
+[Link "https://www.chess.com/analysis/game/pgn/5eUXqFW9gr/analysis"]
 
-1. Re3+ Kf8 2. Rf3+ $1 Kg8 3. Qf7+ $1 Kh8 4. Qh5+ Kg7 5. Qg4+ Kh7 6. Qh3+ Kg6 7.
-Qg2+ Kh6 8. Rh3# 1-0`, position: 'start', showCoords: true, orientation: 'white', theme: 'blue', pieceStyle: 'wikipedia', figurine: 'merida', locale: 'en', timerTime: '', layout: 'top', showFen: false, coordsInner: false, manyGames: false, coordsFactor: '1.0', coordsFontSize: '', colorMarker: '', startPlay: '', hideMovesBefore: true, notation: 'long', notationLayout: 'list', resizable: true, headers: false,};
+1. Rh6+ $1 Kd7 2. Rf7+ $1 Ke8 3. Ra7 $3 Qxa7 4. Rh8+ $1 Kd7 5. Rh7+ $1 *`, position: 'start', showCoords: true, orientation: 'white', theme: 'blue', pieceStyle: 'wikipedia', figurine: 'merida', locale: 'en', timerTime: '', layout: 'top', showFen: false, coordsInner: false, manyGames: false, coordsFactor: '1.0', coordsFontSize: '', colorMarker: '', startPlay: '', hideMovesBefore: true, notation: 'long', notationLayout: 'list', resizable: true, headers: false,};
 	
 var board = PGNV.pgnPuzzle('board', config);
 </script>

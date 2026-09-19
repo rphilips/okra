@@ -31,7 +31,7 @@ Torens kunnen echter ook heel goed aanvallen:
 -->
 <div style='cursor:pointer' onclick='navigator.clipboard.writeText("6R1/8/8/8/8/K1R5/8/k6q w - - 0 1"); return false'>
 
-![](6R1x8x8x8x8xK1R5x8xk6qzwzuzuz0z1.svg)
+![](79c6d8f74e43e18b6fd1690e100d692c.svg)
 
 </div>
 

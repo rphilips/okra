@@ -27,7 +27,7 @@ Tegenwoordig is het een museum over het leven, werk en voorbeelden van uitvindin
 -->
 <div style='cursor:pointer' onclick='navigator.clipboard.writeText("5R1R/8/2k5/q7/2K5/8/8/8 w - - 0 1"); return false'>
 
-![](5R1Rx8x2k5xq7x2K5x8x8x8zwzuzuz0z1.svg)
+![](48515a6c846278693e1000cea084041b.svg)
 
 </div>
 

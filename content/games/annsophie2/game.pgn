@@ -1,0 +1,54 @@
+[Event "Let\\'s Play!"]
+[Site "Chess.com"]
+[Date "2026.09.12"]
+[Round "?"]
+[White "Ann-SophieH"]
+[Black "rphilips"]
+[Result "0-1"]
+[WhiteElo "672"]
+[BlackElo "1182"]
+[TimeControl "1/259200"]
+[Termination "rphilips won by checkmate"]
+[EndDate "2026.09.17"]
+[Link "https://www.chess.com/game/daily/1028160260?move=0"]
+
+1.e4
+{Ann-Sophie is een beginnende schaker. Over de zomermaanden heen heeft ze echter belangrijke vooruitgang geboekt! Deze partij is daar een illustratie van.}
+e6 {De Franse verdediging: op dit ogenblik mijn geliefkoosde opzet tegen 1. e4}
+2.d4 d5 3.Nc3 dxe4
+{De Rubinstein variatie! Niet bepaald de meest dynamisch repliek maar ... het past wel bij mijn karakter :-)}
+4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Be2
+{Ik zou de loper niet naar het eerder passieve veld e2 hebben gespeeld. Zowel d3 als c4 lijken me meer geschikt. Vooral omdat het paard op f3 toch niet kan worden gepend.}
+c5 8.O-O
+{De juiste zet! Wit brengt zijn koning in veiligheid en laat verder alles nog open.}
+Bd7
+{Stockfish 18 verkoos Dc7 en ja, dit is een betere zet. De zwarte dame staat perfect op c7.}
+9.Bf4 {Sterke zet van Wit: hierdoor kan de zwarte dame niet langer naar c7.}
+cxd4 10.Nxd4 Bc5 11.Bf3
+{Deze zet - samen met  het antwoord van Zwart - is minder nauwkeurig.} Qb6
+{Met deze zet wordt het zwarte beginvoordeel ongedaan gemaakt. Vanuit deze positie kunnen alle witte voordelen en zwarte nadelen worden weggewerkt.}
+12.Be5 {Wit laat b2 in staan. Begrijpelijk! } Rd8
+{Zwart gaat niet op avontuur maar deze torenzet kan het Wit knap lastig maken}
+13.c3 O-O 14.Qb3 Bc8 15.Qxb6 Bxb6
+{Wit staat best ok: een perfecte ontwikkeling en geen zwakke plekken.} 16.Rad1
+Nd5 17.c4 Ne7 {Stockfish schat in dat Wit een volle pion voor staat} 18.b4
+{Deze ogenschijnlijke dynamische zet is het keerpunt: Zwart ziet kans om de verdediging van het sterke paard te ondermijnen en tegelijkertijd gebruik te maken van de positie van de loper op f3.}
+Ng6 19.c5 Nxe5 20.cxb6 Nxf3+ 21.Nxf3 axb6
+{Nu de rook opgetrokken is staat Zwart een pion voor. Hij heeft weliswaar een dubbelpion maar het is knap lastig om die aan te vallen!}
+22.Rfe1 Bd7 {Zwart manoevreert de loper naar het droomveld c6} 23.a3 Bc6 24.Ne5
+f6
+{Het is allemaal op het nippertje maar de zwarte stelling blijft overeind niet in het minst door matdreigingen op de onderste rij.}
+25.Nc4 {Spijtige zet: Wit had de sterke loper van het bord moeten halen.} b5
+26.Nb6
+{Vanaf nu wordt het paard - dat nauwelijks velden heeft - een doelwit. Het zal de zwarte koning zijn die op jacht gaat.}
+Kf7 27.h3 Rxd1 28.Rxd1 Ke7 {De koning heeft bloed geroken ...} 29.g4
+{Dit is een verzwakking die met een prijs komt: a3 en h3 staan op dezelfde rij en beiden zijn ze ongedekt: werk voor een toren! }
+Rd8 30.Re1 Rd3 31.Re3
+{Nu moet Wit de torens toch ruilen en krijgt er nog een verzwakking bovenop.}
+Rxe3 32.fxe3 Be8 {Sluwe loperzet die het veld c6 vrij maakt voor de koning.}
+33.Kf2 Kd8 34.Kf3 Kc7 35.Na8+ Kc6 36.e4 b6
+{Meedogenloos manoevreert de zwarte kong naar het veld b7.} 37.Kf4 e5+
+{Ik heb dit al dikwijls gemerkt: een speler die het voortreffelijk heeft gedaan, dan in de problemen komt, wil nog iets forceren.}
+38.Kf5 Bd7# 0-1
+
+

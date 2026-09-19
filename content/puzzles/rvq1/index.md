@@ -23,7 +23,7 @@ Château de Montpoupon: mijn favouriet kasteel!
 -->
 <div style='cursor:pointer' onclick='navigator.clipboard.writeText("5q1k/1RR5/8/8/8/8/4K3/8 w - - 0 1"); return false'>
 
-![](5q1kx1RR5x8x8x8x8x4K3x8zwzuzuz0z1.svg)
+![](4ca54846514427df86d92c2e4d6d1adf.svg)
 
 </div>
 

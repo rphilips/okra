@@ -25,7 +25,7 @@ De kern van de puzzel zijn de pat-dreigingen die de dame partij kan opzetten.
 -->
 <div style='cursor:pointer' onclick='navigator.clipboard.writeText("7k/2q3pP/6P1/8/8/8/6Pp/2RR3K w - - 0 1"); return false'>
 
-![](7kx2q3pPx6P1x8x8x8x6Ppx2RR3Kzwzuzuz0z1.svg)
+![](1f01d310f0d9c0bb0b85f3c8d6d6fa6e.svg)
 
 </div>
 

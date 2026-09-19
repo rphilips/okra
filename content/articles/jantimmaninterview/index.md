@@ -1,0 +1,246 @@
++++
+date = '2026-09-19T19:03:44+02:00'
+title = 'Interview met Jan Timman'
+weight = 9223372036642778783
++++
+
+<!--
+.image image.jpg
+-->
+![](image.jpg)
+
+Ik vond op de website van [De Meppeler Schaakvereniging](https://meppelerschaakvereniging.nl/vereniging/) het volgende interview (11 maart 2026) met Jan Timman.
+
+
+
+Een interview met voormalig wereldtopschaker Jan Timman over zijn nieuwe boek Schakers: portretten. In dit boek portretteert Timman 10 bekende topspelers die hij persoonlijk kende of waartegen hij nog geschaakt heeft.
+
+**Interview met schaker Jan Timman: “Politiek heeft meer weg van poker dan van schaak”**
+
+Terwijl de beroemde surrealist Marcel Duchamp zelf een zeer gerenommeerd en succesvol kunstenaar was, schatte hij het schaakspel toch hoger in dan de kunst. Een schaak-partij bezat volgens hem al de schoonheid van de kunst en zelfs meer dan dat. In zijn ogen waren niet alle kunstenaars schakers, maar alle schakers wel kunstenaars. Voormalig wereldtopschaker Jan Timman (60) is het met die typering van het schaken gedeeltelijk eens, maar ziet het schaakspel toch vooral als een strijd. Voor hemzelf, als groot romanticus, was het schaken echter ook een zoektocht naar vrijheid en een weg om te ontsnappen aan de verstikkende burgerlijke maatschappij.
+
+Timman werd vaak ‘The Best of the West’ genoemd omdat hij tijdens de Koude Oorlog geruime tijd de beste speler was aan de westelijke kant van het IJzeren Gordijn (NAVO-grondgebied). De enige spelers die hij op de wereldranglijst voor moest laten gaan waren de Sovjetschakers Garry Kasparov en Anatoli Karpov. Deze schaak-giganten bevonden zich echter aan de andere kant van het prikkeldraad, in Warschaupactgebied, vandaar zijn benaming Best of the West.
+
+Timman won in zijn carrière verschillende grote toernooien (o.a. Linares, Wijk aan Zee en Las Palmas), hij speelde een match om de wereldtitel tegen Karpov,  en was zelfs enige tijd tweede op de wereldranglijst. Zijn hoogste ELO-rating was 2768. Naast schaker is Timman ook schrijver. Onlangs kwam er van Timman het prachtige boek Schakers: Portretten uit waarin hij 10 bekende topspelers portretteert die hij persoonlijk kende of waartegen hij zelfs nog geschaakt heeft.
+
+In zijn boek laat Timman uitschijnen dat hij Kasparov de beste speler aller tijden vindt. Voormalig wereldkampioen Garry Kasparov was niet alleen actief binnen de schaakwereld. Hij probeerde ook enige tijd om in de politieke arena van Rusland een rol te spelen, maar het lukte hem daar niet om het president Poetin moeilijk te maken. Groot strategisch inzicht achter het schaakbord bleek niet het zelfde te zijn als een groot politiek-strategisch inzicht. Timman: “De tegenstanders in de politiek zijn wel tegenspelers maar in de politieke arena is er, in tegenstelling tot het schaken, slechts oppervlakkig spel te zien. Je zou politiek daarom beter met pokeren kunnen vergelijken dan met schaken. Bij schaken heb je ook niet echt een tegenstander, maar is het het spel zelf waar je tegen uitkomt. Je moet je verdiepen in de stelling. Het gaat er daarbij om hoe je tegenstanders zetten kunnen. Dat is in wezen een ander proces dan in de politiek.”
+
+**Hoe kwam u op het idee voor uw nieuwste boek Schakers: portretten?**
+
+Timman: “Het idee voor dat boek kwam niet op één bepaald moment. Het is langzaam gegroeid. Het begon er mee dat ik het eerst verhaal over Aljechin had afgerond. Daarna schreef ik ook nog een stuk over Mischa Tal. Vervolgens hebben ze bij uitgeverij De Bezige Bij gesuggereerd om een serie portretten van grote schakers te schrijven voor een boek. Op die manier kon ik een heleboel kwijt over wat er in het schaken aan de hand is geweest en wat ik zelf heb meegemaakt. Het leek me interessant om al die portretten te schrijven. Op die manier is het gegroeid naar tien verhalen. Ik heb tot nu toe zeer positieve reacties gekregen.”
+
+**U behandelt verschillende van de allergrootste schakers uit de geschiedenis in uw boek. Wie is volgens u de beste schaker aller tijden?**
+
+Timman: “Ik laat in mijn boek een beetje naar voren komen dat Kasparov dat is. Hij is de enige waarover ik schrijf dat hij geniaal is. Dat kun je over andere schakers ook beweren, maar dan is het wat moeilijker uit te leggen, geloof ik.”
+
+**In uw boek zegt u echter dat Bobby Fischer op sommige punten beter was dan Kasparov. Hoe ziet u dat dan?**
+
+Timman: “Dat is waar. Qua inzicht was Fischer zeker niet minder goed dan Kasparov. Kasparov wist echter ontzettend veel te halen uit zijn werklust. Zijn voorbereiding wist hij tot grote hoogte te brengen en dat telt natuurlijk ook mee. Je kunt niet zeggen dat dat niet telt. Hij deed dat op zo’n goede manier dat dat ook doorwerkte in het middenspel. Daardoor schaakte hij zoals niemand anders dat kon.”
+
+**Is hij daarom ook uw grote voorbeeld of is dat iemand anders?**
+
+Timman: “Kasparov is jonger dan ik, maar toch heb ik veel van hem geleerd. Dat zeker. Omdat hij veel jonger is, kan ik hem echter geen voorbeeld noemen. Ik heb wel andere voorbeelden: Botvinnik bijvoorbeeld. In mijn portret over Michail Botvinnik komt ook Smyslov ter sprake. Die noem ik ook als voorbeeld. Sommige portretten vallen namelijk samen. Kasparov en Karpov noem je ook meestal in één adem net als Spasski en Fischer. Die raken elkaar. Bij Botvinnik en Smyslov was dat eigenlijk ook zo. Dat waren twee kampioenen die dicht bij elkaar lagen, ook chronologisch gezien. Ze speelden veel tegen elkaar en zijn daarom aan elkaar gekoppeld.”
+
+**De Duitser Emanuel Lasker was het langst van alle schakers in bezit van de wereldtitel: 27 jaar duurde zijn heerschappij. Hoe kijkt u naar hem? Behoort hij tot de top drie van beste schakers aller tijden?**
+
+Timman: “Dat vind ik moeilijk te zeggen. Lasker was nog niet zo ver als de moderne schakers. Aljechin was al verder en ook sterker. Het schaken heeft namelijk steeds ontwikkelingen doorgemaakt. Lasker stamde nog uit een periode dat het moeilijk te beoordelen viel hoe sterk hij was. Hij speelde regelmatig tegen sterke tegenstanders, maar heel vaak ook tegen minder goede spelers. Maar natuurlijk was hij een groot kampioen. Zeker.”
+
+**Als geniaalste schaker wordt vaak de Cubaan Capablanca genoemd. Waar zit hem dat in?** 
+
+Timman: “Dat is natuurlijk omdat Capablanca uit Cuba kwam waar het schaken toen helemaal niet in aanzien stond. Tegenwoordig trouwens wel. Cuba is nu een heel sterk schaakland. Vroeger kwam er echter niemand van de grote schakers uit Cuba. Dat Capablanca zich daar toch tussen nestelde, was heel ongewoon. Hij was echt een groot natuurtalent. Dat is natuurlijk heel erg mooi en daarom kreeg hij dat etiket van geniaalste schaker opgeplakt. Hij was zeker iemand die de schaak-strategie heel goed begreep, maar over Capablanca zou ik toch niet geschreven hebben in mijn boek. Hij was weliswaar diplomaat, maar niet een erg imposante persoonlijkheid. Lasker wel natuurlijk.” “Maar voor mij begint mijn interesse echter vooral met Aljechin. Ik geef namelijk een beeld van het moderne, naoorlogse, schaken. Dan is Aljechin een soort ijkpunt. Net na de oorlog werd hij waarschijnlijk vermoord. Ik probeer dat uit te zoeken in mijn verhaal.”
+
+**Uw speelstijl wordt wel met die van Lasker vergeleken. U zou, net als hij, een vecht-stijl hebben. Klopt dat volgens u en bent u daar trots op?**
+
+Timman: “Dat kan ik moeilijk zelf beoordelen, maar het lijkt me niet. Ik heb die overeenkomst er nooit uit kunnen halen. Ik vind dergelijke vergelijkingen heel moeilijk. In mijn verhaal over Magnus Carlsen ga ik in op de bewering van Kasparov dat Carlsen de opvolger is van Capablanca en Karpov, maar daar ben ik het niet mee eens. Ik vind eerder dat Kramnik dat is. Meningen kunnen erg verschillen over dat soort dingen.”
+
+**Welke schaker die u in uw boek bespreekt, heeft de meeste indruk op u gemaakt en waarom?**
+
+Timman: “Dat vind ik moeilijk om te zeggen want iedereen die in het boek voorkomt, heeft een bepaalde indruk op me gemaakt. Er komen twee personen in voor die tragische helden zijn: Aljechin en Fischer. Dat is mooi om over te schrijven omdat er dan drama in een verhaal zit. Dat is meestal boeiender dan een rimpelloos bestaan. Aljechin en Fischer hadden beiden verkeerde denkbeelden en waren antisemitisch. Toch is het zo dat ik afgezien daarvan heel duidelijk blijk van waardering heb voor deze personen. Je ziet in het boek verder wel dat ik veel sympathie heb voor Bent Larsen omdat hij in dezelfde positie verkeerde als ik. Hij was beroepsschaker geworden en zo’n beetje de beste schaker van het Westen, maar twee decennia voor dat ik dat was. Dan heb je interessant vergelijkingsmateriaal. Larsen hield, net als ik, ook van reizen en literatuur en allerlei specifieke dingen rond het schaken. Hij was een indrukwekkende persoonlijkheid. Vanuit dat oogpunt vind ik Larsen de meest herkenbare persoon voor mij.”
+
+**In uw boek heeft u het regelmatig over de dromen die u heeft. Denkt u dat de inhoud van dergelijke dromen belangrijke informatie kan herbergen of dat dromen mensen iets duidelijk kunnen maken?**
+
+Timman: “In sommige gevallen waren die dromen een soort aanvulling op wat ik, nog voor publicatie van mijn boek, geschreven had. In het geval van Kasparov leid ik die droom in door te zeggen waar Kasparov en ik over discussiëren met betrekking tot een bepaalde stelling. In mijn droom komt dat op een bepaalde manier terug. Dat is heel frappant en betekenisvol voor het boek. Ik zou niet zomaar een droom opschrijven als het niet een bepaalde betekenis had.”
+
+**Klopt het dat u een boek bijhoudt waarin u al uw dromen optekent?**
+
+Timman: “Ja, dat is waar, maar de laatste tijd doe ik dat niet meer. Heel lang heb ik dat echter wel gedaan. Ik vind dat buitengewoon interessant. Soms ga ik dergelijke dromen ook analyseren of er over nadenken. Ik had bijvoorbeeld vannacht een droom over een roman die Harry Mulisch had geschreven. Dat is interessant omdat dat boek met de titel De Tijd Zelfonafgemaakt is gebleven. Mulisch kwam er op een gegeven punt niet verder mee. In mijn droom werd de roman echter wel afgerond, maar in een soort filmvorm. De gegevens van die film annex roman waren achteraf heel moeilijk te begrijpen zoals dat vaak met dromen gaat. Hij was echter wel enigszins te verklaren. Daar kan ik dan wel iets mee. Het is net als bij een eindspelstudie waar een schaker niet mee verder komt, maar die uiteindelijk toch door iemand wordt afgemaakt. Dat is buitengewoon boeiend.”
+
+**Dromen zijn vaak irrationeel. In hoeverre is irrationaliteit (geluk, toeval etc.) van belang bij het schaken?**
+
+Timman: “Die factoren zijn eigenlijk niet relevant. De aanknopingspunten die je hebt als je over schaken droomt, zijn nooit relevant. Bij de droom die ik in mijn stuk over Kasparov beschrijf, zie je dat er iets heel anders aan de hand is. De droom gaat dan niet meer om het schaakspel zelf. Het geeft immers geen concrete informatie.” “Het gekke is wel zo dat wanneer je bijvoorbeeld met een bepaald openingsprobleem zit dat je niet kunt oplossen, je soms na een tijd geslapen te hebben opeens de oplossing vindt. Dat is heel frappant. Over dat fenomeen is wel geschreven en ik heb het zelf ook regelmatig ervaren. Dat is natuurlijk niet het zelfde als een droom, maar doordat je in je slaap een bepaald soort rust hebt gehad die je geïnspireerd of geholpen heeft, lukt het soms om een barrière te overwinnen. Dat principe bestaat zeker.”
+
+**Is schaken eerder een rationeel of een irrationeel spel (met toeval en geluk) of houden beide factoren elkaar in evenwicht?**
+
+Timman: “Toeval en geluk spelen maar een zeer kleine rol. Dat is van ondergeschikt belang. Het is voornamelijk een rationeel spel.”
+
+**Zijn gevoel, intuïtie en instinct wel van belang bij schaken?**
+
+Timman: “Ja, intuïtie is erg belangrijk. Over intuïtie zeggen computerwetenschappers dat dat kennis is die nog niet echt gedefinieerd is. Zo kun je het ook noemen natuurlijk. Het is toch een bepaald soort gevoel en iets waarvan je denkt ‘dit is goed’. Je kunt niet direct definiëren wat het is, maar het is in het schaken wel belangrijk. Belangrijk is dat je ergens een goede neus voor hebt.”
+
+**Wat is volgens u het belangrijkste aspect van schaken: de strategie, de tactiek of de kunst om te improviseren etc.?**
+
+Timman: “Je kunt daar niet één aspect uitlichten. Het is een samenspel van alles.”
+
+**Schaken is dus voornamelijk een rationeel spel. Zijn grote schakers, ondanks hun rationaliteit, soms toch ook bijgelovig en vertrouwen ze wel eens op astrologie of komt dat zelden voor?**
+
+Timman: “Ja, ik denk dat dat bij sommigen zeker een rol speelt. Viktor Korchnoi komt in mijn boek niet ter sprake, maar hij had allerlei soorten bijgelovigheden. Hij dacht tijdens een wedstrijd in Baguio City (Filippijnen) in 1978 tegen Karpov bijvoorbeeld dat hij beïnvloed kon worden door iemand uit de zaal. Die persoon zou parapsycholoog zijn en in dienst staan van Karpov. Daarom had Korchnoi zelf ook wat goeroes in dienst genomen om dat min of meer te neutraliseren. Daar blijkt toch een soort bijgeloof uit vind ik.”
+
+“Karpov en de mensen rond hem beweerden echter dat die zogenaamde parapsycholoog in het publiek er niet was om Korchnoi te hypnotiseren, maar dat hij er slechts was om te letten op Karpov en wat voor lichaamstaal hij tijdens de partij vertoonde. Men wilde weten of hij hyperventileerde of niet etc. Dat kan best waar zijn volgens mij en is helemaal niet zo’n onwaarschijnlijke situatie. Er zitten twee kanten aan de zaak.” “Toen Korchnoi met dat bijgeloof bezig was, zat hij net in een sterke periode dus ondervond hij er weinig last van. Het was voor hem juist een stimulans om er allerlei dingen bij te halen. Het kan zijn dat hij de scherpe strijd nog verder wilde opvoeren door dat soort factoren kunstmatig in het leven te roepen. Ik had wel de indruk dat dat een rol speelde. Maar iemand kan het natuurlijk ook echt gaan geloven. Zeker. Soms zie je echter niet of het een bepaald doel dient of dat het juist kan storen.”
+
+**Ton Sijbrands was mogelijk ook bijgelovig. Toen hij een belangrijke partij verloor zei hij dat de stand van de maan daar mee te maken had etc. Kan dat een rol spelen bij het beoefenen van denksporten?**
+
+Timman: “De stand van de maan – en vooral volle maan – schijnt inderdaad invloed te hebben op mensen. Ik heb daar echter nooit zoveel op gelet. Ik kan me wel voorstellen dat dat voor iemand een rol kan spelen. Misschien dat je daardoor minder goed slaapt of juist beter. Ik weet het niet. Als je je daar in gaat verdiepen kun je natuurlijk bezig blijven.”
+
+**Was u ook bijgelovig en waar geloofde u dan in?** 
+
+Timman: “Ik heb er nauwelijks last van.”
+
+**Zijn er grote schakers die bezig geweest zijn met telepathie en dergelijke zaken? Waren dergelijke spelers bijvoorbeeld bang om via telepathie negatief beïnvloed te worden?**
+
+Timman: “Er is een geval bekend van een match van Korchnoi tegen een dode tegenstander. Daarbij had een helderziende de geest van de reeds overleden Hongaarse schaker Géza Maroczy opgeroepen die vervolgens zetten doorgaf. De zetten kwamen via dat medium door. Korchnoi heeft toen een partij tegen dat medium gespeeld en de wedstrijd gewonnen. Achteraf werd aan Korchnoi gevraagd of dat nu echt de geest van Maroczy was waartegen hij had gespeeld. Toen zei hij: ‘het zou kunnen’. Het was niet helemaal duidelijk of hij het zelf ook geloofde, maar hij vond het een aardig idee om er aan mee te doen.”
+
+**U schrijft in uw boek dat Mischa Tal zijn tegenstanders wel leek te hypnotiseren. In hoeverre is dat reëel?**
+
+“Wat hypnotiseren betreft: Mischa Tal had inderdaad een nogal doordringende blik. Dat kun je echter niet hypnotiseren noemen in de wetenschappelijke zin van het woord. Je kunt iemand echter wel op een bepaalde manier verlammen door een heel doordringende blijk te hebben, zodat de ander daar van onder de indruk is en niet meer zo goed speelt.”
+
+“Zelf had ik er niet zo veel last van toen ik in ’72 tegen Tal speelde. Tal was gewoon een veel betere speler dan ik. Het lag voor de hand dat ik tegen hem niet opgewassen was. Ik zag wel zijn doordringende blijk, maar kan niet beoordelen of dat iets met me deed. Toen ik later opnieuw tegen hem speelde, heb ik daar overigens ook geen last van gehad.”
+
+**Verschillende grote schakers kregen na verloop van tijd mentale problemen. Morphy, Rubinstein, Steinitz, Carlos Torre Repetto en Fischer begonnen zich eigenaardig te gedragen. Grenst genialiteit inderdaad vaak aan gekte of is die bewering overdreven?**
+
+Timman: “Het geval van Bobby Fischer wordt heel vaak aangehaald. Je kunt inderdaad zeggen dat Fischer gek was, maar het was ook een kwestie van eenzaamheid die die gekte in de hand werkte. Toch waren de meeste grote wereldkampioenen helemaal niet gek.”
+
+“Bij Kasparov zou je eventueel kunnen zeggen dat hij een beetje getikt is, maar toch ook niet echt. Ik beschrijf in mijn boek dat hij interesse kreeg in speciale, zeer afwijkende, zienswijzen op de historie. In principe is dat wat gek. Zeker. Maar getikt zou ik hem toch niet willen noemen.”
+
+“Ik heb daarnaast wel andere gevallen gekend van schakers die merkwaardige trekjes begonnen te vertonen, maar ik heb het vaker gezien dat schakers toch echt evenwichtig waren.” “Rubinstein had inderdaad psychische moeilijkheden, maar dat werd mede veroorzaakt door zijn financiële problemen. Dat gaat vaak samen. Op een gegeven moment werd het een tragische zaak met Rubinstein. Hij is uiteindelijk in België gestorven, en was er aan het einde van zijn leven heel slecht aan toe. Hij zat in een tehuis en had bijna geen geld meer. Toen is er een boek uitgebracht met de titel Rubinstein gewint. Dat boek was voor hem geschreven om hem te helpen. De winst ging helemaal naar hem toe. Het is een heel mooi boek met allerlei winstpartijen van Rubinstein. Je ziet dan dus dat er een sociale beweging is binnen de schaakwereld.”
+
+“Het is moeilijk te zeggen of de genialiteit van dergelijke schakers iets te maken heeft met hun gekte. Ik denk dat in veel gevallen die gekte door eenzaamheid in de hand werd gewerkt. Dat zag je duidelijk bij Fischer en Rubinstein. Maar het komt ook doordat ze de druk van alle (media-)aandacht vaak niet aankunnen. Dat was bij Fischer heel sterk het geval. Eenzaamheid leidt er ook toe dat je geen correctie krijgt van je omgeving, waardoor je soms rare denkbeelden krijgt.”
+
+**Over genialiteit gesproken: hebben grote schakers wel eens plotseling een bijzonder goed inzicht dat grenst aan magie?**
+
+Timman: “Ja, daar ken ik genoeg voorbeelden van. Dat heb ik zelf ook wel eens gehad. Dan zag ik opeens een goed idee op het bord dat later ook bleek te kloppen. Dat komt voor, zeker bij grote schakers. Bij mensen als Karpov en Kasparov heel geregeld zelfs. Dan deden ze een zet waarvan de consequenties heel moeilijk te doorgronden waren. Bij Kasparov werkte in zo’n geval zijn enorme rekenvermogen soms echter tegen hem zodat hij bepaalde zetten die Karpov of ik intuïtief deden (en die er zeer goed uitzagen) niet deed omdat hij heel ingewikkelde varianten had berekend die aantoonden dat bepaalde intuïtieve zetten niet goed zouden zijn. Later bleek, via computer-berekening, soms dat die intuïtieve zetten toch goed waren geweest. Kasparov was ongelofelijk goed en veel partijen heeft hij juist aan dat rekenvermogen te danken, maar soms was iets doen op intuïtie nog beter geweest omdat doorrekenen dan – door de tijdsdruk – onmogelijk was,.”
+
+“Soms zie je het ook bij computers gebeuren dat ze moeite hebben met sommige zetten waarvan wij denken dat het goed moet zijn voor wit. Eerst vindt de computer het in die stelling dan juist goed voor zwart en pas na een tijdje erkent het apparaat dan toch dat het goed is voor wit. Dat komt nog steeds voor, ook bij de beste computers. De geniale momenten van menselijke schakers zijn nog niet voorbij.”
+
+**Kunnen mensen nog van computers winnen?** 
+
+Timman: “Nee, dat is moeilijk. Het is wel zo dat je als menselijke schaker een stelling op een gegeven moment beter kunt beoordelen dan een computer. In de praktijk is het echter zo dat de computer, zelfs als hij minder goed staat, nog steeds goede zetten blijft doen. Menselijke schakers zijn daar minder goed in. Ook al speel je strategisch goed dan nog komt er immers altijd een moment in de partij dat je dingen door moet rekenen en het niet van een leien dakje gaat (als de tegenstander goed speelt natuurlijk). Met een beperkte bedenktijd heb je dan als mens een groot probleem. De computer is daar echter extreem handig in.”
+
+“Wanneer de menselijke topschaker en de computer beiden heel veel bedenktijd krijgen, dan zou het nog niet zo duidelijk zijn wie wint (mens of machine?), maar zo’n partij zou ongelofelijk lang duren. Ik weet niet of iemand daarop zit te wachten. Het is op het moment namelijk zo dat alles steeds een beetje sneller wordt in de schaakwereld.”
+
+**Wat is momenteel het beste computerprogramma voor schakers dat er is?**
+
+Timman: “Ik heb zelf geen vergelijkend onderzoek gedaan, maar er wordt gezegd dat Houdini heel goed is. Houdini is ook een hele duidelijke naam die de mensen zeker zal aanspreken. Hahaha. De naam Houdini klopt ook echt want zo’n computerprogramma kan zich echt in talloze bochten wringen om bepaalde verloren gewaande stellingen toch nog speelbaar te maken.”
+
+**Hoe belangrijk is fantasie voor een schaker?**
+
+Timman: “Ik denk dat fantasie nog steeds heel belangrijk is. Dergelijke frisse ideeën heb je vooral nodig als je je wilt onderscheiden van andere spelers. Dat was vroeger ook al zo. Kijk, je hebt een heleboel sterke grootmeesters die echt goed spelen en veel kennis hebben van het spel. Ze kennen alle principes en kunnen goed rekenen, maar toch missen ze ergens iets omdat alle dingen die ze weten ook bij andere goede grootmeesters bekend zijn.”
+
+“Aronian of Magnus Carlsen zijn momenteel de nummers één en twee van dit moment. Dat is niet voor niets. Zij krijgen namelijk op een gegeven ogenblik een bepaald idee in een stelling waardoor ze zich weten te onderscheiden. Dat is een element van fantasie dat je bij beiden ziet en wat hen beter maakt dan de rest. Je kunt dat ook creativiteit noemen. Dat dekt elkaar.”
+
+**Beschouwt u schakers ook als kunstenaars? Die vergelijking wordt wel eens getrokken. De kunstenaar Marcel Duchamp vond schaken zelfs superieur aan kunst las ik in een boek van Kasparov (Waarom het leven op schaken lijkt). Duchamp zei dat niet alle kunstenaars schakers zijn, maar alle schakers wel kunstenaars. Schaken bezat volgens hem alle schoonheid van de kunst en zelfs meer dan dat. In hoeverre is dat volgens u het geval?**
+
+Timman: “Marcel Duchamp hield inderdaad erg van schaken en wordt vaak als belangrijkste kunstenaar van de twintigste eeuw beschouwd. Daar ben ik het niet mee eens, maar zo staat hij wel te boek. Duchamp hield inderdaad nog meer van schaken dan van kunst. Dat is inderdaad heel opvallend. Je zou je kunnen voorstellen dat een kunstenaar juist zou denken dat kunst hoger stond, maar het is ook een kwestie van respect voor het schaakspel natuurlijk. Marcel Duchamp kon zich als kunstenaar heel makkelijk ontplooien en succesvol zijn, maar als schaker vond hij dat moeilijker. Vandaar zijn respect voor het spel.”
+
+**Beschouwt u schaken zelf ook als een kunst?**
+
+Timman: “Het schaken op zich zie ik toch meer als een strijd, net zoals Emanuel Lasker dat zag. Maar als dat strijdelement verdwijnt zoals bij de eindspelstudie, dan is het zo dat het kunstzinnige element zeker een belangrijke factor speelt in het schaak.”
+
+**Ik las dat Mischa Tal vond dat schaken meer een kunst dan een wetenschap was. Wat denkt u daar over?**
+
+Timman: “Ik dacht dat Tal zei dat schaken het allemaal tegelijk was, als ik het me goed herinner. Dus zowel wetenschap als kunst.”
+
+**Ergens in uw boek las ik dat schaken ook een zoektocht naar vrijheid is. Zijn schakers vaak romantici die willen ontsnappen aan de burgerlijke maatschappij?**
+
+Timman: “Vroeger was dat heel vaak wel zo, ja. Het geldt ook bijna voor alle geportretteerden uit mijn boek: Larsen, Andersson en Aljechin etc. Misschien in wat mindere mate voor Botvinnik want die was toch wel heel erg aangepast aan die communistische maatschappij. Het speelt wel een grote rol in mijn boek.”
+
+**Zocht u via het schaken zelf ook naar vrijheid en wilde u ook ontsnappen uit de burgerlijke maatschappij?**
+
+Timman: “Ja, voor mij gold dat ook zeker. Nu nog trouwens.”
+
+**Is dat streven naar vrijheid onder grote schakers tegenwoordig minder?**
+
+Timman: “Ik heb de indruk dat dat tegenwoordig minder is, ja. Schaken is nu meer iets dat je al op heel jonge leeftijd kunt doen met behulp van een computer, waardoor het spel aantrekkelijk is geworden voor veel jonge mensen. Ook op andere gebieden kun je als kind, of jongere, tegenwoordig trouwens veel sneller ontwikkelen dan vroeger.”
+
+**Topschaken is zeer complex, ingewikkeld en vergt veel denkkracht, maar het blijft in essentie ook een spel waarmee een mens zich geestelijk kan ontwikkelen. Kan men de schaaksport daarom ook zien als een goed voorbeeld van Huizinga’s Homo Ludens (De spelende mens)?  **
+
+Timman: “Ja, ik denk het wel. Ik vermoed dat Huizinga onder andere ook schaken bedoelde met zijn theorie.”
+
+**U heeft zichzelf ook ontwikkeld door middel van het schaken neem ik aan?**
+
+Timman: “Dat weet ik niet. Ik kan dat niet beoordelen. Schaken staat natuurlijk buiten de maatschappij. Ik heb me wel ontwikkeld als schaker. Ik weet echter niet of ik via het schaken ook iets geleerd heb over hetgeen er buiten het schaken om gebeurt.”
+
+“Wat wel heel goed aan schaken is, is dat het een heel probaat middel is tegen Alzheimer. Je zult het toch weinig meemaken dat schakers Alzheimer krijgen, tenzij iemand daar een grote aanleg voor heeft natuurlijk. Er zijn weinig voorbeelden van schakers met dementie of Alzheimer. Schaken traint namelijk je hersens. Het is een soort geheugentrainer die je hersens stimuleert en fit houdt.”
+
+**Vindt u dat u pech heeft gehad in uw carrière doordat u de twee giganten Karpov en Kasparov boven u had. Anders was u waarschijnlijk wel wereldkampioen geworden?**
+
+Timman: “Nee, ik zie dat niet als pech want ik heb veel van hen geleerd. Ik kon me daardoor aan hun niveau optrekken. Voor mij was het wel goed dat ze er waren. Ik vond het interessant om van nabij te volgen wat ze aan het doen waren.”
+
+“Het is namelijk altijd mijn streven geweest om zo goed mogelijk te spelen. Als ik geen wereldkampioen kon worden dan wilde ik toch zo goed mogelijk voor de dag komen. En dat is wel gelukt, vind ik.”
+
+**Heeft u dus het maximale uit uw carrière gehaald?**
+
+Timman: “Ja, dat denk ik wel. Je kunt wel blijven kniezen over bepaalde kansen die je gemist hebt, maar anderzijds waren er ook situaties waarin mijn tegenstanders kansen misten tegen mij. Dus daar wil ik niet zo zwaar aan tillen.”
+
+**Nederland heeft momenteel weer een groot talent op schaakgebied: Anish Giri. Ziet u een goede toekomst voor hem in het verschiet liggen?**
+
+Timman: “Ja, hoewel hij de laatste tijd te kampen heeft met een vormcrisis. Dat was ook nog te merken tijdens het laatste Europese kampioenschap in Plovdiv (Bulgarije). Daar verloor hij van vrij zwakke tegenstanders, zelfs met wit. Dat hoort gewoon niet te gebeuren en betekent dat hij niet in goede doen is. Hij stond geruime tijd op 50 % winst. Dat is ver beneden zijn status. Ik had deze vormcrisis eerlijk gezegd niet verwacht. Het is wel een zware terugval na hele goede resultaten, maar ik neem aan dat het tijdelijk is. Rond de jaarwisseling heeft hij namelijk een sterk toernooi gewonnen. Toch zie ik nog steeds een grote toekomst voor hem in het verschiet liggen. Giri kan absoluut de wereldtop halen. Hij heeft een hele goede stijl, speelt heel oplettend en is strategisch en tactisch goed. Hij is daarnaast ook altijd goed voorbereid. Dat zijn allerlei pluspunten.  Daarom vind ik het niet zo alarmerend dat hij nu een slechte periode heeft. Misschien heeft hij een trainer nodig die goed voor hem is en hem kan steunen. Zo iemand kan laten zien waar zijn sterke punten zitten. Als dat is opgelost kan hij ver komen in carrière.”
+
+**Politiek komt ook regelmatig in uw boek ter sprake. In het boek Onweer in de schemeringvan Frederic Morton staat dat Jozef Stalin ook een goed schaker geweest moet zijn. Is er iets bekend van de partijen die hij speelde? Was hij inderdaad een sterke speler?**
+
+Timman: “Vooral Lenin was heel goed in schaken, Stalin niet zo zeer. Lenin was een speler van enig niveau. Van Stalin is niet zo veel bekend wat dat betreft, maar Lenin heeft echt goede partijen gespeeld. Wie trouwens ook een heel goede schaker was en misschien nog is, is de Servische leider Karadzic die nu vast zit in de gevangenis van Scheveningen. Hij zal waarschijnlijk in de gevangenis ook nog wel spelen denk ik. Hahaha. Ik heb een foto van hem in de krant zien staan uit de tijd dat hij nog de macht in handen had in Bosnië/ Servië. Op die foto zag je hem schaken. Je zag daarop een goede stelling. Ik weet niet precies hoe goed hij is en heb zijn partijen niet gezien, maar hij is wel een speler van club-niveau. Dat is toch frappant vind ik. Schaken is in die regio ook altijd erg populair geweest. Karadzic is een erg merkwaardige man. Hij was een soort intellectueel, psychiater en dichter die ook een vreselijke dictator bleek te zijn. Die combinatie was bizar. Maar goed, Lenin was ook een vreselijke dictator en ook hij hield van schaken. Dat komt voor.”
+
+**De Palestijnse leider Yasser Arafat speelde ook schaak. Weet u iets van zijn partijen?**
+
+Timman: “Nee, daar weet ik niks van. Ik weet wel dat de vroegere Libische leider Khadaffi  heel slecht speelde. Dat is wel bekend. De voorzitter van de Wereldschaakbond,  Kirsan Iljoemtsjinov, ging een keer bij hem langs en toen hebben ze een partijtje tegen elkaar gespeeld. Toen bleek Khadaffi er niks van te kunnen. Dat is ook in beeld gebracht”
+
+“Wie duidelijk wel een goede speler is, is de voormalige Russische partijleider en president van de USSR, Michail Gorbatsjov. Hij is absoluut een goede schaker. Gorbatsjov speelde zeer onlangs ook een keer tegen dezelfde voorzitter van de Wereldschaakbond (Iljoemtsjinov) en versloeg hem vernietigend. Dat betekent dat hij absoluut een goed niveau heeft. Hahaha. En dan te bedenken dat Gorbatsjov al tachtig is! Zelfs op die leeftijd speelt hij dus nog goed. Gorbatsjov is ook nog eens iemand die democratische ideeën had, dus dat kan ook blijkbaar.”
+
+**Kan dat soort strategisch inzicht op het schaakbord van pas komen in de politiek of elders in de maatschappij?**
+
+Timman: “Daar wordt vaak mee geschermd door politici. Er wordt dan gesteld dat politiek ook een soort schaken is. Als je leest over politiek dan wordt er vaak dezelfde terminologie gebruikt als in het schaken. Dan hebben ze het over wat een politicus nu voor ‘zet gaat bedenken’ etc. En ‘hoe zal hij de stukken gaan verschuiven.’ Dat komt heel veel voor. Maar in de praktijk lijkt me dat het niks met elkaar te maken heeft. Nee, geef mij maar schaken. Dan heb je tenminste geen gezeur aan je hoofd en geen vervelende raads- of fractievergaderingen. Het zou toch een ramp zijn om in de Tweede Kamer te moeten zitten de hele dag. Dat lijkt mij een catastrofe. Maar ja, die mensen vinden dat fijn. Dan zit ik liever achter het schaakbord om dingen te bedenken want dan hoef je niet te letten op wat anderen zeggen en kun je kijken wat je zelf vindt van een stelling. Dat is het enorme verschil. De tegenstanders in de politiek zijn wel tegenspelers, maar in de politieke arena zie je slechts oppervlakkig spel. Je zou dat meer met pokeren kunnen vergelijken dan met schaken. Bij het schaken heb je ook niet echt een tegenstander als wel het spel zelf waar je tegen uitkomt. Je moet je verdiepen in de stelling. Het gaat er daarbij om hoe mensen zetten kunnen. Dat is in wezen een ander proces.”
+
+**Ik las ook dat u op zoek bent naar de kern van het schaken. Wat zijn uw bevindingen op dat vlak?**
+
+Timman: “Dat is inderdaad wat ik doe. De kern van het schaken wordt naar mijn mening gevormd door de theoretische eindspelen die op een gegeven moment verklaard kunnen worden. De computer kan tegenwoordig alle stellingen met zes stukken en minder in kaart brengen. Alles is daar van bekend. Het is interessant om uit te leggen waarom bepaalde stellingen gewonnen zijn, dat met elkaar te vergelijken en daar steeds verder in door te dringen. Het is duidelijk dat de computer nu bezig is met zeven stukken. Zo’n apparaat geeft echter niet aan waarom dat zo is. Het gaat langzaam aan de kant op dat je nu hoe langer hoe meer kennis krijgt van hoe bepaalde stellingen staan. Dan kan je op een gegeven moment ook gaan beredeneren waarom dat zo is, want dat zegt de computer niet. Het gaat om de ‘waarom’-vraag. Dat is wat me intrigeert.”
+
+**Kom je daar ooit uit?**
+
+Timman: “Soms wel, maar soms ook niet.”
+
+**Toont dat ook de aantrekkingskracht en de magie van het spel aan?**
+
+Timman: “Ja, zeker. Wat dat betreft ben ik heel positief over de computer. Ik vind het heel goed dat hij bestaat. Het was ook heel goed dat hij nog niet bestond toen ik jong was, maar ben nu blij dat hij wel bestaat. Wat dat betreft heb ik het getroffen.”
+
+**Op welke manier is de computer nu positief voor u?**
+
+Timman: “Bepaalde dingen die ik nooit echt goed begrepen had in het schaken kan ik daardoor nu eindelijk doorgronden.  Je krijgt inzichten die je daarvoor niet had.”
+
+**U bent een romanticus. Verklaart dat ook uw interesse in schrijvers als Dostojevski en Jorge Luis Borges? Wat spreekt u in die auteurs aan en bestaat er nog een overeenkomst tussen dergelijke schrijvers en het schaken?**
+
+Timman: “Nee niet direct. Literatuur is gewoon een grote interesse van me.”
+
+**Wat boeit u vooral in Dostojevski?** 
+
+Timman: “Dostojevski is in staat om veel van wat mensen over het algemeen voelen, in alle landen en maatschappijen ter wereld, onder woorden te brengen. Vooral De gebroeders Karamazov vind ik een heel interessant boek. Ik heb er in 2009 een lezing over gehouden op de Technische Universiteit van Delft. Ik vind Tolstoj echter ook heel goed, net als veel andere klassieke Russische schrijvers.”
+
+**Borges is ook een favoriet van u hoorde ik. Wat boeit u zo in hem?**
+
+Timman: “Dat klopt. Ik heb een heel uitgebreid essay over Borges geschreven. Zijn ideeën en de manier waarop hij die beschrijft boeien me in hoge mate.”
+
+**U bent ook een grote fan van Bob Dylan begreep ik. Klopt dat?**
+
+Timman: “Ja, al heel lang. Zeker. Dat heeft niet in de laatste plaats met zijn teksten te maken. Die zijn een vorm van literatuur. Het zou best kunnen dat hij ooit nog eens de Nobel-prijs krijgt. Ik zou het fantastisch vinden als dat gebeurt.”
+
+**Heeft u al plannen voor een nieuw boek?**
+
+Timman: “Ik ben bezig om een boek over bekende schrijvers te maken, maar verder ook nog met een ander schaakboek. Dat schaakboek zal gaan over ‘de andere’ Mischa Tal. Daar komen niet al zijn schitterende combinaties in naar voren,  als wel zijn strategische kant. Dat onderwerp is nooit eerder belicht en is voor mij buitengewoon boeiend.”
+
+“Die twee projecten staan als eerste op de nominatie om geschreven te worden.”
+
+**Wat hoopt u verder nog te gaan doen in de toekomst?** 
+
+Timman: “Wereldkampioen worden is nu niet meer aan de orde, maar ik wil wel zo goed mogelijk blijven schaken. Daarnaast wil ik blijven schrijven over de dingen die me boeien. Dat is zeker de moeite waard.”
+
+
+
+
