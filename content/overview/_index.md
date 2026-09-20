@@ -1,5 +1,5 @@
 +++
-date = '2026-09-20T16:32:30+02:00'
+date = '2026-09-20T17:23:12+02:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 10
@@ -24,7 +24,7 @@ weight = 10
 <!--
 .link articles/46chessolympiad/index.md
 -->
-[46e Schaak Olympiade: Ronde 4]({{< relref "/articles/46chessolympiad/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/46chessolympiad/index.md");'>(artikel)</span>
+[46e Schaak Olympiade: Ronde 5]({{< relref "/articles/46chessolympiad/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/46chessolympiad/index.md");'>(artikel)</span>
 <!--
 .link articles/jantimmaninterview/index.md
 -->

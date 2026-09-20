@@ -1,6 +1,6 @@
 +++
 date = '2026-09-20T15:39:41+02:00'
-title = '46e Schaak Olympiade: Ronde 4'
+title = '46e Schaak Olympiade: Ronde 5'
 weight = 9223372036642704626
 +++
 
@@ -26,7 +26,7 @@ Volgens [Wikipedia](https://en.wikipedia.org/wiki/46th_Chess_Olympiad) spelen er
 Ook België speelt met 2 ploegen.
 
 
-Na 4 ronden hebben we de volgende resultaten:
+Na 5 ronden hebben we de volgende resultaten:
 
 **Open tornooi**
 
