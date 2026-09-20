@@ -1,6 +1,6 @@
 +++
 date = '2026-09-07T17:04:30+02:00'
-title = 'articles/schaakbeelden'
+title = 'Fotomateriaal over schaken en schakers'
 weight = 9223372036643822737
 +++
 

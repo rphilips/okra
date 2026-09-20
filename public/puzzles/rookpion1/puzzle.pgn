@@ -1,0 +1,29 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1KP5/3r4/8/8/8/k7 w - - 0 1"]
+[Link "https://www.chess.com/forum/view/general/saavedra-position"]
+
+1. c7 {Promotion is the only chance of White winning, and therefore this move is
+mostly obvious. Remember, if the Black rook ever gets behind the pawn, the game
+is drawn. If the King and Pawn are on the same row or file, the Black rook can
+come in with a pin, easily drawing the endgame.} (1. Kb7 Rb5+ 2. Kc7 (2. Ka6
+Rc5) 2... Rc5) 1... Rd6+ (1... Rd2 $4 2. c8=Q Rb2+ 3. Ka5 Ra2+ 4. Kb4 Rb2+ 5. Ka3
+Ra2+ 6. Kb3 Rb2+ 7. Kc3 {And no more checks are available, leading to a
+completely winning Queen vs. Rook ending.}) 2. Kb5 $1 {Blocking off squares to the
+rook, this move completely and utterly smashes Black into the ground.} (2. Kc5 $4
+Rd1 3. c8=Q Rc1+) (2. Kb7 Rd7) 2... Rd5+ {It looks like a perpetual, but even
+this series of checks has an end...} 3. Kb4 Rd4+ 4. Kb3 Rd3+ 5. Kc2 {White looks
+absolutely winning, but Black has one last trick up their sleeve $1} 5... Rd4 $3 6.
+c8=R {But White does too $1 Threatening checkmate, Black's king is in a hopeless
+position. As I said earlier, if Black's king were ANYWHERE else, this position
+would be likely drawn or even winning.} (6. Kc3 Rd1 7. Kc2 Rd4 {repeating}) (6.
+c8=Q Rc4+ {This variation is why White promotes to a rook, because this leads to
+stalemate.} 7. Qxc4 (7. Kb3 $4 Rxc8)) 6... Ra4 7. Kb3 {And White wins,
+threatening to take the rook on A4 AND checkmate. THIS is the Saavedra
+position $1} *

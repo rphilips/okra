@@ -12,9 +12,16 @@
 			<copyright>OKRA-Eke</copyright>
 		
 		
-			<lastBuildDate>Sat, 19 Sep 2026 19:03:44 +0200</lastBuildDate>
+			<lastBuildDate>Sun, 20 Sep 2026 15:39:41 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/articles/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>46e Schaak Olympiade: Ronde 4</title>
+				<link>http://localhost:1313/okra/articles/46chessolympiad/</link>
+				<pubDate>Sun, 20 Sep 2026 15:39:41 +0200</pubDate>
+				<guid>http://localhost:1313/okra/articles/46chessolympiad/</guid>
+				<description>&lt;!--&#xA;.image logo.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/46chessolympiad/logo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Overgenomen uit de &lt;a href=&#34;https://chessolympiad2026.fide.com/&#34;&gt;FIDE pagina&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;p&gt;&amp;quot;&amp;quot;&amp;quot;&#xA;&lt;strong&gt;Every two years, national teams from across the world gather under their flags at the FIDE Chess Olympiad, representing the highest level of team competition in the game. Established champions and emerging talents meet across the board, carrying both global reputations and national pride.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;In September 2026, Samarkand stands at the centre of the chess world as the 46th FIDE Chess Olympiad brings together the game’s leading nations for its most prestigious team championship.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Interview met Jan Timman</title>
 				<link>http://localhost:1313/okra/articles/jantimmaninterview/</link>
@@ -23,7 +30,7 @@
 				<description>&lt;!--&#xA;.image image.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/jantimmaninterview/image.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ik vond op de website van &lt;a href=&#34;https://meppelerschaakvereniging.nl/vereniging/&#34;&gt;De Meppeler Schaakvereniging&lt;/a&gt; het volgende interview (11 maart 2026) met Jan Timman.&lt;/p&gt;&#xA;&lt;p&gt;Een interview met voormalig wereldtopschaker Jan Timman over zijn nieuwe boek Schakers: portretten. In dit boek portretteert Timman 10 bekende topspelers die hij persoonlijk kende of waartegen hij nog geschaakt heeft.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Interview met schaker Jan Timman: “Politiek heeft meer weg van poker dan van schaak”&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Terwijl de beroemde surrealist Marcel Duchamp zelf een zeer gerenommeerd en succesvol kunstenaar was, schatte hij het schaakspel toch hoger in dan de kunst. Een schaak-partij bezat volgens hem al de schoonheid van de kunst en zelfs meer dan dat. In zijn ogen waren niet alle kunstenaars schakers, maar alle schakers wel kunstenaars. Voormalig wereldtopschaker Jan Timman (60) is het met die typering van het schaken gedeeltelijk eens, maar ziet het schaakspel toch vooral als een strijd. Voor hemzelf, als groot romanticus, was het schaken echter ook een zoektocht naar vrijheid en een weg om te ontsnappen aan de verstikkende burgerlijke maatschappij.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>articles/schaakbeelden</title>
+				<title>Fotomateriaal over schaken en schakers</title>
 				<link>http://localhost:1313/okra/articles/schaakbeelden/</link>
 				<pubDate>Mon, 07 Sep 2026 17:04:30 +0200</pubDate>
 				<guid>http://localhost:1313/okra/articles/schaakbeelden/</guid>

@@ -12,9 +12,16 @@
 			<copyright>OKRA-Eke</copyright>
 		
 		
-			<lastBuildDate>Sun, 23 Aug 2026 15:01:19 +0200</lastBuildDate>
+			<lastBuildDate>Sun, 20 Sep 2026 16:30:40 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/sessions/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Schaken op 21-09-2026</title>
+				<link>http://localhost:1313/okra/sessions/2026-09-21/</link>
+				<pubDate>Sun, 20 Sep 2026 16:30:40 +0200</pubDate>
+				<guid>http://localhost:1313/okra/sessions/2026-09-21/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;onze schaak-website&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link articles/46chessolympiad/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/46chessolympiad/&#34;&gt;46e Schaak Olympiade: Ronde 4&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/46chessolympiad/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link games/sindarov46olympiad/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/games/sindarov46olympiad/&#34;&gt;Sindarov on Fire&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;games/sindarov46olympiad/index.md&#34;);&#39;&gt;(partij)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link articles/7sins/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/7sins/&#34;&gt;De 7 doodzonden van het schaken&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/7sins/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link games/annsophie2/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/games/annsophie2/&#34;&gt;Partij tegen Ann-Sophie (2)&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;games/annsophie2/index.md&#34;);&#39;&gt;(partij)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link puzzles/rookpion1/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/okra/puzzles/rookpion1/&#34;&gt;Toren tegen pion (1): de Saavedra positie&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;puzzles/rookpion1/index.md&#34;);&#39;&gt;(puzzel)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vrij schaken&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
 			<item>
 				<title>Schaken op 24-08-2026</title>
 				<link>http://localhost:1313/okra/sessions/2026-08-24/</link>
