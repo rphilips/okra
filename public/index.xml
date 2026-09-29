@@ -12,9 +12,23 @@
 			<copyright>OKRA-Eke</copyright>
 		
 		
-			<lastBuildDate>Tue, 29 Sep 2026 13:23:49 +0200</lastBuildDate>
+			<lastBuildDate>Tue, 29 Sep 2026 15:59:40 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>46e Olympiade</title>
+				<link>http://localhost:1313/okra/articles/olympiad2026/</link>
+				<pubDate>Tue, 29 Sep 2026 15:59:40 +0200</pubDate>
+				<guid>http://localhost:1313/okra/articles/olympiad2026/</guid>
+				<description>&lt;!--&#xA;.image open.png&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/olympiad2026/open.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.image woman.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/olympiad2026/woman.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;De 46e Olympiade is afgelopen. Gastland Uzbekistan werd de verdiende kampioen in het Open tornooi terwijl China het haalde bij de vrouwen.&lt;/p&gt;&#xA;&lt;p&gt;Eerste bord Nodirbek Abdusattorov van Uzbekistan haalde ook de gouden medaille op het eerste bord en noemde dit:&#xA;&amp;ldquo;This is the proudest moment in my life!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Eindstanden:&lt;/p&gt;&#xA;&lt;!--&#xA;.image open-final.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/olympiad2026/open-final.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.image women-final.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/olympiad2026/women-final.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ook Belgie speelde mee en deed het verre van slecht met een 40e plaats op 150, de vrouwen deden het 1 plaats beter en werden 39e.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Timur Turlov elected President of FIDE</title>
+				<link>http://localhost:1313/okra/articles/turlov/</link>
+				<pubDate>Tue, 29 Sep 2026 15:50:59 +0200</pubDate>
+				<guid>http://localhost:1313/okra/articles/turlov/</guid>
+				<description>&lt;!--&#xA;.image timor.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/turlov/timor.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Timur_Turlov&#34;&gt;Timor Turlov&lt;/a&gt;, de 38-jarige miljardair werd de nieuwe voorzitter van de FIDE.&lt;/p&gt;&#xA;&lt;p&gt;Minstens even belangrijk is dat oud-wereldkampioen &lt;a href=&#34;https://nl.wikipedia.org/wiki/Viswanathan_Anand&#34;&gt;Viswanathan (Vishy)Anand&lt;/a&gt; aanblijft als vice-president.&lt;/p&gt;&#xA;&lt;p&gt;Onderstaande tekst werd overgenomen uit de website van &lt;a href=&#34;https://en.wikipedia.org/&#34;&gt;Fide&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Timur Turlov, President of the Kazakhstan Chess Federation, was elected President of the International Chess Federation (FIDE). The elections were held on 26 September at the FIDE General Assembly, alongside the 46th Chess Olympiad, in Samarkand, Uzbekistan. Turlov won in the second round, with 110 votes. At 38, he becomes the second youngest FIDE President ever elected.&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Toren tegen pion (2)</title>
 				<link>http://localhost:1313/okra/puzzles/rookpawn2/</link>
