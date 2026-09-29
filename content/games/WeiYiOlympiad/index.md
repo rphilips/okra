@@ -11,7 +11,7 @@ weight = 9223372036641924007
 
 [Wei Yi](https://nl.wikipedia.org/wiki/Wei_Yi) is een speler die **altijd** de aanval zoekt.
 
-Terwijl de meeste spelers in de laatste ronde van de de Olympiade te Uzbekistan het al lang welletjes vonden, ontbont Wei Yi zijn duivels:
+Terwijl de meeste spelers in de laatste ronde van de de Olympiade te Uzbekistan het al lang welletjes vonden, ontbondt Wei Yi zijn duivels:
 
 
 <!--
@@ -39,3 +39,4 @@ Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/bmfcc6b
     ViewPGN("", "game");
 </script>
 <!-- Game end -->
+
