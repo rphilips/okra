@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/okra/overview/</loc>
-    <lastmod>2026-09-29T16:18:14+02:00</lastmod>
+    <lastmod>2026-09-29T16:38:13+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -39,6 +39,16 @@
   </url><url>
     <loc>http://localhost:1313/okra/contact/</loc>
     <lastmod>2026-02-21T16:32:03+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/games/weiyiolympiad/</loc>
+    <lastmod>2026-09-29T16:30:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/okra/articles/bodhana/</loc>
+    <lastmod>2026-09-29T16:19:58+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

@@ -12,9 +12,16 @@
 			<copyright>OKRA-Eke</copyright>
 		
 		
-			<lastBuildDate>Tue, 29 Sep 2026 15:59:40 +0200</lastBuildDate>
+			<lastBuildDate>Tue, 29 Sep 2026 16:19:58 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/articles/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Bodhana Sivanandan WGM/IM</title>
+				<link>http://localhost:1313/okra/articles/bodhana/</link>
+				<pubDate>Tue, 29 Sep 2026 16:19:58 +0200</pubDate>
+				<guid>http://localhost:1313/okra/articles/bodhana/</guid>
+				<description>&lt;!--&#xA;.image image.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/bodhana/image.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Herinner je nog het artikel&lt;/p&gt;&#xA;&lt;!--&#xA;.link puzzles/Sivanandan/index.md&#xA;--&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/okra/puzzles/sivanandan/&#34;&gt;Bodhana Sivanandan&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;puzzles/Sivanandan/index.md&#34;);&#39;&gt;(puzzel)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;Wel, &lt;a href=&#34;https://nl.wikipedia.org/wiki/Bodhana_Sivanandan&#34;&gt;Bodhana Sivanandan&lt;/a&gt; speelde ook in de Olympiade van 2026 en haalde er op 11-jarige leeftijd zowel de WGM (Woman Grandmaster) &lt;a href=&#34;https://en.wikipedia.org/wiki/FIDE_titles&#34;&gt;titel&lt;/a&gt; als de IM (International Master) &lt;a href=&#34;https://en.wikipedia.org/wiki/FIDE_titles&#34;&gt;titel&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>46e Olympiade</title>
 				<link>http://localhost:1313/okra/articles/olympiad2026/</link>
