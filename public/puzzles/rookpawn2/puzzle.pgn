@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/3R4/2K5/6pp/k7/8 w - - 0 1"]
+[Link "https://www.chess.com/analysis/game/pgn/57tk79PYnJ/analysis"]
+
+1. Rd2+ $1 Kb1 (1... Ka3 2. Rd3+ $1) 2. Kc3 $1 Kc1 (2... Ka1 $2 3. Kb3) 3. Ra2 $1 Kd1
+(3... Kb1 4. Re2 g2 5. Re1+ $1 Ka2 6. Rg1 $1 h2 7. Rxg2+ $1 Kb1 8. Rxh2) 4. Kd3 $1 Ke1
+(4... Kc1 5. Ke3 h2 6. Ra1+ $1 Kb2 7. Rh1 $1) 5. Ke3 $1 Kf1 6. Kf3 $1 Kg1 7. Kxg3 $1 Kf1
+8. Kxh3 *
