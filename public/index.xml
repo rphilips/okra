@@ -12,9 +12,16 @@
 			<copyright>OKRA-Eke</copyright>
 		
 		
-			<lastBuildDate>Tue, 29 Sep 2026 16:30:00 +0200</lastBuildDate>
+			<lastBuildDate>Sat, 03 Oct 2026 17:05:38 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Diep kijken in een stelling</title>
+				<link>http://localhost:1313/okra/puzzles/francis/</link>
+				<pubDate>Sat, 03 Oct 2026 17:05:38 +0200</pubDate>
+				<guid>http://localhost:1313/okra/puzzles/francis/</guid>
+				<description>&lt;!--&#xA;.diagram puzzle.pgn&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;r5k1/3b2pp/2Nb4/1p1p1p2/5P2/1P1P2K1/2Q1P1PP/r7 b - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/puzzles/francis/bc6b56a5fb97c1cad7daf2da016ad2e1.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;De sleutel tot het winnen van partijen tegen een gelijkwaardige tegenstander ligt hem in het &lt;strong&gt;diep&lt;/strong&gt; kijken in de stelling: het vinden van kleine dingen die het verschil maken.&lt;/p&gt;&#xA;&lt;p&gt;De partij tegen Francis kampte heel erg. Totdat hij in tijdnood een fout maakte en twee torens moest geven tegen de Dame. Toch is het pleit verre van beslecht.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Game of The Olympiad! || Abdimalik Abdisalimov vs Wei Yi</title>
 				<link>http://localhost:1313/okra/games/weiyiolympiad/</link>
