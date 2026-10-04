@@ -30,8 +30,8 @@ weight = 9223372036641494655
 - [Diep kijken in een stelling]({{< relref "/puzzles/francis/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/francis/index.md");'>(puzzel)</span>
 
 <!--
-- .link puzzles/rookpion1/index.md
+- .link puzzles/rookpawn2/index.md
 -->
-- [Toren tegen pion (1): de Saavedra positie]({{< relref "/puzzles/rookpion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rookpion1/index.md");'>(puzzel)</span>
+- [Toren tegen pion (2)]({{< relref "/puzzles/rookpawn2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rookpawn2/index.md");'>(puzzel)</span>
 
 - Vrij schaken
