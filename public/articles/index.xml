@@ -12,9 +12,16 @@
 			<copyright>OKRA-Eke</copyright>
 		
 		
-			<lastBuildDate>Tue, 29 Sep 2026 16:19:58 +0200</lastBuildDate>
+			<lastBuildDate>Wed, 07 Oct 2026 10:27:04 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/articles/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>These people drive me crazy</title>
+				<link>http://localhost:1313/okra/articles/hotornot1/</link>
+				<pubDate>Wed, 07 Oct 2026 10:27:04 +0200</pubDate>
+				<guid>http://localhost:1313/okra/articles/hotornot1/</guid>
+				<description>&lt;!--&#xA;.image dina.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/hotornot1/dina.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dina_Belenkaya&#34;&gt;Dina Vadimovna Belenkaya&lt;/a&gt; is een Russische/Israelische/Franse vrouwelijke grootmeester. Ze is een beetje gek en ik hou daarvan!&lt;/p&gt;&#xA;&lt;p&gt;Nu verdient ze haar brood vooral met commentaar tijdens schaaktornooien en streaming.&lt;/p&gt;&#xA;&lt;p&gt;In het volgend filmpje vertellen &lt;a href=&#34;https://nl.wikipedia.org/wiki/Fabiano_Caruana&#34;&gt;Fabiano Caruana&lt;/a&gt; en &lt;a href=&#34;https://nl.wikipedia.org/wiki/Levon_Aronian&#34;&gt;Levon Aronian&lt;/a&gt; wat hen stoort bij een schaakpartij.&lt;/p&gt;&#xA;&lt;!--&#xA;.yt VqE1SPBlPL4&#xA;--&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/VqE1SPBlPL4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;&#x9;&#x9;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Je kan de video ook bekijken op &lt;a href=&#34;https://www.dropbox.com/scl/fi/t660eaq61lyb8b5l3rst8/These_people_drive_me_crazy_Fabi_Levon_on_annoyi.mp4?rlkey=7maovc1b1qqyxqjhb3iduaplc&amp;amp;dl=0&#34;&gt;dropbox&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Bodhana Sivanandan WGM/IM</title>
 				<link>http://localhost:1313/okra/articles/bodhana/</link>
