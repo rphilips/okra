@@ -12,9 +12,16 @@
 			<copyright>OKRA-Eke</copyright>
 		
 		
-			<lastBuildDate>Thu, 08 Oct 2026 11:11:30 +0200</lastBuildDate>
+			<lastBuildDate>Mon, 12 Oct 2026 18:40:36 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/articles/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Over Faust, de duivel en Morphy</title>
+				<link>http://localhost:1313/okra/articles/faust/</link>
+				<pubDate>Mon, 12 Oct 2026 18:40:36 +0200</pubDate>
+				<guid>http://localhost:1313/okra/articles/faust/</guid>
+				<description>&lt;!--&#xA;.image devil.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/faust/devil.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Toen ik 15 ik jaar was, kreeg ik mijn eerste les Duits. Alsof ieder schooljaar een buis op Frans of Engels (of beiden) niet voldoende was, kwam er nu nog een derde nachtmerrie bij.&lt;/p&gt;&#xA;&lt;p&gt;Onze leraar was een fervente fan van &lt;a href=&#34;https://nl.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe&#34;&gt;Goethe&lt;/a&gt; en sleurde te pas en te onpas diens meesterwerk, &lt;a href=&#34;https://nl.wikipedia.org/wiki/Faust_%28Goethe%29&#34;&gt;Faust&lt;/a&gt;, er bij.&lt;/p&gt;&#xA;&lt;p&gt;Het verhaal mag er best zijn: de hoofdfiguur, Faust, sluit een pakt met de duivel. Hij ruilt zijn ziel voor Mephisto&amp;rsquo;s geschenken maar vindt het geluk niet.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Nodirbek Abdusattorov zoals je hen nog nooit zag!</title>
 				<link>http://localhost:1313/okra/articles/nodirbek/</link>
