@@ -1,6 +1,6 @@
 +++
 date = '2026-10-08T11:11:30+02:00'
-title = 'Nodirbek Abdusattorov zoals je hen nog nooit zag!'
+title = 'Nodirbek Abdusattorov zoals je hem nog nooit zag!'
 weight = 9223372036641165517
 +++
 
