@@ -66,7 +66,7 @@ Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/nw0net2
 -->
 
 <!-- Game begin -->
-<link href="/vsl/js/lichess/pgn/lichess-pgn-viewer.css" type="text/css" rel="stylesheet" />
+<link href="/okra/js/lichess/pgn/lichess-pgn-viewer.css" type="text/css" rel="stylesheet" />
 <style>
     body {
          background: var(--demo-bg, #161512);
@@ -76,7 +76,7 @@ Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/nw0net2
 </style>
 <div id="game" data-pgn="[Event &#34;?&#34;]&#10;[Site &#34;?&#34;]&#10;[Date &#34;????.??.??&#34;]&#10;[Round &#34;?&#34;]&#10;[White &#34;?&#34;]&#10;[Black &#34;?&#34;]&#10;[Result &#34;*&#34;]&#10;[SetUp &#34;1&#34;]&#10;[FEN &#34;8/8/8/3R4/2K5/6pp/k7/8 w - - 0 1&#34;]&#10;[Link &#34;https://www.chess.com/analysis/game/pgn/57tk79PYnJ/analysis&#34;]&#10;&#10;1. Rd2+ $1 Kb1 (1... Ka3 2. Rd3+ $1) 2. Kc3 $1 Kc1 (2... Ka1 $2 3. Kb3) 3. Ra2 $1 Kd1&#10;(3... Kb1 4. Re2 g2 5. Re1+ $1 Ka2 6. Rg1 $1 h2 7. Rxg2+ $1 Kb1 8. Rxh2) 4. Kd3 $1 Ke1&#10;(4... Kc1 5. Ke3 h2 6. Ra1+ $1 Kb2 7. Rh1 $1) 5. Ke3 $1 Kf1 6. Kf3 $1 Kg1 7. Kxg3 $1 Kf1&#10;8. Kxh3 *">&#160;</div>
 <script type="module">
-    import { ViewPGN } from "/vsl/js/lichess/pgn/one.js";
+    import { ViewPGN } from "/okra/js/lichess/pgn/one.js";
     ViewPGN("", "game");
 </script>
 <!-- Game end -->

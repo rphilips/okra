@@ -35,7 +35,7 @@ Ik besloot de loperzet naar h6 nog wat aantrekkelijker te maken
 -->
 
 <!-- Game begin -->
-<link href="/vsl/js/lichess/pgn/lichess-pgn-viewer.css" type="text/css" rel="stylesheet" />
+<link href="/okra/js/lichess/pgn/lichess-pgn-viewer.css" type="text/css" rel="stylesheet" />
 <style>
     body {
          background: var(--demo-bg, #161512);
@@ -45,7 +45,7 @@ Ik besloot de loperzet naar h6 nog wat aantrekkelijker te maken
 </style>
 <div id="game" data-pgn="[Event &#34;?&#34;]&#10;[Site &#34;?&#34;]&#10;[Date &#34;????.??.??&#34;]&#10;[Round &#34;?&#34;]&#10;[White &#34;?&#34;]&#10;[Black &#34;?&#34;]&#10;[Result &#34;*&#34;]&#10;[SetUp &#34;1&#34;]&#10;[FEN &#34;3r1rk1/1p2qppp/p1pnbn2/3p4/BP1P4/P3BQ2/2P1NPPP/3R1RK1 w - - 0 1&#34;]&#10;[Link &#34;https://www.chess.com/analysis/game/pgn/21rdMZiY8v/analysis&#34;]&#10;&#10;1. Qg3 $2 h6 $6 2. Bxh6 $4 Nf5 $1 *">&#160;</div>
 <script type="module">
-    import { ViewPGN } from "/vsl/js/lichess/pgn/one.js";
+    import { ViewPGN } from "/okra/js/lichess/pgn/one.js";
     ViewPGN("", "game");
 </script>
 <!-- Game end -->

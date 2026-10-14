@@ -1,25 +1,24 @@
 +++
 date = '2026-02-10T15:50:30+01:00'
 title = 'Betreft …'
-featured_image = '/images/logovsl.png'
+featured_image = '/images/brouwerij.jpg'
 weight = 10000
 +++
 
-Deze pagina's tonen allerlei gegevens in verband met het schaakspel:
+Deze pagina's tonen de werking van de schakers van OKRA-Eke.
 
-- schaaknieuws
+We komen om de 2 weken samen, op maandag 14.00 u., in de Brouwerij, Stationsstraat 3B, 9810 Nazareth - De Pinte (Eke, tegenover de kerk).
 
-- puzzels
+De twee uur dat we daar samen zijn, delen we in in drie onderwerpen:
 
-- partijen
+- het eerste deel gaat over de gebeurtenissen in de schaakwereld gedurende de afgelopen tijd. Hier leren we de algemene schaakcultuur kennen.
 
-- lessen
+- vervolgens leren we iets bij over het schaakspel zelf. We hebben hier één streven: een betere schaker worden!
 
-- spelregels
-
-De officiële wbesite van de Vrijschaker Landegem kan je [hier](https://vrijschaker.be) vinden.
+- tenslotte brengen we het geleerde in de praktijk: we spelen matchen.
 
 
+De activiteit is gratis voor OKRA-Eke leden. We vragen wel 1,5 EUR per sessie: hiermee betalen we de huur van de zaal en we krijgen er een consummatie voor terug!
 
 
 

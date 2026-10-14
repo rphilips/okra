@@ -1,0 +1,591 @@
++++
+date = '2026-10-14T11:24:45+02:00'
+title = 'Overzicht'
+featured_image = '/images/overview.jpg'
+weight = 10
++++
+
+
+
+<h2>Oktober 2026</h2>
+
+<!--
+.link puzzles/retirook/index.md
+-->
+[Toren tegen pion (3)]({{< relref "/puzzles/retirook/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/retirook/index.md");'>(puzzel)</span>
+<!--
+.link articles/faust/index.md
+-->
+[Over Faust, de duivel en Morphy]({{< relref "/articles/faust/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/faust/index.md");'>(artikel)</span>
+<!--
+.link articles/nodirbek/index.md
+-->
+[Nodirbek Abdusattorov zoals je hem nog nooit zag!]({{< relref "/articles/nodirbek/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/nodirbek/index.md");'>(artikel)</span>
+<!--
+.link articles/hotornot1/index.md
+-->
+[These people drive me crazy]({{< relref "/articles/hotornot1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/hotornot1/index.md");'>(artikel)</span>
+<!--
+.link sessions/2026-10-05/index.md
+-->
+[Schaken op 05-10-2026]({{< relref "/sessions/2026-10-05/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-10-05/index.md");'>(sessie)</span>
+<!--
+.link puzzles/francis/index.md
+-->
+[Diep kijken in een stelling]({{< relref "/puzzles/francis/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/francis/index.md");'>(puzzel)</span>
+
+
+<h2>September 2026</h2>
+
+<!--
+.link games/WeiYiOlympiad/index.md
+-->
+[Game of The Olympiad! || Abdimalik Abdisalimov vs Wei Yi]({{< relref "/games/WeiYiOlympiad/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/WeiYiOlympiad/index.md");'>(partij)</span>
+<!--
+.link articles/bodhana/index.md
+-->
+[Bodhana Sivanandan WGM/IM]({{< relref "/articles/bodhana/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/bodhana/index.md");'>(artikel)</span>
+<!--
+.link articles/olympiad2026/index.md
+-->
+[46e Olympiade]({{< relref "/articles/olympiad2026/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/olympiad2026/index.md");'>(artikel)</span>
+<!--
+.link articles/turlov/index.md
+-->
+[Timur Turlov elected President of FIDE]({{< relref "/articles/turlov/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/turlov/index.md");'>(artikel)</span>
+<!--
+.link puzzles/rookpawn2/index.md
+-->
+[Toren tegen pion (2)]({{< relref "/puzzles/rookpawn2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rookpawn2/index.md");'>(puzzel)</span>
+<!--
+.link sessions/2026-09-21/index.md
+-->
+[Schaken op 21-09-2026]({{< relref "/sessions/2026-09-21/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-09-21/index.md");'>(sessie)</span>
+<!--
+.link puzzles/rookpion1/index.md
+-->
+[Toren tegen pion (1): de Saavedra positie]({{< relref "/puzzles/rookpion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rookpion1/index.md");'>(puzzel)</span>
+<!--
+.link games/sindarov46olympiad/index.md
+-->
+[Sindarov on Fire]({{< relref "/games/sindarov46olympiad/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/sindarov46olympiad/index.md");'>(partij)</span>
+<!--
+.link articles/46chessolympiad/index.md
+-->
+[46e Schaak Olympiade: Ronde 5]({{< relref "/articles/46chessolympiad/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/46chessolympiad/index.md");'>(artikel)</span>
+<!--
+.link articles/jantimmaninterview/index.md
+-->
+[Interview met Jan Timman]({{< relref "/articles/jantimmaninterview/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/jantimmaninterview/index.md");'>(artikel)</span>
+<!--
+.link games/annsophie2/index.md
+-->
+[Partij tegen Ann-Sophie (2)]({{< relref "/games/annsophie2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/annsophie2/index.md");'>(partij)</span>
+<!--
+.link rules/remise/index.md
+-->
+[Gelijk spel]({{< relref "/rules/remise/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/remise/index.md");'>(reglement)</span>
+<!--
+.link rules/fiftymoves/index.md
+-->
+[Vijftigzettenregel]({{< relref "/rules/fiftymoves/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/fiftymoves/index.md");'>(reglement)</span>
+<!--
+.link rules/threefold/index.md
+-->
+[Driemaal dezelfde stelling]({{< relref "/rules/threefold/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/threefold/index.md");'>(reglement)</span>
+<!--
+.link rules/pat/index.md
+-->
+[Pat !?]({{< relref "/rules/pat/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/pat/index.md");'>(reglement)</span>
+<!--
+.link rules/time/index.md
+-->
+[Schaakklokken en tijd]({{< relref "/rules/time/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/time/index.md");'>(reglement)</span>
+<!--
+.link rules/win/index.md
+-->
+[Hoe win je een schaakpartij ?]({{< relref "/rules/win/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/win/index.md");'>(reglement)</span>
+<!--
+.link rules/enpassant/index.md
+-->
+[En passant slaan]({{< relref "/rules/enpassant/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/enpassant/index.md");'>(reglement)</span>
+<!--
+.link rules/promotion/index.md
+-->
+[De promotie]({{< relref "/rules/promotion/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/promotion/index.md");'>(reglement)</span>
+<!--
+.link rules/pawn/index.md
+-->
+[De pion]({{< relref "/rules/pawn/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/pawn/index.md");'>(reglement)</span>
+<!--
+.link rules/knight/index.md
+-->
+[Het paard]({{< relref "/rules/knight/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/knight/index.md");'>(reglement)</span>
+<!--
+.link rules/rokade/index.md
+-->
+[De rokade]({{< relref "/rules/rokade/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/rokade/index.md");'>(reglement)</span>
+<!--
+.link rules/bishop/index.md
+-->
+[De loper]({{< relref "/rules/bishop/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/bishop/index.md");'>(reglement)</span>
+<!--
+.link rules/rook/index.md
+-->
+[De toren]({{< relref "/rules/rook/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/rook/index.md");'>(reglement)</span>
+<!--
+.link rules/queen/index.md
+-->
+[De koningin]({{< relref "/rules/queen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/queen/index.md");'>(reglement)</span>
+<!--
+.link rules/king/index.md
+-->
+[De koning]({{< relref "/rules/king/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/king/index.md");'>(reglement)</span>
+<!--
+.link rules/pieces/index.md
+-->
+[Stukken en pionnen]({{< relref "/rules/pieces/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/pieces/index.md");'>(reglement)</span>
+<!--
+.link rules/move/index.md
+-->
+[Een zet bij het schaken]({{< relref "/rules/move/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/move/index.md");'>(reglement)</span>
+<!--
+.link rules/bord/index.md
+-->
+[Schaakbord]({{< relref "/rules/bord/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/bord/index.md");'>(reglement)</span>
+<!--
+.link rules/doel/index.md
+-->
+[Het doel van een partij schaak]({{< relref "/rules/doel/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/doel/index.md");'>(reglement)</span>
+<!--
+.link articles/schaakbeelden/index.md
+-->
+[Fotomateriaal over schaken en schakers]({{< relref "/articles/schaakbeelden/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/schaakbeelden/index.md");'>(artikel)</span>
+<!--
+.link articles/magnus7/index.md
+-->
+[7 verschillende beelden van Magnus]({{< relref "/articles/magnus7/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/magnus7/index.md");'>(artikel)</span>
+<!--
+.link rules/fide/index.md
+-->
+[FIDE]({{< relref "/rules/fide/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/fide/index.md");'>(reglement)</span>
+<!--
+.link articles/beginbobby/index.md
+-->
+[De beginjaren van Bobby Fischer]({{< relref "/articles/beginbobby/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/beginbobby/index.md");'>(artikel)</span>
+<!--
+.link games/titledtuesday/index.md
+-->
+[Titled Tuesday: Simon Williams vs GothamChess]({{< relref "/games/titledtuesday/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/titledtuesday/index.md");'>(partij)</span>
+
+
+<h2>Augustus 2026</h2>
+
+<!--
+.link puzzles/samloyd2/index.md
+-->
+[Sam Loyd (2)]({{< relref "/puzzles/samloyd2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/samloyd2/index.md");'>(puzzel)</span>
+<!--
+.link articles/samloyd/index.md
+-->
+[Sam Loyd (1)]({{< relref "/articles/samloyd/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/samloyd/index.md");'>(artikel)</span>
+<!--
+.link games/bottal6/index.md
+-->
+[De legendarische zesde partij (3)]({{< relref "/games/bottal6/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/bottal6/index.md");'>(partij)</span>
+<!--
+.link games/magnusnepo6/index.md
+-->
+[De legendarische zesde partij (2)]({{< relref "/games/magnusnepo6/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/magnusnepo6/index.md");'>(partij)</span>
+<!--
+.link articles/karpovoncarlsen/index.md
+-->
+[Karpov en de jonge Magnus]({{< relref "/articles/karpovoncarlsen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/karpovoncarlsen/index.md");'>(artikel)</span>
+<!--
+.link articles/7sins/index.md
+-->
+[De 7 doodzonden van het schaken]({{< relref "/articles/7sins/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/7sins/index.md");'>(artikel)</span>
+<!--
+.link puzzles/kasparyan/index.md
+-->
+[Genrikh Kasparyan]({{< relref "/puzzles/kasparyan/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/kasparyan/index.md");'>(puzzel)</span>
+<!--
+.link games/game6/index.md
+-->
+[De legendarische zesde partij (1)]({{< relref "/games/game6/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/game6/index.md");'>(partij)</span>
+<!--
+.link sessions/2026-08-24/index.md
+-->
+[Schaken op 24-08-2026]({{< relref "/sessions/2026-08-24/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-08-24/index.md");'>(sessie)</span>
+<!--
+.link articles/arrogant/index.md
+-->
+[Is Carlsen arrogant ?]({{< relref "/articles/arrogant/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/arrogant/index.md");'>(artikel)</span>
+<!--
+.link articles/liedetector/index.md
+-->
+[Magnus en Hikaru aan de leugendetector]({{< relref "/articles/liedetector/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/liedetector/index.md");'>(artikel)</span>
+<!--
+.link articles/marriage/index.md
+-->
+[Was jij uitgenodigd op het huwelijk van Magnus?]({{< relref "/articles/marriage/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/marriage/index.md");'>(artikel)</span>
+<!--
+.link games/vete/index.md
+-->
+[Niet de beste vrienden]({{< relref "/games/vete/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/vete/index.md");'>(partij)</span>
+<!--
+.link puzzles/rvq5/index.md
+-->
+[Torens versus Dame studies (5)]({{< relref "/puzzles/rvq5/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq5/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/rqv7/index.md
+-->
+[Torens versus Dame studies (7)]({{< relref "/puzzles/rqv7/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rqv7/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/rvq6/index.md
+-->
+[Torens versus Dame studies (6)]({{< relref "/puzzles/rvq6/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq6/index.md");'>(puzzel)</span>
+<!--
+.link games/tworooksacrifice/index.md
+-->
+[Laten we twee torens offeren ...]({{< relref "/games/tworooksacrifice/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/tworooksacrifice/index.md");'>(partij)</span>
+<!--
+.link puzzles/rvq4/index.md
+-->
+[Torens versus Dame studies (4)]({{< relref "/puzzles/rvq4/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq4/index.md");'>(puzzel)</span>
+<!--
+.link sessions/2026-08-10/index.md
+-->
+[Schaken op 10-08-2026]({{< relref "/sessions/2026-08-10/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-08-10/index.md");'>(sessie)</span>
+<!--
+.link articles/worldchamps/index.md
+-->
+[De wereldkampioenen tot augustus 2026]({{< relref "/articles/worldchamps/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/worldchamps/index.md");'>(artikel)</span>
+<!--
+.link puzzles/rvq2/index.md
+-->
+[Torens versus Dame studies (2)]({{< relref "/puzzles/rvq2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq2/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/rvq1/index.md
+-->
+[Torens versus Dame studies (1)]({{< relref "/puzzles/rvq1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq1/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/rvq3/index.md
+-->
+[Torens versus Dame studies (3)]({{< relref "/puzzles/rvq3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq3/index.md");'>(puzzel)</span>
+
+
+<h2>Juli 2026</h2>
+
+<!--
+.link games/marshallcapablanca/index.md
+-->
+[Marshall Attack]({{< relref "/games/marshallcapablanca/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/marshallcapablanca/index.md");'>(partij)</span>
+<!--
+.link puzzles/Sivanandan/index.md
+-->
+[Bodhana Sivanandan]({{< relref "/puzzles/Sivanandan/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/Sivanandan/index.md");'>(puzzel)</span>
+<!--
+.link articles/polgar2/index.md
+-->
+[Polgar for president]({{< relref "/articles/polgar2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/polgar2/index.md");'>(artikel)</span>
+<!--
+.link articles/tragischengroots/index.md
+-->
+[Tal: tragisch en groots]({{< relref "/articles/tragischengroots/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/tragischengroots/index.md");'>(artikel)</span>
+<!--
+.link sessions/2026-07-13/index.md
+-->
+[Schaken op 13-07-2026]({{< relref "/sessions/2026-07-13/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-07-13/index.md");'>(sessie)</span>
+
+
+<h2>Juni 2026</h2>
+
+<!--
+.link sessions/2026-06-29/index.md
+-->
+[Schaken op 29-06-2026]({{< relref "/sessions/2026-06-29/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-06-29/index.md");'>(sessie)</span>
+<!--
+.link articles/intheopen/index.md
+-->
+[Bibisarov en Sindarov]({{< relref "/articles/intheopen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/intheopen/index.md");'>(artikel)</span>
+<!--
+.link puzzles/beautiful/index.md
+-->
+[Prachtige eindspel]({{< relref "/puzzles/beautiful/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/beautiful/index.md");'>(puzzel)</span>
+<!--
+.link articles/billionaire/index.md
+-->
+[De billionaire en de schaker]({{< relref "/articles/billionaire/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/billionaire/index.md");'>(artikel)</span>
+<!--
+.link sessions/2026-06-15/index.md
+-->
+[Schaken op 15-06-2026]({{< relref "/sessions/2026-06-15/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-06-15/index.md");'>(sessie)</span>
+<!--
+.link articles/ziek/index.md
+-->
+[Schaken en ziek zijn]({{< relref "/articles/ziek/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/ziek/index.md");'>(artikel)</span>
+<!--
+.link articles/chessclassicromania/index.md
+-->
+[Grand Chess Tour: Super Chess Classic Romania 2026]({{< relref "/articles/chessclassicromania/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/chessclassicromania/index.md");'>(artikel)</span>
+<!--
+.link articles/friedliver/index.md
+-->
+[De fried liver attack en schaakmat door rokade]({{< relref "/articles/friedliver/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/friedliver/index.md");'>(artikel)</span>
+
+
+<h2>Mei 2026</h2>
+
+<!--
+.link articles/timman/index.md
+-->
+[Jan Timman]({{< relref "/articles/timman/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/timman/index.md");'>(artikel)</span>
+<!--
+.link articles/triangulatie/index.md
+-->
+[Triangulatie]({{< relref "/articles/triangulatie/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/triangulatie/index.md");'>(artikel)</span>
+<!--
+.link games/group10/index.md
+-->
+[OKRA Eke tegen een sterke tegenstander]({{< relref "/games/group10/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/group10/index.md");'>(partij)</span>
+<!--
+.link articles/younglove/index.md
+-->
+[Young love]({{< relref "/articles/younglove/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/younglove/index.md");'>(artikel)</span>
+<!--
+.link articles/enpassantmagnus/index.md
+-->
+[En passant en Magnus Carlsen]({{< relref "/articles/enpassantmagnus/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/enpassantmagnus/index.md");'>(artikel)</span>
+<!--
+.link articles/underpromotion/index.md
+-->
+[Underpromotion]({{< relref "/articles/underpromotion/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/underpromotion/index.md");'>(artikel)</span>
+<!--
+.link sessions/capriolen/index.md
+-->
+[Richard's Capriolen]({{< relref "/sessions/capriolen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/capriolen/index.md");'>(sessie)</span>
+<!--
+.link articles/carlsengood2/index.md
+-->
+[Waarom speelt Carlsen zo sterk? (deel 2)]({{< relref "/articles/carlsengood2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood2/index.md");'>(artikel)</span>
+<!--
+.link articles/carlsengood1/index.md
+-->
+[Waarom speelt Carlsen zo sterk? (deel 1)]({{< relref "/articles/carlsengood1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood1/index.md");'>(artikel)</span>
+<!--
+.link games/einsteinoppenheimer/index.md
+-->
+[Einstein versus Oppenheimer (1933)]({{< relref "/games/einsteinoppenheimer/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/einsteinoppenheimer/index.md");'>(partij)</span>
+<!--
+.link articles/sigeman2026/index.md
+-->
+[TePe Sigeman chess tournament]({{< relref "/articles/sigeman2026/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/sigeman2026/index.md");'>(artikel)</span>
+<!--
+.link sessions/2026-05-18/index.md
+-->
+[Schaken op 18-05-2026]({{< relref "/sessions/2026-05-18/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-05-18/index.md");'>(sessie)</span>
+<!--
+.link puzzles/testendgame/index.md
+-->
+[Test je kennis van het pionneneindspel]({{< relref "/puzzles/testendgame/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/testendgame/index.md");'>(puzzel)</span>
+<!--
+.link articles/wmeiden/index.md
+-->
+[Clubspeler tegen beginnend schaker]({{< relref "/articles/wmeiden/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/wmeiden/index.md");'>(artikel)</span>
+<!--
+.link puzzles/whitewins/index.md
+-->
+[De witte loper haalt het van de zwarte toren]({{< relref "/puzzles/whitewins/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/whitewins/index.md");'>(puzzel)</span>
+<!--
+.link sessions/2026-05-04/index.md
+-->
+[Schaken op 04-05-2026]({{< relref "/sessions/2026-05-04/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-05-04/index.md");'>(sessie)</span>
+<!--
+.link articles/pionpionoef/index.md
+-->
+[Pionnen op dezelfde lijn: oefening]({{< relref "/articles/pionpionoef/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/pionpionoef/index.md");'>(artikel)</span>
+<!--
+.link articles/pionpion3/index.md
+-->
+[Pionnen op dezelfde lijn 2]({{< relref "/articles/pionpion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/pionpion3/index.md");'>(artikel)</span>
+<!--
+.link articles/pionpion2/index.md
+-->
+[Pionnen op dezelfde lijn 1]({{< relref "/articles/pionpion2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/pionpion2/index.md");'>(artikel)</span>
+<!--
+.link articles/pionpion1/index.md
+-->
+[Pion tegen pion: de dansende koningen]({{< relref "/articles/pionpion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/pionpion1/index.md");'>(artikel)</span>
+<!--
+.link articles/chesscomopen2026/index.md
+-->
+[2026 Chess.com Open]({{< relref "/articles/chesscomopen2026/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/chesscomopen2026/index.md");'>(artikel)</span>
+
+
+<h2>April 2026</h2>
+
+<!--
+.link articles/patstudie/index.md
+-->
+[Pat: het ultieme redmiddel]({{< relref "/articles/patstudie/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/patstudie/index.md");'>(artikel)</span>
+<!--
+.link articles/chesshistory/index.md
+-->
+[Waarom men na 1500 jaar nog steeds schaakt]({{< relref "/articles/chesshistory/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/chesshistory/index.md");'>(artikel)</span>
+<!--
+.link sessions/2026-04-20/index.md
+-->
+[Schaken op 20-04-2026]({{< relref "/sessions/2026-04-20/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-04-20/index.md");'>(sessie)</span>
+<!--
+.link articles/kanwoman2026/index.md
+-->
+[Fide candidates 2026: Woman]({{< relref "/articles/kanwoman2026/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/kanwoman2026/index.md");'>(artikel)</span>
+<!--
+.link articles/kanman2026/index.md
+-->
+[Fide candidates 2026: Open]({{< relref "/articles/kanman2026/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/kanman2026/index.md");'>(artikel)</span>
+<!--
+.link puzzles/pion5/index.md
+-->
+[Basis pion eindspel 5]({{< relref "/puzzles/pion5/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion5/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/pion4/index.md
+-->
+[Basis pion eindspel 4]({{< relref "/puzzles/pion4/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion4/index.md");'>(puzzel)</span>
+<!--
+.link articles/1dimchess/index.md
+-->
+[Schaken in 1-dimensie]({{< relref "/articles/1dimchess/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/1dimchess/index.md");'>(artikel)</span>
+<!--
+.link puzzles/queenvsqueen/index.md
+-->
+[Winnen van  uit een onmogelijke positie]({{< relref "/puzzles/queenvsqueen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/queenvsqueen/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/pion3/index.md
+-->
+[Basis pion eindspel 3]({{< relref "/puzzles/pion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion3/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/pion2/index.md
+-->
+[Basis pion eindspel 2]({{< relref "/puzzles/pion2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion2/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/pion1/index.md
+-->
+[Basis pion eindspel 1]({{< relref "/puzzles/pion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzel)</span>
+<!--
+.link articles/secretsofpawn/index.md
+-->
+[Secrets of pawn endings]({{< relref "/articles/secretsofpawn/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/secretsofpawn/index.md");'>(artikel)</span>
+<!--
+.link puzzles/amazing/index.md
+-->
+[De puzzel waarvoor het woordje "amazing" is uitgevonden"]({{< relref "/puzzles/amazing/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/amazing/index.md");'>(puzzel)</span>
+<!--
+.link articles/grenke/index.md
+-->
+[Grenke]({{< relref "/articles/grenke/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/grenke/index.md");'>(artikel)</span>
+<!--
+.link sessions/2026-04-06/index.md
+-->
+[Schaken op 06-04-2026]({{< relref "/sessions/2026-04-06/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-04-06/index.md");'>(sessie)</span>
+<!--
+.link articles/oebekistan/index.md
+-->
+[Oezbekistan]({{< relref "/articles/oebekistan/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/oebekistan/index.md");'>(artikel)</span>
+<!--
+.link articles/kan26week1/index.md
+-->
+[Fide kandidaten tornooi: week 1]({{< relref "/articles/kan26week1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/kan26week1/index.md");'>(artikel)</span>
+<!--
+.link puzzles/retilike/index.md
+-->
+[Een puzzel die doet denken aan Reti]({{< relref "/puzzles/retilike/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/retilike/index.md");'>(puzzel)</span>
+<!--
+.link games/2026r10/index.md
+-->
+[Partij uit IC 2026]({{< relref "/games/2026r10/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/2026r10/index.md");'>(partij)</span>
+
+
+<h2>Maart 2026</h2>
+
+<!--
+.link puzzles/4rooks/index.md
+-->
+[Puzzel met 4 torens]({{< relref "/puzzles/4rooks/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/4rooks/index.md");'>(puzzel)</span>
+<!--
+.link articles/words/index.md
+-->
+[Letters, woorden, zinnen, boeken]({{< relref "/articles/words/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/words/index.md");'>(artikel)</span>
+<!--
+.link articles/besttal/index.md
+-->
+[Beste combinaties van Michael Tal]({{< relref "/articles/besttal/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/besttal/index.md");'>(artikel)</span>
+<!--
+.link articles/kasparovprison/index.md
+-->
+[Kasparov in de gevangenis]({{< relref "/articles/kasparovprison/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/kasparovprison/index.md");'>(artikel)</span>
+<!--
+.link sessions/2026-03-23/index.md
+-->
+[Schaken op 23-03-2026]({{< relref "/sessions/2026-03-23/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-03-23/index.md");'>(sessie)</span>
+<!--
+.link articles/barden/index.md
+-->
+[Leonard Barden]({{< relref "/articles/barden/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/barden/index.md");'>(artikel)</span>
+<!--
+.link articles/bridge/index.md
+-->
+[Brug tussen mensen]({{< relref "/articles/bridge/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/bridge/index.md");'>(artikel)</span>
+<!--
+.link games/navara/index.md
+-->
+[David Navara - Nodirbek Yakubboev (Praag, 2026)]({{< relref "/games/navara/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/navara/index.md");'>(partij)</span>
+<!--
+.link articles/candidates/index.md
+-->
+[Kandidaten tornooi 2026]({{< relref "/articles/candidates/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/candidates/index.md");'>(artikel)</span>
+<!--
+.link articles/oppositie/index.md
+-->
+[Oppositie van de koningen]({{< relref "/articles/oppositie/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/oppositie/index.md");'>(artikel)</span>
+<!--
+.link articles/pawnbasic/index.md
+-->
+[Basis pionneneindspelen]({{< relref "/articles/pawnbasic/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/pawnbasic/index.md");'>(artikel)</span>
+<!--
+.link sessions/2026-03-09/index.md
+-->
+[Schaken op 09-03-2026]({{< relref "/sessions/2026-03-09/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-03-09/index.md");'>(sessie)</span>
+<!--
+.link games/greco/index.md
+-->
+[Greco]({{< relref "/games/greco/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/greco/index.md");'>(partij)</span>
+<!--
+.link articles/prague2026/index.md
+-->
+[Prague International Chess Festival 2026]({{< relref "/articles/prague2026/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/prague2026/index.md");'>(artikel)</span>
+<!--
+.link puzzles/chain/index.md
+-->
+[Ketting]({{< relref "/puzzles/chain/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/chain/index.md");'>(puzzel)</span>
+
+
+<h2>Februari 2026</h2>
+
+<!--
+.link puzzles/smullyan/index.md
+-->
+[Raymond Smullyan puzzel]({{< relref "/puzzles/smullyan/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/smullyan/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/p1000/index.md
+-->
+[Het zit hem in de details!]({{< relref "/puzzles/p1000/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/p1000/index.md");'>(puzzel)</span>
+<!--
+.link articles/polgar/index.md
+-->
+[Judit Polgar]({{< relref "/articles/polgar/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/polgar/index.md");'>(artikel)</span>
+<!--
+.link articles/brain/index.md
+-->
+[Brain]({{< relref "/articles/brain/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/brain/index.md");'>(artikel)</span>

@@ -1,10 +1,10 @@
 +++
 date = '2026-02-21T15:52:45+01:00'
 description = "De laatste hobby die je ooit nodig hebt …"
-title = 'Schaakcapriolen bij de Vrijschaker Landegem'
+title = 'Schaken bij OKRA-Eke'
 featured_image = '/images/start.png'
 +++
 
-Welkom bij de Landegemse schaakcapriolen
+Welkom op de schaaksite van OKRA-Eke!
 
 

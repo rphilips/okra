@@ -5,7 +5,9 @@ featured_image = '/images/contact.png'
 weight = 20000
 +++
 
-Wil je meer te weten komen over het schaken bij de Vrijschaker Landegem, 
-bezoek dan [onze website](https://vrijschaker.be)
+Wil je meer te weten komen over het schaken bij  Eke, neem dan contact op met onze voorzitter:
+
+Willy Rogge  
+okraeke@gmail.com
 
 
