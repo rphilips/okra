@@ -12,9 +12,16 @@
 			<copyright>Vrijschaker Landegem</copyright>
 		
 		
-			<lastBuildDate>Wed, 14 Oct 2026 10:57:27 +0200</lastBuildDate>
+			<lastBuildDate>Fri, 16 Oct 2026 16:36:30 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Puzzel sites</title>
+				<link>http://localhost:1313/okra/puzzles/sites/</link>
+				<pubDate>Fri, 16 Oct 2026 16:36:30 +0200</pubDate>
+				<guid>http://localhost:1313/okra/puzzles/sites/</guid>
+				<description>&lt;!--&#xA;.diagram fen:r1bkq3/p5Q1/2P5/1p6/5b2/6P1/PPPP1P1P/RNB3K1 w - - 0 1&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;r1bkq3/p5Q1/2P5/1p6/5b2/6P1/PPPP1P1P/RNB3K1 w - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/puzzles/sites/ff1cf4c831345d4061467c997a855fd8.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Schaakpuzzels oplossen is erg plezierig maar het is ook leerrijk!&lt;/p&gt;&#xA;&lt;p&gt;Het is een uitstekende methode om je schaakvisie te verbeteren.&lt;/p&gt;&#xA;&lt;p&gt;Het volgende lijstje bestaat uit een overzicht van uitmuntende websites met grote collecties aan schaakpuzzels. Sommige van deze sites zijn gratis, bij anderen is het voldoende om zich te laten registreren.&lt;/p&gt;&#xA;&lt;p&gt;Hoe het ook zij, denk steeds aan de opmerking van &lt;a href=&#34;https://nl.wikipedia.org/wiki/Emanuel_Lasker&#34;&gt;Emanuel Lasker (2e wereldkampioen)&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Toren tegen pion (3)</title>
 				<link>http://localhost:1313/okra/puzzles/retirook/</link>
