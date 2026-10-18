@@ -12,9 +12,16 @@
 			<copyright>Vrijschaker Landegem</copyright>
 		
 		
-			<lastBuildDate>Sun, 04 Oct 2026 15:45:52 +0200</lastBuildDate>
+			<lastBuildDate>Sun, 18 Oct 2026 13:07:03 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/sessions/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Schaken op 19-10-2026</title>
+				<link>http://localhost:1313/okra/sessions/2026-10-19/</link>
+				<pubDate>Sun, 18 Oct 2026 13:07:03 +0200</pubDate>
+				<guid>http://localhost:1313/okra/sessions/2026-10-19/</guid>
+				<description>&lt;!--&#xA;- .link articles/faust/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/faust/&#34;&gt;Over Faust, de duivel en Morphy&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/faust/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link articles/stockfish/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/stockfish/&#34;&gt;Stockfish&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/stockfish/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link articles/svidler/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/svidler/&#34;&gt;Peter Svidler&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/svidler/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link puzzles/sites/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/puzzles/sites/&#34;&gt;Puzzel sites&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;puzzles/sites/index.md&#34;);&#39;&gt;(puzzel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link games/douden/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/games/douden/&#34;&gt;Zo d&amp;rsquo;ouden schaakten&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;games/douden/index.md&#34;);&#39;&gt;(partij)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link puzzles/retirook/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/okra/puzzles/retirook/&#34;&gt;Toren tegen pion (3)&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;puzzles/retirook/index.md&#34;);&#39;&gt;(puzzel)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vrij schaken&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
 			<item>
 				<title>Schaken op 05-10-2026</title>
 				<link>http://localhost:1313/okra/sessions/2026-10-05/</link>

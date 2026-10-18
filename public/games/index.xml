@@ -12,9 +12,16 @@
 			<copyright>Vrijschaker Landegem</copyright>
 		
 		
-			<lastBuildDate>Tue, 29 Sep 2026 16:30:00 +0200</lastBuildDate>
+			<lastBuildDate>Sun, 18 Oct 2026 11:37:38 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/games/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Zo d&#39;ouden schaakten</title>
+				<link>http://localhost:1313/okra/games/douden/</link>
+				<pubDate>Sun, 18 Oct 2026 11:37:38 +0200</pubDate>
+				<guid>http://localhost:1313/okra/games/douden/</guid>
+				<description>&lt;!--&#xA;.image tarlas.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/games/douden/tarlas.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.image match.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/games/douden/match.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Als je echt wil leren schaken, bestudeer dan de partijen van de grootmeesters uit het begin van de twintigste eeuw. Let wel, dit is niet mijn mening, dit is de mening van Magnus Carlsen. Er is geen grootmeester zo belezen is in de vroege schaakliteratuur als Magnus.&lt;/p&gt;&#xA;&lt;p&gt;De partij die we hier tonen is een strijd tussen 2 giganten: met Wit hebben we &lt;a href=&#34;https://nl.wikipedia.org/wiki/Emanuel_Lasker&#34;&gt;Emmanuel Lasker&lt;/a&gt;, de tweede wereldkampioen, met Zwart speelt &lt;a href=&#34;https://nl.wikipedia.org/wiki/Siegbert_Tarrasch&#34;&gt;Siegbert Tarrasch&lt;/a&gt;, de man die zijn volk leerde schaken.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Game of The Olympiad! || Abdimalik Abdisalimov vs Wei Yi</title>
 				<link>http://localhost:1313/okra/games/weiyiolympiad/</link>

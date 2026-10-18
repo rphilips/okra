@@ -12,9 +12,37 @@
 			<copyright>Vrijschaker Landegem</copyright>
 		
 		
-			<lastBuildDate>Fri, 16 Oct 2026 16:36:30 +0200</lastBuildDate>
+			<lastBuildDate>Sun, 18 Oct 2026 13:07:03 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/okra/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Schaken op 19-10-2026</title>
+				<link>http://localhost:1313/okra/sessions/2026-10-19/</link>
+				<pubDate>Sun, 18 Oct 2026 13:07:03 +0200</pubDate>
+				<guid>http://localhost:1313/okra/sessions/2026-10-19/</guid>
+				<description>&lt;!--&#xA;- .link articles/faust/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/faust/&#34;&gt;Over Faust, de duivel en Morphy&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/faust/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link articles/stockfish/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/stockfish/&#34;&gt;Stockfish&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/stockfish/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link articles/svidler/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/articles/svidler/&#34;&gt;Peter Svidler&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/svidler/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link puzzles/sites/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/puzzles/sites/&#34;&gt;Puzzel sites&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;puzzles/sites/index.md&#34;);&#39;&gt;(puzzel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link games/douden/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/okra/games/douden/&#34;&gt;Zo d&amp;rsquo;ouden schaakten&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;games/douden/index.md&#34;);&#39;&gt;(partij)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link puzzles/retirook/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/okra/puzzles/retirook/&#34;&gt;Toren tegen pion (3)&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;puzzles/retirook/index.md&#34;);&#39;&gt;(puzzel)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vrij schaken&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Stockfish</title>
+				<link>http://localhost:1313/okra/articles/stockfish/</link>
+				<pubDate>Sun, 18 Oct 2026 12:53:27 +0200</pubDate>
+				<guid>http://localhost:1313/okra/articles/stockfish/</guid>
+				<description>&lt;!--&#xA;.image stock.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/stockfish/stock.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nl.wikipedia.org/wiki/Stockfish&#34;&gt;Stockfish&lt;/a&gt; is een gratis en opensource schaakengine, beschikbaar voor verschillende desktop- en mobiele platforms.&lt;/p&gt;&#xA;&lt;p&gt;Stockfish staat consequent bovenaan in de meeste beoordelingslijsten voor schaakengines en is sinds oktober 2022 de sterkste CPU-schaakengine ter wereld. De geschatte ELO-rating van Stockfish 19 is zo&amp;rsquo;n 4050.&#xA;(Weet dat de hoogste rating van Magnus Carlsen 2882 was - in augustus 2019)&#xA;Het heeft het Top Chess Engine Championship 13 keer gewonnen en het Computer Chess Championship van Chess.com 19 keer.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Zo d&#39;ouden schaakten</title>
+				<link>http://localhost:1313/okra/games/douden/</link>
+				<pubDate>Sun, 18 Oct 2026 11:37:38 +0200</pubDate>
+				<guid>http://localhost:1313/okra/games/douden/</guid>
+				<description>&lt;!--&#xA;.image tarlas.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/games/douden/tarlas.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.image match.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/games/douden/match.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Als je echt wil leren schaken, bestudeer dan de partijen van de grootmeesters uit het begin van de twintigste eeuw. Let wel, dit is niet mijn mening, dit is de mening van Magnus Carlsen. Er is geen grootmeester zo belezen is in de vroege schaakliteratuur als Magnus.&lt;/p&gt;&#xA;&lt;p&gt;De partij die we hier tonen is een strijd tussen 2 giganten: met Wit hebben we &lt;a href=&#34;https://nl.wikipedia.org/wiki/Emanuel_Lasker&#34;&gt;Emmanuel Lasker&lt;/a&gt;, de tweede wereldkampioen, met Zwart speelt &lt;a href=&#34;https://nl.wikipedia.org/wiki/Siegbert_Tarrasch&#34;&gt;Siegbert Tarrasch&lt;/a&gt;, de man die zijn volk leerde schaken.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Peter Svidler</title>
+				<link>http://localhost:1313/okra/articles/svidler/</link>
+				<pubDate>Sun, 18 Oct 2026 11:25:43 +0200</pubDate>
+				<guid>http://localhost:1313/okra/articles/svidler/</guid>
+				<description>&lt;!--&#xA;.image hq720.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/okra/articles/svidler/hq720.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nl.wikipedia.org/wiki/Pjotr_Svidler&#34;&gt;Pjotr Svidler&lt;/a&gt; werd 8x kampioen van Rusland, in 1994, 1995, 1997, 2003, 2008, 2011, 2013, 2017&#xA;Het is moeilijk te appreciëren wat een prestatie dit is!&lt;/p&gt;&#xA;&lt;p&gt;Peter Svidler is een erudiet man, een uitstekend commentator: zijn gezamelijke partijbesprekingen met &lt;a href=&#34;https://nl.wikipedia.org/wiki/Jan_Gustafsson&#34;&gt;Jan Gustafsson&lt;/a&gt; zijn legendarisch.&lt;/p&gt;&#xA;&lt;p&gt;Zijn duidelijke afkeuring van de Russische invasie van Oekraïne in 2022 maakte hem niet bepaald geliefd in Putin-kringen.&lt;/p&gt;&#xA;&lt;!--&#xA;.yt faJev7VEJm0&#xA;--&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/faJev7VEJm0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;&#x9;&#x9;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Je kan de video ook bekijken op &lt;a href=&#34;https://www.dropbox.com/scl/fi/ndb5a9s25t332rvdo6wtq/THIS_OR_THAT_things_to_do_with_Chess_Legend_Pete.mp4?rlkey=779f31s2lrh5aoiu8xgkaq0po&amp;amp;dl=0&#34;&gt;dropbox&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Puzzel sites</title>
 				<link>http://localhost:1313/okra/puzzles/sites/</link>

@@ -1,0 +1,67 @@
++++
+date = '2026-10-18T11:37:38+02:00'
+title = "Zo d'ouden schaakten"
+weight = 9223372036640299949
++++
+
+<!--
+.image tarlas.jpg
+-->
+![](tarlas.jpg)
+
+<!--
+.image match.jpg
+-->
+![](match.jpg)
+
+Als je echt wil leren schaken, bestudeer dan de partijen van de grootmeesters uit het begin van de twintigste eeuw. Let wel, dit is niet mijn mening, dit is de mening van Magnus Carlsen. Er is geen grootmeester zo belezen is in de vroege schaakliteratuur als Magnus.
+
+De partij die we hier tonen is een strijd tussen 2 giganten: met Wit hebben we [Emmanuel Lasker](https://nl.wikipedia.org/wiki/Emanuel_Lasker), de tweede wereldkampioen, met Zwart speelt [Siegbert Tarrasch](https://nl.wikipedia.org/wiki/Siegbert_Tarrasch), de man die zijn volk leerde schaken.
+
+In 1908 speelden beiden om de wereldtitel:
+
+[Uit](https://chessentials.com/lasker-tarrasch-world-championship-match-1908/):
+
+"""
+In 1907, a strong chess tournament in Ostend. Since Lasker was playing his match against Marshall, he was absent. The organizers declared that they would do everything in their might to organize a match between the tournament winner and the winner of the afore-mentioned match. Since the tournament was won convincingly by Siegbert Tarrasch, half a point ahead of Schlechter, the chess public started buzzing immediately about the potential Tarrasch – Lasker match (Source: Chessgames – Ostend chess tournament 1907).
+
+The negotiations about the match started as early as spring, 1908. On June 5th, officials of the German Chess Federation met with Lasker to discuss the situation of the Tarrasch match. Exchange of letter regarding the match conditions took place earlier and on this meeting most of the conditions were determined. On July 7th, both sides agreed on the match conditions, and it became crystal clear that this time, Lasker – Tarrasch match will indeed take place. (Source: Chesspedia – Lasker – Tarrasch match)
+
+The match started on 17th August in Düsseldorf, Germany. First player to win eight games would be declared the winner. The time control was one hour for each 15 moves with an adjournment after six hours; the winner would get 4000 Marks, the loser 2500 Marks and Lasker got an additional appearance fee of 7500 Marks (which is the best evidence of the privileges champions enjoyed in those years – Source: Garry Kasparov On My Great Predecessors Part One, Page 160).
+
+The match was especially intriguing due to the fact that Tarrasch had been badmouthing Lasker for almost a decade. According to some sources, the players were barely speaking. The match atmosphere was compared to the atmosphere present in the controversial Karpov – Korchnoi, Baguio City 1978 match. (Source: Chesspedia – Lasker – Tarrasch match)
+
+Although it was assumed that the match would be very close and hard fought, nothing came of that. After opening the match with a 3-1 lead, he built up on his success by winning the 5th and 7th game. After the players exchanged blows in the period between 10th and 13th game, Lasker also won the 16th game, and with it the match. The final result, 8-3 in Lasker’s favour, was enough to demonstrate his superiority, despite some contemporaries claiming Tarrasch’s play was below his usual level. Thus, it would appear that Lasker’s next match, the one with Schlechter in 1910, would be the toughest match of his pre-war career, and not the one with Tarrasch, like everyone expected.
+"""
+
+<!--
+.yt 6ktSVjSlifk
+-->
+{{< youtube 6ktSVjSlifk >}}
+
+Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/hba990e3bg1ap38dvnnhh/Dr_Lasker_s_Theory_for_Winning_More_Games_6ktSVj.mp4?rlkey=m9e23m3kuyz8275q6l4419p7i&dl=0)
+<!--
+.game game.pgn
+-->
+
+<!-- Game begin -->
+<link href="/okra/js/lichess/pgn/lichess-pgn-viewer.css" type="text/css" rel="stylesheet" />
+<style>
+    body {
+         background: var(--demo-bg, #161512);
+      --board-color: #f1e14e;
+      margin: 0;
+    }
+</style>
+<div id="game" data-pgn="[Event &#34;Game 51&#34;]&#10;[Site &#34;Duesseldorf&#34;]&#10;[Date &#34;1908&#34;]&#10;[Round &#34;1&#34;]&#10;[White &#34;Lasker&#34;]&#10;[Black &#34;Tarrasch&#34;]&#10;[Result &#34;1-0&#34;]&#10;[Variant &#34;Standard&#34;]&#10;[StudyName &#34;Lasker&#39;s Greatest Chess Games, 1889-1914, 2&#34;]&#10;[ChapterName &#34;Game 51, Lasker - Tarrasch, Duesseldorf, 1908&#34;]&#10;[Opening &#34;Ruy Lopez: Exchange Variation&#34;]&#10;[Annotator &#34;https://lichess.org/@/CaseyReese&#34;]&#10;[ChapterURL &#34;https://lichess.org/study/MnktaTPs/9gaeV7tI&#34;]&#10;&#10;1.e4 { [%eval 0.33] } e5 { [%eval 0.12] } 2.Nf3 { [%eval 0.19] } Nc6&#10;{ [%eval 0.32] } 3.Bb5 { [%eval 0.24] } a6&#10;{ [%eval 0.37] Dit is de legendarische Spaanse opening, een lievelingsopening van nagenoeg elke wereldkampioen.}&#10;4.Bxc6&#10;{ [%eval 0.0] Dit is een verrassing: meestal wordt de loper teruggetrokken naar de eerste lijn. Veel later was het Robert Fischer die dit idee nieuw leven inblies.}&#10;dxc6&#10;{ [%eval 0.0] Stockfish evalueert deze stelling alsl gelijk. Voor iemand als Lasker echter is dit geen probleem: hij begrijpt deze stelling als geen ander en zijn plan is duidelijk: het bord wordt gesplitst in 2 vleugels. Lasker gaat een meerderheid maken op de koningsvleugel terwijl de zwarte meerderheid op de damevleugel minder sterk is door de dubbelpion! }&#10;5.d4 { [%eval -0.13] } exd4 { [%eval -0.12] } 6.Qxd4&#10;{ [%eval -0.32] De witte meerderheid op de koningsvleugel is een feit. Merk echter op dat Stockfish de voorkeur geeft aan Zwart!}&#10;Qxd4&#10;{ [%eval -0.23] Door het ruilen van de dames wordt de partij naar het eindspel geloodst. Zwart zou dit beter niet doen: daar komt immers het pionnenvoordeel tot zijn recht!}&#10;7.Nxd4 { [%eval -0.31] } c5 { [%eval -0.29] } 8.Ne2 { [%eval -0.06] } Bd7&#10;{ [%eval -0.14] } 9.b3&#10;{ [%eval -0.45] Hier komen 2 positionele elementen samen: enerzijds gaat Wit er voor zorgen dat de dubbelpion blijft bestaan en anderzijds gaat hij zijn pionnen op de kleu van zijn ontbrekende loper plaatsen. Zijn andere loper krijgt dan vrij spel!}&#10;Bc6 { [%eval 0.13] } 10.f3 { [%eval -0.12] } Be7 { [%eval 0.52] } 11.Bb2&#10;{ [%eval 0.44] } Bf6&#10;{ [%eval 0.96] In plaats van het ruilen te vermijden, stuurt Zwart er op aan! Stockfish veroordeelt streng!}&#10;12.Bxf6 { [%eval 1.15] } Nxf6 { [%eval 1.08] } 13.Nd2 { [%eval 1.1] } O-O-O&#10;{ [%eval 0.87] } 14.O-O-O { [%eval 0.71] } Rd7 { [%eval 1.27] } 15.Nf4&#10;{ [%eval 1.31] } Re8 { [%eval 1.26] } 16.Nc4&#10;{ [%eval 1.37] Wit dreigt met Pa5 de witte loper van het bord te halen.} b6&#10;{ [%eval 1.26] } 17.a4 { [%eval 1.4] } a5 { [%eval 1.2] } 18.Rxd7&#10;{ [%eval 0.87] Deze ruil is duidelijk: weer een stapje dichter naar een positie waar het op de pionnen aankomt.}&#10;Nxd7 { [%eval 0.82] } 19.Rd1 { [%eval 0.9] } Ne5 { [%eval 1.0] } 20.Nxe5&#10;{ [%eval 1.18] } Rxe5&#10;{ [%eval 0.89] Nog een paard weg en meteen wordt de resterende toren op d1 wel echt sterk.}&#10;21.c4&#10;{ [%eval 1.1] Je ziet hoe minitieus Lasker het zwarte probleem op de damevleugel vast betonneert.}&#10;Re8 { [%eval 1.23] } 22.Nh5 { [%eval 0.82] } Rg8 { [%eval 1.49] } 23.Rd3&#10;{ [%eval 0.97] } f6 { [%eval 1.1] } 24.Kd2&#10;{ [%eval 0.95] Sterk en typisch voor het eindspel: het directe gevaar voor de koning is geweken en hij kan zijn schuilplaats verlaten en deelnemen aan de strijd door zich naar het centrum te verplaatsen. Noteer hoeveel moeilijker dit is voor de zwarte koning.}&#10;Be8 { [%eval 1.11] } 25.Ng3 { [%eval 1.0] } Bd7 { [%eval 1.02] } 26.Ke3&#10;{ [%eval 0.96] } Re8 { [%eval 1.03] } 27.Nh5 { [%eval 1.39] } Re7&#10;{ [%eval 1.12] } 28.g4 { [%eval 1.15] } c6 $6&#10;{ [%eval 1.84] Deze zet maakt het wel moeilijk voor de zwarte loper om op de a8-h1 diagonaal te spelen.}&#10;29.h4 { [%eval 1.86] Wit laat zijn meerderheid werken.} Kc7&#10;{ [%eval 1.87] Ook de zwarte koning wil naar het centrum} 30.g5 $4&#10;{ Blunder. Rd1 was best. } (30.Rd1) 30...f5 { [%eval 0.09]} 31.Ng3&#10;{ [%eval 0.12] } fxe4 { [%eval 0.2] } 32.Nxe4 { [%eval 0.2] } Bf5&#10;{ [%eval 0.11] } 33.h5 { [%eval 0.0] } Rd7&#10;{ [%eval 0.36] Zwart gaat zijn toren ruilen tegen zijn sterke opponent en meteen komt de zwarte koning dichter bij het conflictgebied.}&#10;34.Rc3&#10;{ [%eval 0.47] Wit realiseert zich dat zijn toren beter op het veld blijft: op deze wijze kan hij zijn pionnen beschermen tegen aanvallen van de loper.}&#10;Rd1 { [%eval 0.43] } 35.Kf4&#10;{ [%eval 0.27] Wit dring verder door in de zwarte stelling: de koning gaat de pionnen steunen.}&#10;Bd7 $2 { Mistake. Bxe4 was best. } (35...Bxe4 36.Kxe4 Rh1 37.Ke5 Rxh5 38.f4 h6&#10;39.Kf5 hxg5 40.Kg6 Rh4 41.fxg5 Rg4 42.Rh3) 36.Re3&#10;{ [%eval 1.74] Zwart had moeten ruilen op e4: daardoor kon de witte meerderheid beter worden aangevallen. Die kans krijgt hij nu niet meer.}&#10;Rh1 { [%eval 1.94] } 37.Ng3 { [%eval 1.7] } Rh4+ { [%eval 1.55] } 38.Ke5&#10;{ [%eval 1.64] } Rh3 { [%eval 1.96] } 39.f4&#10;{ [%eval 1.74] merk op ho efijn de witte stelling aansluit: alles staat verdedigt en de witte stukken kunnen niet worden aangevallen door de loper.}&#10;Kd8 $4 { Blunder. Bg4 was best. } (39...Bg4 40.f5 Bxh5 41.Ke6 Kd8 42.Rd3+ Ke8&#10;43.Kd6 Kf7 44.Kxc6 Bg4 45.g6+ hxg6 46.fxg6+) 40.f5&#10;{ [%eval 4.26] Wit op weg naar beslissend voordeel: hij gaat een moeilijk te stoppen vrijpion maken.}&#10;Rh4 { [%eval 4.34] } 41.f6 { [%eval 5.41] } gxf6+ { [%eval 5.27] } 42.Kxf6&#10;{ [%eval 4.23] } Be8 { [%eval 4.59] } 43.Nf5&#10;{ [%eval 4.46] Dit is typisch voor het schaakspel: Zwart leek wel de witte pion te verzwakken maar door een taktisch manoever werkt dit niet.}&#10;Rf4 { [%eval 4.79] } 44.g6 { [%eval 4.5] } hxg6 { [%eval 4.61] } 45.hxg6&#10;{ [%eval 4.42] De vrijpion staat op het bord!} Rg4 $2&#10;{ Mistake. Bxg6 was best. } (45...Bxg6 46.Kxg6 b5 47.Kg5 Rf1 48.Kf6 Rb1 49.Nd6&#10;Kc7 50.Ke5 Rh1 51.Ne4 Kb6 52.Ke6) 46.Rxe8+&#10;{ [%eval 7.04] Opnieuw een taktisch intermezzo: zwart gaat nu zijn volle toren moeten geven tegen de vrijpion}&#10;Kxe8 { [%eval 6.9] } 47.g7 { [%eval 6.87] } Kd7&#10;{ [%eval 7.08] Zwart ziet de bui komen: hij zal het op de damevleugel moeten opnemen tegen het paard}&#10;48.Nh4&#10;{ [%eval 5.74] ... en nog een taktische mokerslag. Vanzelfsprekend kan Zwart het paard niet slaan maar meer nog, het paard dreigt zich tussen de pion en de toren te wringen.}&#10;Rxg7 { [%eval 8.03] } 49.Kxg7 { [%eval 7.72] } Ke6 { [%eval 7.91] } 50.Nf3&#10;{ [%eval 8.23] } Kf5&#10;{ [%eval 8.22] Zwart probeert de witet koning krampachtig van het strijdtoneel te houden en tegelijkertijd te bewegen naar de basis van de witte pionnen.}&#10;51.Kf7 { [%eval 8.11] } Ke4 { [%eval 8.28] } 52.Ke6&#10;{ [%eval 8.52] Zwart kan het paard toch niet slaan, hij komt dan immers veel te laat om de witte pionnen te veroveren, laat staan zijn eigen pionnen te verdedigen.}&#10;Kd3 { [%eval 8.54] } 53.Kd6 { [%eval 9.65] } Kc3 { [%eval 60.26] } 54.Kxc6&#10;{ [%eval 60.12] } Kxb3 { [%eval 61.82] } 55.Kb5 { 1-0 Black resigns. } 1-0&#10;&#10;&#10;">&#160;</div>
+<script type="module">
+    import { ViewPGN } from "/okra/js/lichess/pgn/one.js";
+    ViewPGN("", "game");
+</script>
+<!-- Game end -->
+
+
+
+
+
+
