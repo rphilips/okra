@@ -16,7 +16,7 @@
 		
 			<atom:link href="http://localhost:1313/okra/articles/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>articles/sleep</title>
+				<title>Het belang van een goede nachtrust</title>
 				<link>http://localhost:1313/okra/articles/sleep/</link>
 				<pubDate>Wed, 21 Oct 2026 11:58:30 +0200</pubDate>
 				<guid>http://localhost:1313/okra/articles/sleep/</guid>

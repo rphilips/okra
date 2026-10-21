@@ -1,6 +1,6 @@
 +++
 date = '2026-10-21T11:58:30+02:00'
-title = 'articles/sleep'
+title = 'Het belang van een goede nachtrust'
 weight = 9223372036640039497
 +++
 

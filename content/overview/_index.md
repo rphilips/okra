@@ -1,5 +1,5 @@
 +++
-date = '2026-10-21T12:05:22+02:00'
+date = '2026-10-21T12:08:10+02:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 10
@@ -12,7 +12,7 @@ weight = 10
 <!--
 .link articles/sleep/index.md
 -->
-[articles/sleep]({{< relref "/articles/sleep/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/sleep/index.md");'>(artikel)</span>
+[Het belang van een goede nachtrust]({{< relref "/articles/sleep/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/sleep/index.md");'>(artikel)</span>
 <!--
 .link articles/anandmagnus/index.md
 -->
