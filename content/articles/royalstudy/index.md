@@ -9,9 +9,11 @@ weight = 9223372036639932922
 -->
 ![](royal.jpg)
 
-Kertsmis en Nieuwjaar komen er aan! 
+Kerstsmis en Nieuwjaar komen er aan! 
 
 Tijd om jezelf te belonen met een mooi geschenk.
+
+
 
 Deze puzzel is mooi en leerrijk tegelijk. 
 
