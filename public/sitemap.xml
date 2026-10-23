@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rphilips.github.io/okra/overview/</loc>
-    <lastmod>2026-10-22T19:04:25+02:00</lastmod>
+    <lastmod>2026-10-23T14:16:36+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -39,6 +39,11 @@
   </url><url>
     <loc>https://rphilips.github.io/okra/contact/</loc>
     <lastmod>2026-02-21T16:32:03+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rphilips.github.io/okra/articles/russianschool/</loc>
+    <lastmod>2026-10-23T14:08:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

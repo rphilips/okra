@@ -1,5 +1,5 @@
 +++
-date = '2026-10-22T19:04:25+02:00'
+date = '2026-10-23T14:16:36+02:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 10
@@ -9,6 +9,10 @@ weight = 10
 
 <h2>Oktober 2026</h2>
 
+<!--
+.link articles/russianschool/index.md
+-->
+[Soviet chess school]({{< relref "/articles/russianschool/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/russianschool/index.md");'>(artikel)</span>
 <!--
 .link articles/royalstudy/index.md
 -->
@@ -133,6 +137,10 @@ weight = 10
 .link rules/time/index.md
 -->
 [Schaakklokken en tijd]({{< relref "/rules/time/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/time/index.md");'>(reglement)</span>
+<!--
+.link rules/win/index.md
+-->
+[Hoe win je een schaakpartij ?]({{< relref "/rules/win/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/win/index.md");'>(reglement)</span>
 <!--
 .link rules/enpassant/index.md
 -->
@@ -290,13 +298,13 @@ weight = 10
 -->
 [De wereldkampioenen tot augustus 2026]({{< relref "/articles/worldchamps/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/worldchamps/index.md");'>(artikel)</span>
 <!--
-.link puzzles/rvq2/index.md
--->
-[Torens versus Dame studies (2)]({{< relref "/puzzles/rvq2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq2/index.md");'>(puzzel)</span>
-<!--
 .link puzzles/rvq3/index.md
 -->
 [Torens versus Dame studies (3)]({{< relref "/puzzles/rvq3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq3/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/rvq2/index.md
+-->
+[Torens versus Dame studies (2)]({{< relref "/puzzles/rvq2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq2/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/rvq1/index.md
 -->
@@ -394,13 +402,13 @@ weight = 10
 -->
 [Richard's Capriolen]({{< relref "/sessions/capriolen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/capriolen/index.md");'>(sessie)</span>
 <!--
-.link articles/carlsengood2/index.md
--->
-[Waarom speelt Carlsen zo sterk? (deel 2)]({{< relref "/articles/carlsengood2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood2/index.md");'>(artikel)</span>
-<!--
 .link articles/carlsengood1/index.md
 -->
 [Waarom speelt Carlsen zo sterk? (deel 1)]({{< relref "/articles/carlsengood1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood1/index.md");'>(artikel)</span>
+<!--
+.link articles/carlsengood2/index.md
+-->
+[Waarom speelt Carlsen zo sterk? (deel 2)]({{< relref "/articles/carlsengood2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood2/index.md");'>(artikel)</span>
 <!--
 .link games/einsteinoppenheimer/index.md
 -->
@@ -490,17 +498,17 @@ weight = 10
 -->
 [Winnen van  uit een onmogelijke positie]({{< relref "/puzzles/queenvsqueen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/queenvsqueen/index.md");'>(puzzel)</span>
 <!--
-.link puzzles/pion2/index.md
+.link puzzles/pion1/index.md
 -->
-[Basis pion eindspel 2]({{< relref "/puzzles/pion2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion2/index.md");'>(puzzel)</span>
+[Basis pion eindspel 1]({{< relref "/puzzles/pion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/pion3/index.md
 -->
 [Basis pion eindspel 3]({{< relref "/puzzles/pion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion3/index.md");'>(puzzel)</span>
 <!--
-.link puzzles/pion1/index.md
+.link puzzles/pion2/index.md
 -->
-[Basis pion eindspel 1]({{< relref "/puzzles/pion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzel)</span>
+[Basis pion eindspel 2]({{< relref "/puzzles/pion2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion2/index.md");'>(puzzel)</span>
 <!--
 .link articles/secretsofpawn/index.md
 -->
