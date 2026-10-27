@@ -12,9 +12,16 @@
 			<copyright>Vrijschaker Landegem</copyright>
 		
 		
-			<lastBuildDate>Sun, 18 Oct 2026 11:37:38 +0200</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 15:10:55 +0100</lastBuildDate>
 		
 			<atom:link href="https://rphilips.github.io/okra/games/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Erich Cohn versus Akiba Rubinstein</title>
+				<link>https://rphilips.github.io/okra/games/rubinstein1/</link>
+				<pubDate>Tue, 27 Oct 2026 15:10:55 +0100</pubDate>
+				<guid>https://rphilips.github.io/okra/games/rubinstein1/</guid>
+				<description>&lt;!--&#xA;.image rubinstein.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rphilips.github.io/okra/games/rubinstein1/rubinstein.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nl.wikipedia.org/wiki/Akiba_Rubinstein&#34;&gt;Akiba Kiwelowicz Rubinstein&lt;/a&gt; was in de periode 1907-1922 een van de sterkste spelers op het wereldtoneel. In 1907, 1909 en 1911 werd hij kampioen van Rusland.&lt;/p&gt;&#xA;&lt;p&gt;Rubinstein had echter pech: door de eerste wereldoorlog kon hij nooit spelen voor de wereldtitel. Hij was ook mentaal zwak.&lt;/p&gt;&#xA;&lt;p&gt;Door de beide wereldoorlogen heeft het schaken hem financieel niet veel opgebracht. Hij kwam niet graag onder de mensen, werd op den duur mensenschuw en eindigde zijn leven in 1961 in een sanatorium in België waarvoor hij de kosten niet zelf kon opbrengen: er werd een fonds voor hem opgericht. België was ook het land waar hij tijdens de Tweede Wereldoorlog verbleef.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Zo d&#39;ouden schaakten</title>
 				<link>https://rphilips.github.io/okra/games/douden/</link>

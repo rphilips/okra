@@ -1,0 +1,20 @@
+[Event "?"]
+[Site "?"]
+[Date "2026.10.27"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5P2/P4K2/k7/8/8/8/r7 w - - 0 1"]
+
+1.a7
+{Als de zwarte toren de laatste rij bereikt, wordt het remise: de toren slaat de pion die op f8 komt en zijn koning 'ontfermt' zich over de andere pion. Dit betekent nog dat hij niet met zijn koning mag spelen: hij komt dan onder schaak te staan en kan nergens schuilen zonder zijn a-pion te verliezen.}
+Kb6 2.Ke5 (2.Ke6 Kc6
+{op deze wijze blijft de a-pion binnen bereik en met een tussenschaak komt de witte koning op dezelfde lijn als de gepromoveerde f-pion.}
+) 2...Re1+ 3.Kd6 Rd1+ 4.Ke7
+{Wit mag niet toelaten dat de toren op de laatste rij komt!} Re1+ 5.Kd8 Rd1+ 6.
+Kc8 Rc1+ 7.Kb8 Rf1 8.a8=Q Rxf7 9.Qa3
+{Enige zet maar ... voldoende voor de winst} 1-0
+
+
