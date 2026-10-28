@@ -9,12 +9,19 @@
 		
 		
 		
-			<copyright>Vrijschaker Landegem</copyright>
+			<copyright>OKRA Eke</copyright>
 		
 		
-			<lastBuildDate>Fri, 23 Oct 2026 14:08:55 +0200</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 11:44:11 +0100</lastBuildDate>
 		
 			<atom:link href="https://rphilips.github.io/okra/articles/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>De schaker genaamd Harry Kane</title>
+				<link>https://rphilips.github.io/okra/articles/kane/</link>
+				<pubDate>Wed, 28 Oct 2026 11:44:11 +0100</pubDate>
+				<guid>https://rphilips.github.io/okra/articles/kane/</guid>
+				<description>&lt;!--&#xA;.image kane.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rphilips.github.io/okra/articles/kane/kane.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nl.wikipedia.org/wiki/Harry_Kane&#34;&gt;Harry Kane&lt;/a&gt; is een absolute top-voetballer die het in alle competities waar maakt.&lt;/p&gt;&#xA;&lt;p&gt;De volgende tekst is van Peter Vandenbrempt en komt uit &lt;a href=&#34;sporza.be&#34;&gt;Sporza&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;p&gt;&amp;quot;&amp;quot;&amp;quot;&#xA;&lt;strong&gt;&amp;ldquo;Kane beheerst het hele palet&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kane is een beetje een atypische winnaar. Vaak worden de artiesten beloond, zoals Messi, Ronaldo &amp;hellip; Lamine Yamal zal de komende jaren ook wel nog opduiken.&lt;/p&gt;&#xA;&lt;p&gt;Hij is geen tovenaar aan de bal, hij is ook geen razendsnelle spits zoals Kylian Mbappé, maar Kane is momenteel misschien wel de meest complete speler ter wereld. Hij beheerst eigenlijk het hele palet.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Soviet chess school</title>
 				<link>https://rphilips.github.io/okra/articles/russianschool/</link>

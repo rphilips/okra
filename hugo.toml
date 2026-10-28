@@ -1,8 +1,8 @@
 baseURL = 'https://rphilips.github.io/okra'
 
-title = "Schaakcapriolen bij de Vrijschaker"
+title = "Schaken bij OKRA Eke"
 theme = 'ananke'
-copyright = 'Vrijschaker Landegem'
+copyright = 'OKRA Eke'
 defaultContentLanguage = 'nl'
 enableEmoji = true
 
