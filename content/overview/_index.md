@@ -1,5 +1,5 @@
 +++
-date = '2026-10-30T10:58:46+01:00'
+date = '2026-10-30T15:36:17+01:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 10
@@ -9,6 +9,10 @@ weight = 10
 
 <h2>Oktober 2026</h2>
 
+<!--
+.link articles/kasparovtrains/index.md
+-->
+[Hoe trainde Kasparov?]({{< relref "/articles/kasparovtrains/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/kasparovtrains/index.md");'>(artikel)</span>
 <!--
 .link articles/salesforce/index.md
 -->
@@ -294,10 +298,6 @@ weight = 10
 -->
 [Niet de beste vrienden]({{< relref "/games/vete/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/vete/index.md");'>(partij)</span>
 <!--
-.link puzzles/rqv7/index.md
--->
-[Torens versus Dame studies (7)]({{< relref "/puzzles/rqv7/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rqv7/index.md");'>(puzzel)</span>
-<!--
 .link puzzles/rvq6/index.md
 -->
 [Torens versus Dame studies (6)]({{< relref "/puzzles/rvq6/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq6/index.md");'>(puzzel)</span>
@@ -305,6 +305,10 @@ weight = 10
 .link puzzles/rvq5/index.md
 -->
 [Torens versus Dame studies (5)]({{< relref "/puzzles/rvq5/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq5/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/rqv7/index.md
+-->
+[Torens versus Dame studies (7)]({{< relref "/puzzles/rqv7/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rqv7/index.md");'>(puzzel)</span>
 <!--
 .link games/tworooksacrifice/index.md
 -->
@@ -322,13 +326,13 @@ weight = 10
 -->
 [De wereldkampioenen tot augustus 2026]({{< relref "/articles/worldchamps/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/worldchamps/index.md");'>(artikel)</span>
 <!--
-.link puzzles/rvq3/index.md
--->
-[Torens versus Dame studies (3)]({{< relref "/puzzles/rvq3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq3/index.md");'>(puzzel)</span>
-<!--
 .link puzzles/rvq1/index.md
 -->
 [Torens versus Dame studies (1)]({{< relref "/puzzles/rvq1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq1/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/rvq3/index.md
+-->
+[Torens versus Dame studies (3)]({{< relref "/puzzles/rvq3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq3/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/rvq2/index.md
 -->
@@ -522,10 +526,6 @@ weight = 10
 -->
 [Winnen van  uit een onmogelijke positie]({{< relref "/puzzles/queenvsqueen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/queenvsqueen/index.md");'>(puzzel)</span>
 <!--
-.link puzzles/pion1/index.md
--->
-[Basis pion eindspel 1]({{< relref "/puzzles/pion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzel)</span>
-<!--
 .link puzzles/pion3/index.md
 -->
 [Basis pion eindspel 3]({{< relref "/puzzles/pion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion3/index.md");'>(puzzel)</span>
@@ -533,6 +533,10 @@ weight = 10
 .link puzzles/pion2/index.md
 -->
 [Basis pion eindspel 2]({{< relref "/puzzles/pion2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion2/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/pion1/index.md
+-->
+[Basis pion eindspel 1]({{< relref "/puzzles/pion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzel)</span>
 <!--
 .link articles/secretsofpawn/index.md
 -->

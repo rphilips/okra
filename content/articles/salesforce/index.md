@@ -67,4 +67,10 @@ Salesforce helps organizations of any size become Agentic Enterprises, integrati
 Further information on tickets, media accreditation, broadcast coverage and visitor arrangements will be announced through the official event channels.
 """
 
+<!--
+.yt ZBkJIHUPevM
+-->
+{{< youtube ZBkJIHUPevM >}}
+
+Je kan de video ook bekijken op [dropbox](https://www.dropbox.com/scl/fi/q5oyy2osbk90wj79u9d64/CHESS_Salesforce_FIDE_World_Championship_2026_Gu.mp4?rlkey=0xyv01u49xxvsc8p6fdiofu41&dl=0)
 

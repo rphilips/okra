@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rphilips.github.io/okra/overview/</loc>
-    <lastmod>2026-10-30T10:58:46+01:00</lastmod>
+    <lastmod>2026-10-30T15:36:17+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -39,6 +39,11 @@
   </url><url>
     <loc>https://rphilips.github.io/okra/contact/</loc>
     <lastmod>2026-02-21T16:32:03+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rphilips.github.io/okra/articles/kasparovtrains/</loc>
+    <lastmod>2026-10-30T15:13:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
