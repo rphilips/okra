@@ -1,10 +1,18 @@
 +++
-date = '2026-10-30T15:36:17+01:00'
+date = '2026-11-01T11:13:08+01:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 10
 +++
 
+
+
+<h2>November 2026</h2>
+
+<!--
+.link sessions/2026-11-02/index.md
+-->
+[Schaken op 02-11-2026]({{< relref "/sessions/2026-11-02/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-11-02/index.md");'>(sessie)</span>
 
 
 <h2>Oktober 2026</h2>
@@ -330,13 +338,13 @@ weight = 10
 -->
 [Torens versus Dame studies (1)]({{< relref "/puzzles/rvq1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq1/index.md");'>(puzzel)</span>
 <!--
-.link puzzles/rvq3/index.md
--->
-[Torens versus Dame studies (3)]({{< relref "/puzzles/rvq3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq3/index.md");'>(puzzel)</span>
-<!--
 .link puzzles/rvq2/index.md
 -->
 [Torens versus Dame studies (2)]({{< relref "/puzzles/rvq2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq2/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/rvq3/index.md
+-->
+[Torens versus Dame studies (3)]({{< relref "/puzzles/rvq3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq3/index.md");'>(puzzel)</span>
 
 
 <h2>Juli 2026</h2>
@@ -526,6 +534,10 @@ weight = 10
 -->
 [Winnen van  uit een onmogelijke positie]({{< relref "/puzzles/queenvsqueen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/queenvsqueen/index.md");'>(puzzel)</span>
 <!--
+.link puzzles/pion1/index.md
+-->
+[Basis pion eindspel 1]({{< relref "/puzzles/pion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzel)</span>
+<!--
 .link puzzles/pion3/index.md
 -->
 [Basis pion eindspel 3]({{< relref "/puzzles/pion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion3/index.md");'>(puzzel)</span>
@@ -533,10 +545,6 @@ weight = 10
 .link puzzles/pion2/index.md
 -->
 [Basis pion eindspel 2]({{< relref "/puzzles/pion2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion2/index.md");'>(puzzel)</span>
-<!--
-.link puzzles/pion1/index.md
--->
-[Basis pion eindspel 1]({{< relref "/puzzles/pion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzel)</span>
 <!--
 .link articles/secretsofpawn/index.md
 -->
