@@ -1,5 +1,5 @@
 +++
-date = '2026-11-01T11:13:08+01:00'
+date = '2026-11-03T16:09:23+01:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 10
@@ -9,6 +9,18 @@ weight = 10
 
 <h2>November 2026</h2>
 
+<!--
+.link articles/nimzovitsch/index.md
+-->
+[Aron Nimzowitsch]({{< relref "/articles/nimzovitsch/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/nimzovitsch/index.md");'>(artikel)</span>
+<!--
+.link games/johnernimzovitsch/index.md
+-->
+[A Game that Shocked the Chess World. Johner vs Nimzowitsch]({{< relref "/games/johnernimzovitsch/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/johnernimzovitsch/index.md");'>(partij)</span>
+<!--
+.link articles/nunn/index.md
+-->
+[John Nunn]({{< relref "/articles/nunn/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/nunn/index.md");'>(artikel)</span>
 <!--
 .link sessions/2026-11-02/index.md
 -->
@@ -438,13 +450,13 @@ weight = 10
 -->
 [Richard's Capriolen]({{< relref "/sessions/capriolen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/capriolen/index.md");'>(sessie)</span>
 <!--
-.link articles/carlsengood2/index.md
--->
-[Waarom speelt Carlsen zo sterk? (deel 2)]({{< relref "/articles/carlsengood2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood2/index.md");'>(artikel)</span>
-<!--
 .link articles/carlsengood1/index.md
 -->
 [Waarom speelt Carlsen zo sterk? (deel 1)]({{< relref "/articles/carlsengood1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood1/index.md");'>(artikel)</span>
+<!--
+.link articles/carlsengood2/index.md
+-->
+[Waarom speelt Carlsen zo sterk? (deel 2)]({{< relref "/articles/carlsengood2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/carlsengood2/index.md");'>(artikel)</span>
 <!--
 .link games/einsteinoppenheimer/index.md
 -->
@@ -534,10 +546,6 @@ weight = 10
 -->
 [Winnen van  uit een onmogelijke positie]({{< relref "/puzzles/queenvsqueen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/queenvsqueen/index.md");'>(puzzel)</span>
 <!--
-.link puzzles/pion1/index.md
--->
-[Basis pion eindspel 1]({{< relref "/puzzles/pion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzel)</span>
-<!--
 .link puzzles/pion3/index.md
 -->
 [Basis pion eindspel 3]({{< relref "/puzzles/pion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion3/index.md");'>(puzzel)</span>
@@ -545,6 +553,10 @@ weight = 10
 .link puzzles/pion2/index.md
 -->
 [Basis pion eindspel 2]({{< relref "/puzzles/pion2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion2/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/pion1/index.md
+-->
+[Basis pion eindspel 1]({{< relref "/puzzles/pion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzel)</span>
 <!--
 .link articles/secretsofpawn/index.md
 -->
