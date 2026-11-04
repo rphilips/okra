@@ -12,9 +12,16 @@
 			<copyright>OKRA Eke</copyright>
 		
 		
-			<lastBuildDate>Wed, 04 Nov 2026 11:13:30 +0100</lastBuildDate>
+			<lastBuildDate>Wed, 04 Nov 2026 11:22:13 +0100</lastBuildDate>
 		
 			<atom:link href="https://rphilips.github.io/okra/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Rijk worden met schaken</title>
+				<link>https://rphilips.github.io/okra/articles/becomingrich/</link>
+				<pubDate>Wed, 04 Nov 2026 11:22:13 +0100</pubDate>
+				<guid>https://rphilips.github.io/okra/articles/becomingrich/</guid>
+				<description>&lt;!--&#xA;.image image.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rphilips.github.io/okra/articles/becomingrich/image.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Het is gemakkelijker miljardair te worden dan grootmeester te zijn!&lt;/p&gt;&#xA;&lt;p&gt;En toch is het nauwelijks mogelijk om je brood te verdienen met schaak.&lt;/p&gt;&#xA;&lt;!--&#xA;.yt IasYA2tUJvU&#xA;--&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/IasYA2tUJvU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;&#x9;&#x9;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Je kan de video ook bekijken op &lt;a href=&#34;https://www.dropbox.com/scl/fi/0ytwgezjppyod9ba5kcqn/Why_99_of_Grandmasters_Can_t_Make_a_Living_From_.mp4?rlkey=qoxi3nackinlfj9agqwv2awkb&amp;amp;dl=0&#34;&gt;dropbox&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Schaak geven totdat het pat is ...</title>
 				<link>https://rphilips.github.io/okra/puzzles/rookspat/</link>
