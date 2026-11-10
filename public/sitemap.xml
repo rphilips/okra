@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rphilips.github.io/okra/overview/</loc>
-    <lastmod>2026-11-10T11:30:28+01:00</lastmod>
+    <lastmod>2026-11-10T12:14:51+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -39,6 +39,26 @@
   </url><url>
     <loc>https://rphilips.github.io/okra/contact/</loc>
     <lastmod>2026-02-21T16:32:03+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rphilips.github.io/okra/articles/gm/</loc>
+    <lastmod>2026-11-10T12:08:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rphilips.github.io/okra/games/kiss/</loc>
+    <lastmod>2026-11-10T11:59:41+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rphilips.github.io/okra/articles/wellington/</loc>
+    <lastmod>2026-11-10T11:43:06+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rphilips.github.io/okra/articles/lewis/</loc>
+    <lastmod>2026-11-10T11:34:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

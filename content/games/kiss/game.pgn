@@ -1,0 +1,30 @@
+[Event "Varna ol (Men) fin-A"]
+[Site "Varna BUL"]
+[Date "1962.10.06"]
+[Round "9"]
+[White "Mikhail Tal"]
+[Black "Hans-Joachim Hecht"]
+[Result "1-0"]
+[ECO "E12"]
+[PlyCount "97"]
+[Link "https://www.chess.com/blog/SamCopeland/mikhail-tals-audacious-queen-sacrifice-tal-vs-hecht-1962"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. e3 h6 7. Bh4 Bxc3+ 8. bxc3
+d6 9. Nd2 e5 10. f3 Qe7 11. e4 Nbd7 12. Bd3 Nf8 13. c5 $6 dxc5 14. dxe5 Qxe5 15.
+Qa4+ c6 $2 {There is no good reason to block the bishop.} (15... N8d7 $1 16. Bg3
+Qxc3 $17) 16. O-O Ng6 17. Nc4 Qe6 $2 (17... Qxc3 $1 18. Bxf6 gxf6 19. Nd6+ $13) 18. e5
+b5 19. exf6 $3 {An AMAZING move that most humans wouldn't even consider. This
+incredible move puts Black under great pressure.} (19. Qb3 {another excellent
+though less spectacular option.}) 19... bxa4 (19... O-O $5) 20. fxg7 Rg8 21.
+Bf5 $3 {White is down a queen for a minor piece, Black is to move, and ALL of
+White's minor pieces are hanging. It's incredible that White is not only, not
+losing, but even better $1} 21... Nxh4 (21... Qxc4 $2 22. Rfe1+ $18 Qe6 23. Rxe6+
+fxe6 24. Bxg6+ Kd7 25. Rd1+ Kc7 26. Bg3+ Kb6 27. Rb1+ Ka6 28. Bd3+ Ka5 29. Bc7#)
+(21... Qxf5 22. Nd6+ Kd7 23. Nxf5 Nxh4 24. Nxh4 $16) 22. Bxe6 Ba6 (22... fxe6 23.
+Nd6+ $16) 23. Nd6+ Ke7 24. Bc4 $1 $14 {This lifeline tactic sends the game to an
+endgame where Black is up a pawn but worse thanks to pawn structure.} 24... Rxg7
+25. g3 Kxd6 26. Bxa6 Nf5 27. Rab1 f6 28. Rfd1+ Ke7 29. Re1+ Kd6 30. Kf2 c4 31.
+g4 $6 (31. Rb4 $1 $16) 31... Ne7 32. Rb7 Rag8 33. Bxc4 Nd5 34. Bxd5 cxd5 35. Rb4 Rc8
+(35... h5 $1 $14) 36. Rxa4 Rxc3 37. Ra6+ Kc5 38. Rxf6 h5 39. h3 hxg4 40. hxg4 Rh7
+41. g5 Rh5 42. Rf5 Rc2+ 43. Kg3 Kc4 44. Ree5 d4 45. g6 Rh1 46. Rc5+ Kd3 47. Rxc2
+Kxc2 1-0
