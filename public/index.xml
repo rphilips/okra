@@ -12,9 +12,16 @@
 			<copyright>OKRA Eke</copyright>
 		
 		
-			<lastBuildDate>Tue, 10 Nov 2026 12:08:01 +0100</lastBuildDate>
+			<lastBuildDate>Thu, 12 Nov 2026 15:24:53 +0100</lastBuildDate>
 		
 			<atom:link href="https://rphilips.github.io/okra/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Oordeel en plan: de strategie van het schaakspel</title>
+				<link>https://rphilips.github.io/okra/articles/oordeelplan/</link>
+				<pubDate>Thu, 12 Nov 2026 15:24:53 +0100</pubDate>
+				<guid>https://rphilips.github.io/okra/articles/oordeelplan/</guid>
+				<description>&lt;!--&#xA;.image image.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rphilips.github.io/okra/articles/oordeelplan/image.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Oordeel en plan: de strategie van het schaakspel&lt;/em&gt; is een klassiek schaakboek van oud-wereldkampioen &lt;a href=&#34;https://nl.wikipedia.org/wiki/Max_Euwe&#34;&gt;Max Euwe&lt;/a&gt;. Het boek vormt de kern van het denkproces in het schaken: hoe je als speler een schaakstelling analyseert en daar een logisch plan aan verbindt.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;De kernmethode van Max Euwe&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Euwe leert schakers om niet zomaar intuïtief of &amp;lsquo;op goed geluk&amp;rsquo; te zetten nadat de openingsfase (meestal na zo&amp;rsquo;n 8 tot 15 zetten) is afgelopen. Het denkproces verloopt in drie vaste stappen:&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>En zo werd ik grootmeester ;-)</title>
 				<link>https://rphilips.github.io/okra/articles/gm/</link>
