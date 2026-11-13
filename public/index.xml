@@ -12,9 +12,16 @@
 			<copyright>OKRA Eke</copyright>
 		
 		
-			<lastBuildDate>Thu, 12 Nov 2026 15:24:53 +0100</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 14:58:32 +0100</lastBuildDate>
 		
 			<atom:link href="https://rphilips.github.io/okra/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Oplossen van puzzels</title>
+				<link>https://rphilips.github.io/okra/articles/puzzleswhy/</link>
+				<pubDate>Fri, 13 Nov 2026 14:58:32 +0100</pubDate>
+				<guid>https://rphilips.github.io/okra/articles/puzzleswhy/</guid>
+				<description>&lt;!--&#xA;.image image.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rphilips.github.io/okra/articles/puzzleswhy/image.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Word je beter in schaken door schaakpuzzels op te lossen? Volgens gegevens van 24.000 Lichess-spelers lopen de puzzelrating en de speelrating weliswaar gelijk op, maar het verband werkt slechts in één richting. Deze video legt uit waarom het oplossen van puzzels je rating niet op de verwachte manier verhoogt. Hierbij komen onder meer de gezusters Polgár aan bod, de experimenten van De Groot en Chase &amp;amp; Simon naar het vijfsecondengeheugen, en onderzoek naar het aantal uren dat daadwerkelijk nodig is om het meesterniveau te bereiken.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Oordeel en plan: de strategie van het schaakspel</title>
 				<link>https://rphilips.github.io/okra/articles/oordeelplan/</link>
