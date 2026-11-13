@@ -1,6 +1,6 @@
 +++
 date = '2026-11-10T11:43:06+01:00'
-title = 'Een huwelijkgsgeschenk van Wellington'
+title = 'Een huwelijksgeschenk van Wellington'
 weight = 9223372036638308821
 +++
 

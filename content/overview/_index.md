@@ -1,5 +1,5 @@
 +++
-date = '2026-11-12T15:37:24+01:00'
+date = '2026-11-13T14:27:07+01:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 10
@@ -24,7 +24,7 @@ weight = 10
 <!--
 .link articles/wellington/index.md
 -->
-[Een huwelijkgsgeschenk van Wellington]({{< relref "/articles/wellington/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/wellington/index.md");'>(artikel)</span>
+[Een huwelijksgeschenk van Wellington]({{< relref "/articles/wellington/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/wellington/index.md");'>(artikel)</span>
 <!--
 .link articles/lewis/index.md
 -->
