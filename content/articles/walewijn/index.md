@@ -1,0 +1,74 @@
++++
+date = '2026-11-13T15:41:20+01:00'
+title = 'Het zwevende schaakbord is neergestort'
+weight = 9223372036638035327
++++
+
+<!--
+.image image.jpg
+-->
+![](image.jpg)
+
+[Uit Historiek.net](https://historiek.net/roman-van-walewein-en-het-schaakspel/159643/)
+
+
+n onze door het verstand beheerste tijd dreigt de zin voor het bovennatuurlijke, het miraculeuze, het irrationele, verloren te gaan. Dat is althans de mening van de Duitse geleerde Max Weber. Aan het eind van dit proces, als de betovering geheel zal zijn verbroken, zullen “alle dingen in principe – door berekening worden beheerst”. Zou in de literatuurgeschiedenis, die een spiegel vormt van de voortgang der tijden, iets van dat proces herkenbaar zijn?
+
+**Walewein achtervolgt het vliegende schaakspel op zijn paard Gringolet**
+
+<!--
+.image wal.jpg
+-->
+![](wal.jpg)
+
+[Walewein](https://nl.wikipedia.org/wiki/Walewein_(personage)) achtervolgt het vliegende schaakspel op zijn paard Gringolet. Miniatuur van het enige bewaard gebleven handschrift met de volledige tekst. 
+
+Rond het midden van de dertiende eeuw schreven twee Vlaamse auteurs, [Penninc](https://nl.wikipedia.org/wiki/Penninc) en [Pieter Vostaert](https://nl.wikipedia.org/wiki/Pieter_Vostaert) geheten, een beroemde roman over de ridder Walewein. De inhoud is fascinerend. Koning Arthur leeft met de beroemde ridders van de Tafelronde in zijn burcht Carlioen. Als de heren hebben gegeten, gebeurt er iets wonderlijks. Een schaakspel vliegt door het openstaande raam de ridderzaal binnen. Het landt met grote precisie vlak voor de verblufte ridderschare. Wie tegen deze vliegende ‘schaakcomputer’ een partijtje wil schaken kan zijn gang gaan. Maar niemand onder de edele Tafelronde durft de uitdaging aan. Na enige tijd vliegt het wonderschaak weg. Koning Arthur is hevig teleurgesteld over de gang van zaken. Hij wil het kostbare voorwerp in zijn bezit krijgen. Wie wil het voor hem halen? Walewein aarzelt: het wonderlijke schaakding is mooi, maar heeft ook iets dreigends. De ridder overwint zijn twijfels echter en gaat op pad.
+
+**Licht**
+
+Binnen niet al te lange tijd vindt hij het schaakspel bij koning Wonder. Deze wil het echter alleen cadeau doen als hij het kostbare zwaard krijgt dat koning Amoraan, die verderop woont, in zijn bezit heeft. Walewein gaat op zoek naar dat zwaard, maar krijgt te horen dat de vorst het wapen alleen wil afstaan in ruil voor de schone Isabel, de dochter van de koning verderop. De ridder gaat verder en verovert de jonge vorstin. Deze driedelige handeling, die zich als een Spaanse waaier opende, waaiert nu via dezelfde ontmoetingspunten weer dicht: Koning Amoraan is (gelukkig maar) gestorven, zodat de held de prinses niet hoeft af te staan. Walewein krijgt het zwaard en schenkt het aan Wonder. In ruil hiervoor ontvangt hij het schaakspel.
+
+In triomf keert onze vriend, mét dame en wonderschaak, naar het hof van Arthur terug. Het schaakspel verlicht, tot grote verbazing van het hele hof, op wonderbaarlijke wijze de ridderzaal (zonder elektriciteit en elektrische bedrading!). Het wonder, in de vorm van het vliegende schaak, wordt in de rationele ridderwereld opgenomen. Na de actie van de ‘lichtbrenger’ Walewein baadt de duistere wereld van koning Arthur in glans en gloed. Het wonder, nooit begrepen maar dankbaar aanvaard, blijkt een zegen.
+
+
+**Betovering**
+
+De bekende mediëviste [Maartje Draak](https://nl.wikipedia.org/wiki/Maartje_Draak) (1907-1995) heeft ooit vastgesteld dat de Waleweinroman eigenlijk als een tot Arthurroman omgewerkt sprookje moet worden beschouwd. De meeste sprookjes zijn oeroud. Ze zijn ontstaan in lang vergleden tijden, toen de nevelen van de ‘betovering’ nog volop het wereldbeeld van de mens oversluierden. Omdat sprookjes van generatie op generatie werden doorverteld, bleven ze voor ons bewaard. Pas aan het begin van de negentiende eeuw tekenden de gebroeders Grimm ze op uit de mond van bejaarde vertelsters. Het sprookje dat aan de ‘Walewein’ ten grondslag ligt, is onder de titel De gouden vogel bekend geworden.
+
+In grote lijnen gaat dit verhaal als volgt. Heel lang geleden leefde er een koning die een prachtige tuin achter zijn kasteel had, waarin een boom stond die gouden appels voortbracht. Toen de appels rijp waren, werden ze geteld, maar de volgende ochtend ontbrak er één. Dit werd aan de koning gemeld, die beval dat er voortaan iedere nacht onder de boom de wacht moest worden gehouden.
+De koning had drie zoons. De oudste stuurde hij bij het aanbreken van de avond de tuin in. Maar toen het middernacht werd, viel de zoon in slaap, en de volgende ochtend ontbrak er een appel. De volgende nacht moest de tweede zoon de wacht houden, maar toen het ’s nachts twaalf uur had geslagen, viel ook hij in slaap en ’s ochtends ontbrak er opnieuw een appel. Nu was het de beurt aan de derde zoon. De koning had geen hoge pet van hem op en meende dat hij er nog minder van zou bakken dan zijn twee oudere broers. De jongen ging onder de boom liggen, maar bleef wakker. Kort na twaalf uur ruiste er iets door de lucht, en hij zag in de maneschijn een vogel vliegen, wiens veren glansden van het goud. De vogel ging op de boom zitten, had juist een appel afgepikt, toen de jongeman een pijl op hem afschoot. De vogel vloog weg, maar een gouden veer was geraakt en viel naar beneden. De jongen bracht de volgende ochtend de veer naar de koning en vertelde wat hij gezien had. Het besluit van de koning stond vast, de veer was zó kostbaar dat hij de hele vogel wilde hebben.
+
+**Naïviteit**
+
+Dan begint de drieledige zoekactie die we – in gevarieerde vorm – uit de Arthurroman reeds kennen. De koningszoon vindt de vogel, maar de eigenaar wenst de vogel slechts af te staan in ruil voor een wonderpaard. De eigenaar van het wonderpaard wil zijn bezit wel weggeven, als hij daarvoor in de plaats de koningsdochter uit het gouden slot krijgt. Als de koningszoon ook nog deze laatste opdracht succesvol vervult, gaat hij, via de bekende plaatsen, weer terug naar het hof van zijn vader. Hij trouwt de prinses en het stel leeft nog lang en gelukkig…
+
+Kenmerkend voor het sprookje zijn de fantastische, voor het verstand onbegrijpelijke, gebeurtenissen. Bovennatuurlijke krachten grijpen in het leven van alledag in, dieren kunnen spreken, zevenmijlslaarzen, kleinduimpje… Het leven in het sprookje kent verschijnselen die niet rationeel kunnen worden verklaard, maar die in de wereld van het sprookje, waar een eigen bovennatuurlijke wetmatigheid geldt, zonder meer geloofwaardig zijn. Wie zijn naïviteit heeft verloren en niet meer in wonderen kan geloven omdat het fenomeen nu eenmaal boven het verstandelijke uitgaat, mist de sleutel die toegang geeft tot de wonderlijke wereld van het sprookje.
+
+**‘Een wonder!’**
+
+<!--
+.image louis.jpg
+-->
+![](louis.jpg)
+
+Een van onze meest begaafde auteurs, de Hagenaar [Louis Couperus](https://nl.wikipedia.org/wiki/Louis_Couperus), schreef in de laatste jaren van de Eerste Wereldoorlog een feuilleton in de Haagsche Post onder de titel: ‘Het zwevende schaakbord’. In de krant van 20 oktober 1917 wordt de verhalenreeks aangekondigd. Zijn inspiratie vond Couperus, die onder leiding van de befaamde neerlandicus prof. Jan ten Brink zijn MO-Akte Nederlands behaalde, in de Middelnederlandse Roman van Walewein. Het verhaal van Couperus speelt zich tien jaar na dato af. Koning Arthur is dus tien jaar ouder geworden en met zijn tandeloze mond stamelt hij zijn eens zo luisterrijke woorden. In zijn prachtige hermelijnen kraag zitten de motten. Verval alom, “dingen die voorbijgaan”! De tijd van wonderen is voorgoed passé, er zweven geen schaakborden meer de Arthurburcht binnen, althans zo schijnt het.
+
+Merlijn, de vernuftige tovenaar, weet echter de oplossing. In het geheim maakt hij, technisch als hij is, een schaakapparaatje dat vliegen kan en stuurt het naar het hof. De ridders doorzien het bedrog niet, menen dat het wonder echt is en roepen in koor:
+
+**“Een Wonder! Een Wonder! Een Scaec zweeft ten tweeden male aan!”**
+
+Walewein, hij wordt door Couperus Gawein genoemd, gaat op zoek naar het schaakbord. Na talloze omzwervingen weet de held het ding te achterhalen. Maar wat een teleurstelling: juist als hij het vliegende wonderapparaatje meent te kunnen grijpen, klinkt er een harde knal. O, wee, in de dubbele bodem van het bord zit een klein mechaniekje dat kapot is gegaan. Het zwevende stukje techniek stort ter aarde. Wat erover is gebleven? De Haagse auteur beschrijft het resultaat als volgt:
+
+“Het waren heel kleine radertjes, met tal van ijzeren draadjes over en weêr verbonden en alle die fijne draadjes lagen door elkaar gesprongen, verwrongen, verkronkeld tot een hopeloos verward klein kluwentje.”
+
+
+Het zwevend schaakbord, een technisch wondertje, blijkt na de crash een zielig puinhoopje met totaal in de war geraakte bedrading.
+
+**Onttovering**
+
+Een sprookje, een ridderroman, een feuilleton: hoe kijk je ernaar? Het eeuwenoude sprookje zat vol onbegrepen, maar geaccepteerde wonderlijke ongerijmdheden. De middeleeuwse ridderroman poogde het wonder zinvol in de rationele mensenwereld te integreren, de ‘moderne’ feuilleton ontmaskerde het technische wonder als een kwetsbaar surrogaat, dat uiteindelijk niet meer te bieden had dan teleurstelling. Aan het einde van de totale ‘onttovering’ dreigt de mens een van zijn belangrijkste zintuigen kwijt te raken. Technisch vernuft alom, stijgende welvaart, een maakbaar leven. Maar hoe om te gaan met het onbegrepene, het wonderbaarlijke, het transcendente?
+
+
+
+
