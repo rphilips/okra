@@ -12,9 +12,16 @@
 			<copyright>OKRA Eke</copyright>
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 14:58:32 +0100</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 15:10:41 +0100</lastBuildDate>
 		
 			<atom:link href="https://rphilips.github.io/okra/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Adriaan De Groot</title>
+				<link>https://rphilips.github.io/okra/articles/groot/</link>
+				<pubDate>Fri, 13 Nov 2026 15:10:41 +0100</pubDate>
+				<guid>https://rphilips.github.io/okra/articles/groot/</guid>
+				<description>&lt;!--&#xA;.image image.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rphilips.github.io/okra/articles/groot/image.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Toen ik in 1975 wiskunde begon te studeren - en schaakgek was - kwam ik er achter dat Adriaan de Groot in mijn eigenste universiteit een ere-doctoraat had gekregen.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wie was &lt;a href=&#34;https://nl.wikipedia.org/wiki/Adriaan_de_Groot&#34;&gt;Adriaan de Groot&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Deze Nederlander (Santpoort, 26 oktober 1914 - Schiermonnikoog, 14 augustus 2006) was een uiterst veelzijdig man die wetenschappelijk vooral bekend stond als hoogleraar toegepaste psychologie en methodologie. Hij was ook een uitstekend wiskundige en schaker (speelde in het Nederlandsche schaakteam in de Olympiade te Argentinië in 1939).&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Oplossen van puzzels</title>
 				<link>https://rphilips.github.io/okra/articles/puzzleswhy/</link>
