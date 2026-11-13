@@ -5,9 +5,9 @@ weight = 9223372036638308821
 +++
 
 <!--
-.image wellington.png
+.image image.jpg
 -->
-![](wellington.png)
+![](image.jpg)
 
 [Arthur Wellesley](https://nl.wikipedia.org/wiki/Arthur_Wellesley), later hertog van Wellington, is in de lage landen beter bekend als de ijzeren generaal die Napoleon versloeg te Waterloo.
 
