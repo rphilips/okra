@@ -12,9 +12,23 @@
 			<copyright>OKRA Eke</copyright>
 		
 		
-			<lastBuildDate>Mon, 16 Nov 2026 09:19:29 +0100</lastBuildDate>
+			<lastBuildDate>Mon, 16 Nov 2026 09:40:13 +0100</lastBuildDate>
 		
 			<atom:link href="https://rphilips.github.io/okra/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Schaken op 16-11-2026</title>
+				<link>https://rphilips.github.io/okra/sessions/2026-11-16/</link>
+				<pubDate>Mon, 16 Nov 2026 09:40:13 +0100</pubDate>
+				<guid>https://rphilips.github.io/okra/sessions/2026-11-16/</guid>
+				<description>&lt;!--&#xA;- .link articles/becomingrich/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://rphilips.github.io/okra/articles/becomingrich/&#34;&gt;Rijk worden met schaken&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/becomingrich/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link articles/wellington/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://rphilips.github.io/okra/articles/wellington/&#34;&gt;Een huwelijksgeschenk van Wellington&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/wellington/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link articles/lewis/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://rphilips.github.io/okra/articles/lewis/&#34;&gt;Lewis-schaakstukken&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;articles/lewis/index.md&#34;);&#39;&gt;(artikel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link puzzles/marco/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://rphilips.github.io/okra/puzzles/marco/&#34;&gt;Marco The Ungrateful met de hakbijl&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;puzzles/marco/index.md&#34;);&#39;&gt;(puzzel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link puzzles/icr3/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://rphilips.github.io/okra/puzzles/icr3/&#34;&gt;De beslissende voortzetting&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;puzzles/icr3/index.md&#34;);&#39;&gt;(puzzel)&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!--&#xA;- .link puzzles/rookvsbisshop/index.md&#xA;--&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rphilips.github.io/okra/puzzles/rookvsbisshop/&#34;&gt;Diep kijken in de stelling (2)&lt;/a&gt; &lt;span style=&#39;font-size: smaller;cursor: pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;puzzles/rookvsbisshop/index.md&#34;);&#39;&gt;(puzzel)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vrij schaken&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Marco The Ungrateful met de hakbijl</title>
+				<link>https://rphilips.github.io/okra/puzzles/marco/</link>
+				<pubDate>Mon, 16 Nov 2026 09:28:55 +0100</pubDate>
+				<guid>https://rphilips.github.io/okra/puzzles/marco/</guid>
+				<description>&lt;!--&#xA;.diagram fen:8/7p/2B1k1p1/p3p3/P5P1/1r3P2/6KP/8 b - - 2 45&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;8/7p/2B1k1p1/p3p3/P5P1/1r3P2/6KP/8 b - - 2 45&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rphilips.github.io/okra/puzzles/marco/680276d30051890e095716fd2e5af63d.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;In een simultaan-rapid partij op chess.com kwam deze stelling op het bord.&lt;/p&gt;&#xA;&lt;p&gt;Marco wist, met een paar preciese zetten, de beslissing door te voeren.&lt;/p&gt;&#xA;&lt;p&gt;Een mooie toepassing van de regel van het vierkant.&lt;/p&gt;&#xA;&lt;p&gt;Stel een plan op!&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>De beslissende voortzetting</title>
 				<link>https://rphilips.github.io/okra/puzzles/icr3/</link>
