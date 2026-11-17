@@ -14,6 +14,9 @@ Met exf6!! zette Michail Tal zijn lichte stukken (die kort daarna allemaal 'in d
 
 De partij is leerzaam, niet alleen vanwege het prachtige dameoffer, maar ook door het eindspel dat daarop volgt. Hoewel hij een pion achterstaat, liggen de kansen volledig bij Tal, dankzij zijn superieure pionnenstructuur. De pionnen van zwart gaan al snel verloren en Tal weet deze spectaculaire partij naar winst te voeren.
 
+De kus: Volgens de overlevering liep de expressieve [Miguel Najdorf](https://nl.wikipedia.org/wiki/Miguel_Najdorf) naar het bord en gaf Tal een kus uit bewondering voor de vondst. Hecht kon dit jaren later niet met zekerheid bevestigen, maar achtte het goed mogelijk gezien Najdorfs karakter.
+
+
 (vertaald uit [chess.com](https://www.chess.com/blog/SamCopeland/mikhail-tals-audacious-queen-sacrifice-tal-vs-hecht-1962)
 
 <!--
