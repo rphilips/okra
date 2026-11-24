@@ -20,5 +20,28 @@ Mijn tegenstander overzag een sterke voortzetting (maar wist toch te winnen na e
 
 Ziet u de juiste voortzetting voor Wit ?
 
+<!--
+.hidden Klik om het antwoord te zien
+-->
+
+
+<details><summary>Klik om het antwoord te zien</summary><div>
+
+
+
+<!--
+.diagram fen:3q2k1/pp2rppp/8/3p4/3Pp3/P3P1P1/1P1Q1P1P/2R3K1 w - - 0 1; redarrow:d2a5
+-->
+<div style='cursor:pointer' onclick='navigator.clipboard.writeText("3q2k1/pp2rppp/8/3p4/3Pp3/P3P1P1/1P1Q1P1P/2R3K1 w - - 0 1"); return false'>
+
+![](75a25fe9df3301efb2a81194009c19a3.svg)
+
+</div>
+
+
+<!--
+.visible
+-->
+
 
 
