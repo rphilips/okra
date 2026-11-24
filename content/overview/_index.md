@@ -1,5 +1,5 @@
 +++
-date = '2026-11-24T11:32:35+01:00'
+date = '2026-11-24T12:09:59+01:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 10
@@ -9,6 +9,10 @@ weight = 10
 
 <h2>November 2026</h2>
 
+<!--
+.link puzzles/matin1/index.md
+-->
+[Mat in 1]({{< relref "/puzzles/matin1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/matin1/index.md");'>(puzzel)</span>
 <!--
 .link articles/husband/index.md
 -->
@@ -398,10 +402,6 @@ weight = 10
 -->
 [Laten we twee torens offeren ...]({{< relref "/games/tworooksacrifice/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/tworooksacrifice/index.md");'>(partij)</span>
 <!--
-.link puzzles/rvq4/index.md
--->
-[Torens versus Dame studies (4)]({{< relref "/puzzles/rvq4/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq4/index.md");'>(puzzel)</span>
-<!--
 .link sessions/2026-08-10/index.md
 -->
 [Schaken op 10-08-2026]({{< relref "/sessions/2026-08-10/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("sessions/2026-08-10/index.md");'>(sessie)</span>
@@ -614,13 +614,13 @@ weight = 10
 -->
 [Basis pion eindspel 3]({{< relref "/puzzles/pion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion3/index.md");'>(puzzel)</span>
 <!--
-.link puzzles/pion2/index.md
--->
-[Basis pion eindspel 2]({{< relref "/puzzles/pion2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion2/index.md");'>(puzzel)</span>
-<!--
 .link puzzles/pion1/index.md
 -->
 [Basis pion eindspel 1]({{< relref "/puzzles/pion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/pion2/index.md
+-->
+[Basis pion eindspel 2]({{< relref "/puzzles/pion2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion2/index.md");'>(puzzel)</span>
 <!--
 .link articles/secretsofpawn/index.md
 -->

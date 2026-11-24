@@ -1,5 +1,5 @@
 +++
-date = '2026-11-24T11:32:35+01:00'
+date = '2026-11-24T12:09:59+01:00'
 title = 'Per rubriek'
 featured_image = '/images/persection.jpg'
 weight = 10
@@ -494,6 +494,10 @@ weight = 10
 <h2><a name='puzzles'>Puzzels</a></h2>
 
 <!--
+.link puzzles/matin1/index.md
+-->
+[Mat in 1]({{< relref "/puzzles/matin1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/matin1/index.md");'>(puzzel)</span>
+<!--
 .link puzzles/marco/index.md
 -->
 [Marco The Ungrateful met de hakbijl]({{< relref "/puzzles/marco/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/marco/index.md");'>(puzzel)</span>
@@ -546,10 +550,6 @@ weight = 10
 -->
 [Genrikh Kasparyan]({{< relref "/puzzles/kasparyan/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/kasparyan/index.md");'>(puzzel)</span>
 <!--
-.link puzzles/rvq6/index.md
--->
-[Torens versus Dame studies (6)]({{< relref "/puzzles/rvq6/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq6/index.md");'>(puzzel)</span>
-<!--
 .link puzzles/rvq5/index.md
 -->
 [Torens versus Dame studies (5)]({{< relref "/puzzles/rvq5/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq5/index.md");'>(puzzel)</span>
@@ -558,17 +558,17 @@ weight = 10
 -->
 [Torens versus Dame studies (7)]({{< relref "/puzzles/rqv7/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rqv7/index.md");'>(puzzel)</span>
 <!--
-.link puzzles/rvq4/index.md
+.link puzzles/rvq6/index.md
 -->
-[Torens versus Dame studies (4)]({{< relref "/puzzles/rvq4/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq4/index.md");'>(puzzel)</span>
-<!--
-.link puzzles/rvq1/index.md
--->
-[Torens versus Dame studies (1)]({{< relref "/puzzles/rvq1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq1/index.md");'>(puzzel)</span>
+[Torens versus Dame studies (6)]({{< relref "/puzzles/rvq6/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq6/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/rvq2/index.md
 -->
 [Torens versus Dame studies (2)]({{< relref "/puzzles/rvq2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq2/index.md");'>(puzzel)</span>
+<!--
+.link puzzles/rvq1/index.md
+-->
+[Torens versus Dame studies (1)]({{< relref "/puzzles/rvq1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq1/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/rvq3/index.md
 -->
@@ -602,6 +602,10 @@ weight = 10
 -->
 [Winnen van  uit een onmogelijke positie]({{< relref "/puzzles/queenvsqueen/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/queenvsqueen/index.md");'>(puzzel)</span>
 <!--
+.link puzzles/pion3/index.md
+-->
+[Basis pion eindspel 3]({{< relref "/puzzles/pion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion3/index.md");'>(puzzel)</span>
+<!--
 .link puzzles/pion1/index.md
 -->
 [Basis pion eindspel 1]({{< relref "/puzzles/pion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion1/index.md");'>(puzzel)</span>
@@ -609,10 +613,6 @@ weight = 10
 .link puzzles/pion2/index.md
 -->
 [Basis pion eindspel 2]({{< relref "/puzzles/pion2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion2/index.md");'>(puzzel)</span>
-<!--
-.link puzzles/pion3/index.md
--->
-[Basis pion eindspel 3]({{< relref "/puzzles/pion3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/pion3/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/amazing/index.md
 -->
