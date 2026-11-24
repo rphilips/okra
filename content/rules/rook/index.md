@@ -31,5 +31,5 @@ Met coördinaten: de toren op c2 kan naar a2, b2, d2, e2, f2, c1, c3, c4, c5
 <!--
 De toren heeft - samen met de koning - nog een speciale beweging: .link rules/rokade
 -->
-De toren heeft - samen met de koning - nog een speciale beweging: [De rokade]({{< relref "/rules/rokade/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/rokade");'>(reglement)</span>
+De toren heeft - samen met de koning - nog een speciale beweging: [De rokade]({{% relref "/rules/rokade/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/rokade");'>(reglement)</span>
 

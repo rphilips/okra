@@ -44,5 +44,5 @@ Met coördinaten:
 <!--
 De koning heeft nog een speciale beweging: .link rules/rokade
 -->
-De koning heeft nog een speciale beweging: [De rokade]({{< relref "/rules/rokade/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/rokade");'>(reglement)</span>
+De koning heeft nog een speciale beweging: [De rokade]({{% relref "/rules/rokade/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/rokade");'>(reglement)</span>
 

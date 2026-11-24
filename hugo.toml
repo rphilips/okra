@@ -5,7 +5,7 @@ theme = 'ananke'
 copyright = 'OKRA Eke'
 defaultContentLanguage = 'nl'
 enableEmoji = true
-
+refLinksErrorLevel = "WARNING"
 
 resourceDir = "../resources"
 

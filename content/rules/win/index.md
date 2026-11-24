@@ -102,7 +102,7 @@ Er zijn echter nog andere redenen waarom je een partij kan verliezen:
 <!--
 - je verliest op tijd: .link rules/time
 -->
-- je verliest op tijd: [Schaakklokken en tijd]({{< relref "/rules/time/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/time");'>(reglement)</span>
+- je verliest op tijd: [Schaakklokken en tijd]({{% relref "/rules/time/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/time");'>(reglement)</span>
 
 - de scheidsrechter beslist dat je verliest
 

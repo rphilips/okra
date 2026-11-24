@@ -13,7 +13,7 @@ Herinner je nog het artikel
 <!--
 .link puzzles/Sivanandan/index.md
 -->
-[Bodhana Sivanandan]({{< relref "/puzzles/Sivanandan/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/Sivanandan/index.md");'>(puzzel)</span>
+[Bodhana Sivanandan]({{% relref "/puzzles/Sivanandan/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/Sivanandan/index.md");'>(puzzel)</span>
 
 Wel, [Bodhana Sivanandan](https://nl.wikipedia.org/wiki/Bodhana_Sivanandan) speelde ook in de Olympiade van 2026 en haalde er op 11-jarige leeftijd zowel de WGM (Woman Grandmaster) [titel](https://en.wikipedia.org/wiki/FIDE_titles) als de IM (International Master) [titel](https://en.wikipedia.org/wiki/FIDE_titles).
 

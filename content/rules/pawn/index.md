@@ -48,12 +48,12 @@ We behandelen nog de 2 heel aparte elementen
 <!--
 - .link rules/promotion
 -->
-- [De promotie]({{< relref "/rules/promotion/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/promotion");'>(reglement)</span>
+- [De promotie]({{% relref "/rules/promotion/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/promotion");'>(reglement)</span>
 
 <!--
 - .link rules/enpassant
 -->
-- [En passant slaan]({{< relref "/rules/enpassant/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/enpassant");'>(reglement)</span>
+- [En passant slaan]({{% relref "/rules/enpassant/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/enpassant");'>(reglement)</span>
 
 
 

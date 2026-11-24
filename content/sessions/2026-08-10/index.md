@@ -8,17 +8,17 @@ weight = 9223372036646342585
 <!--
 - .link articles/worldchamps
 -->
-- [De wereldkampioenen tot augustus 2026]({{< relref "/articles/worldchamps/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/worldchamps");'>(artikel)</span>
+- [De wereldkampioenen tot augustus 2026]({{% relref "/articles/worldchamps/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/worldchamps");'>(artikel)</span>
 <!--
 - .link puzzles/rvq2
 -->
-- [Torens versus Dame studies (2)]({{< relref "/puzzles/rvq2/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq2");'>(puzzel)</span>
+- [Torens versus Dame studies (2)]({{% relref "/puzzles/rvq2/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq2");'>(puzzel)</span>
 <!--
 - .link puzzles/rvq3
 -->
-- [Torens versus Dame studies (3)]({{< relref "/puzzles/rvq3/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq3");'>(puzzel)</span>
+- [Torens versus Dame studies (3)]({{% relref "/puzzles/rvq3/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq3");'>(puzzel)</span>
 <!--
 - .link games/marshallcapablanca/index.md
 -->
-- [Marshall Attack]({{< relref "/games/marshallcapablanca/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/marshallcapablanca/index.md");'>(partij)</span>
+- [Marshall Attack]({{% relref "/games/marshallcapablanca/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/marshallcapablanca/index.md");'>(partij)</span>
 - Vrij schaken

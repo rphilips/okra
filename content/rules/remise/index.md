@@ -24,21 +24,21 @@ In schaken zijn er verschillende situaties waarbij de partij remise is:
 <!--
 - het is pat: .link rules/pat
 -->
-- het is pat: [Pat !?]({{< relref "/rules/pat/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/pat");'>(reglement)</span>
+- het is pat: [Pat !?]({{% relref "/rules/pat/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/pat");'>(reglement)</span>
 
 <!--
 - een speler eist remise op, op basis van de 3-zetten regel: .link rules/threefold
 -->
-- een speler eist remise op, op basis van de 3-zetten regel: [Driemaal dezelfde stelling]({{< relref "/rules/threefold/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/threefold");'>(reglement)</span>
+- een speler eist remise op, op basis van de 3-zetten regel: [Driemaal dezelfde stelling]({{% relref "/rules/threefold/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/threefold");'>(reglement)</span>
 
 <!--
 - de 5-zetten regel gaat in werking: .link rules/threefold
 -->
-- de 5-zetten regel gaat in werking: [Driemaal dezelfde stelling]({{< relref "/rules/threefold/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/threefold");'>(reglement)</span>
+- de 5-zetten regel gaat in werking: [Driemaal dezelfde stelling]({{% relref "/rules/threefold/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/threefold");'>(reglement)</span>
 
 <!--
 - een speler eist de remise op, op basis van de 50-zetten regel: .link rules/fiftymoves
 -->
-- een speler eist de remise op, op basis van de 50-zetten regel: [Vijftigzettenregel]({{< relref "/rules/fiftymoves/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/fiftymoves");'>(reglement)</span>
+- een speler eist de remise op, op basis van de 50-zetten regel: [Vijftigzettenregel]({{% relref "/rules/fiftymoves/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/fiftymoves");'>(reglement)</span>
 
 

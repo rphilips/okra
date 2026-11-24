@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7B/8/r2p4/3PP3/8/8/7K/k7 w - - 0 1"]
+
+1.e6+ Ka2 2.Be5 Ra5 (2...dxe5 3.e7 Ra8 4.d6 Re8 5.d7 Rh8+ 6.Kg3 Rg8+ 7.Kf2 Rb8
+8.d8=Q Rb2+ 9.Kf3) (2...Ra8 3.Bxd6 Kb3 4.Bb8 Rxb8 5.e7 Kc4 6.d6 Rb2+ 7.Kg3 Re2
+8.d7) 3.e7 Rxd5 4.e8=Q Rxe5 5.Qb8 Rc5 6.Qxd6 1-0
+
+

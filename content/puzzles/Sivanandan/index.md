@@ -9,7 +9,7 @@ weight = 9223372036647272466
 <!--
 In .link articles/polgar/index.md
 -->
-In [Judit Polgar]({{< relref "/articles/polgar/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/polgar/index.md");'>(artikel)</span>
+In [Judit Polgar]({{% relref "/articles/polgar/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/polgar/index.md");'>(artikel)</span>
 maakten we kennis met Judit Polgar
 
 Judit was jarenlang de jongste schaakster die ooit een grootmeester met meer dan 2600 ELO versloeg.

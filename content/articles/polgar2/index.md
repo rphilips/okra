@@ -14,7 +14,7 @@ weight = 9223372036648049120
 <!--
 In .link articles/polgar/index.md
 -->
-In [Judit Polgar]({{< relref "/articles/polgar/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/polgar/index.md");'>(artikel)</span>
+In [Judit Polgar]({{% relref "/articles/polgar/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/polgar/index.md");'>(artikel)</span>
 maakten we kennis met Judit Polgar
 
 Volgens het VRT Nieuws vernamen we:

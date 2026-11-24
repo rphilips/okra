@@ -12,7 +12,7 @@ In
 <!--
 .link articles/pionpion1/index.md
 -->
-[Pion tegen pion: de dansende koningen]({{< relref "/articles/pionpion1/index.md">}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/pionpion1/index.md");'>(artikel)</span>
+[Pion tegen pion: de dansende koningen]({{% relref "/articles/pionpion1/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/pionpion1/index.md");'>(artikel)</span>
 
 
 zie je een goed voorbeeld van triangulatie: Wit maakt een driehoekje om uiteindelijk op het beslissende veld terecht te komen.
