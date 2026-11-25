@@ -1,0 +1,127 @@
+[Event "Salesforce FIDE World Championship 2026"]
+[Site "Geneva, Switzerland"]
+[Date "2026.11.24"]
+[Round "1"]
+[White "Sindarov, Javokhir"]
+[Black "Gukesh D"]
+[Result "1/2-1/2"]
+[Annotator "Bojkov,Dejan"]
+[ECO "C67"]
+[WhiteElo "2782"]
+[BlackElo "2710"]
+[PlyCount "73"]
+[EventDate "2026.??.??"]
+[Link "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 {The solid Berlin Defense. This was the line that
+practically put an end to the Kasparov era. It is also indicative of the world
+champion's strategy. Solid, proven lines, with no objection to an endgame as
+Black.} 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 {Curiously, in his first world
+championship match game Sindarov chooses to play an endgame. He had never used
+this line before, but at the press conference explained his choice: \"Normally,
+in the first game, you try to play more solid; you adapt to the tournament hall,
+everything. So I'm trying to join the tournament and not trying to push too
+much, to keep control of the game.\"} ({Here is more typical play by the Uzbek
+GM from a year ago:} 6. Ba4 e4 7. Ne5 Be7 8. Re1 O-O 9. Nc3 Nf5 10. Rxe4 Nxe5
+11. dxe5 c6 12. Bf4 d5 13. exd6 Bxd6 14. Bb3 {1-0 Sindarov,J
+(2721)-Maghsoodloo,P (2697) Comet op Titled Losers Chess.com INT blitz 2025
+(4.4)}) 6... dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. Rd1+ ({Gukesh has only faced} 9.
+h3 {and this was a blitz game that went} 9... a5 10. Nc3 Ke8 11. Bf4 a4 12. Rad1
+h6 13. a3 Ne7 14. Nd4 Nf5 15. Nf3 Be6 {1/2 Shankland,S (2621)-Gukesh,D (2687)
+Saint Louis Blitz 2025 (11)}) 9... Ke8 10. Nc3 Ne7 11. h3 Ng6 12. Be3 (12. b3
+{is more common in this position and Gukesh had already tried it, but as White,
+in the following highly-entertaining game that ended in a draw:} 12... Be7 13.
+Bb2 h5 14. Re1 h4 15. Ne4 Kf8 16. Rad1 Rb8 17. Nf6 Nf4 18. Nd7+ Bxd7 19. Rxd7
+Ke8 20. Rdd1 c5 21. Nd2 Kd7 22. Nc4+ Ke6 23. Rd6+ cxd6 24. exd6+ Kd5 25. Re5+
+Kc6 26. Rxe7 f6 27. Rxg7 {1/2 Gukesh,D (2766)-Firouzja,A (2751) Sinquefield Cup
+11th Saint Louis 2024 (4)}) 12... Be7 {Simply completing development.} ({Black
+has also tried the preliminary} 12... Bb4 13. Ne2 Be7 {, with the idea of
+...c6-c5 (so that White can't immediately move his knight to d5) (Krasenkow). On
+the other hand, as we shall see in the game, the white knight is eager to get to
+the h5-square.} ({A more recent game saw Black holding his own after} 13... h6
+14. Ng3 h5 15. Bg5 Be7 16. Bxe7 Kxe7 $12 {1/2 Grandelius $146 (2684)-Antipov,M (2606)
+FIDE World Cup Baku 2023 (2.2)}) 14. c4 Be6 15. Rac1 c5 16. b3 b6 17. Nc3 h6
+{1/2 (24) Dervishi,E (2478)-Miles,A (2584) Saint Vincent 2000}) 13. Ne4 $5
+{Sindarov blitzed out this move and his opponent plunged into deep thought.}
+({Caruana's treatment of the position was the straightforward} 13. Rd2 h5 14.
+Re1 h4 15. Ne4 Bf5 16. Bg5 {White was successful after} 16... Bxg5 $6 ({However,
+GM Krasenkow proved that Black is OK after} 16... Rd8 $1 {The logical continuation
+of Black's plan when} 17. Nd6+ cxd6 18. exd6 {is not dangerous due to} 18... f6
+19. dxe7 Rxd2 20. Bxd2 Kf7 21. Bb4 b6 22. Bd6 c5 23. c3 Be6 24. b4 {(otherwise
+Black regains the e7-pawn and equalizes.)} 24... Nxe7 25. bxc5 Nc8 {, and White
+can't keep his material gains.}) 17. Nexg5 {1-0 Caruana,F (2835)-So,W (2770)
+Clutch-ch May Lichess.org INT rapid 2020 (2.2) With an edge for White.}) 13...
+Bd7 $146 {Another solid move, and a novelty.} ({From a practical standpoint it is
+not worth risking entering the opponent's prep after the principled} 13... Bf5
+14. Ng3 Bxc2 15. Rd2 Ba4 {The black bishop is out of play, whereas the white
+knight establishes itself on a brilliant square with} 16. Nf5 ({Also interesting
+is the preliminary} 16. b3 Bb5 17. Nd4 $5 ({Or even} 17. Rad1)) 16... Rg8
+{White's compensation is obvious and he may even try more forcing moves like}
+17. e6 $5 fxe6 18. Nxe7 Nxe7 (18... Kxe7 19. Re1 $1 {This is already very
+unpleasant for the second player.}) 19. Ng5 ({Or again} 19. b3 $5 Bb5 20. Nd4)
+19... Rd8 20. Re1 {Black still has to prove equilibrium.}) ({The predecessor was
+a rather short email game:} 13... h5 14. Rd2 h4 15. Rad1 Bf5 {1/2 Richter,W
+(2418)-Cvak,R (2351) Remote Superturnier 28 email Remote email 2017}) 14. c4
+{Another practical decision by the contender, who believed that this should be
+played sooner or later.} (14. Rd2 $5 {\"Practically better to play—you keep
+hiding your ideas.\" (Sindarov) To this, Gukesh would most likely have continued
+as in the game with} 14... a5 ({But} 14... Rd8 {seems OK for Black too.}) 15.
+Ng3 a4 16. Rad1 Be6) 14... a5 15. Rd2 a4 {Gukesh is making the most out of the
+a-file, but the engine is slightly critical of this choice.} (15... Rd8 {now
+seems illogical as the a5-pawn might be targeted later, say after} 16. Rad1 Bc8
+17. Rxd8+ Bxd8 18. Bd2 a4 19. b3 axb3 20. axb3 {White is about to gain the
+a-file, but nothing really decisive has happened yet. Black may continue with}
+20... f6 {and should be close to equality.}) 16. Rad1 Be6 17. b3 Bb4 $1 {An
+important move according to the world champion. The rook is smoked out of the
+d-file. However, it cost Black a whopping 40 minutes on his clock.} ({Black
+cannot fight the rooks with} 17... Rd8 $2 18. Rxd8+ Bxd8 19. Nc5) 18. Re2 {White
+in turn is X-raying the black king.} ({While thinking about the move in the
+game, White thought that the best might be the cunning} 18. Rb2 $1 {(Sindarov) in
+order to provoke the bishop to} 18... Ba3 {And only then} ({Another point behind
+White's idea is the strong pressure that the rook suddenly exerts along the
+b-file, as in the line} 18... axb3 19. Rxb3 $1 Ba5 20. Nd4 $3 {A very powerful
+idea.} (20. Rxb7 Bxc4 {is not as effective.}) 20... Bxc4 21. Nf5 $1 {And suddenly
+the black king is in mortal danger, one pretty line being} 21... Bxb3 22. Nxg7+
+Kf8 23. Nf5 $3 Bxd1 24. Nf6 $1 h6 25. Bc5+ Ne7 26. Bxe7#) 19. Re2 $1 {The black
+dark-squared bishop is definitely not as good as in the game now.}) 18... h6 $1
+{Another key defensive move that Gukesh was proud of.} ({Black should definitely
+not allow the white knights close to his residence with} 18... Bf5 $2 19. Ng3 Be6
+20. Nh5 Rg8 21. Ng5) ({As for the immediate} 18... Ke7 $2 {it is just awkward for
+Black due to the simple} 19. Bg5+ ({Or the super-sophisticated} 19. a3 $3 Bxa3
+20. Ra2 axb3 ({White has a decisive attack in case of} 20... Bb4 21. Bg5+ f6 22.
+exf6+) 21. Rxa3 $1 {The tactical point $1} 21... Rxa3 22. Bc5+ $16 {with a large edge
+for White.})) 19. Ng3 c5 {Taking the d4-spot under control.} ({The engine
+believes that it is more precise to defend with} 19... h5 $5 20. Bg5 (20. Ng5
+Be7) 20... h4 21. Ne4 axb3 22. axb3 Be7) 20. Nh5 $1 {Sindarov's play is easy to
+understand. He wants to bring his kingside majority into motion and launch a
+powerful attack against the opponent's king.} 20... Rg8 21. g4 ({There was an
+argument for the immediate} 21. Ne1 $5 {when after} 21... Rd8 ({However, Sindarov
+might have calculated that in the principled line} 21... Nxe5 22. f4 Nc6 23. f5
+{Black can simply accept the offer} (23. Nd3 $5 {should be answered with} 23...
+axb3 24. axb3 Rd8 $1) 23... Bxf5 24. Bxc5+ Be6 25. Bxb4 Nxb4 26. Nf4 {And now
+Black is in time to reduce the opponent's activity with the help of} 26... Rd8 $1
+27. Rxd8+ Kxd8 28. Nxe6+ fxe6 29. bxa4 $12) 22. Rxd8+ Kxd8 23. Nd3 b6 24. Nxb4
+cxb4 25. f4 Ne7 26. g4 g6 27. Nf6 Rh8 {White seems to enjoy an edge.}) 21... Ke7
+22. Ne1 {A move which the world champion underestimated.} 22... axb3 ({The
+Indian GM quickly calculated} 22... Nxe5 23. f4 g6 $1 ({Here} 23... Nc6 $2 {simply
+loses to} 24. f5) 24. Ng3 Bxe1 ({Black actually defends here as in the game
+with} 24... Nc6 25. f5 gxf5 26. Nxf5+ Kf6 $13 {and Black is OK.}) 25. Bxc5+ Ke8
+26. Ne4 $3 {(Gukesh) Yet, this is just a bit too much panic, as Black is still OK
+with the only move} 26... Bh4 $1 (26... Ba5 $4 27. Nf6#) 27. fxe5 b6 28. Bb4 Rd8 $12)
+23. axb3 Nxe5 24. f4 g6 $1 {The key to holding his own.} ({Of course not} 24...
+Nc6 $4 25. f5 Bd7 26. Bxc5+ Kd8 27. Bxb4 Nxb4 28. Red2 $18) 25. Ng3 Nc6 26. f5
+gxf5 {Funnily, the seemingly dull Rg8 saves Black.} 27. Nxf5+ Kf6 $1 {Sindarov saw
+all of this, but underestimated how strong the king is on the f6-square. Gukesh
+even thought he might be better.} (27... Ke8 28. Nxh6 Rg6 29. Nf3 {would have
+been difficult for Black.}) 28. Rf2 $1 {An accurate and unpleasant move.} ({Black
+would indeed be better in case of} 28. Nxh6 Rgd8 29. Rxd8 Rxd8 30. Ng2 Rd1+ 31.
+Kh2 Bc3) 28... Rgd8 {A cool move. There are plenty of discovered checks the
+f2-rook can give, but Black wants to swap the other one off $1} ({Black would also
+be OK in case of} 28... Bxf5 29. Rxf5+ Kg7 30. Rh5 Rgd8 ({Or even the passive}
+30... Rh8 31. Nf3 Ra2)) 29. Nd3 $1 ({Greed is definitely a sin in the line} 29.
+Rxd8 Rxd8 30. Nd6+ $4 Kg7 31. Nxb7 Rd1 {And it is Black who wins.}) (29. Nxh6+ $6
+Kg7 {would be better for Black.}) 29... Bxf5 {Practically forcing the draw.} 30.
+Rxf5+ Kg7 31. Rh5 Bc3 ({After} 31... Rh8 32. Nf4 Bc3 33. Bxc5 {it is only White
+who can play for something.}) 32. Bxh6+ Kg8 ({And not} 32... Kg6 $4 33. Nf4+ Kh7
+34. Bg5+ $18) 33. Rg5+ Kh7 34. Rh5 Kg8 35. Rg5+ Kh7 36. Rh5 Kg8 37. Rg5+ {An
+exciting beginning to the main chess event of 2026 $1} 1/2-1/2
