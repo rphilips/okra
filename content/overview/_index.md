@@ -1,5 +1,5 @@
 +++
-date = '2026-11-25T11:34:08+01:00'
+date = '2026-11-26T16:10:06+01:00'
 title = 'Overzicht'
 featured_image = '/images/overview.jpg'
 weight = 10
@@ -9,6 +9,14 @@ weight = 10
 
 <h2>November 2026</h2>
 
+<!--
+.link articles/swindel/index.md
+-->
+[Schaken en swindelen]({{% relref "/articles/swindel/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/swindel/index.md");'>(artikel)</span>
+<!--
+.link articles/snakebrain/index.md
+-->
+[Slangenbrein]({{% relref "/articles/snakebrain/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/snakebrain/index.md");'>(artikel)</span>
 <!--
 .link games/wc2026g1/index.md
 -->
@@ -110,13 +118,13 @@ weight = 10
 -->
 [Hoe trainde Kasparov?]({{% relref "/articles/kasparovtrains/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/kasparovtrains/index.md");'>(artikel)</span>
 <!--
-.link articles/howgames/index.md
--->
-[Hoe selecteer ik partijen ?]({{% relref "/articles/howgames/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/howgames/index.md");'>(artikel)</span>
-<!--
 .link articles/salesforce/index.md
 -->
 [Het Fide 2026 wereldkampioenschap]({{% relref "/articles/salesforce/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/salesforce/index.md");'>(artikel)</span>
+<!--
+.link articles/howgames/index.md
+-->
+[Hoe selecteer ik partijen ?]({{% relref "/articles/howgames/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/howgames/index.md");'>(artikel)</span>
 <!--
 .link articles/kane/index.md
 -->
@@ -141,6 +149,10 @@ weight = 10
 .link articles/royalstudy/index.md
 -->
 [The Royal Study]({{% relref "/articles/royalstudy/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/royalstudy/index.md");'>(artikel)</span>
+<!--
+.link articles/sleep/index.md
+-->
+[Het belang van een goede nachtrust]({{% relref "/articles/sleep/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/sleep/index.md");'>(artikel)</span>
 <!--
 .link articles/anandmagnus/index.md
 -->
@@ -314,6 +326,10 @@ weight = 10
 -->
 [Het doel van een partij schaak]({{% relref "/rules/doel/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("rules/doel/index.md");'>(reglement)</span>
 <!--
+.link articles/schaakbeelden/index.md
+-->
+[Fotomateriaal over schaken en schakers]({{% relref "/articles/schaakbeelden/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/schaakbeelden/index.md");'>(artikel)</span>
+<!--
 .link articles/magnus7/index.md
 -->
 [7 verschillende beelden van Magnus]({{% relref "/articles/magnus7/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/magnus7/index.md");'>(artikel)</span>
@@ -386,6 +402,10 @@ weight = 10
 -->
 [Niet de beste vrienden]({{% relref "/games/vete/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("games/vete/index.md");'>(partij)</span>
 <!--
+.link puzzles/rqv7/index.md
+-->
+[Torens versus Dame studies (7)]({{% relref "/puzzles/rqv7/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rqv7/index.md");'>(puzzel)</span>
+<!--
 .link puzzles/rvq6/index.md
 -->
 [Torens versus Dame studies (6)]({{% relref "/puzzles/rvq6/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq6/index.md");'>(puzzel)</span>
@@ -393,10 +413,6 @@ weight = 10
 .link puzzles/rvq5/index.md
 -->
 [Torens versus Dame studies (5)]({{% relref "/puzzles/rvq5/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq5/index.md");'>(puzzel)</span>
-<!--
-.link puzzles/rqv7/index.md
--->
-[Torens versus Dame studies (7)]({{% relref "/puzzles/rqv7/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rqv7/index.md");'>(puzzel)</span>
 <!--
 .link games/tworooksacrifice/index.md
 -->
@@ -414,17 +430,17 @@ weight = 10
 -->
 [De wereldkampioenen tot augustus 2026]({{% relref "/articles/worldchamps/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("articles/worldchamps/index.md");'>(artikel)</span>
 <!--
-.link puzzles/rvq1/index.md
+.link puzzles/rvq3/index.md
 -->
-[Torens versus Dame studies (1)]({{% relref "/puzzles/rvq1/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq1/index.md");'>(puzzel)</span>
+[Torens versus Dame studies (3)]({{% relref "/puzzles/rvq3/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq3/index.md");'>(puzzel)</span>
 <!--
 .link puzzles/rvq2/index.md
 -->
 [Torens versus Dame studies (2)]({{% relref "/puzzles/rvq2/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq2/index.md");'>(puzzel)</span>
 <!--
-.link puzzles/rvq3/index.md
+.link puzzles/rvq1/index.md
 -->
-[Torens versus Dame studies (3)]({{% relref "/puzzles/rvq3/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq3/index.md");'>(puzzel)</span>
+[Torens versus Dame studies (1)]({{% relref "/puzzles/rvq1/index.md" %}}) <span style='font-size: smaller;cursor: pointer' onclick='navigator.clipboard.writeText("puzzles/rvq1/index.md");'>(puzzel)</span>
 
 
 <h2>Juli 2026</h2>

@@ -12,9 +12,23 @@
 			<copyright>OKRA Eke</copyright>
 		
 		
-			<lastBuildDate>Wed, 25 Nov 2026 11:11:31 +0100</lastBuildDate>
+			<lastBuildDate>Thu, 26 Nov 2026 15:22:20 +0100</lastBuildDate>
 		
 			<atom:link href="https://rphilips.github.io/okra/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Schaken en swindelen</title>
+				<link>https://rphilips.github.io/okra/articles/swindel/</link>
+				<pubDate>Thu, 26 Nov 2026 15:22:20 +0100</pubDate>
+				<guid>https://rphilips.github.io/okra/articles/swindel/</guid>
+				<description>&lt;p&gt;&lt;em&gt;&amp;ldquo;&amp;ldquo;&amp;ldquo;Проходит несколько дней, и вдруг вы невольно начинаете чувствовать, что без шахмат в вашей жизни чего-то не хватает. Что ж, можете порадоваться: вы относитесь к числу тех людей, у которых нет естественного иммунитета к «шахматной болезни».&amp;rdquo;&amp;rdquo;&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;&amp;ldquo;&amp;ldquo;Er gaan een paar dagen voorbij en plotseling begin je onwillekeurig te merken dat er, zonder schaken, iets in je leven ontbreekt. Dan mag je je verheugen: je behoort tot die groep mensen die geen natuurlijke immuniteit tegen het schaakvirus bezitten.&amp;rdquo;&amp;rdquo;&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Slangenbrein</title>
+				<link>https://rphilips.github.io/okra/articles/snakebrain/</link>
+				<pubDate>Thu, 26 Nov 2026 14:43:08 +0100</pubDate>
+				<guid>https://rphilips.github.io/okra/articles/snakebrain/</guid>
+				<description>&lt;!--&#xA;.image snake.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rphilips.github.io/okra/articles/snakebrain/snake.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Schakers zijn vindingrijk, genereus in de winst, ridderlijk bij verlies &amp;hellip; en in het bezit van een diep verborgen slangenbrein.&lt;/p&gt;&#xA;&lt;p&gt;Dit brein komt op het juiste moment in actie en slaat toe, niet gehinderd door enige moraliteit.&lt;/p&gt;&#xA;&lt;p&gt;De volgende stelling kwam op het bord. Ik speelde met wit, Francis met zwart.&lt;/p&gt;&#xA;&lt;p&gt;Ik stond reddeloos verloren:&lt;/p&gt;&#xA;&lt;!--&#xA;.diagram fen:3r1nk1/p4p1p/1p6/5N2/8/PBP3PQ/1P3q1P/1K6 b - - 0 1&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;3r1nk1/p4p1p/1p6/5N2/8/PBP3PQ/1P3q1P/1K6 b - - 0 1&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rphilips.github.io/okra/articles/snakebrain/8ed7452b19b8ecddf51b4d8c05dd62ae.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+			</item>
 			<item>
 				<title>Wereldkampioenschap 2026: partij 1</title>
 				<link>https://rphilips.github.io/okra/games/wc2026g1/</link>
