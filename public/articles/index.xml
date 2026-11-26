@@ -12,9 +12,16 @@
 			<copyright>OKRA Eke</copyright>
 		
 		
-			<lastBuildDate>Thu, 26 Nov 2026 15:22:20 +0100</lastBuildDate>
+			<lastBuildDate>Thu, 26 Nov 2026 16:27:04 +0100</lastBuildDate>
 		
 			<atom:link href="https://rphilips.github.io/okra/articles/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Boeken over positie-spel</title>
+				<link>https://rphilips.github.io/okra/articles/positionalplay/</link>
+				<pubDate>Thu, 26 Nov 2026 16:27:04 +0100</pubDate>
+				<guid>https://rphilips.github.io/okra/articles/positionalplay/</guid>
+				<description>&lt;!--&#xA;.image image.jpg&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rphilips.github.io/okra/articles/positionalplay/image.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Een schaakpartij is zelden een &amp;ldquo;ik kwam, ik zag en ik overwon&amp;rdquo; affaire. Het is veeleer een voorzichtig manoeuvreren, een cumuleren van kleine voordelen.&lt;/p&gt;&#xA;&lt;p&gt;Dit is het doel van positioneel schaak. Positioneel schaak heeft 2 componenten: enerzijds is er het herkennen van die kleine voordelen en anderzijds is er de methodiek om daar iets mee te doen.&lt;/p&gt;&#xA;&lt;p&gt;De volgende boeken behandelen dit onderwerp. Er zijn letterlijk honderden van deze boeken die uitmuntend zijn.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Schaken en swindelen</title>
 				<link>https://rphilips.github.io/okra/articles/swindel/</link>
