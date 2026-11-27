@@ -12,9 +12,16 @@
 			<copyright>OKRA Eke</copyright>
 		
 		
-			<lastBuildDate>Thu, 26 Nov 2026 16:27:04 +0100</lastBuildDate>
+			<lastBuildDate>Fri, 27 Nov 2026 13:01:37 +0100</lastBuildDate>
 		
 			<atom:link href="https://rphilips.github.io/okra/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Wereldkampioenschap 2026: eerste rustdag</title>
+				<link>https://rphilips.github.io/okra/articles/wc123/</link>
+				<pubDate>Fri, 27 Nov 2026 13:01:37 +0100</pubDate>
+				<guid>https://rphilips.github.io/okra/articles/wc123/</guid>
+				<description>&lt;!--&#xA;.image game3.png&#xA;--&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rphilips.github.io/okra/articles/wc123/game3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;(Bespreking overgenomen uit &lt;a href=&#34;chess.com&#34;&gt;chess.com&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Partij 1&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;!--&#xA;.diagram fen:r2r2k1/1pp2p2/2n4B/2p4R/2P3P1/1PbN3P/8/3R2K1 w - - 13 39&#xA;--&gt;&#xA;&lt;div style=&#39;cursor:pointer&#39; onclick=&#39;navigator.clipboard.writeText(&#34;r2r2k1/1pp2p2/2n4B/2p4R/2P3P1/1PbN3P/8/3R2K1 w - - 13 39&#34;); return false&#39;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rphilips.github.io/okra/articles/wc123/c25ab775ac1f755ec5e7d9daae4be387.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;GM Javokhir Sindarov leek in de eerste partij van het Salesforce FIDE Wereldkampioenschap 2026 aan het langste eind te trekken in een gespannen openingsfase, maar wereldkampioen Gukesh Dommaraju wist de druk op het bord en de klok te doorstaan ​​en een remise af te dwingen. Sindarov, die in zijn allereerste wereldkampioenschapspartij met het Berlijns eindspel werd geconfronteerd, kreeg bovendien een tijdstraf van twee minuten omdat hij aan het einde onterecht remise claimde – dit had echter geen gevolgen, aangezien de spelers kort daarna elkaar de hand schudden bij een gelijke stand van 0,5-0,5.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Boeken over positie-spel</title>
 				<link>https://rphilips.github.io/okra/articles/positionalplay/</link>
